@@ -1,0 +1,47 @@
+- Hey , kann ich deins benutzen ?	de	3
+Sag mal , kann ich dich zurückrufen ?	de	3
+- Und nun kann die Ziehung beginnen .	de	3
+- Kann ich Sie zurückrufen ?	de	1
+Wir können es nicht dabei belassen .	de	1
+Ja , das kann er behalten .	de	3
+Wenn das Wetter umschlägt , können sie früher gehen .	de	5
+- Samir . Frank , kann ich mal mit dir reden .	de	5
+Wie kann dieser alte Mann Ihnen helfen ?	de	1
+Anwalt Maitland wollte Dich überzeugen , mir etwas sagen zu können .	de	10
+Meine Herren , nachdem wir die gute Nachricht bekommen haben ... ... können wir zurück an die Arbeit .	de	12
+- Dann können wir anfangen .	de	2
+Nein , aber dort kann man sich seinen Namen frei aussuchen .	de	4
+Garantieren Sie mir das und Sicherheit für mein VoIk , dann kann der Rest der GaIaxie von mir aus zu Grunde gehen .	de	11
+- Kann ich wenigstens eine sicherere ...	de	1
+Sie hat mir gesagt , dass du keine Toten sehen kannst .	de	10
+Allen werde ich es wohl nicht erteilen können . Ich erteile jetzt nur zwei Kollegen das Wort , und dann schließe ich diese Debatte .	de	7
+Dafür kannst Du schlafen . Morgen Früh 10 Uhr . Pünktlich	de	1
+- Kann ich es mal anprobieren ? - Was ?	de	1
+Wenn das so ist , kann der Tanz beginnen !	de	5
+Deb , kann ich dich zurückrufen ?	de	2
+Ich kann in Russland trainieren .	de	1
+Donna , die kann ich doch nehmen ?	de	3
+Nein , er kann bei mir bleiben .	de	3
+Onkel Sean sagte ich kann das haben , wenn ich seine Haare schneide .	de	4
+Wendy , du benimmst dich so beschissen wie immer , aber von jetzt an kannst du mich am Arsch lecken , kapiert ?	de	14
+Bitte ... kann ich ?	de	2
+Ich kann bleiben ?	de	1
+Wir können nicht so tun , als ob die Zukunft gesichert sei .	de	1
+Ok , er kann es haben .	de	3
+- Kann ich was trinken ?	de	1
+- Kann ich mich setzen ?	de	1
+- Kann ich ein wenig laufen gehen ?	de	1
+- Kann ich mit runterkommen ?	de	1
+Kann ich vielleicht ein paar Minuten alleine sein ?	de	0
+Terry , du kannst gehen ...	de	3
+- Könnte ich einen Blick drauf werfen ?	de	1
+- Kann ich mitkommen ?	de	1
+- Kann ich heute etwas früher gehen ?	de	1
+- Könnten wir das Zeug nicht rauchen ?	de	1
+Ich kann das Spiel spielen .	de	1
+- Kann ich dort fernsehen ?	de	1
+- Könnte ich dem eben ... - Nein .	de	1
+- Können wir das Thema wechseln ?	de	1
+- Kann ich mir das ausleihen ?	de	1
+- Kann ich mit \u00b4runterkommen ?	de	1
+- Kann ich das behalten ?	de	1
