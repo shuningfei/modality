@@ -1,0 +1,90 @@
+Wenn du mir deine Adresse gibst , kann ich einen Scheck schicken .	7	ep
+Ahh . Ahh . well , I guess I deserved that .	7
+
+Wir können nur Vermutungen anstellen .	1	ep
+We can only try to guess at these .	5
+
+Könnte eine neue Erfahrung	0	ep
+# I guess a new experience	2
+
+Ich bereue das , kann es aber nicht ändern .	4	ep
+I am very sorry now , but I guess it 's too late .	8
+
+Ja , das kann man wohl sagen .	3	ep
+Yeah , I guess they do .	3
+
+Das kann ich dem anderen nicht antun , weil wir Freunde sind .	1	ep
+I guess I - I just wasn 't thinking\ xA1\ xA6 Yeah that 's right you weren 't thinking !	1
+
+Wahrscheinlich kann sie kein spanisch .	1	ep
+I guess she doesn 't speak Spanish .	1
+
+Ich kann Dich nicht zu einer Schlampe machen .	1	ep
+But i guess you 're not talking to me , good- Bye . No , no , wait ! I 'm sorry , i 'm sorry .	2
+
+Hmm , ja , kann sein .	4	ep
+Well , yeah , I guess so .	5
+
+Dann kann ich ja noch Chris hallo sagen , oder ?	1	ep
+I guess I got time to go say hello to Chris , huh ?	1
+
+Kyles Dad hat mir 1, 4 Millionen verschafft und das kann er auch für dich tun !	10	ep
+That for some reason makes me uncomfortable ? " Well , i guess it 's mostly the way Mr. Garrison stuck a gerbil up mr .	12
+
+lch kann mir denken , warum du anrufst , aber wir können nichts machen .	1	ep
+I guess I know why you 're calling . There 's nothing we can do .	1
+
+Ja . Ich kann das verstehen .	3	ep
+Yeah , I guess so .	3
+
+Ich kenne nicht die Gründe , weshalb Sie dies behaupten , obwohl ich sie mir denken kann .	16	ep
+I am unaware of the reasons behind this situation you describe though I can make an educated guess at them .	17
+
+Wir könnten genau so gut aufhören .	1	ep
+I guess it depends on the zombies , Raj .	1
+
+Ja , da könnten Sie Recht haben .	3	ep
+Yeah , I guess you 're right .	3
+
+Du kannst ja nicht reden .	1	ep
+I guess not .	1
+
+So kann man sich seine Zeit bis zum Tod gut vertreiben ...	1	ep
+I guess that 's a good way to go .	1
+
+Das kann ich lhnen sagen . Sie sind eine fremde Person .	1	ep
+I guess there 's no harm in telling you because you 're not the family .	1
+
+Ja , das kann schon sein .	3	ep
+Yeah , I guess so .	3
+
+Ja , kann schon sein .	2	ep
+Yeah , I guess .	3
+
+Man kann auch an Weihnachten übers Geschäft reden .	1	ep
+I guess Christmas is as good a day as any to talk business .	1
+
+Ich kann nicht meckern , besonders was Weiber angeht .	1	ep
+I guess I got no beef , especially where the dames are concerned .	1
+
+- Könnte es mich das Leben kosten .	1	ep
+Then I guess I 'll pay with my life .	2
+
+Welche Gründe das hat , kann man nur vermuten . Ich vermute , Sie wissen es auch .	5	ep
+We can only guess at the reasons for this , as I am sure you are aware .	3
+
+Es kann sein ,	1	ep
+I guess ...	1
+
+Könnte eine neue Erfahrung	0	ep
+# I guess a new experience #	2
+
+# Jo , lass uns tiefer gehen # # Ich kann nicht tiefer # # Lass uns Roboter sein #	10	ep
+Yeah ... well , I guess hanging up on me is the right thing to do .	5
+
+Kann sein .	0	ep
+I guess so .	1
+
+Jetzt kann ich nur noch meinem Arsch einen Abschiedskuss geben .	1	ep
+I guess there 's nothing left ... but to kiss my sorry ass good- bye .	1
+

@@ -1,0 +1,9290 @@
+(lp0
+((lp1
+S'wichtig'
+p2
+aS'Wichtig'
+p3
+a(dp4
+S'much '
+p5
+I9
+sS'matter '
+p6
+I81
+sS'vital '
+p7
+I8
+sS'wieners '
+p8
+I1
+sS'sue '
+p9
+I1
+sS'imperative '
+p10
+I1
+sS'that '
+p11
+I2
+sS'huge '
+p12
+I1
+sS'rita '
+p13
+I1
+sS'essential '
+p14
+I5
+sS'ok '
+p15
+I2
+sS'needs '
+p16
+I1
+sS'high '
+p17
+I1
+sS'difference '
+p18
+I2
+sS'singular '
+p19
+I1
+sS'key '
+p20
+I1
+sS'bed '
+p21
+I1
+sS'well '
+p22
+I2
+sS'wow '
+p23
+I1
+sS'point '
+p24
+I1
+sS'urgent '
+p25
+I6
+sS'deal '
+p26
+I9
+sS'important '
+p27
+I852
+sS'shot '
+p28
+I1
+sS'value '
+p29
+I4
+sS'irrelevant '
+p30
+I2
+sS'matters '
+p31
+I52
+sS'gay '
+p32
+I1
+sS'wether '
+p33
+I1
+sS'necessary '
+p34
+I1
+sS'really '
+p35
+I1
+sS'good '
+p36
+I6
+sS'valued '
+p37
+I1
+sS'everyonei '
+p38
+I1
+sS'caramel- '
+p39
+I2
+sS'bottom '
+p40
+I1
+sS'worry '
+p41
+I1
+sS'brakes '
+p42
+I1
+sS'valuable '
+p43
+I2
+sS'immportant '
+p44
+I1
+sS'mind '
+p45
+I9
+sS'overimportant '
+p46
+I1
+sS'nothing '
+p47
+I1
+sS'cares '
+p48
+I3
+sS'concern '
+p49
+I1
+sS'apology '
+p50
+I1
+sS'does '
+p51
+I2
+sS'mattered '
+p52
+I9
+sS'primed '
+p53
+I1
+sS'account '
+p54
+I1
+sS'relevant '
+p55
+I9
+sS'even '
+p56
+I4
+sS'compromises '
+p57
+I1
+sS'serious '
+p58
+I3
+sS'special '
+p59
+I1
+sS'critical '
+p60
+I3
+sS'pregnant '
+p61
+I1
+sS'riding '
+p62
+I1
+sS'seriously '
+p63
+I2
+sS'street '
+p64
+I1
+sS'thing '
+p65
+I1
+sS'precious '
+p66
+I3
+sS'means '
+p67
+I2
+sS'dear '
+p68
+I1
+sS'whatever '
+p69
+I2
+sS'hangs '
+p70
+I1
+sS'sensing '
+p71
+I1
+sS'crucial '
+p72
+I2
+sS'sam '
+p73
+I1
+sS'behind '
+p74
+I1
+sS'importance '
+p75
+I5
+sS'forget '
+p76
+I1
+sS'importantto '
+p77
+I1
+sS'night '
+p78
+I1
+sS'need '
+p79
+I10
+sS'counts '
+p80
+I2
+sS'care '
+p81
+I30
+sS'rest '
+p82
+I1
+sS'take '
+p83
+I1
+sS'importantthat '
+p84
+I1
+sS'cared '
+p85
+I5
+sS'big '
+p86
+I3
+sS'significant '
+p87
+I3
+sS'mission '
+p88
+I1
+sS'back '
+p89
+I1
+stp90
+a((lp91
+S'wichtiger'
+p92
+aS'Wichtiger'
+p93
+a(dp94
+S'initiate '
+p95
+I1
+sS'vital '
+p96
+I2
+sS'tie '
+p97
+I1
+sS'worth '
+p98
+I3
+sS'preordered '
+p99
+I1
+sS'snob '
+p100
+I1
+sS'job '
+p101
+I1
+sS'point '
+p102
+I1
+sS'important '
+p103
+I138
+sS'dean '
+p104
+I1
+sS'value '
+p105
+I2
+sS'matters '
+p106
+I1
+sS'bigger '
+p107
+I2
+sS'first '
+p108
+I1
+sS'issue '
+p109
+I1
+sS'more '
+p110
+I20
+sS'mema '
+p111
+I1
+sS'mostly '
+p112
+I1
+sS'less '
+p113
+I1
+sS'greater '
+p114
+I1
+sS'dealt '
+p115
+I1
+sS'importantly '
+p116
+I37
+sS'choosing '
+p117
+I1
+sS'essential '
+p118
+I2
+sS'hot '
+p119
+I1
+sS'big '
+p120
+I8
+sS'above '
+p121
+I2
+stp122
+a((lp123
+S'wichtigste'
+p124
+aS'Wichtigste'
+p125
+a(dp126
+S'last '
+p127
+I1
+sS'slater '
+p128
+I1
+sS'most '
+p129
+I6
+sS'key '
+p130
+I7
+sS'top '
+p131
+I1
+sS'important '
+p132
+I137
+sS'admissions '
+p133
+I1
+sS'need '
+p134
+I1
+sS'matters '
+p135
+I4
+sS'world '
+p136
+I2
+sS'major '
+p137
+I1
+sS'primary '
+p138
+I1
+sS'item '
+p139
+I1
+sS'foremost '
+p140
+I1
+sS'text '
+p141
+I1
+sS'first '
+p142
+I5
+sS'number- '
+p143
+I2
+sS'biggest '
+p144
+I4
+sS'main '
+p145
+I7
+sS'blowie '
+p146
+I1
+sS'cleaner '
+p147
+I1
+sS'imporant '
+p148
+I1
+sS'essentials '
+p149
+I1
+sS'things '
+p150
+I2
+sS'importantly '
+p151
+I4
+sS'counts '
+p152
+I1
+sS'care '
+p153
+I1
+sS'lee '
+p154
+I1
+sS'2024 '
+p155
+I1
+sS'thing '
+p156
+I3
+sS'britta '
+p157
+I1
+sS'the" '
+p158
+I1
+stp159
+a((lp160
+S'wichtige'
+p161
+aS'Wichtige'
+p162
+a(dp163
+S'breaking '
+p164
+I1
+sS'vital '
+p165
+I7
+sS'emergency '
+p166
+I1
+sS'continue '
+p167
+I1
+sS'reunion '
+p168
+I1
+sS'appreciate '
+p169
+I1
+sS'bright '
+p170
+I1
+sS'material '
+p171
+I1
+sS'important '
+p172
+I127
+sS'matters '
+p173
+I3
+sS'pertinent '
+p174
+I2
+sS'valuable '
+p175
+I1
+sS'either '
+p176
+I1
+sS'lmportant '
+p177
+I1
+sS'pertinents '
+p178
+I1
+sS'somebody '
+p179
+I1
+sS'stone '
+p180
+I1
+sS'high- '
+p181
+I1
+sS'intersect '
+p182
+I1
+sS'essentials '
+p183
+I1
+sS'event '
+p184
+I1
+sS'major '
+p185
+I6
+sS'essential '
+p186
+I2
+sS'grave '
+p187
+I1
+sS'big '
+p188
+I11
+sS'significant '
+p189
+I2
+sS'jeans '
+p190
+I1
+stp191
+a((lp192
+S'wichtiges'
+p193
+aS'Wichtiges'
+p194
+a(dp195
+S'mportant '
+p196
+I1
+sS'special '
+p197
+I2
+sS'urgent '
+p198
+I2
+sS'business '
+p199
+I2
+sS'important '
+p200
+I99
+sS'jobs '
+p201
+I1
+sS'huge '
+p202
+I1
+sS'attention '
+p203
+I1
+sS'importance '
+p204
+I1
+sS'good '
+p205
+I3
+sS'laurie '
+p206
+I1
+sS'major '
+p207
+I1
+sS'prairie '
+p208
+I1
+sS'canada '
+p209
+I1
+sS'constitution '
+p210
+I1
+sS'aha '
+p211
+I1
+sS'big '
+p212
+I5
+sS'significant '
+p213
+I2
+sS'something '
+p214
+I2
+sS'integral '
+p215
+I1
+stp216
+a((lp217
+S'wichtigen'
+p218
+aS'Wichtigen'
+p219
+a(dp220
+S'material '
+p221
+I4
+sS'bg '
+p222
+I1
+sS'chilly '
+p223
+I1
+sS'vital '
+p224
+I2
+sS'heavy '
+p225
+I1
+sS'needs '
+p226
+I1
+sS'significance '
+p227
+I1
+sS'serious '
+p228
+I2
+sS'major '
+p229
+I4
+sS'minor '
+p230
+I1
+sS'critical '
+p231
+I1
+sS'important '
+p232
+I51
+sS'big '
+p233
+I9
+sS'key '
+p234
+I1
+sS'pharmacy '
+p235
+I1
+sS'great '
+p236
+I1
+stp237
+a((lp238
+S'wichtigsten'
+p239
+aS'Wichtigsten'
+p240
+a(dp241
+S'important '
+p242
+I34
+sS'major '
+p243
+I2
+sS'first '
+p244
+I1
+sS'importantly '
+p245
+I11
+sS'counts '
+p246
+I1
+sS'biggest '
+p247
+I2
+sS'main '
+p248
+I2
+sS'big '
+p249
+I1
+sS'significant '
+p250
+I1
+sS'foremost '
+p251
+I1
+sS'most '
+p252
+I1
+sS'above '
+p253
+I2
+stp254
+a((lp255
+S'wichtigeres'
+p256
+aS'Wichtigeres'
+p257
+a(dp258
+S'other '
+p259
+I1
+sS'important '
+p260
+I16
+sS'effect '
+p261
+I1
+sS'imptant '
+p262
+I1
+sS'hank '
+p263
+I1
+sS'betterthings '
+p264
+I1
+sS'bigger '
+p265
+I6
+sS'concerns '
+p266
+I1
+sS'com '
+p267
+I1
+sS'flood '
+p268
+I1
+stp269
+a((lp270
+S'wichtigere'
+p271
+aS'Wichtigere'
+p272
+a(dp273
+S'larger '
+p274
+I2
+sS'importantquestion '
+p275
+I1
+sS'important '
+p276
+I15
+sS'bigger '
+p277
+I4
+stp278
+a((lp279
+S'unwichtig'
+p280
+aS'Unwichtig'
+p281
+a(dp282
+S'missin '
+p283
+I1
+sS'regardless '
+p284
+I1
+sS'matter '
+p285
+I29
+sS'unimport '
+p286
+I2
+sS'huh '
+p287
+I1
+sS'puppet '
+p288
+I1
+sS'important '
+p289
+I13
+sS'irrelevant '
+p290
+I5
+sS'matters '
+p291
+I2
+sS'insignificant '
+p292
+I1
+sS'limit '
+p293
+I2
+sS'whatever '
+p294
+I2
+sS'time '
+p295
+I1
+sS'mind '
+p296
+I1
+sS'encouraging '
+p297
+I1
+sS'doesn '
+p298
+I2
+sS'about '
+p299
+I1
+sS'what '
+p300
+I1
+sS'small '
+p301
+I1
+sS'unimportant '
+p302
+I5
+sS'trifles '
+p303
+I1
+sS'importance '
+p304
+I2
+sS"'tmatter "
+p305
+I1
+sS'care '
+p306
+I2
+sS'not '
+p307
+I2
+stp308
+a((lp309
+S'bedeutend'
+p310
+aS'Bedeutend'
+p311
+a(dp312
+S'matter '
+p313
+I2
+sS'significant '
+p314
+I5
+sS'important '
+p315
+I13
+sS'eminently '
+p316
+I1
+sS'onto '
+p317
+I1
+sS'momentous '
+p318
+I1
+sS'great '
+p319
+I1
+sS'major '
+p320
+I3
+sS'not '
+p321
+I1
+sS'synonymous '
+p322
+I1
+sS'lot '
+p323
+I1
+stp324
+a((lp325
+S'bedeutende'
+p326
+aS'Bedeutende'
+p327
+a(dp328
+S'important '
+p329
+I7
+sS'major '
+p330
+I4
+sS'forceful '
+p331
+I1
+sS'great '
+p332
+I2
+sS'eminent '
+p333
+I1
+sS'ownership '
+p334
+I1
+sS'substantial '
+p335
+I2
+sS'big '
+p336
+I2
+sS'significant '
+p337
+I3
+sS'muharrem '
+p338
+I1
+stp339
+a((lp340
+S'bedeutung'
+p341
+aS'Bedeutung'
+p342
+a(dp343
+S'matter '
+p344
+I10
+sS'mean '
+p345
+I6
+sS'meaning '
+p346
+I73
+sS'bov '
+p347
+I1
+sS'important '
+p348
+I6
+sS'value '
+p349
+I4
+sS'meaningful '
+p350
+I2
+sS'matters '
+p351
+I11
+sS'consequence '
+p352
+I4
+sS'congratulations '
+p353
+I1
+sS'bearing '
+p354
+I3
+sS'meaningless '
+p355
+I1
+sS'concern '
+p356
+I2
+sS'mattered '
+p357
+I2
+sS'relevant '
+p358
+I1
+sS'cause '
+p359
+I1
+sS'think '
+p360
+I1
+sS'meanings '
+p361
+I2
+sS'significance '
+p362
+I16
+sS'means '
+p363
+I7
+sS'anything '
+p364
+I4
+sS'importance '
+p365
+I21
+sS'relevance '
+p366
+I1
+sS'accounts '
+p367
+I1
+stp368
+a((lp369
+S'viel'
+p370
+aS'Viel'
+p371
+a(dp372
+S'breathable '
+p373
+I1
+sS'better '
+p374
+I1
+sS'forl '
+p375
+I1
+sS'knock '
+p376
+I1
+sS'plenty '
+p377
+I34
+sS'the '
+p378
+I1
+sS'busy '
+p379
+I16
+sS'virture '
+p380
+I1
+sS'wishes '
+p381
+I1
+sS'rest '
+p382
+I1
+sS'actually '
+p383
+I2
+sS'kinda '
+p384
+I1
+sS'many '
+p385
+I96
+sS'deal '
+p386
+I22
+sS'important '
+p387
+I5
+sS'combien '
+p388
+I1
+sS'work '
+p389
+I8
+sS'load '
+p390
+I4
+sS'really '
+p391
+I5
+sS'up '
+p392
+I2
+sS'full '
+p393
+I7
+sS'few '
+p394
+I3
+sS'much, '
+p395
+I3
+sS'little '
+p396
+I2
+sS'it '
+p397
+I2
+sS'great '
+p398
+I28
+sS'more '
+p399
+I17
+sS'd- '
+p400
+I1
+sS'we '
+p401
+I1
+sS'all '
+p402
+I12
+sS'opening '
+p403
+I1
+sS'had '
+p404
+I2
+sS'yeah '
+p405
+I2
+sS'awful '
+p406
+I1
+sS'anything '
+p407
+I3
+sS'a '
+p408
+I11
+sS'safe '
+p409
+I1
+sS'bye '
+p410
+I1
+sS'backed '
+p411
+I1
+sS'worth '
+p412
+I2
+sS'dose '
+p413
+I1
+sS'most '
+p414
+I1
+sS'littlebit '
+p415
+I1
+sS'completely '
+p416
+I1
+sS'number '
+p417
+I2
+sS'that '
+p418
+I2
+sS'good '
+p419
+I54
+sS'extensive '
+p420
+I1
+sS'pretty '
+p421
+I1
+sS'large '
+p422
+I1
+sS'is '
+p423
+I1
+sS'time '
+p424
+I9
+sS'stuff '
+p425
+I3
+sS'forest '
+p426
+I1
+sS'drink '
+p427
+I1
+sS'significant '
+p428
+I1
+sS'everything '
+p429
+I6
+sS'thanks '
+p430
+I1
+sS'pleased '
+p431
+I1
+sS'enjoy '
+p432
+I1
+sS'things '
+p433
+I12
+sS'go '
+p434
+I1
+sS'notmuch '
+p435
+I1
+sS"'s "
+p436
+I10
+sS'such '
+p437
+I1
+sS'rattling '
+p438
+I1
+sS'quite '
+p439
+I2
+sS'lot '
+p440
+I1114
+sS'money '
+p441
+I2
+sS'viel '
+p442
+I1
+sS'too '
+p443
+I13
+sS'native '
+p444
+I1
+sS'considerably '
+p445
+I3
+sS'whole '
+p446
+I1
+sS'have '
+p447
+I12
+sS'short '
+p448
+I5
+sS'grace '
+p449
+I1
+sS'know '
+p450
+I1
+sS'loads '
+p451
+I3
+sS'plates '
+p452
+I1
+sS'lots '
+p453
+I55
+sS'been '
+p454
+I3
+sS'risk '
+p455
+I1
+sS'take- '
+p456
+I1
+sS'be '
+p457
+I2
+sS'howmuch '
+p458
+I1
+sS'there '
+p459
+I1
+sS'world '
+p460
+I2
+sS'50 '
+p461
+I1
+sS'beyond '
+p462
+I1
+sS'heap '
+p463
+I1
+sS'loaded '
+p464
+I2
+sS'enough '
+p465
+I12
+sS'big- '
+p466
+I1
+sS'much '
+p467
+I3099
+sS'so '
+p468
+I6
+sS'needed '
+p469
+I1
+sS'booms '
+p470
+I1
+sS'hard '
+p471
+I13
+sS'buena '
+p472
+I2
+sS'you '
+p473
+I2
+sS'kiss '
+p474
+I1
+sS'what '
+p475
+I1
+sS'was '
+p476
+I1
+sS'feeling '
+p477
+I1
+sS'handle '
+p478
+I1
+sS'okay '
+p479
+I1
+sS'may '
+p480
+I1
+sS'iot '
+p481
+I8
+sS'shit '
+p482
+I1
+sS'give '
+p483
+I1
+sS'bit '
+p484
+I8
+sS'alot '
+p485
+I3
+sS'he '
+p486
+I1
+sS'nothing '
+p487
+I2
+sS'take '
+p488
+I1
+sS'heavy '
+p489
+I20
+sS'iater '
+p490
+I1
+sS'big '
+p491
+I33
+sS'muc '
+p492
+I1
+sS'highly '
+p493
+I2
+sS'scaredyou '
+p494
+I1
+sS'far '
+p495
+I62
+sS'ton '
+p496
+I4
+sS'crowded '
+p497
+I1
+sS'sorts '
+p498
+I1
+sS'evidently '
+p499
+I1
+sS'kind '
+p500
+I3
+sS'high '
+p501
+I5
+sS'overthink '
+p502
+I2
+sS'well '
+p503
+I7
+sS'of '
+p504
+I2
+sS'kinds '
+p505
+I1
+sS'often '
+p506
+I1
+sS'do '
+p507
+I2
+sS'lotto '
+p508
+I1
+sS'close '
+p509
+I2
+sS'grand '
+p510
+I1
+sS'way, '
+p511
+I2
+sS'some '
+p512
+I11
+sS'line '
+p513
+I1
+sS'very '
+p514
+I16
+sS'adds '
+p515
+I2
+sS'lotta '
+p516
+I2
+sS'oh '
+p517
+I2
+sS'spend '
+p518
+I1
+sS'just '
+p519
+I2
+sS'nice '
+p520
+I2
+sS'i '
+p521
+I2
+sS'long '
+p522
+I2
+sS'* '
+p523
+I1
+sS'way '
+p524
+I156
+sS'real '
+p525
+I4
+sS'infinitely '
+p526
+I1
+sS'bucks '
+p527
+I1
+sS'about '
+p528
+I3
+sS'not '
+p529
+I4
+sS'amount '
+p530
+I2
+sS'something '
+p531
+I1
+stp532
+a((lp533
+S'bedeutender'
+p534
+aS'Bedeutender'
+p535
+a(dp536
+S'important '
+p537
+I5
+sS'importance '
+p538
+I1
+sS'momentous '
+p539
+I1
+sS'importantly '
+p540
+I1
+sS'major '
+p541
+I4
+sS'large '
+p542
+I2
+sS'bigger '
+p543
+I2
+stp544
+a((lp545
+S'wert'
+p546
+aS'Wert'
+p547
+a(dp548
+S'prize '
+p549
+I1
+sS'regrets '
+p550
+I1
+sS'for '
+p551
+I1
+sS'twos '
+p552
+I1
+sS'want '
+p553
+I1
+sS'worthy '
+p554
+I19
+sS'fun '
+p555
+I1
+sS'goodfor '
+p556
+I1
+sS'second '
+p557
+I1
+sS'sum '
+p558
+I1
+sS'tab '
+p559
+I1
+sS'important '
+p560
+I4
+sS"'th "
+p561
+I3
+sS'value '
+p562
+I139
+sS'lowballed '
+p563
+I1
+sS'dipping '
+p564
+I1
+sS'good '
+p565
+I4
+sS'understand '
+p566
+I1
+sS'valuable '
+p567
+I6
+sS'careful '
+p568
+I1
+sS'waworthy '
+p569
+I1
+sS'much '
+p570
+I1
+sS'iv '
+p571
+I1
+sS'worthwhile '
+p572
+I1
+sS'plumber '
+p573
+I1
+sS'valued '
+p574
+I1
+sS'valuing '
+p575
+I1
+sS'jamie '
+p576
+I1
+sS'it '
+p577
+I1
+sS'worth '
+p578
+I642
+sS'dear '
+p579
+I1
+sS'kip '
+p580
+I3
+sS'worthless '
+p581
+I1
+sS'values '
+p582
+I1
+sS'short '
+p583
+I2
+sS'amount '
+p584
+I1
+sS'who '
+p585
+I1
+sS'hear '
+p586
+I1
+stp587
+a((lp588
+S'wichtigem'
+p589
+aS'Wichtigem'
+p590
+a(dp591
+S'important '
+p592
+I4
+stp593
+a((lp594
+S'z\xc3\xa4hlt'
+p595
+aS'Z\xc3\xa4hlt'
+p596
+a(dp597
+S'matter '
+p598
+I5
+sS'realm '
+p599
+I1
+sS'why, '
+p600
+I1
+sS'qualifies '
+p601
+I1
+sS'jumbo '
+p602
+I1
+sS'invalid '
+p603
+I1
+sS'speeches '
+p604
+I1
+sS'clich\\u00c3\\u00a9s '
+p605
+I1
+sS'point '
+p606
+I2
+sS'apologizing '
+p607
+I1
+sS'currency '
+p608
+I1
+sS'important '
+p609
+I4
+sS'takes '
+p610
+I1
+sS'matters '
+p611
+I57
+sS'goes '
+p612
+I2
+sS'right '
+p613
+I1
+sS'call '
+p614
+I1
+sS'does '
+p615
+I2
+sS'attach '
+p616
+I1
+sS'business '
+p617
+I1
+sS'counted '
+p618
+I1
+sS'doesn '
+p619
+I6
+sS'count '
+p620
+I47
+sS'oh '
+p621
+I1
+sS'counting '
+p622
+I20
+sS'push '
+p623
+I1
+sS'about '
+p624
+I1
+sS'countin '
+p625
+I1
+sS'answering '
+p626
+I1
+sS'adults '
+p627
+I1
+sS'criminal '
+p628
+I1
+sS'counts '
+p629
+I36
+sS"'quarters "
+p630
+I1
+sS'wthho '
+p631
+I1
+stp632
+a((lp633
+S'wichtigster'
+p634
+aS'Wichtigster'
+p635
+a(dp636
+S'importent '
+p637
+I2
+sS'principal '
+p638
+I1
+sS'huge '
+p639
+I1
+sS'important '
+p640
+I4
+stp641
+a((lp642
+S'wesentliche'
+p643
+aS'Wesentliche'
+p644
+a(dp645
+S'point '
+p646
+I3
+sS'essence '
+p647
+I1
+sS'important '
+p648
+I3
+sS'essentials '
+p649
+I2
+sS'gist '
+p650
+I2
+sS'basics '
+p651
+I1
+sS'accurate '
+p652
+I1
+sS'basic '
+p653
+I1
+sS'major '
+p654
+I1
+sS'board '
+p655
+I1
+sS'essentially '
+p656
+I1
+sS'vital '
+p657
+I1
+sS'essential '
+p658
+I1
+sS'focus '
+p659
+I1
+stp660
+a((lp661
+S'wertvoll'
+p662
+aS'Wertvoll'
+p663
+a(dp664
+S'usable '
+p665
+I1
+sS'important '
+p666
+I3
+sS'extension '
+p667
+I1
+sS'value '
+p668
+I6
+sS'worth '
+p669
+I6
+sS'valuable, '
+p670
+I1
+sS'happen '
+p671
+I3
+sS'rocks '
+p672
+I1
+sS'priceless '
+p673
+I1
+sS'valuable '
+p674
+I47
+sS'why '
+p675
+I1
+sS'precious '
+p676
+I4
+stp677
+a((lp678
+S'allerwichtigsten'
+p679
+aS'Allerwichtigsten'
+p680
+a(dp681
+S'importantly '
+p682
+I6
+sS'important '
+p683
+I2
+sS'greatest '
+p684
+I1
+stp685
+a((lp686
+S'bedeutsames'
+p687
+aS'Bedeutsames'
+p688
+a(dp689
+S'significant '
+p690
+I2
+sS'important '
+p691
+I2
+sS'momentous '
+p692
+I2
+stp693
+a((lp694
+S'sache'
+p695
+aS'Sache'
+p696
+a(dp697
+S'one '
+p698
+I20
+sS'matter '
+p699
+I82
+sS'bottom '
+p700
+I2
+sS'word '
+p701
+I1
+sS'disney '
+p702
+I1
+sS'down '
+p703
+I2
+sS'contract '
+p704
+I1
+sS'this, '
+p705
+I2
+sS'deal '
+p706
+I219
+sS'important '
+p707
+I2
+sS'shot '
+p708
+I1
+sS'work '
+p709
+I1
+sS'something '
+p710
+I13
+sS'up '
+p711
+I4
+sS'busted '
+p712
+I1
+sS'focus '
+p713
+I2
+sS'truth '
+p714
+I4
+sS'history '
+p715
+I1
+sS'handle '
+p716
+I1
+sS'fact '
+p717
+I4
+sS'happened '
+p718
+I4
+sS'cause '
+p719
+I64
+sS'it '
+p720
+I58
+sS'leonardville '
+p721
+I1
+sS'great '
+p722
+I1
+sS'operation '
+p723
+I3
+sS'approach '
+p724
+I1
+sS'gossiping '
+p725
+I1
+sS'whoop '
+p726
+I4
+sS'sorry '
+p727
+I1
+sS'anything '
+p728
+I4
+sS'badges '
+p729
+I1
+sS'replacement '
+p730
+I1
+sS'situation '
+p731
+I6
+sS'track '
+p732
+I2
+sS'me '
+p733
+I3
+sS'decks '
+p734
+I1
+sS'math '
+p735
+I1
+sS'retirement '
+p736
+I1
+sS'end '
+p737
+I3
+sS'ha- '
+p738
+I1
+sS'job '
+p739
+I9
+sS'call '
+p740
+I3
+sS'quiet '
+p741
+I2
+sS'game '
+p742
+I4
+sS'matters '
+p743
+I4
+sS'leave '
+p744
+I1
+sS'item '
+p745
+I1
+sS'universe '
+p746
+I1
+sS'doing '
+p747
+I2
+sS'stuff '
+p748
+I22
+sS'anyway '
+p749
+I1
+sS'loose '
+p750
+I1
+sS'involved '
+p751
+I1
+sS'say '
+p752
+I1
+sS'everything '
+p753
+I1
+sS'mystery '
+p754
+I1
+sS'intense '
+p755
+I1
+sS'things '
+p756
+I58
+sS'show '
+p757
+I2
+sS'happening '
+p758
+I1
+sS'out '
+p759
+I1
+sS'way '
+p760
+I8
+sS'fuck '
+p761
+I1
+sS'shawn '
+p762
+I1
+sS'tacks '
+p763
+I4
+sS'case '
+p764
+I6
+sS'speaking '
+p765
+I1
+sS'woop '
+p766
+I2
+sS'whole '
+p767
+I2
+sS'focused '
+p768
+I3
+sS'story '
+p769
+I8
+sS'know '
+p770
+I1
+sS'difference '
+p771
+I3
+sS'reading '
+p772
+I1
+sS'own '
+p773
+I2
+sS'midnight '
+p774
+I1
+sS'lay '
+p775
+I1
+sS'incident '
+p776
+I1
+sS'trip '
+p777
+I1
+sS'ball '
+p778
+I1
+sS'professional '
+p779
+I1
+sS'place '
+p780
+I3
+sS'scene '
+p781
+I1
+sS'thingthat '
+p782
+I2
+sS'part '
+p783
+I1
+sS'bitch '
+p784
+I1
+sS'crap '
+p785
+I1
+sS'on '
+p786
+I1
+sS'routine '
+p787
+I1
+sS'what '
+p788
+I2
+sS'reason '
+p789
+I1
+sS'this '
+p790
+I74
+sS'plain '
+p791
+I1
+sS'subject '
+p792
+I2
+sS'chase '
+p793
+I6
+sS'shit '
+p794
+I2
+sS'going '
+p795
+I1
+sS'bit '
+p796
+I1
+sS'diferent '
+p797
+I1
+sS'big '
+p798
+I2
+sS'bobby '
+p799
+I1
+sS'conditions '
+p800
+I1
+sS'problem '
+p801
+I5
+sS'point '
+p802
+I36
+sS'though '
+p803
+I1
+sS'accident '
+p804
+I1
+sS'class '
+p805
+I1
+sS'wiz '
+p806
+I1
+sS'consequence '
+p807
+I1
+sS'business '
+p808
+I56
+sS'never '
+p809
+I1
+sS'issue '
+p810
+I8
+sS'talkin '
+p811
+I1
+sS'see '
+p812
+I2
+sS'fight '
+p813
+I1
+sS'brief '
+p814
+I1
+sS'concern '
+p815
+I2
+sS'here '
+p816
+I5
+sS'off '
+p817
+I2
+sS'gate '
+p818
+I2
+sS'affair '
+p819
+I4
+sS'about '
+p820
+I6
+sS'idea '
+p821
+I7
+sS'thing, '
+p822
+I1
+sS'act '
+p823
+I1
+sS'thing '
+p824
+I1918
+sS'yeah '
+p825
+I1
+stp826
+a((lp827
+S'bedeutet'
+p828
+aS'Bedeutet'
+p829
+a(dp830
+S'cares '
+p831
+I4
+sS'matter '
+p832
+I3
+sS'ron '
+p833
+I1
+sS'equals '
+p834
+I1
+sS'lottery '
+p835
+I1
+sS'spells '
+p836
+I1
+sS'brings '
+p837
+I2
+sS'meaning '
+p838
+I40
+sS'has '
+p839
+I1
+sS'implications '
+p840
+I1
+sS'worth '
+p841
+I3
+sS'would '
+p842
+I3
+sS'defiant '
+p843
+I1
+sS'mean '
+p844
+I110
+sS'avoid '
+p845
+I1
+sS'comes '
+p846
+I2
+sS'means, '
+p847
+I3
+sS'suggests '
+p848
+I1
+sS'fatal '
+p849
+I1
+sS'signifies '
+p850
+I1
+sS'special '
+p851
+I6
+sS'floyd '
+p852
+I1
+sS'says '
+p853
+I1
+sS'gist '
+p854
+I1
+sS'value '
+p855
+I1
+sS'meant '
+p856
+I61
+sS'matters '
+p857
+I9
+sS'that '
+p858
+I2
+sS'news '
+p859
+I1
+sS'find '
+p860
+I1
+sS'make '
+p861
+I1
+sS'mean, '
+p862
+I1
+sS'solve '
+p863
+I1
+sS'chet '
+p864
+I1
+sS'takes '
+p865
+I1
+sS'thatmeans, '
+p866
+I1
+sS'is '
+p867
+I64
+sS'yakusa '
+p868
+I1
+sS'does '
+p869
+I230
+sS'implies '
+p870
+I1
+sS'dining '
+p871
+I1
+sS'symbol '
+p872
+I1
+sS'" '
+p873
+I1
+sS'mattered '
+p874
+I3
+sS'can '
+p875
+I1
+sS'doesn '
+p876
+I86
+sS'rhubarb '
+p877
+I1
+sS'appreciate '
+p878
+I2
+sS'sauce '
+p879
+I1
+sS'asked '
+p880
+I1
+sS'important '
+p881
+I2
+sS'about '
+p882
+I1
+sS'gar '
+p883
+I1
+sS'humans '
+p884
+I1
+sS'was '
+p885
+I2
+sS'significance '
+p886
+I1
+sS'to '
+p887
+I1
+sS'means '
+p888
+I1237
+sS'map '
+p889
+I1
+sS'bother '
+p890
+I1
+sS'doess '
+p891
+I1
+sS'meansn" '
+p892
+I1
+sS'are '
+p893
+I1
+sS'rig '
+p894
+I1
+sS"'s "
+p895
+I64
+sS'stands '
+p896
+I1
+sS'chloe '
+p897
+I1
+sS'trying '
+p898
+I1
+sS'dear '
+p899
+I1
+sS'saying '
+p900
+I1
+sS'care '
+p901
+I13
+sS'extract '
+p902
+I1
+sS'cared '
+p903
+I6
+sS'caring '
+p904
+I1
+sS'do '
+p905
+I2
+sS'girl '
+p906
+I1
+stp907
+a((lp908
+S'undwowichtigist'
+p909
+aS'Undwowichtigist'
+p910
+a(dp911
+S'important '
+p912
+I2
+stp913
+a((lp914
+S'gro\xc3\x9fen'
+p915
+aS'Gro\xc3\x9fen'
+p916
+a(dp917
+S'older '
+p918
+I1
+sS'going '
+p919
+I1
+sS'own '
+p920
+I1
+sS'huge '
+p921
+I27
+sS'spectacular '
+p922
+I1
+sS'titan '
+p923
+I5
+sS'ones '
+p924
+I1
+sS'ma '
+p925
+I1
+sS'tall '
+p926
+I18
+sS'ge '
+p927
+I1
+sS'jack '
+p928
+I1
+sS'difference '
+p929
+I2
+sS'good '
+p930
+I1
+sS'completely '
+p931
+I1
+sS'important '
+p932
+I2
+sS'mad '
+p933
+I1
+sS'master '
+p934
+I1
+sS'vast '
+p935
+I3
+sS'splendid '
+p936
+I1
+sS'bigger '
+p937
+I5
+sS'grand '
+p938
+I17
+sS'baby '
+p939
+I1
+sS'big, '
+p940
+I1
+sS'size '
+p941
+I1
+sS'call '
+p942
+I1
+sS'capital '
+p943
+I1
+sS'large '
+p944
+I42
+sS'field '
+p945
+I7
+sS'deep '
+p946
+I2
+sS'big- '
+p947
+I2
+sS'much '
+p948
+I4
+sS'very '
+p949
+I4
+sS'terrible '
+p950
+I2
+sS'fancy '
+p951
+I1
+sS'sizeable '
+p952
+I1
+sS'wide '
+p953
+I6
+sS'after '
+p954
+I1
+sS'tremendous '
+p955
+I1
+sS'great '
+p956
+I216
+sS'biggest '
+p957
+I2
+sS'main '
+p958
+I1
+sS'overdrive '
+p959
+I1
+sS'fake- '
+p960
+I1
+sS'long '
+p961
+I2
+sS'giant '
+p962
+I3
+sS'perfectly '
+p963
+I1
+sS'adults '
+p964
+I1
+sS'major '
+p965
+I31
+sS'big '
+p966
+I529
+sS'lot '
+p967
+I2
+sS'lit '
+p968
+I2
+sS'massive '
+p969
+I5
+sS'girl '
+p970
+I1
+stp971
+a((lp972
+S'relevant'
+p973
+aS'Relevant'
+p974
+a(dp975
+S'matter '
+p976
+I1
+sS'relevent '
+p977
+I1
+sS'germane '
+p978
+I1
+sS'relevant '
+p979
+I24
+sS'important '
+p980
+I2
+sS'date '
+p981
+I1
+sS'interest '
+p982
+I2
+sS'relevance '
+p983
+I2
+sS'besides '
+p984
+I1
+stp985
+a((lp986
+S'ernst'
+p987
+aS'Ernst'
+p988
+a(dp989
+S'weren '
+p990
+I1
+sS'bottom '
+p991
+I1
+sS'am '
+p992
+I1
+sS'no '
+p993
+I2
+sS'guys '
+p994
+I2
+sS'mean '
+p995
+I32
+sS'bullshit '
+p996
+I1
+sS'break '
+p997
+I1
+sS'rings '
+p998
+I1
+sS'joke '
+p999
+I1
+sS'important '
+p1000
+I2
+sS'schooling '
+p1001
+I1
+sS'meant '
+p1002
+I2
+sS'really '
+p1003
+I42
+sS'true '
+p1004
+I2
+sS'sid '
+p1005
+I1
+sS'|| '
+p1006
+I1
+sS'kettledrums '
+p1007
+I1
+sS'swear '
+p1008
+I1
+sS'playing '
+p1009
+I4
+sS'it '
+p1010
+I1
+sS'steppin '
+p1011
+I22
+sS'sorry '
+p1012
+I3
+sS'country '
+p1013
+I1
+sS'spit '
+p1014
+I1
+sS'help '
+p1015
+I1
+sS'talking '
+p1016
+I4
+sS'fine '
+p1017
+I1
+sS'lasz '
+p1018
+I1
+sS'paramedhc '
+p1019
+I1
+sS'grave '
+p1020
+I3
+sS'badly '
+p1021
+I3
+sS'offended '
+p1022
+I1
+sS'safe '
+p1023
+I1
+sS'rays '
+p1024
+I1
+sS'having '
+p1025
+I1
+sS'granted '
+p1026
+I1
+sS'messing '
+p1027
+I1
+sS'remar '
+p1028
+I1
+sS'earnest '
+p1029
+I3
+sS'that '
+p1030
+I2
+sS'crazy '
+p1031
+I1
+sS'fabulous '
+p1032
+I1
+sS'mind '
+p1033
+I1
+sS'samurai '
+p1034
+I1
+sS'course '
+p1035
+I1
+sS'fuckin '
+p1036
+I1
+sS'dire '
+p1037
+I1
+sS'seriously '
+p1038
+I276
+sS'honest '
+p1039
+I2
+sS'honestly '
+p1040
+I10
+sS'his '
+p1041
+I1
+sS'suffice '
+p1042
+I1
+sS'beautiful '
+p1043
+I1
+sS'respect '
+p1044
+I2
+sS'severe '
+p1045
+I2
+sS'fooling '
+p1046
+I2
+sS'exciting '
+p1047
+I1
+sS'imaginary '
+p1048
+I1
+sS'fun '
+p1049
+I4
+sS'russia '
+p1050
+I1
+sS'bookmaking '
+p1051
+I1
+sS'hey '
+p1052
+I2
+sS'sure '
+p1053
+I4
+sS'right '
+p1054
+I1
+sS'ser '
+p1055
+I1
+sS'kddng '
+p1056
+I1
+sS'deep '
+p1057
+I1
+sS'lie '
+p1058
+I2
+sS'fucking '
+p1059
+I2
+sS'hard '
+p1060
+I1
+sS'shoot '
+p1061
+I1
+sS'kidding '
+p1062
+I46
+sS'serious '
+p1063
+I580
+sS'lads '
+p1064
+I1
+sS'gravity '
+p1065
+I7
+sS'what '
+p1066
+I1
+sS'disrespectful '
+p1067
+I1
+sS'feeling '
+p1068
+I1
+sS'means '
+p1069
+I2
+sS'chimney '
+p1070
+I1
+sS'okay '
+p1071
+I1
+sS'kiddin '
+p1072
+I1
+sS'shit '
+p1073
+I1
+sS'alvarez '
+p1074
+I1
+sS'wait '
+p1075
+I1
+sS'legit '
+p1076
+I1
+sS'truly '
+p1077
+I1
+sS'big '
+p1078
+I1
+sS'dead- '
+p1079
+I1
+sS'far '
+p1080
+I1
+sS'seriousness '
+p1081
+I6
+sS'stern '
+p1082
+I1
+sS'uptight '
+p1083
+I3
+sS'heard '
+p1084
+I1
+sS'webcasts '
+p1085
+I1
+sS'normal '
+p1086
+I1
+sS'joking '
+p1087
+I6
+sS'do '
+p1088
+I2
+sS'serious, '
+p1089
+I2
+sS'solemn '
+p1090
+I1
+sS'around '
+p1091
+I1
+sS'investigations '
+p1092
+I1
+sS'bad '
+p1093
+I10
+sS'business '
+p1094
+I2
+sS'relevant '
+p1095
+I1
+sS'funny '
+p1096
+I3
+sS'listen '
+p1097
+I1
+sS'sincere '
+p1098
+I4
+sS'ernst '
+p1099
+I3
+sS'well- '
+p1100
+I1
+sS'serios '
+p1101
+I2
+sS'laugh '
+p1102
+I1
+sS'unlocked '
+p1103
+I1
+sS'get '
+p1104
+I1
+sS'real '
+p1105
+I35
+sS'changed '
+p1106
+I1
+sS'need '
+p1107
+I1
+sS'not '
+p1108
+I2
+sS'seriously, '
+p1109
+I2
+stp1110
+a((lp1111
+S'ihren'
+p1112
+aS'Ihren'
+p1113
+a(dp1114
+S'places '
+p1115
+I1
+sS'for '
+p1116
+I1
+sS'the '
+p1117
+I15
+sS'dragyour '
+p1118
+I1
+sS'every '
+p1119
+I2
+sS'important '
+p1120
+I1
+sS'duffy '
+p1121
+I1
+sS'theirs '
+p1122
+I2
+sS'your '
+p1123
+I1526
+sS'hers '
+p1124
+I6
+sS'bad '
+p1125
+I1
+sS'their '
+p1126
+I620
+sS'a '
+p1127
+I4
+sS'her '
+p1128
+I969
+sS'she '
+p1129
+I3
+sS'those '
+p1130
+I1
+sS'yours '
+p1131
+I25
+sS'you '
+p1132
+I9
+sS'they '
+p1133
+I4
+sS'what '
+p1134
+I1
+sS'alibi '
+p1135
+I1
+sS'raising '
+p1136
+I1
+sS'his '
+p1137
+I8
+sS'toohis '
+p1138
+I1
+sS'finishyour '
+p1139
+I1
+sS'haveyour '
+p1140
+I1
+sS'our '
+p1141
+I3
+sS'less '
+p1142
+I1
+sS'ther '
+p1143
+I1
+sS'bullocks '
+p1144
+I1
+sS'them '
+p1145
+I2
+sS'coming '
+p1146
+I1
+sS'its '
+p1147
+I44
+stp1148
+a((lp1149
+S'einflussreiche'
+p1150
+aS'Einflussreiche'
+p1151
+a(dp1152
+S'westchester '
+p1153
+I1
+sS'important '
+p1154
+I1
+sS'influential '
+p1155
+I4
+sS'powerful '
+p1156
+I1
+stp1157
+a((lp1158
+S'nennenswertes'
+p1159
+aS'Nennenswertes'
+p1160
+a(dp1161
+S'important '
+p1162
+I1
+stp1163
+a((lp1164
+S'wchtig'
+p1165
+aS'Wchtig'
+p1166
+a(dp1167
+S'important '
+p1168
+I1
+stp1169
+a((lp1170
+S'mystische'
+p1171
+aS'Mystische'
+p1172
+a(dp1173
+S'mystical '
+p1174
+I4
+sS'important '
+p1175
+I1
+stp1176
+a((lp1177
+S'wichtigkeit'
+p1178
+aS'Wichtigkeit'
+p1179
+a(dp1180
+S'priority '
+p1181
+I1
+sS'urgency '
+p1182
+I1
+sS'important '
+p1183
+I1
+sS'essen '
+p1184
+I1
+sS'importance '
+p1185
+I13
+sS'significance '
+p1186
+I1
+stp1187
+a((lp1188
+S'zeigen'
+p1189
+aS'Zeigen'
+p1190
+a(dp1191
+S'projecting '
+p1192
+I1
+sS'pointing '
+p1193
+I12
+sS'me '
+p1194
+I1
+sS'showed '
+p1195
+I6
+sS'shows '
+p1196
+I12
+sS'give '
+p1197
+I1
+sS'show- '
+p1198
+I1
+sS'kick '
+p1199
+I1
+sS'no '
+p1200
+I1
+sS'constant '
+p1201
+I1
+sS'showing '
+p1202
+I59
+sS'violate '
+p1203
+I1
+sS'eye '
+p1204
+I1
+sS'have '
+p1205
+I2
+sS'down '
+p1206
+I1
+sS'bring '
+p1207
+I1
+sS'point '
+p1208
+I20
+sS'course '
+p1209
+I1
+sS'what '
+p1210
+I1
+sS'important '
+p1211
+I1
+sS'like '
+p1212
+I2
+sS'apart '
+p1213
+I2
+sS'do '
+p1214
+I1
+sS'flash '
+p1215
+I1
+sS'ass '
+p1216
+I1
+sS'make '
+p1217
+I1
+sS'how '
+p1218
+I2
+sS'chart '
+p1219
+I1
+sS'lemme '
+p1220
+I1
+sS'closed '
+p1221
+I1
+sS'ieach '
+p1222
+I1
+sS'prove '
+p1223
+I5
+sS'assess '
+p1224
+I1
+sS'indicate '
+p1225
+I8
+sS'expose '
+p1226
+I1
+sS'smoothly '
+p1227
+I1
+sS'display '
+p1228
+I1
+sS'mineln '
+p1229
+I1
+sS'doesn '
+p1230
+I1
+sS'indicating '
+p1231
+I1
+sS'pushing '
+p1232
+I1
+sS'tell '
+p1233
+I17
+sS'studio '
+p1234
+I1
+sS'reveal '
+p1235
+I6
+sS'iook '
+p1236
+I1
+sS'produce '
+p1237
+I1
+sS'establish '
+p1238
+I1
+sS'stick '
+p1239
+I3
+sS'see '
+p1240
+I44
+sS'mcmuffin '
+p1241
+I1
+sS'shown '
+p1242
+I2
+sS'to '
+p1243
+I4
+sS'okay '
+p1244
+I1
+sS'offer '
+p1245
+I1
+sS'let '
+p1246
+I20
+sS'bother '
+p1247
+I1
+sS'provide '
+p1248
+I1
+sS'proving '
+p1249
+I1
+sS'show '
+p1250
+I1051
+sS'hereafter '
+p1251
+I1
+sS'explain '
+p1252
+I2
+sS'out '
+p1253
+I4
+sS'preserve '
+p1254
+I1
+sS'saying '
+p1255
+I1
+sS'want '
+p1256
+I1
+sS"'re "
+p1257
+I1
+sS'put '
+p1258
+I2
+sS'take '
+p1259
+I4
+sS'hold '
+p1260
+I1
+sS'demonstrate '
+p1261
+I12
+sS'teach '
+p1262
+I35
+sS'lie '
+p1263
+I1
+sS'share '
+p1264
+I1
+sS'stretched '
+p1265
+I1
+sS'which '
+p1266
+I1
+stp1267
+a((lp1268
+S'unwichtigem'
+p1269
+aS'Unwichtigem'
+p1270
+a(dp1271
+S'important '
+p1272
+I1
+stp1273
+a((lp1274
+S'schrott'
+p1275
+aS'Schrott'
+p1276
+a(dp1277
+S'idiot '
+p1278
+I2
+sS'totaled '
+p1279
+I1
+sS'important '
+p1280
+I1
+sS'crap '
+p1281
+I10
+sS'toast '
+p1282
+I1
+sS'crashed '
+p1283
+I3
+sS'scrap '
+p1284
+I3
+sS'sucked '
+p1285
+I1
+sS'tub '
+p1286
+I1
+sS'ofjunk '
+p1287
+I2
+sS'run '
+p1288
+I1
+sS'trashed '
+p1289
+I1
+sS'squat '
+p1290
+I1
+sS'barrel '
+p1291
+I1
+sS'junk '
+p1292
+I26
+sS'junked '
+p1293
+I1
+sS'shit '
+p1294
+I1
+sS'trash '
+p1295
+I2
+sS'scraps '
+p1296
+I4
+sS'paulson '
+p1297
+I1
+stp1298
+a((lp1299
+S'kim'
+p1300
+aS'Kim'
+p1301
+a(dp1302
+S'important '
+p1303
+I1
+sS'kimmy '
+p1304
+I3
+sS'care '
+p1305
+I1
+sS'klm '
+p1306
+I1
+sS'kim '
+p1307
+I133
+sS'downable '
+p1308
+I1
+stp1309
+a((lp1310
+S'historische'
+p1311
+aS'Historische'
+p1312
+a(dp1313
+S'historic '
+p1314
+I3
+sS'important '
+p1315
+I1
+sS'historical '
+p1316
+I6
+stp1317
+a((lp1318
+S'tun'
+p1319
+aS'Tun'
+p1320
+a(dp1321
+S'going '
+p1322
+I13
+sS'mp '
+p1323
+I1
+sS'am '
+p1324
+I2
+sS'knock '
+p1325
+I1
+sS'do, '
+p1326
+I17
+sS'let\\u2019 '
+p1327
+I1
+sS'obliged '
+p1328
+I1
+sS'would '
+p1329
+I6
+sS'busy '
+p1330
+I74
+sS'ok '
+p1331
+I2
+sS'please '
+p1332
+I1
+sS'hand '
+p1333
+I2
+sS'conversation '
+p1334
+I1
+sS'ofwork '
+p1335
+I1
+sS'individual '
+p1336
+I1
+sS'deal '
+p1337
+I12
+sS'important '
+p1338
+I1
+sS'did '
+p1339
+I11
+sS'hurting '
+p1340
+I1
+sS'work '
+p1341
+I19
+sS'todd '
+p1342
+I1
+sS'really '
+p1343
+I3
+sS'janet '
+p1344
+I1
+sS'full '
+p1345
+I1
+sS'run '
+p1346
+I1
+sS'if '
+p1347
+I3
+sS'follow '
+p1348
+I2
+sS'try '
+p1349
+I4
+sS'either '
+p1350
+I2
+sS'pretending '
+p1351
+I3
+sS'no '
+p1352
+I1
+sS'radnik '
+p1353
+I1
+sS'process '
+p1354
+I1
+sS'this '
+p1355
+I4
+sS'thinking '
+p1356
+I1
+sS'it '
+p1357
+I1
+sS'project '
+p1358
+I1
+sS'kids '
+p1359
+I1
+sS'about '
+p1360
+I6
+sS'meeting '
+p1361
+I2
+sS'sorry '
+p1362
+I2
+sS'pretendyou '
+p1363
+I1
+sS'action '
+p1364
+I3
+sS'offer '
+p1365
+I1
+sS'let '
+p1366
+I3
+sS'anything '
+p1367
+I2
+sS'helped '
+p1368
+I1
+sS'help '
+p1369
+I23
+sS'debble '
+p1370
+I1
+sS'fine '
+p1371
+I1
+sS'enter '
+p1372
+I1
+sS'vote '
+p1373
+I1
+sS'what '
+p1374
+I2
+sS'crazy '
+p1375
+I1
+sS"'re "
+p1376
+I38
+sS'situation '
+p1377
+I1
+sS'sex '
+p1378
+I1
+sS'hurt '
+p1379
+I60
+sS'give '
+p1380
+I1
+sS"'alessio "
+p1381
+I1
+sS"'ll "
+p1382
+I1
+sS'pathetic '
+p1383
+I1
+sS'job '
+p1384
+I4
+sS'unrelated '
+p1385
+I1
+sS'should '
+p1386
+I8
+sS'aren '
+p1387
+I4
+sS'just '
+p1388
+I2
+sS'involve '
+p1389
+I4
+sS'find '
+p1390
+I1
+sS'make '
+p1391
+I15
+sS'again '
+p1392
+I1
+sS'interfere '
+p1393
+I2
+sS'wax '
+p1394
+I1
+sS'leave '
+p1395
+I1
+sS'mind '
+p1396
+I5
+sS'him '
+p1397
+I3
+sS'put '
+p1398
+I18
+sS'doing '
+p1399
+I478
+sS'landlord '
+p1400
+I1
+sS'involved '
+p1401
+I32
+sS'doin '
+p1402
+I4
+sS'hurts '
+p1403
+I1
+sS'against '
+p1404
+I4
+sS'father '
+p1405
+I2
+sS'tucked '
+p1406
+I1
+sS'fetuses '
+p1407
+I1
+sS'hiding '
+p1408
+I1
+sS'go '
+p1409
+I24
+sS'happening '
+p1410
+I1
+sS'drop '
+p1411
+I1
+sS'happen '
+p1412
+I3
+sS'play '
+p1413
+I2
+sS'affect '
+p1414
+I1
+sS'here '
+p1415
+I1
+sS'yourself '
+p1416
+I1
+sS'stop '
+p1417
+I3
+sS'dealing '
+p1418
+I54
+sS'youdoing '
+p1419
+I2
+sS'applaud '
+p1420
+I1
+sS'there '
+p1421
+I1
+sS'rebuilding '
+p1422
+I1
+sS'for '
+p1423
+I5
+sS'calling '
+p1424
+I2
+sS'have '
+p1425
+I6
+sS'done '
+p1426
+I99
+sS'jack '
+p1427
+I2
+sS'spanish '
+p1428
+I1
+sS'else '
+p1429
+I2
+sS'avenged '
+p1430
+I1
+sS'fighting '
+p1431
+I2
+sS'cry '
+p1432
+I1
+sS'ellie '
+p1433
+I1
+sS'arrange '
+p1434
+I1
+sS'ways '
+p1435
+I1
+sS'hired '
+p1436
+I1
+sS'drag '
+p1437
+I1
+sS'handling '
+p1438
+I1
+sS'taller '
+p1439
+I1
+sS'be '
+p1440
+I5
+sS'investigate '
+p1441
+I1
+sS'now '
+p1442
+I5
+sS'tow '
+p1443
+I2
+sS'mixed '
+p1444
+I1
+sS'harm '
+p1445
+I14
+sS'pointer '
+p1446
+I1
+sS'acting '
+p1447
+I6
+sS'choice '
+p1448
+I3
+sS'drill '
+p1449
+I4
+sS'shall '
+p1450
+I2
+sS'service '
+p1451
+I1
+sS'morrow '
+p1452
+I1
+sS'options '
+p1453
+I1
+sS'shoot '
+p1454
+I3
+sS'ahead '
+p1455
+I1
+sS'hands '
+p1456
+I3
+sS'don '
+p1457
+I20
+sS'wrong '
+p1458
+I1
+sS'cuban '
+p1459
+I1
+sS'dodge '
+p1460
+I1
+sS'laughs '
+p1461
+I1
+sS'handle '
+p1462
+I3
+sS'bother '
+p1463
+I1
+sS'are '
+p1464
+I334
+sS'methat '
+p1465
+I1
+sS'pretend '
+p1466
+I76
+sS'trapped '
+p1467
+I1
+sS'ask '
+p1468
+I4
+sS'take '
+p1469
+I8
+sS'life '
+p1470
+I1
+sS'will '
+p1471
+I14
+sS'to '
+p1472
+I26
+sS'hazme '
+p1473
+I2
+sS'ya '
+p1474
+I1
+sS'gonna '
+p1475
+I2
+sS'needsto '
+p1476
+I1
+sS'form '
+p1477
+I1
+sS'pl '
+p1478
+I1
+sS'system '
+p1479
+I1
+sS'dying '
+p1480
+I1
+sS'jonny '
+p1481
+I1
+sS'eli '
+p1482
+I1
+sS'tun '
+p1483
+I3
+sS'happens '
+p1484
+I3
+sS'supposed '
+p1485
+I1
+sS'though '
+p1486
+I1
+sS'busier '
+p1487
+I1
+sS'procedure '
+p1488
+I1
+sS'do '
+p1489
+I7239
+sS'around '
+p1490
+I1
+sS'suck '
+p1491
+I1
+sS'touch '
+p1492
+I6
+sS'liu '
+p1493
+I1
+sS'treat '
+p1494
+I1
+sS'blow '
+p1495
+I1
+sS'vehicle '
+p1496
+I1
+sS'does '
+p1497
+I9
+sS'business '
+p1498
+I14
+sS'walk '
+p1499
+I2
+sS'can '
+p1500
+I8
+sS'move '
+p1501
+I6
+sS'talley '
+p1502
+I1
+sS'movement '
+p1503
+I1
+sS'tell '
+p1504
+I3
+sS'edward '
+p1505
+I2
+sS'lord '
+p1506
+I1
+sS'fake '
+p1507
+I5
+sS'? '
+p1508
+I1
+sS'part '
+p1509
+I9
+sS'people '
+p1510
+I1
+sS'compare '
+p1511
+I2
+sS'get '
+p1512
+I1
+sS'plate '
+p1513
+I4
+sS'weirded '
+p1514
+I1
+sS'raven- '
+p1515
+I1
+sS'connected '
+p1516
+I10
+sS'dealt '
+p1517
+I3
+sS'need '
+p1518
+I2
+sS'related '
+p1519
+I5
+sS'act '
+p1520
+I22
+sS'thing '
+p1521
+I9
+sS'something '
+p1522
+I4
+stp1523
+a((lp1524
+S'unbedingt'
+p1525
+aS'Unbedingt'
+p1526
+a(dp1527
+S'definitely '
+p1528
+I5
+sS'determined '
+p1529
+I3
+sS'too '
+p1530
+I1
+sS'wanna '
+p1531
+I1
+sS'dying '
+p1532
+I4
+sS'insisted '
+p1533
+I1
+sS'imperative '
+p1534
+I2
+sS'desperately '
+p1535
+I1
+sS'beers '
+p1536
+I1
+sS'meet '
+p1537
+I1
+sS'actually '
+p1538
+I1
+sS'begged '
+p1539
+I2
+sS'because '
+p1540
+I3
+sS'must '
+p1541
+I1
+sS'at '
+p1542
+I1
+sS'insists '
+p1543
+I1
+sS'really '
+p1544
+I30
+sS'absolutely '
+p1545
+I18
+sS'strongly '
+p1546
+I1
+sS'come '
+p1547
+I2
+sS'forcing '
+p1548
+I1
+sS'particularly '
+p1549
+I2
+sS'technically '
+p1550
+I1
+sS'desperate '
+p1551
+I6
+sS'gasping '
+p1552
+I1
+sS'keen '
+p1553
+I1
+sS'baffles '
+p1554
+I1
+sS'smited '
+p1555
+I1
+sS'much '
+p1556
+I7
+sS'so '
+p1557
+I1
+sS'she '
+p1558
+I1
+sS'uh '
+p1559
+I1
+sS'bad '
+p1560
+I10
+sS'exactly '
+p1561
+I17
+sS'cool '
+p1562
+I5
+sS'minus '
+p1563
+I1
+sS'anxious '
+p1564
+I1
+sS'necessary '
+p1565
+I1
+sS'should '
+p1566
+I2
+sS'necessarily '
+p1567
+I51
+sS'please '
+p1568
+I1
+sS'in '
+p1569
+I1
+sS'eager '
+p1570
+I2
+sS'important '
+p1571
+I1
+sS'means '
+p1572
+I5
+sS'let '
+p1573
+I1
+sS'reaily '
+p1574
+I1
+sS'badly '
+p1575
+I5
+sS'fine '
+p1576
+I1
+sS'need '
+p1577
+I2
+sS'wait '
+p1578
+I1
+sS'basement '
+p1579
+I1
+sS'amazing '
+p1580
+I1
+sS'quite '
+p1581
+I1
+sS'andy '
+p1582
+I1
+sS'to '
+p1583
+I23
+sS'insist '
+p1584
+I2
+sS'fuck '
+p1585
+I1
+sS'entirely '
+p1586
+I1
+stp1587
+a((lp1588
+S'dreimal'
+p1589
+aS'Dreimal'
+p1590
+a(dp1591
+S'riser '
+p1592
+I1
+sS'ravish '
+p1593
+I1
+sS'threes '
+p1594
+I4
+sS'pictographs '
+p1595
+I1
+sS'somebody '
+p1596
+I1
+sS'sync '
+p1597
+I1
+sS'triple '
+p1598
+I1
+sS'times '
+p1599
+I4
+sS'important '
+p1600
+I1
+sS'3 '
+p1601
+I1
+sS'three '
+p1602
+I72
+stp1603
+a((lp1604
+S'dave'
+p1605
+aS'Dave'
+p1606
+a(dp1607
+S'excuse '
+p1608
+I1
+sS'illiteracy '
+p1609
+I2
+sS'important '
+p1610
+I1
+sS'dave '
+p1611
+I270
+sS'demands '
+p1612
+I1
+sS'dave, '
+p1613
+I2
+sS'anyplace '
+p1614
+I1
+sS'brand '
+p1615
+I1
+sS'hewitt '
+p1616
+I1
+sS'rappers '
+p1617
+I2
+sS'terry '
+p1618
+I1
+sS'he '
+p1619
+I1
+sS'missy '
+p1620
+I1
+sS'chapman '
+p1621
+I1
+sS'what '
+p1622
+I1
+sS'bret '
+p1623
+I1
+stp1624
+a((lp1625
+S'sehrwichtiges'
+p1626
+aS'Sehrwichtiges'
+p1627
+a(dp1628
+S'important '
+p1629
+I1
+stp1630
+a((lp1631
+S'ignoriert'
+p1632
+aS'Ignoriert'
+p1633
+a(dp1634
+S'dodging '
+p1635
+I1
+sS'way '
+p1636
+I1
+sS'important '
+p1637
+I1
+sS'ignore '
+p1638
+I10
+sS'avoided '
+p1639
+I1
+sS'service '
+p1640
+I1
+sS'getaway '
+p1641
+I1
+sS'yuk '
+p1642
+I1
+sS'act '
+p1643
+I1
+sS'ignored '
+p1644
+I40
+sS'ignores '
+p1645
+I4
+sS'ignoring '
+p1646
+I5
+sS'mind '
+p1647
+I1
+stp1648
+a((lp1649
+S'ver\xc3\xa4nderungen'
+p1650
+aS'Ver\xc3\xa4nderungen'
+p1651
+a(dp1652
+S'modifications '
+p1653
+I1
+sS'vivian '
+p1654
+I1
+sS'affordably '
+p1655
+I1
+sS'differences '
+p1656
+I1
+sS'change '
+p1657
+I21
+sS'embracing '
+p1658
+I2
+sS'frontlet '
+p1659
+I1
+sS'important '
+p1660
+I1
+sS'changes '
+p1661
+I51
+sS'changing '
+p1662
+I1
+sS'undergo '
+p1663
+I1
+sS'scoop '
+p1664
+I1
+sS'eats '
+p1665
+I1
+stp1666
+a((lp1667
+S'hey'
+p1668
+aS'Hey'
+p1669
+a(dp1670
+S'luke '
+p1671
+I3
+sS'tyler '
+p1672
+I1
+sS'is '
+p1673
+I2
+sS'uh '
+p1674
+I7
+sS'fellas, '
+p1675
+I1
+sS'back '
+p1676
+I1
+sS'y '
+p1677
+I5
+sS'knock '
+p1678
+I2
+sS'scapegoat '
+p1679
+I1
+sS'no '
+p1680
+I20
+sS'dad '
+p1681
+I1
+sS'hi '
+p1682
+I56
+sS'honey '
+p1683
+I1
+sS'mean '
+p1684
+I1
+sS'bullshit '
+p1685
+I2
+sS'jeez '
+p1686
+I1
+sS'gee '
+p1687
+I2
+sS'god '
+p1688
+I1
+sS'heeye '
+p1689
+I1
+sS'wow '
+p1690
+I3
+sS'course '
+p1691
+I1
+sS'booze '
+p1692
+I1
+sS'important '
+p1693
+I1
+sS'did '
+p1694
+I1
+sS'thank '
+p1695
+I5
+sS'dodge '
+p1696
+I1
+sS'pal '
+p1697
+I1
+sS'victor '
+p1698
+I1
+sS'how '
+p1699
+I19
+sS'dried- '
+p1700
+I1
+sS'winners '
+p1701
+I1
+sS'stephanie '
+p1702
+I1
+sS'adam '
+p1703
+I1
+sS'where '
+p1704
+I2
+sS'hi, '
+p1705
+I3
+sS'tea '
+p1706
+I1
+sS'goodbye '
+p1707
+I1
+sS'b, '
+p1708
+I1
+sS'crib '
+p1709
+I1
+sS'mistake '
+p1710
+I1
+sS'd- '
+p1711
+I1
+sS'nate '
+p1712
+I1
+sS'caught '
+p1713
+I1
+sS'isn '
+p1714
+I1
+sS'ey '
+p1715
+I2
+sS'owen '
+p1716
+I1
+sS'fella '
+p1717
+I1
+sS'talk '
+p1718
+I1
+sS'cock '
+p1719
+I2
+sS'it '
+p1720
+I4
+sS'plague '
+p1721
+I1
+sS'great '
+p1722
+I1
+sS'check '
+p1723
+I1
+sS'( '
+p1724
+I4
+sS'moment '
+p1725
+I4
+sS'oops '
+p1726
+I1
+sS'morning '
+p1727
+I2
+sS'juliet '
+p1728
+I1
+sS'relax '
+p1729
+I1
+sS'let '
+p1730
+I9
+sS'we '
+p1731
+I5
+sS'mark '
+p1732
+I1
+sS'- '
+p1733
+I58
+sS'help '
+p1734
+I2
+sS'all '
+p1735
+I1
+sS'groaning '
+p1736
+I1
+sS'gusto '
+p1737
+I1
+sS'oh '
+p1738
+I37
+sS'badges '
+p1739
+I1
+sS'laurie '
+p1740
+I1
+sS'heyhey '
+p1741
+I1
+sS'kinda '
+p1742
+I1
+sS'headlock '
+p1743
+I1
+sS'hooting '
+p1744
+I1
+sS'lawson '
+p1745
+I1
+sS'transformational '
+p1746
+I1
+sS'french '
+p1747
+I1
+sS'le '
+p1748
+I1
+sS'me '
+p1749
+I1
+sS'doing '
+p1750
+I5
+sS'dumb '
+p1751
+I1
+sS'y. '
+p1752
+I1
+sS'rita '
+p1753
+I1
+sS'bye '
+p1754
+I1
+sS'deb '
+p1755
+I1
+sS'ehi '
+p1756
+I3
+sS'sink '
+p1757
+I1
+sS'tv/ '
+p1758
+I1
+sS'mudi '
+p1759
+I1
+sS'car '
+p1760
+I1
+sS'baby '
+p1761
+I1
+sS'or '
+p1762
+I1
+sS'fix '
+p1763
+I1
+sS'just '
+p1764
+I1
+sS'because '
+p1765
+I2
+sS'laughing '
+p1766
+I1
+sS'dribble '
+p1767
+I1
+sS'handing '
+p1768
+I1
+sS'aplate '
+p1769
+I1
+sS'mica '
+p1770
+I1
+sS'that '
+p1771
+I3
+sS'come '
+p1772
+I11
+sS'throw '
+p1773
+I1
+sS'yes '
+p1774
+I11
+sS'man '
+p1775
+I5
+sS'eric '
+p1776
+I1
+sS'he '
+p1777
+I14
+sS'freeing '
+p1778
+I1
+sS'santa '
+p1779
+I1
+sS'nothing '
+p1780
+I2
+sS'nah '
+p1781
+I1
+sS'police '
+p1782
+I2
+sS'huh '
+p1783
+I1
+sS'she '
+p1784
+I3
+sS'pete '
+p1785
+I1
+sS'he- '
+p1786
+I2
+sS'well, '
+p1787
+I5
+sS'wey '
+p1788
+I1
+sS'tripp '
+p1789
+I1
+sS'whoa '
+p1790
+I38
+sS'those '
+p1791
+I1
+sS'hey, '
+p1792
+I475
+sS'robbie '
+p1793
+I1
+sS'ugh '
+p1794
+I2
+sS'seriously '
+p1795
+I1
+sS'nick '
+p1796
+I1
+sS'thanks '
+p1797
+I2
+sS'atl '
+p1798
+I1
+sS'so '
+p1799
+I2
+sS'moon '
+p1800
+I1
+sS'sure '
+p1801
+I1
+sS'stops '
+p1802
+I2
+sS'hiding '
+p1803
+I1
+sS'go '
+p1804
+I1
+sS'jenna '
+p1805
+I2
+sS"'s "
+p1806
+I3
+sS'close '
+p1807
+I1
+sS'um '
+p1808
+I2
+sS'walla '
+p1809
+I1
+sS'jonah '
+p1810
+I1
+sS'chatter '
+p1811
+I1
+sS'here '
+p1812
+I11
+sS'stop '
+p1813
+I5
+sS'fuck '
+p1814
+I1
+sS'cloying '
+p1815
+I1
+sS'cop '
+p1816
+I1
+sS'then '
+p1817
+I1
+sS'surprise '
+p1818
+I1
+sS'too '
+p1819
+I1
+sS'mlchael '
+p1820
+I2
+sS'now '
+p1821
+I10
+sS'say '
+p1822
+I4
+sS'makes '
+p1823
+I1
+sS'hey- '
+p1824
+I2
+sS'yay '
+p1825
+I3
+sS'sappy '
+p1826
+I1
+sS'my '
+p1827
+I1
+sS'bring '
+p1828
+I2
+sS'woah '
+p1829
+I3
+sS'yummy '
+p1830
+I1
+sS'i- '
+p1831
+I2
+sS'kono '
+p1832
+I1
+sS'bachelor '
+p1833
+I1
+sS'* '
+p1834
+I3
+sS'there '
+p1835
+I5
+sS'hey '
+p1836
+I10394
+sS'ball '
+p1837
+I1
+sS'ei '
+p1838
+I2
+sS'whoa, '
+p1839
+I1
+sS'right '
+p1840
+I4
+sS'jerry '
+p1841
+I1
+sS'compliment '
+p1842
+I1
+sS'laughs '
+p1843
+I1
+sS'beefcake '
+p1844
+I1
+sS'watch '
+p1845
+I3
+sS'why '
+p1846
+I1
+sS'whoo '
+p1847
+I1
+sS'francine '
+p1848
+I1
+sS'ah '
+p1849
+I2
+sS'buenos '
+p1850
+I1
+sS'nettle '
+p1851
+I1
+sS'elf, '
+p1852
+I1
+sS'first '
+p1853
+I1
+sS'carroll '
+p1854
+I1
+sS'allison '
+p1855
+I2
+sS'c '
+p1856
+I2
+sS'ow '
+p1857
+I1
+sS'ooh '
+p1858
+I1
+sS'you '
+p1859
+I43
+sS'don '
+p1860
+I12
+sS'unilateral '
+p1861
+I1
+sS'steven '
+p1862
+I1
+sS'revving '
+p1863
+I1
+sS'what '
+p1864
+I21
+sS'hiya '
+p1865
+I5
+sS'guy '
+p1866
+I2
+sS'prospecting '
+p1867
+I1
+sS'dude '
+p1868
+I6
+sS'this '
+p1869
+I2
+sS'quietens '
+p1870
+I1
+sS'okay, '
+p1871
+I2
+sS'okay '
+p1872
+I13
+sS'clearly '
+p1873
+I1
+sS'serena '
+p1874
+I1
+sS'iel '
+p1875
+I1
+sS'shit '
+p1876
+I1
+sS'give '
+p1877
+I1
+sS'and '
+p1878
+I1
+sS'sucking '
+p1879
+I1
+sS'logic '
+p1880
+I1
+sS'wisconsin '
+p1881
+I1
+sS'[ '
+p1882
+I9
+sS'wait '
+p1883
+I9
+sS'are '
+p1884
+I3
+sS'eh '
+p1885
+I2
+sS'who '
+p1886
+I3
+sS'hang '
+p1887
+I1
+sS'girl '
+p1888
+I1
+sS'best, '
+p1889
+I1
+sS'slumber '
+p1890
+I1
+sS'pellets '
+p1891
+I1
+sS'yeah, '
+p1892
+I1
+sS'brother '
+p1893
+I1
+sS'slut '
+p1894
+I1
+sS'lightman '
+p1895
+I1
+sS'runs '
+p1896
+I1
+sS'3427 '
+p1897
+I1
+sS'sir '
+p1898
+I1
+sS'oi '
+p1899
+I18
+sS'286 '
+p1900
+I1
+sS'everybody '
+p1901
+I1
+sS'\\ '
+p1902
+I1
+sS'unh '
+p1903
+I1
+sS'dlnglng '
+p1904
+I1
+sS'heyl '
+p1905
+I1
+sS'beck '
+p1906
+I1
+sS'yo '
+p1907
+I49
+sS'well '
+p1908
+I16
+sS'robot '
+p1909
+I1
+sS'words '
+p1910
+I1
+sS'point '
+p1911
+I1
+sS'forget '
+p1912
+I1
+sS'travis '
+p1913
+I1
+sS'look '
+p1914
+I12
+sS'anymore '
+p1915
+I1
+sS'ago '
+p1916
+I2
+sS'samantha '
+p1917
+I1
+sS'guys '
+p1918
+I7
+sS'your '
+p1919
+I1
+sS'really '
+p1920
+I3
+sS'glrl '
+p1921
+I1
+sS'understand '
+p1922
+I1
+sS'hell '
+p1923
+I1
+sS'damn '
+p1924
+I4
+sS'crap '
+p1925
+I1
+sS'jesus '
+p1926
+I1
+sS'w- '
+p1927
+I1
+sS'on '
+p1928
+I1
+sS'aye '
+p1929
+I1
+sS'does '
+p1930
+I1
+sS'flour '
+p1931
+I1
+sS'pathetic '
+p1932
+I1
+sS'" '
+p1933
+I1
+sS'y, '
+p1934
+I1
+sS'can '
+p1935
+I1
+sS'matty '
+p1936
+I1
+sS'apology '
+p1937
+I1
+sS'listen '
+p1938
+I6
+sS'hello '
+p1939
+I8
+sS'cable '
+p1940
+I1
+sS'adelfi- '
+p1941
+I1
+sS'peaberry '
+p1942
+I1
+sS'hear '
+p1943
+I2
+sS'see '
+p1944
+I1
+sS'i '
+p1945
+I52
+sS'cz '
+p1946
+I1
+sS'newly '
+p1947
+I1
+sS'chuen '
+p1948
+I1
+sS'sweepers '
+p1949
+I2
+sS'kyle '
+p1950
+I1
+sS'laugh '
+p1951
+I1
+sS'excuse '
+p1952
+I2
+sS'claire '
+p1953
+I2
+sS'li '
+p1954
+I1
+sS'?? '
+p1955
+I1
+sS'ho '
+p1956
+I8
+sS'get '
+p1957
+I2
+sS'ew '
+p1958
+I1
+sS'bell '
+p1959
+I1
+sS'aah '
+p1960
+I1
+sS'ride '
+p1961
+I1
+sS'need '
+p1962
+I1
+sS'kenya '
+p1963
+I1
+sS'\\u266a '
+p1964
+I2
+sS'not '
+p1965
+I1
+sS'calm '
+p1966
+I3
+sS'shut '
+p1967
+I1
+sS'hold '
+p1968
+I2
+sS'jules '
+p1969
+I2
+sS'oy '
+p1970
+I1
+sS'do '
+p1971
+I1
+sS'yeah '
+p1972
+I26
+sS'security '
+p1973
+I1
+stp1974
+a((lp1975
+S'wichtigerer'
+p1976
+aS'Wichtigerer'
+p1977
+a(dp1978
+S'important '
+p1979
+I1
+stp1980
+a((lp1981
+S'egal'
+p1982
+aS'Egal'
+p1983
+a(dp1984
+S'matter '
+p1985
+I558
+sS'what '
+p1986
+I2
+sS'no '
+p1987
+I2
+sS'the '
+p1988
+I1
+sS'ok '
+p1989
+I1
+sS'bollywood '
+p1990
+I1
+sS'sup\xc3\xa9renlo '
+p1991
+I1
+sS'anyways '
+p1992
+I3
+sS'important '
+p1993
+I1
+sS'whoever '
+p1994
+I1
+sS'caw '
+p1995
+I1
+sS'then '
+p1996
+I1
+sS'won '
+p1997
+I2
+sS'ridiculs '
+p1998
+I1
+sS'either '
+p1999
+I19
+sS'look '
+p2000
+I1
+sS'bad '
+p2001
+I1
+sS'about '
+p2002
+I1
+sS'anything '
+p2003
+I6
+sS'helped '
+p2004
+I1
+sS'fine '
+p2005
+I1
+sS'iost '
+p2006
+I1
+sS'judge '
+p2007
+I3
+sS'any '
+p2008
+I7
+sS'worries '
+p2009
+I1
+sS'sex '
+p2010
+I1
+sS'regardless '
+p2011
+I8
+sS'sheriff '
+p2012
+I1
+sS'anywhere '
+p2013
+I1
+sS'as '
+p2014
+I1
+sS'indifferent '
+p2015
+I2
+sS'or '
+p2016
+I1
+sS'at '
+p2017
+I1
+sS'meg '
+p2018
+I1
+sS'matters '
+p2019
+I4
+sS'that '
+p2020
+I2
+sS'speed '
+p2021
+I1
+sS'whatever '
+p2022
+I94
+sS'mind '
+p2023
+I70
+sS'him '
+p2024
+I1
+sS'carewhat '
+p2025
+I1
+sS'sister '
+p2026
+I1
+sS'anyway '
+p2027
+I77
+sS'even '
+p2028
+I8
+sS'rat '
+p2029
+I2
+sS'despite '
+p2030
+I5
+sS'skin '
+p2031
+I1
+sS'mnh '
+p2032
+I1
+sS'forget '
+p2033
+I2
+sS'however '
+p2034
+I3
+sS'cared '
+p2035
+I1
+sS'fuck '
+p2036
+I8
+sS'anyone '
+p2037
+I1
+sS'drained '
+p2038
+I1
+sS'differnds '
+p2039
+I1
+sS'difference '
+p2040
+I8
+sS'idea '
+p2041
+I1
+sS'fewwords '
+p2042
+I1
+sS'sure '
+p2043
+I1
+sS'buzzer '
+p2044
+I1
+sS'bothered '
+p2045
+I1
+sS'interested '
+p2046
+I1
+sS'so '
+p2047
+I2
+sS'intercepted '
+p2048
+I1
+sS'restored '
+p2049
+I1
+sS'hotel '
+p2050
+I1
+sS'annoying '
+p2051
+I1
+sS'don '
+p2052
+I2
+sS'accounting '
+p2053
+I1
+sS'smart '
+p2054
+I1
+sS'same '
+p2055
+I2
+sS'murders '
+p2056
+I1
+sS'matteer '
+p2057
+I1
+sS'bother '
+p2058
+I2
+sS'okay '
+p2059
+I2
+sS'shit '
+p2060
+I11
+sS'care '
+p2061
+I632
+sS'nothing '
+p2062
+I5
+sS'lizard '
+p2063
+I1
+sS'bloody '
+p2064
+I1
+sS'comprehend '
+p2065
+I1
+sS'brand '
+p2066
+I1
+sS'anyway, '
+p2067
+I2
+sS'whatever, '
+p2068
+I1
+sS'alright '
+p2069
+I1
+sS"'tattewhat "
+p2070
+I1
+sS'insult '
+p2071
+I1
+sS'well '
+p2072
+I5
+sS'aw '
+p2073
+I1
+sS"'t "
+p2074
+I7
+sS'sec '
+p2075
+I1
+sS'friend '
+p2076
+I1
+sS'kinds '
+p2077
+I1
+sS'do '
+p2078
+I1
+sS'anyhow '
+p2079
+I1
+sS'damn '
+p2080
+I8
+sS'worry '
+p2081
+I4
+sS'problem '
+p2082
+I3
+sS'pick '
+p2083
+I1
+sS'astride '
+p2084
+I1
+sS'cares '
+p2085
+I16
+sS'point '
+p2086
+I2
+sS'business '
+p2087
+I2
+sS'relevant '
+p2088
+I1
+sS'screw '
+p2089
+I4
+sS'oh '
+p2090
+I1
+sS'i '
+p2091
+I1
+sS'someone '
+p2092
+I1
+sS'off '
+p2093
+I1
+sS'explain '
+p2094
+I1
+sS'not '
+p2095
+I1
+sS'maid '
+p2096
+I1
+sS'bu\\u00f1uelos '
+p2097
+I1
+sS'still '
+p2098
+I3
+sS'yeah '
+p2099
+I3
+stp2100
+a((lp2101
+S'muss'
+p2102
+aS'Muss'
+p2103
+a(dp2104
+S'better '
+p2105
+I11
+sS'am '
+p2106
+I42
+sS'would '
+p2107
+I1
+sS'uncle '
+p2108
+I1
+sS'cannot '
+p2109
+I1
+sS'may '
+p2110
+I4
+sS'important '
+p2111
+I1
+sS'did '
+p2112
+I1
+sS'work '
+p2113
+I4
+sS'duty '
+p2114
+I1
+sS'gotta '
+p2115
+I1301
+sS'really '
+p2116
+I2
+sS'if '
+p2117
+I4
+sS'natural '
+p2118
+I1
+sS'makes '
+p2119
+I3
+sS'factory '
+p2120
+I1
+sS"'ve "
+p2121
+I41
+sS'had '
+p2122
+I47
+sS'winger '
+p2123
+I1
+sS'mustbe '
+p2124
+I1
+sS've '
+p2125
+I3
+sS'got '
+p2126
+I1239
+sS'has '
+p2127
+I699
+sS"'ll "
+p2128
+I68
+sS'forced '
+p2129
+I1
+sS'needs '
+p2130
+I400
+sS'hasto '
+p2131
+I1
+sS'should '
+p2132
+I73
+sS'sapelli '
+p2133
+I1
+sS'just '
+p2134
+I8
+sS'hissy '
+p2135
+I1
+sS'want '
+p2136
+I43
+sS'necessary '
+p2137
+I2
+sS'make '
+p2138
+I11
+sS'goes '
+p2139
+I1
+sS'is '
+p2140
+I61
+sS'might '
+p2141
+I1
+sS'think '
+p2142
+I3
+sS'gets '
+p2143
+I3
+sS'big '
+p2144
+I1
+sS'go '
+p2145
+I8
+sS"'s "
+p2146
+I183
+sS'must '
+p2147
+I2089
+sS'um '
+p2148
+I1
+sS'precedent '
+p2149
+I1
+sS'whole '
+p2150
+I1
+sS'wanna '
+p2151
+I5
+sS'treating '
+p2152
+I1
+sS'have '
+p2153
+I3145
+sS'hey '
+p2154
+I1
+sS'know '
+p2155
+I1
+sS'jeter '
+p2156
+I1
+sS'm '
+p2157
+I3
+sS'be '
+p2158
+I5
+sS'due '
+p2159
+I3
+sS'mistakes '
+p2160
+I1
+sS'toofer '
+p2161
+I1
+sS'bound '
+p2162
+I3
+sS'insist '
+p2163
+I1
+sS'needed '
+p2164
+I23
+sS'takes '
+p2165
+I11
+sS'doesn '
+p2166
+I7
+sS'go- '
+p2167
+I1
+sS'don '
+p2168
+I14
+sS'ought '
+p2169
+I2
+sS'was '
+p2170
+I1
+sS'same '
+p2171
+I1
+sS'basket '
+p2172
+I1
+sS'means '
+p2173
+I2
+sS'whispers '
+p2174
+I1
+sS'wait '
+p2175
+I1
+sS'put '
+p2176
+I1
+sS'take '
+p2177
+I2
+sS'chocolate '
+p2178
+I1
+sS'will '
+p2179
+I9
+sS'to '
+p2180
+I229
+sS'gottaget '
+p2181
+I1
+sS'gonna '
+p2182
+I8
+sS'needn '
+p2183
+I2
+sS"'d "
+p2184
+I14
+sS'uld '
+p2185
+I1
+sS'research '
+p2186
+I1
+sS"'t "
+p2187
+I2
+sS'wish '
+p2188
+I1
+sS'keep '
+p2189
+I1
+sS', '
+p2190
+I9
+sS'do '
+p2191
+I184
+sS"'m "
+p2192
+I195
+sS'does '
+p2193
+I50
+sS'owe '
+p2194
+I1
+sS'can '
+p2195
+I37
+sS'see '
+p2196
+I1
+sS'ggot '
+p2197
+I1
+sS'itas '
+p2198
+I1
+sS'leaves '
+p2199
+I1
+sS'get '
+p2200
+I5
+sS'need '
+p2201
+I2122
+sS'not '
+p2202
+I1
+sS'jules '
+p2203
+I1
+sS'something '
+p2204
+I3
+stp2205
+a((lp2206
+S'treffen'
+p2207
+aS'Treffen'
+p2208
+a(dp2209
+S"'re "
+p2210
+I2
+sS'appointment '
+p2211
+I11
+sS'karar '
+p2212
+I1
+sS'going '
+p2213
+I1
+sS'join '
+p2214
+I1
+sS'meetingunarmed '
+p2215
+I1
+sS'damaged '
+p2216
+I1
+sS'am '
+p2217
+I1
+sS'got '
+p2218
+I1
+sS'meetings '
+p2219
+I32
+sS'dying '
+p2220
+I1
+sS"'ll "
+p2221
+I1
+sS'meet '
+p2222
+I899
+sS'agreed '
+p2223
+I2
+sS'olympics '
+p2224
+I1
+sS'up '
+p2225
+I2
+sS'running '
+p2226
+I2
+sS'reunion '
+p2227
+I3
+sS'making '
+p2228
+I3
+sS'together '
+p2229
+I13
+sS'rendezvous '
+p2230
+I2
+sS'importantmeeting '
+p2231
+I1
+sS'hooking '
+p2232
+I1
+sS'gather '
+p2233
+I1
+sS'beat '
+p2234
+I1
+sS'containelder '
+p2235
+I1
+sS'important '
+p2236
+I1
+sS'shot '
+p2237
+I1
+sS'sit- '
+p2238
+I2
+sS'hit '
+p2239
+I46
+sS'visit '
+p2240
+I1
+sS'michael '
+p2241
+I1
+sS'be '
+p2242
+I1
+sS'gonna '
+p2243
+I1
+sS'rally '
+p2244
+I5
+sS'find '
+p2245
+I2
+sS'make '
+p2246
+I55
+sS'date '
+p2247
+I18
+sS'fairly '
+p2248
+I1
+sS'social '
+p2249
+I1
+sS'gatherings '
+p2250
+I1
+sS'saw '
+p2251
+I3
+sS'dating '
+p2252
+I6
+sS'intro '
+p2253
+I1
+sS'you '
+p2254
+I1
+sS'shall '
+p2255
+I1
+sS'unfair '
+p2256
+I1
+sS'miss '
+p2257
+I5
+sS'shoot '
+p2258
+I2
+sS'meetingto '
+p2259
+I1
+sS'priya '
+p2260
+I2
+sS'reconvene '
+p2261
+I1
+sS'hitting '
+p2262
+I4
+sS'agree '
+p2263
+I1
+sS'catch '
+p2264
+I5
+sS'appeal '
+p2265
+I1
+sS'summit '
+p2266
+I1
+sS'chick '
+p2267
+I1
+sS'deal '
+p2268
+I1
+sS'after '
+p2269
+I1
+sS'conference '
+p2270
+I1
+sS'see '
+p2271
+I99
+sS'meeting '
+p2272
+I440
+sS'hook '
+p2273
+I4
+sS'friend '
+p2274
+I1
+sS'halfway '
+p2275
+I1
+sS'land '
+p2276
+I1
+sS'face '
+p2277
+I2
+sS'strike '
+p2278
+I6
+sS'run '
+p2279
+I5
+sS'ignorance '
+p2280
+I2
+sS'arriving '
+p2281
+I1
+sS'regroup '
+p2282
+I1
+sS'time '
+p2283
+I4
+sS'met '
+p2284
+I11
+sS'target '
+p2285
+I1
+sS'alone '
+p2286
+I1
+sS'seeing '
+p2287
+I30
+sS'happen '
+p2288
+I1
+sS'francisco '
+p2289
+I1
+sS'im '
+p2290
+I1
+sS'to '
+p2291
+I1
+sS'here '
+p2292
+I1
+sS'hang '
+p2293
+I2
+stp2294
+a((lp2295
+S'staats'
+p2296
+aS'Staats'
+p2297
+a(dp2298
+S'repelling '
+p2299
+I1
+sS'state '
+p2300
+I8
+sS'important '
+p2301
+I1
+sS'state- '
+p2302
+I1
+stp2303
+a((lp2304
+S'interessieren'
+p2305
+aS'Interessieren'
+p2306
+a(dp2307
+S'regard '
+p2308
+I1
+sS'cares '
+p2309
+I1
+sS'matter '
+p2310
+I1
+sS'concerned '
+p2311
+I1
+sS'see '
+p2312
+I1
+sS'assure '
+p2313
+I1
+sS'want '
+p2314
+I3
+sS'know '
+p2315
+I3
+sS'yopretending '
+p2316
+I1
+sS'important '
+p2317
+I1
+sS'moore '
+p2318
+I1
+sS'bureau '
+p2319
+I1
+sS'wonder '
+p2320
+I2
+sS'interests '
+p2321
+I2
+sS'damn '
+p2322
+I1
+sS'sloppy '
+p2323
+I1
+sS'mind '
+p2324
+I2
+sS'interested '
+p2325
+I39
+sS'business '
+p2326
+I3
+sS'crap '
+p2327
+I1
+sS'interesting '
+p2328
+I5
+sS'wondering '
+p2329
+I1
+sS'pal '
+p2330
+I1
+sS'concern '
+p2331
+I4
+sS'teenage '
+p2332
+I1
+sS'give '
+p2333
+I2
+sS'housing '
+p2334
+I1
+sS'curious '
+p2335
+I4
+sS'interest '
+p2336
+I20
+sS'care '
+p2337
+I41
+sS'telling '
+p2338
+I1
+stp2339
+a((lp2340
+S'dringend'
+p2341
+aS'Dringend'
+p2342
+a(dp2343
+S'emergency '
+p2344
+I1
+sS'really '
+p2345
+I23
+sS'reception '
+p2346
+I1
+sS'pedzia '
+p2347
+I1
+sS'desperately '
+p2348
+I2
+sS'needs '
+p2349
+I1
+sS'relies '
+p2350
+I1
+sS'rush '
+p2351
+I2
+sS'medical '
+p2352
+I1
+sS'urgent '
+p2353
+I38
+sS'important '
+p2354
+I1
+sS'request '
+p2355
+I1
+sS'urge '
+p2356
+I1
+sS'asap '
+p2357
+I2
+sS'lobby '
+p2358
+I1
+sS'urgently '
+p2359
+I9
+sS'strongly '
+p2360
+I2
+sS'bad '
+p2361
+I17
+sS'pressing '
+p2362
+I3
+sS'time- '
+p2363
+I1
+sS'condom '
+p2364
+I1
+sS'much '
+p2365
+I1
+sS'desperate '
+p2366
+I14
+sS'dire '
+p2367
+I2
+sS'totally '
+p2368
+I2
+sS'some '
+p2369
+I1
+sS'immediately '
+p2370
+I2
+sS'all '
+p2371
+I1
+sS'get '
+p2372
+I2
+sS'badly '
+p2373
+I4
+sS'crying '
+p2374
+I1
+sS'somewhereyou '
+p2375
+I1
+sS'need '
+p2376
+I3
+sS'urgent, '
+p2377
+I1
+sS'wait '
+p2378
+I2
+sS'realy '
+p2379
+I1
+sS'yeah '
+p2380
+I2
+stp2381
+a((lp2382
+S'entscheidender'
+p2383
+aS'Entscheidender'
+p2384
+a(dp2385
+S'vital '
+p2386
+I2
+sS'crucial '
+p2387
+I1
+sS'heuristic '
+p2388
+I2
+sS'pivotal '
+p2389
+I1
+sS'smoking '
+p2390
+I1
+sS'defining '
+p2391
+I4
+sS'critical '
+p2392
+I2
+sS'important '
+p2393
+I1
+stp2394
+a((lp2395
+S'wertvoller'
+p2396
+aS'Wertvoller'
+p2397
+a(dp2398
+S'valuable '
+p2399
+I12
+sS'important '
+p2400
+I1
+sS'precious '
+p2401
+I3
+stp2402
+a((lp2403
+S'dramatische'
+p2404
+aS'Dramatische'
+p2405
+a(dp2406
+S'dramatic '
+p2407
+I16
+sS'pairing '
+p2408
+I1
+sS'dramatics '
+p2409
+I2
+sS'dramatically '
+p2410
+I1
+sS'important '
+p2411
+I1
+stp2412
+a((lp2413
+S'bedeutendes'
+p2414
+aS'Bedeutendes'
+p2415
+a(dp2416
+S'important '
+p2417
+I1
+sS'significant '
+p2418
+I3
+sS'substantial '
+p2419
+I1
+sS'momentous '
+p2420
+I1
+stp2421
+a((lp2422
+S'einleuchtend'
+p2423
+aS'Einleuchtend'
+p2424
+a(dp2425
+S'point '
+p2426
+I1
+sS'obvious '
+p2427
+I1
+sS'thorough '
+p2428
+I1
+sS'important '
+p2429
+I1
+sS'reasonable '
+p2430
+I1
+stp2431
+a((lp2432
+S'daran'
+p2433
+aS'Daran'
+p2434
+a(dp2435
+S'one '
+p2436
+I1
+sS'phenomenal '
+p2437
+I1
+sS'being '
+p2438
+I1
+sS'getting '
+p2439
+I1
+sS'there '
+p2440
+I9
+sS'thought '
+p2441
+I2
+sS'stress '
+p2442
+I1
+sS'hadn '
+p2443
+I1
+sS'matter '
+p2444
+I1
+sS'side '
+p2445
+I1
+sS'delorean '
+p2446
+I1
+sS'apeurondaslngeu '
+p2447
+I1
+sS'consider '
+p2448
+I2
+sS'communicate '
+p2449
+I1
+sS"'we "
+p2450
+I1
+sS'believer '
+p2451
+I2
+sS"'t "
+p2452
+I2
+sS'of '
+p2453
+I3
+sS'deal '
+p2454
+I1
+sS'important '
+p2455
+I1
+sS'. '
+p2456
+I1
+sS'effort '
+p2457
+I1
+sS'always '
+p2458
+I1
+sS'that '
+p2459
+I64
+sS'remember '
+p2460
+I21
+sS'becausehe '
+p2461
+I1
+sS'\\u00feii '
+p2462
+I1
+sS'promises '
+p2463
+I1
+sS'geographic '
+p2464
+I1
+sS'beforehand '
+p2465
+I1
+sS'time '
+p2466
+I1
+sS'mind '
+p2467
+I3
+sS'him '
+p2468
+I2
+sS'so '
+p2469
+I5
+sS'a '
+p2470
+I1
+sS'thinking '
+p2471
+I8
+sS'on '
+p2472
+I6
+sS'remembering '
+p2473
+I1
+sS'think '
+p2474
+I12
+sS'considered '
+p2475
+I1
+sS'about '
+p2476
+I100
+sS'it '
+p2477
+I97
+sS"'cause "
+p2478
+I4
+sS'keep '
+p2479
+I2
+sS'to '
+p2480
+I3
+sS'part '
+p2481
+I5
+sS'this '
+p2482
+I29
+sS'bothers '
+p2483
+I1
+sS'monday '
+p2484
+I1
+sS'get '
+p2485
+I1
+sS'enjoy '
+p2486
+I1
+sS'things '
+p2487
+I1
+sS'exposure '
+p2488
+I1
+sS'forget '
+p2489
+I1
+sS'what '
+p2490
+I2
+sS'remembers '
+p2491
+I1
+sS'hold '
+p2492
+I1
+sS'thing '
+p2493
+I11
+sS'picking '
+p2494
+I1
+stp2495
+a((lp2496
+S'helfen'
+p2497
+aS'Helfen'
+p2498
+a(dp2499
+S'duct '
+p2500
+I1
+sS'hand '
+p2501
+I35
+sS'better '
+p2502
+I1
+sS'panting '
+p2503
+I1
+sS'break '
+p2504
+I1
+sS'god '
+p2505
+I1
+sS'hopeless '
+p2506
+I1
+sS'join '
+p2507
+I1
+sS'sorry '
+p2508
+I3
+sS'important '
+p2509
+I1
+sS'did '
+p2510
+I1
+sS'work '
+p2511
+I3
+sS'lend '
+p2512
+I3
+sS'with '
+p2513
+I1
+sS'up '
+p2514
+I1
+sS'whitest '
+p2515
+I1
+sS'serve '
+p2516
+I4
+sS'helpfor '
+p2517
+I1
+sS'hmm '
+p2518
+I1
+sS"'am "
+p2519
+I1
+sS'save '
+p2520
+I7
+sS'please '
+p2521
+I2
+sS'hook '
+p2522
+I1
+sS'chance '
+p2523
+I1
+sS'idiot '
+p2524
+I1
+sS'anything '
+p2525
+I2
+sS'helped '
+p2526
+I33
+sS'help '
+p2527
+I4002
+sS'ha '
+p2528
+I1
+sS'noble '
+p2529
+I1
+sS"'re "
+p2530
+I3
+sS'teach '
+p2531
+I2
+sS'assist '
+p2532
+I28
+sS'me '
+p2533
+I3
+sS'davidson '
+p2534
+I1
+sS'pitch '
+p2535
+I2
+sS'others '
+p2536
+I1
+sS'lying '
+p2537
+I1
+sS'pancake '
+p2538
+I1
+sS'mich '
+p2539
+I1
+sS'fix '
+p2540
+I5
+sS'cure '
+p2541
+I1
+sS'come '
+p2542
+I4
+sS'make '
+p2543
+I2
+sS'good '
+p2544
+I3
+sS'helps '
+p2545
+I10
+sS'him '
+p2546
+I1
+sS'doing '
+p2547
+I2
+sS'proof '
+p2548
+I1
+sS'pickle '
+p2549
+I1
+sS'aid '
+p2550
+I4
+sS'after '
+p2551
+I1
+sS'oblige '
+p2552
+I1
+sS'upstairs '
+p2553
+I1
+sS'through '
+p2554
+I1
+sS'pal '
+p2555
+I1
+sS'fixed '
+p2556
+I1
+sS'nowhere '
+p2557
+I1
+sS'aider '
+p2558
+I1
+sS'favour '
+p2559
+I1
+sS'checking '
+p2560
+I1
+sS'help- '
+p2561
+I1
+sS'aiutarti '
+p2562
+I1
+sS'support '
+p2563
+I2
+sS'out '
+p2564
+I1
+sS'dear '
+p2565
+I1
+sS'here '
+p2566
+I4
+sS'fields '
+p2567
+I1
+sS'raja '
+p2568
+I1
+sS'remind '
+p2569
+I1
+sS'comfort '
+p2570
+I1
+sS'25 '
+p2571
+I1
+sS'for '
+p2572
+I2
+sS'absolutely '
+p2573
+I1
+sS'jack '
+p2574
+I1
+sS'chip '
+p2575
+I1
+sS'canhelp '
+p2576
+I1
+sS'arablc '
+p2577
+I1
+sS'detweiler '
+p2578
+I1
+sS'be '
+p2579
+I1
+sS'help, '
+p2580
+I7
+sS'handy '
+p2581
+I1
+sS'right '
+p2582
+I6
+sS'litmus '
+p2583
+I1
+sS'hand, '
+p2584
+I1
+sS'anna '
+p2585
+I1
+sS'shoot '
+p2586
+I1
+sS'supporting '
+p2587
+I1
+sS'heal '
+p2588
+I1
+sS'assasinate '
+p2589
+I1
+sS'neither '
+p2590
+I1
+sS'okay '
+p2591
+I2
+sS'tried '
+p2592
+I2
+sS'shaker '
+p2593
+I1
+sS'give '
+p2594
+I6
+sS'helping '
+p2595
+I124
+sS'trying '
+p2596
+I1
+sS'will '
+p2597
+I1
+sS'to '
+p2598
+I3
+sS'who '
+p2599
+I1
+sS'use '
+p2600
+I1
+sS'service '
+p2601
+I3
+sS'helpful '
+p2602
+I7
+sS'comes '
+p2603
+I1
+sS'solid '
+p2604
+I1
+sS', '
+p2605
+I1
+sS'cp '
+p2606
+I1
+sS'do '
+p2607
+I18
+sS'clear '
+p2608
+I1
+sS'treat '
+p2609
+I5
+sS'win '
+p2610
+I1
+sS'helpg '
+p2611
+I1
+sS'protect '
+p2612
+I1
+sS'chicago '
+p2613
+I1
+sS'assistance '
+p2614
+I4
+sS'oh '
+p2615
+I1
+sS'tell '
+p2616
+I1
+sS'maam '
+p2617
+I1
+sS'you '
+p2618
+I1
+sS'yacht '
+p2619
+I1
+sS'kyle '
+p2620
+I1
+sS'ayudar '
+p2621
+I2
+sS'way '
+p2622
+I1
+sS'get '
+p2623
+I7
+sS'need '
+p2624
+I4
+sS'hold '
+p2625
+I1
+sS'hp '
+p2626
+I2
+stp2627
+a((lp2628
+S'besonders'
+p2629
+aS'Besonders'
+p2630
+a(dp2631
+S'terribly '
+p2632
+I2
+sS'fatherly '
+p2633
+I1
+sS'too '
+p2634
+I12
+sS'so '
+p2635
+I4
+sS'happy '
+p2636
+I1
+sS'that '
+p2637
+I2
+sS'specially '
+p2638
+I1
+sS'specialnwasn '
+p2639
+I1
+sS'brilliantly '
+p2640
+I1
+sS'most '
+p2641
+I2
+sS'special, '
+p2642
+I1
+sS'well '
+p2643
+I1
+sS'extra '
+p2644
+I8
+sS'special '
+p2645
+I129
+sS'important '
+p2646
+I1
+sS'countryside '
+p2647
+I1
+sS'especially '
+p2648
+I286
+sS'eminently '
+p2649
+I1
+sS'really '
+p2650
+I8
+sS'specific '
+p2651
+I12
+sS'good '
+p2652
+I3
+sS'sticking '
+p2653
+I1
+sS'particularly '
+p2654
+I67
+sS'pretty '
+p2655
+I2
+sS'were '
+p2656
+I1
+sS'speciah '
+p2657
+I1
+sS'much '
+p2658
+I24
+sS'very '
+p2659
+I60
+sS'even '
+p2660
+I1
+sS'specifically '
+p2661
+I4
+sS'exceptionally '
+p2662
+I2
+sS'escape '
+p2663
+I1
+sS'been '
+p2664
+I4
+sS'feeling '
+p2665
+I1
+sS'anything '
+p2666
+I1
+sS'- '
+p2667
+I2
+sS'except '
+p2668
+I1
+sS'particular '
+p2669
+I5
+sS'different '
+p2670
+I1
+sS'enthusiasm '
+p2671
+I1
+sS'yeah '
+p2672
+I1
+sS'episode '
+p2673
+I1
+sS"'especially "
+p2674
+I1
+sS'speciai '
+p2675
+I1
+sS'something '
+p2676
+I1
+sS'above '
+p2677
+I1
+stp2678
+a((lp2679
+S'wissen'
+p2680
+aS'Wissen'
+p2681
+a(dp2682
+S'feel '
+p2683
+I3
+sS'word '
+p2684
+I2
+sS'buckshot '
+p2685
+I1
+sS'supervisor '
+p2686
+I1
+sS'what '
+p2687
+I2
+sS'disowned '
+p2688
+I1
+sS'jabberwocky '
+p2689
+I1
+sS'd '
+p2690
+I2
+sS'yo5 '
+p2691
+I1
+sS'mean '
+p2692
+I4
+sS'endorsement '
+p2693
+I1
+sS'actually '
+p2694
+I1
+sS'duffel '
+p2695
+I1
+sS'important '
+p2696
+I1
+sS'did '
+p2697
+I10
+sS'recall '
+p2698
+I1
+sS"'know "
+p2699
+I3
+sS'tripling '
+p2700
+I1
+sS'haven '
+p2701
+I1
+sS'dennis '
+p2702
+I1
+sS'fowler '
+p2703
+I1
+sS'wisdom '
+p2704
+I1
+sS'knowing '
+p2705
+I184
+sS'truth '
+p2706
+I5
+sS'weil '
+p2707
+I1
+sS'exhales '
+p2708
+I1
+sS'question '
+p2709
+I2
+sS'look '
+p2710
+I7
+sS'no '
+p2711
+I1
+sS'knowwhat '
+p2712
+I2
+sS'found '
+p2713
+I4
+sS'about '
+p2714
+I7
+sS'address '
+p2715
+I1
+sS'- '
+p2716
+I1
+sS"'ve "
+p2717
+I6
+sS'anything '
+p2718
+I1
+sS'tor '
+p2719
+I1
+sS'contents '
+p2720
+I1
+sS'watched '
+p2721
+I1
+sS'guess '
+p2722
+I9
+sS"'re "
+p2723
+I9
+sS'knowwhen '
+p2724
+I1
+sS'aware '
+p2725
+I27
+sS'reminder '
+p2726
+I1
+sS'kane '
+p2727
+I1
+sS'does '
+p2728
+I1
+sS'got '
+p2729
+I6
+sS'peheps '
+p2730
+I1
+sS'hoop '
+p2731
+I1
+sS'amy '
+p2732
+I1
+sS'witticism '
+p2733
+I1
+sS'most '
+p2734
+I1
+sS'answer '
+p2735
+I1
+sS'cartoons '
+p2736
+I1
+sS'knowif '
+p2737
+I4
+sS'nosy '
+p2738
+I2
+sS'figure '
+p2739
+I5
+sS'want '
+p2740
+I1
+sS'request '
+p2741
+I1
+sS'recognize '
+p2742
+I3
+sS'that '
+p2743
+I1
+sS'find '
+p2744
+I28
+sS'yes '
+p2745
+I1
+sS'knowhedge '
+p2746
+I2
+sS'saw '
+p2747
+I3
+sS'understood '
+p2748
+I1
+sS'is '
+p2749
+I2
+sS'mind '
+p2750
+I2
+sS'sigh '
+p2751
+I1
+sS'a- '
+p2752
+I1
+sS'interesting '
+p2753
+I1
+sS'protecting '
+p2754
+I1
+sS'knowledge, '
+p2755
+I1
+sS'told '
+p2756
+I1
+sS'believe '
+p2757
+I2
+sS'say '
+p2758
+I4
+sS'thanks '
+p2759
+I1
+sS'bailey '
+p2760
+I1
+sS'understanding '
+p2761
+I2
+sS'things '
+p2762
+I1
+sS'......... '
+p2763
+I1
+sS'out '
+p2764
+I3
+sS'wake- '
+p2765
+I1
+sS'happen '
+p2766
+I1
+sS'must '
+p2767
+I2
+sS'liabilities '
+p2768
+I1
+sS'mel '
+p2769
+I1
+sS'yoknow '
+p2770
+I1
+sS'but '
+p2771
+I5
+sS'intel '
+p2772
+I1
+sS'knew '
+p2773
+I40
+sS'decide '
+p2774
+I1
+sS'have '
+p2775
+I24
+sS'session '
+p2776
+I1
+sS'know '
+p2777
+I8633
+sS'female '
+p2778
+I1
+sS'interest '
+p2779
+I1
+sS'appreciate '
+p2780
+I2
+sS'brain '
+p2781
+I1
+sS'family '
+p2782
+I1
+sS'gay '
+p2783
+I2
+sS'now '
+p2784
+I2
+sS'remember '
+p2785
+I12
+sS'minute '
+p2786
+I1
+sS'sure '
+p2787
+I12
+sS'sei '
+p2788
+I1
+sS'know, '
+p2789
+I79
+sS'were '
+p2790
+I3
+sS'yoow '
+p2791
+I1
+sS'interested '
+p2792
+I3
+sS'chuckles '
+p2793
+I1
+sS'hard '
+p2794
+I1
+sS'ted '
+p2795
+I1
+sS'uh '
+p2796
+I1
+sS'knowthat '
+p2797
+I3
+sS'science '
+p2798
+I1
+sS'you '
+p2799
+I1
+sS'don '
+p2800
+I52
+sS'information '
+p2801
+I4
+sS'trafficking '
+p2802
+I1
+sS'wondering '
+p2803
+I13
+sS'learned '
+p2804
+I4
+sS'mummy '
+p2805
+I1
+sS'spaceman '
+p2806
+I1
+sS'are '
+p2807
+I9
+sS'tearing '
+p2808
+I1
+sS'pinpoint '
+p2809
+I1
+sS'known '
+p2810
+I100
+sS'curious '
+p2811
+I2
+sS'ask '
+p2812
+I6
+sS'asking '
+p2813
+I9
+sS'frak '
+p2814
+I1
+sS'girl '
+p2815
+I1
+sS'much '
+p2816
+I1
+sS'unaware '
+p2817
+I1
+sS'kw '
+p2818
+I1
+sS'service '
+p2819
+I1
+sS"'d "
+p2820
+I1
+sS'knoexactly '
+p2821
+I1
+sS'sapete '
+p2822
+I1
+sS'guessed '
+p2823
+I1
+sS'heard '
+p2824
+I2
+sS'well '
+p2825
+I6
+sS"'t "
+p2826
+I1
+sS'learn '
+p2827
+I3
+sS'wondered '
+p2828
+I1
+sS'spencer '
+p2829
+I1
+sS'realize '
+p2830
+I10
+sS'do '
+p2831
+I414
+sS'posse '
+p2832
+I1
+sS'armed '
+p2833
+I1
+sS'knowledge '
+p2834
+I126
+sS'anastasia '
+p2835
+I1
+sS'understand '
+p2836
+I33
+sS'milo '
+p2837
+I1
+sS'realise '
+p2838
+I1
+sS'details '
+p2839
+I1
+sS'deranged '
+p2840
+I1
+sS'cares '
+p2841
+I2
+sS'bath '
+p2842
+I1
+sS'can '
+p2843
+I20
+sS'confirm '
+p2844
+I1
+sS'disclosure '
+p2845
+I1
+sS'oh '
+p2846
+I1
+sS'looking '
+p2847
+I1
+sS'tell '
+p2848
+I59
+sS'washer- '
+p2849
+I1
+sS'hear '
+p2850
+I20
+sS'see '
+p2851
+I60
+sS'i '
+p2852
+I1
+sS'? '
+p2853
+I1
+sS'dunno '
+p2854
+I2
+sS'knows '
+p2855
+I50
+sS'puffs '
+p2856
+I1
+sS'aabout '
+p2857
+I1
+sS'wanted '
+p2858
+I2
+sS'saying '
+p2859
+I1
+sS'liz '
+p2860
+I2
+sS'yeah '
+p2861
+I1
+sS'placidly '
+p2862
+I1
+sS'idea '
+p2863
+I18
+stp2864
+a((lp2865
+S'glauben'
+p2866
+aS'Glauben'
+p2867
+a(dp2868
+S'feel '
+p2869
+I12
+sS'delusions '
+p2870
+I1
+sS'word '
+p2871
+I10
+sS'would '
+p2872
+I1
+sS'imagine '
+p2873
+I7
+sS'mean '
+p2874
+I1
+sS'arguments '
+p2875
+I1
+sS'dickhead '
+p2876
+I1
+sS'important '
+p2877
+I1
+sS'did '
+p2878
+I1
+sS'really '
+p2879
+I3
+sS'true '
+p2880
+I3
+sS'buying '
+p2881
+I3
+sS'seen '
+p2882
+I1
+sS'if '
+p2883
+I2
+sS'dead '
+p2884
+I1
+sS'mex '
+p2885
+I2
+sS'religion '
+p2886
+I4
+sS'thinking '
+p2887
+I20
+sS'spiritual '
+p2888
+I1
+sS'erees '
+p2889
+I1
+sS'god '
+p2890
+I1
+sS'expect '
+p2891
+I2
+sS'- '
+p2892
+I1
+sS'uskoa '
+p2893
+I1
+sS"'re "
+p2894
+I2
+sS'believed '
+p2895
+I17
+sS'seem '
+p2896
+I1
+sS'assure '
+p2897
+I3
+sS'believeyou '
+p2898
+I3
+sS'yarmouth '
+p2899
+I1
+sS'crazy '
+p2900
+I3
+sS'thinks '
+p2901
+I4
+sS'tom '
+p2902
+I1
+sS'feelings- '
+p2903
+I1
+sS'beliefs '
+p2904
+I11
+sS'unbelievable '
+p2905
+I5
+sS'think '
+p2906
+I584
+sS'bucking '
+p2907
+I1
+sS'tell '
+p2908
+I2
+sS'say '
+p2909
+I1
+sS'dogma '
+p2910
+I1
+sS'shot '
+p2911
+I1
+sS'beleve '
+p2912
+I1
+sS'suspect '
+p2913
+I1
+sS'telling '
+p2914
+I4
+sS'spirit '
+p2915
+I1
+sS'\\u266a '
+p2916
+I1
+sS'trust '
+p2917
+I49
+sS'doubt '
+p2918
+I2
+sS'thinkyou '
+p2919
+I1
+sS'makes '
+p2920
+I6
+sS'guess '
+p2921
+I3
+sS'convinced '
+p2922
+I1
+sS'know '
+p2923
+I1
+sS'nah '
+p2924
+I2
+sS'trusted '
+p2925
+I2
+sS'murdered '
+p2926
+I1
+sS'senses '
+p2927
+I1
+sS'belief '
+p2928
+I16
+sS'sure '
+p2929
+I2
+sS'suppose '
+p2930
+I1
+sS'believe '
+p2931
+I1765
+sS'so '
+p2932
+I1
+sS'sir '
+p2933
+I1
+sS'crap '
+p2934
+I1
+sS'annoy '
+p2935
+I1
+sS'creed '
+p2936
+I1
+sS'million '
+p2937
+I1
+sS'you '
+p2938
+I1
+sS'don '
+p2939
+I7
+sS'uncircumcised '
+p2940
+I1
+sS'what '
+p2941
+I1
+sS'believehe '
+p2942
+I1
+sS'reason '
+p2943
+I1
+sS'this '
+p2944
+I1
+sS'jin '
+p2945
+I1
+sS'are '
+p2946
+I3
+sS'cupid '
+p2947
+I1
+sS'assume '
+p2948
+I2
+sS'take '
+p2949
+I2
+sS'will '
+p2950
+I1
+sS'believe, '
+p2951
+I1
+sS'brother '
+p2952
+I1
+sS'chuckles '
+p2953
+I1
+sS'faith '
+p2954
+I104
+sS'thought '
+p2955
+I3
+sS'dwight '
+p2956
+I1
+sS'believewhat '
+p2957
+I1
+sS'fall '
+p2958
+I1
+sS'from '
+p2959
+I2
+sS'blown '
+p2960
+I1
+sS'german '
+p2961
+I1
+sS'do '
+p2962
+I208
+sS'bet, '
+p2963
+I1
+sS'credit '
+p2964
+I3
+sS'belive '
+p2965
+I3
+sS'can '
+p2966
+I1
+sS'listen '
+p2967
+I1
+sS'hello '
+p2968
+I1
+sS'i '
+p2969
+I4
+sS'suspected '
+p2970
+I3
+sS'believes '
+p2971
+I7
+sS'believing '
+p2972
+I32
+sS'buy '
+p2973
+I1
+sS'door '
+p2974
+I1
+sS'basing '
+p2975
+I1
+sS'killed '
+p2976
+I1
+sS'hold '
+p2977
+I1
+stp2978
+a((lp2979
+S'wwichtig'
+p2980
+aS'Wwichtig'
+p2981
+a(dp2982
+S'important '
+p2983
+I1
+stp2984
+a((lp2985
+S'punkte'
+p2986
+aS'Punkte'
+p2987
+a(dp2988
+S'point '
+p2989
+I2
+sS'items '
+p2990
+I1
+sS'important '
+p2991
+I1
+sS'spots '
+p2992
+I1
+sS'count '
+p2993
+I3
+sS'today '
+p2994
+I1
+sS'helping '
+p2995
+I2
+sS'marks '
+p2996
+I1
+sS'steps '
+p2997
+I1
+sS'goals '
+p2998
+I1
+sS'dots '
+p2999
+I35
+sS'points '
+p3000
+I108
+sS'score '
+p3001
+I4
+sS'situation '
+p3002
+I1
+sS'grades '
+p3003
+I1
+sS'listed '
+p3004
+I1
+stp3005
+a((lp3006
+S'bedeutenden'
+p3007
+aS'Bedeutenden'
+p3008
+a(dp3009
+S'important '
+p3010
+I1
+sS'momentous '
+p3011
+I1
+sS'major '
+p3012
+I3
+sS'ownership '
+p3013
+I1
+sS'clalming '
+p3014
+I1
+sS'significant '
+p3015
+I2
+sS'profile '
+p3016
+I1
+stp3017
+a((lp3018
+S'wchtg'
+p3019
+aS'Wchtg'
+p3020
+a(dp3021
+S'important '
+p3022
+I1
+stp3023
+a((lp3024
+S'preis'
+p3025
+aS'Preis'
+p3026
+a(dp3027
+S'prize '
+p3028
+I62
+sS'award '
+p3029
+I39
+sS'price '
+p3030
+I290
+sS'no '
+p3031
+I2
+sS'reward '
+p3032
+I2
+sS'forthat '
+p3033
+I1
+sS'faciai '
+p3034
+I1
+sS'numbers '
+p3035
+I1
+sS'cost '
+p3036
+I40
+sS'boop '
+p3037
+I1
+sS'deal '
+p3038
+I2
+sS'via '
+p3039
+I1
+sS'necessary '
+p3040
+I2
+sS'away '
+p3041
+I1
+sS'prrice '
+p3042
+I1
+sS'place '
+p3043
+I1
+sS'charge '
+p3044
+I1
+sS'banter '
+p3045
+I1
+sS'costs '
+p3046
+I16
+sS'takes '
+p3047
+I1
+sS'sucky '
+p3048
+I1
+sS'awards '
+p3049
+I1
+sS'revealed '
+p3050
+I1
+sS'important '
+p3051
+I1
+sS'winner '
+p3052
+I1
+sS'anything '
+p3053
+I1
+sS'price, '
+p3054
+I2
+sS'rate '
+p3055
+I5
+sS'tip '
+p3056
+I1
+sS'odds '
+p3057
+I1
+sS'veronica '
+p3058
+I1
+sS'free '
+p3059
+I3
+stp3060
+a((lp3061
+S'\\u2039'
+p3062
+aS'\\u2039'
+p3063
+a(dp3064
+S'r '
+p3065
+I4
+sS'important '
+p3066
+I2
+sS'suggestion '
+p3067
+I2
+stp3068
+a((lp3069
+S'147'
+p3070
+aS'147'
+p3071
+a(dp3072
+S'147 '
+p3073
+I4
+sS'important '
+p3074
+I2
+stp3075
+a((lp3076
+S'sollte'
+p3077
+aS'Sollte'
+p3078
+a(dp3079
+S'better '
+p3080
+I12
+sS'am '
+p3081
+I11
+sS'would '
+p3082
+I588
+sS'mean '
+p3083
+I3
+sS'may '
+p3084
+I1
+sS'wo3 '
+p3085
+I1
+sS'important '
+p3086
+I1
+sS'did '
+p3087
+I10
+sS'meant '
+p3088
+I25
+sS'gotta '
+p3089
+I12
+sS'if '
+p3090
+I68
+sS'tea '
+p3091
+I1
+sS'|| '
+p3092
+I1
+sS'either '
+p3093
+I2
+sS'about '
+p3094
+I2
+sS'all '
+p3095
+I1
+sS'had '
+p3096
+I17
+sS'our '
+p3097
+I1
+sS'best '
+p3098
+I1
+sS'want '
+p3099
+I1
+sS"'re "
+p3100
+I1
+sS'sh0uldn '
+p3101
+I1
+sS'probably '
+p3102
+I1
+sS'any '
+p3103
+I2
+sS'does '
+p3104
+I6
+sS'else '
+p3105
+I2
+sS'has '
+p3106
+I1
+sS"'ll "
+p3107
+I1
+sS'jenkins '
+p3108
+I1
+sS'needs '
+p3109
+I18
+sS"'you "
+p3110
+I1
+sS'should '
+p3111
+I2347
+sS'just '
+p3112
+I4
+sS'could '
+p3113
+I45
+sS'throw '
+p3114
+I1
+sS'hit '
+p3115
+I1
+sS'wouldn '
+p3116
+I27
+sS'is '
+p3117
+I17
+sS'lf '
+p3118
+I1
+sS'might '
+p3119
+I11
+sS'asked '
+p3120
+I2
+sS'told '
+p3121
+I11
+sS'think '
+p3122
+I6
+sS'hugh '
+p3123
+I1
+sS'maybe '
+p3124
+I2
+sS'. '
+p3125
+I1
+sS'must '
+p3126
+I7
+sS'suposed '
+p3127
+I1
+sS'ku '
+p3128
+I1
+sS'remind '
+p3129
+I1
+sS'but '
+p3130
+I1
+sS'case '
+p3131
+I5
+sS'hope '
+p3132
+I1
+sS'makes '
+p3133
+I1
+sS'have '
+p3134
+I2
+sS'oughta '
+p3135
+I8
+sS'didn '
+p3136
+I3
+sS'wasn '
+p3137
+I2
+sS'be '
+p3138
+I1
+sS'used '
+p3139
+I1
+sS'were '
+p3140
+I3
+sS'why '
+p3141
+I3
+sS'needed '
+p3142
+I3
+sS'doesn '
+p3143
+I1
+sS'couldn '
+p3144
+I1
+sS'you '
+p3145
+I2
+sS'ought '
+p3146
+I50
+sS'was '
+p3147
+I195
+sS'reason '
+p3148
+I1
+sS'said '
+p3149
+I5
+sS'... '
+p3150
+I2
+sS'will '
+p3151
+I6
+sS'to '
+p3152
+I132
+sS'kind '
+p3153
+I1
+sS"'d "
+p3154
+I40
+sS'shouldn '
+p3155
+I333
+sS'well, '
+p3156
+I1
+sS'supposed '
+p3157
+I431
+sS'shold '
+p3158
+I1
+sS', '
+p3159
+I1
+sS"'s "
+p3160
+I54
+sS'do '
+p3161
+I19
+sS'should, '
+p3162
+I1
+sS'byron '
+p3163
+I1
+sS'prove '
+p3164
+I1
+sS'can '
+p3165
+I15
+sS'made '
+p3166
+I2
+sS'i '
+p3167
+I1
+sS'in '
+p3168
+I4
+sS'shall '
+p3169
+I31
+sS'unless '
+p3170
+I1
+sS'wanted '
+p3171
+I16
+sS'need '
+p3172
+I10
+sS'slightly '
+p3173
+I1
+stp3174
+a((lp3175
+S'wichtrig'
+p3176
+aS'Wichtrig'
+p3177
+a(dp3178
+S'important '
+p3179
+I1
+stp3180
+a((lp3181
+S'hilfreich'
+p3182
+aS'Hilfreich'
+p3183
+a(dp3184
+S'useful '
+p3185
+I17
+sS'sass '
+p3186
+I1
+sS'important '
+p3187
+I1
+sS'helped '
+p3188
+I3
+sS'help '
+p3189
+I18
+sS'unhelpful '
+p3190
+I3
+sS'kind '
+p3191
+I1
+sS'helping '
+p3192
+I17
+sS'helpful '
+p3193
+I98
+sS'usefui '
+p3194
+I1
+sS'helpfulfor '
+p3195
+I1
+sS'worth '
+p3196
+I1
+sS'helps '
+p3197
+I4
+sS'blessed '
+p3198
+I1
+sS'healthy '
+p3199
+I1
+sS'dirac '
+p3200
+I1
+stp3201
+a((lp3202
+S'abed'
+p3203
+aS'Abed'
+p3204
+a(dp3205
+S'football '
+p3206
+I1
+sS'important '
+p3207
+I1
+sS'abed '
+p3208
+I101
+sS'catch '
+p3209
+I1
+sS'shirley '
+p3210
+I2
+sS'luck '
+p3211
+I1
+sS'mailers '
+p3212
+I1
+sS'looks '
+p3213
+I1
+sS'next '
+p3214
+I1
+sS'drinkin '
+p3215
+I1
+sS'tierra '
+p3216
+I1
+sS'bad- '
+p3217
+I1
+stp3218
+a((lp3219
+S'vogel'
+p3220
+aS'Vogel'
+p3221
+a(dp3222
+S'leak '
+p3223
+I1
+sS'important '
+p3224
+I1
+sS'rapture '
+p3225
+I1
+sS'chirp '
+p3226
+I1
+sS'test '
+p3227
+I1
+sS'projects '
+p3228
+I1
+sS'adervogel '
+p3229
+I1
+sS'bird '
+p3230
+I206
+sS'guy '
+p3231
+I5
+sS'learn '
+p3232
+I2
+sS'mockingbird '
+p3233
+I1
+sS'when '
+p3234
+I2
+sS'bird, '
+p3235
+I3
+sS'exxon '
+p3236
+I1
+sS'birdie '
+p3237
+I1
+sS'killed '
+p3238
+I1
+sS'thing '
+p3239
+I2
+sS'vogel '
+p3240
+I10
+sS'starling '
+p3241
+I1
+sS'plows '
+p3242
+I1
+stp3243
+a((lp3244
+S'betone'
+p3245
+aS'Betone'
+p3246
+a(dp3247
+S'pronouncing '
+p3248
+I2
+sS'pointing '
+p3249
+I1
+sS'important '
+p3250
+I1
+sS'emphasize '
+p3251
+I1
+stp3252
+a((lp3253
+S'wchtges'
+p3254
+aS'Wchtges'
+p3255
+a(dp3256
+S'important '
+p3257
+I1
+stp3258
+a((lp3259
+S'allem,'
+p3260
+aS'Allem,'
+p3261
+a(dp3262
+S'important '
+p3263
+I1
+stp3264
+a((lp3265
+S'einfluss'
+p3266
+aS'Einfluss'
+p3267
+a(dp3268
+S'effect '
+p3269
+I3
+sS'dangerous '
+p3270
+I1
+sS'sway '
+p3271
+I2
+sS'input '
+p3272
+I1
+sS'difference '
+p3273
+I1
+sS'important '
+p3274
+I1
+sS'knowledge '
+p3275
+I1
+sS'power '
+p3276
+I5
+sS'reach '
+p3277
+I4
+sS'clout '
+p3278
+I7
+sS'flair '
+p3279
+I1
+sS'pull '
+p3280
+I3
+sS'interfere '
+p3281
+I2
+sS'impact '
+p3282
+I4
+sS'my '
+p3283
+I1
+sS'influence '
+p3284
+I67
+sS'impede '
+p3285
+I2
+sS'leverage '
+p3286
+I6
+sS'explain '
+p3287
+I1
+sS'alone '
+p3288
+I1
+sS'jurisdiction '
+p3289
+I2
+sS'hold '
+p3290
+I1
+sS'affect '
+p3291
+I1
+sS'control '
+p3292
+I3
+stp3293
+a((lp3294
+S'entscheidenden'
+p3295
+aS'Entscheidenden'
+p3296
+a(dp3297
+S'dunno '
+p3298
+I1
+sS'important '
+p3299
+I1
+sS'staying '
+p3300
+I1
+sS'crucial '
+p3301
+I2
+sS'leading '
+p3302
+I1
+sS'smoking '
+p3303
+I2
+sS'crunch '
+p3304
+I1
+sS'defining '
+p3305
+I1
+sS'significant '
+p3306
+I1
+sS'decisive '
+p3307
+I1
+stp3308
+a((lp3309
+S'bedeutendere'
+p3310
+aS'Bedeutendere'
+p3311
+a(dp3312
+S'important '
+p3313
+I1
+stp3314
+a((lp3315
+S'istwichtiger'
+p3316
+aS'Istwichtiger'
+p3317
+a(dp3318
+S'important '
+p3319
+I1
+stp3320
+a.

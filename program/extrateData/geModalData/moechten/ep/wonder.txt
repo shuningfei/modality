@@ -1,0 +1,24 @@
+Aber ich möchte eine Puppe kaufen .	2	ep
+I wonder if I could buy one of those dolls .	1
+
+Ich möchte Sie sprechen .	1	ep
+I wonder if I could talk to you ?	1
+
+" Ich möchte sehen , wo ich landen werde "	2	ep
+" I wonder where I 'll end up "	2
+
+Ich möchte gerne wissen , was es damit auf sich hat .	1	ep
+I wonder what they are for ?	1
+
+Ich möchte darum bitten , meine Anmerkung ins Protokoll aufzunehmen .	1	ep
+I wonder if that could be added to the Minutes .	1
+
+Ich möchte die Mitgliedsländer sehen , die das zur Zeit aushalten .	1	ep
+I wonder just which Member States think they can hold out now .	1
+
+Ich möchte Sie bitten , mir eine Frage im Hinblick auf die Investitionen von EU-Unternehmen in den EU-Bewerberländern zu beantworten .	1	ep
+I wonder if you would answer a question concerning investment by EU companies in the EU applicant countries .	1
+
+Ich möchte vier Fragen an den schwedischen Ratsvorsitz richten .	1	ep
+I wonder if four questions could be transmitted to the Swedish Presidency .	1
+

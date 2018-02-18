@@ -1,0 +1,8572 @@
+(lp0
+((lp1
+S'afford'
+p2
+aS'Afford'
+p3
+a(dp4
+S'akzeptieren '
+p5
+I1
+sS'kaufen '
+p6
+I2
+sS'bezahlen '
+p7
+I5
+sS'blechen '
+p8
+I1
+sS'durchf\xc3\xbcttern '
+p9
+I1
+sS'bildest '
+p10
+I1
+sS'leisten '
+p11
+I214
+sS'ausger\xc3\xbcstet '
+p12
+I1
+sS'20. '
+p13
+I1
+sS'erlauben '
+p14
+I15
+sS'verschwendeten '
+p15
+I1
+sS'riskieren '
+p16
+I1
+sS'geld '
+p17
+I2
+sS'zulassen '
+p18
+I4
+sS'teuer '
+p19
+I5
+sS'afford '
+p20
+I1
+sS'l\xc3\xa4nger '
+p21
+I1
+sS'gek\xc3\xbcsst '
+p22
+I1
+sS'eriauben '
+p23
+I1
+sS'mittel '
+p24
+I2
+sS'entbehren '
+p25
+I1
+sS'aufbringen '
+p26
+I3
+sS'betteln '
+p27
+I1
+sS'ieisten '
+p28
+I2
+stp29
+a((lp30
+S'allow'
+p31
+aS'Allow'
+p32
+a(dp33
+S'bohrinsel '
+p34
+I1
+sS'l\xc3\xa4sst '
+p35
+I2
+sS'wenn '
+p36
+I1
+sS'verbietest '
+p37
+I1
+sS'erlaubst '
+p38
+I9
+sS'hubert '
+p39
+I1
+sS'getrost '
+p40
+I6
+sS'erlaubte '
+p41
+I1
+sS'd\xc3\xbcrften '
+p42
+I1
+sS'woiien '
+p43
+I1
+sS'hinterm '
+p44
+I1
+sS'einlassen '
+p45
+I1
+sS'erlauben '
+p46
+I104
+sS'verboten '
+p47
+I3
+sS'nachkommen '
+p48
+I1
+sS'lassen '
+p49
+I10
+sS'erm\xc3\xb6glichen '
+p50
+I8
+sS'allow '
+p51
+I2
+sS'verbieten '
+p52
+I1
+sS's\xc3\xade '
+p53
+I1
+sS'zulassen '
+p54
+I26
+sS'erlaube '
+p55
+I19
+sS'haut '
+p56
+I1
+sS'lass '
+p57
+I6
+sS'd\xc3\xbcrfen '
+p58
+I2
+sS'gestattest '
+p59
+I1
+sS'gebe '
+p60
+I1
+sS'zul\xc3\xa4sst '
+p61
+I3
+sS'dulden '
+p62
+I1
+sS'lasst '
+p63
+I5
+sS'best\xc3\xa4nde '
+p64
+I1
+sS'zulasse '
+p65
+I2
+sS'darf '
+p66
+I11
+sS'schalten '
+p67
+I1
+sS'erlaubt '
+p68
+I40
+sS'mach '
+p69
+I1
+sS'stattgegeben '
+p70
+I1
+sS'gestatten '
+p71
+I20
+stp72
+a((lp73
+S'allowed'
+p74
+aS'Allowed'
+p75
+a(dp76
+S'allts\\u00e5 '
+p77
+I1
+sS'untergehen '
+p78
+I6
+sS'r\xc3\xbccken '
+p79
+I1
+sS'absolute '
+p80
+I1
+sS'darfs '
+p81
+I1
+sS'd\xc3\xbcrft '
+p82
+I1
+sS'allowed '
+p83
+I2
+sS'd\xc3\xbcrfe '
+p84
+I1
+sS'brauchst '
+p85
+I1
+sS'erlaubte '
+p86
+I11
+sS'm\xc3\xb6glich '
+p87
+I1
+sS'erlaubten '
+p88
+I1
+sS'durften '
+p89
+I9
+sS'daf '
+p90
+I1
+sS'gestattet '
+p91
+I15
+sS'do '
+p92
+I1
+sS'mamis '
+p93
+I1
+sS'raus '
+p94
+I1
+sS'sprechverbot '
+p95
+I5
+sS'lie\\u00c3\\u0178 '
+p96
+I2
+sS'erlauben '
+p97
+I4
+sS'zutritt '
+p98
+I4
+sS'darfst '
+p99
+I22
+sS'bef\xc3\xbcgnis '
+p100
+I1
+sS'erlaubt\\u00b4 '
+p101
+I1
+sS'leg '
+p102
+I1
+sS'recht '
+p103
+I2
+sS'd\xc3\xbcrfen '
+p104
+I52
+sS'nicht '
+p105
+I1
+sS'errichten '
+p106
+I1
+sS'runzelig '
+p107
+I1
+sS'sollst '
+p108
+I2
+sS'gelassen '
+p109
+I1
+sS'zugelassen '
+p110
+I8
+sS'erlaubnis '
+p111
+I3
+sS'd\\u00c3\\u00bcrfen '
+p112
+I1
+sS'hausverbot '
+p113
+I3
+sS'darf '
+p114
+I84
+sS'erlaubt '
+p115
+I100
+sS'eriaubt '
+p116
+I1
+sS'durfte '
+p117
+I9
+sS'verboten '
+p118
+I4
+sS'existenzrecht '
+p119
+I1
+sS'd\xc3\xbcrfte '
+p120
+I1
+sS'durftest '
+p121
+I1
+sS'konnte '
+p122
+I2
+sS'darum '
+p123
+I1
+stp124
+a((lp125
+S'allowing'
+p126
+aS'Allowing'
+p127
+a(dp128
+S'bremskolben '
+p129
+I1
+sS'gespr\xc3\xa4chteilhabenzu '
+p130
+I3
+sS'zuzulassen '
+p131
+I1
+sS'erlaubt '
+p132
+I8
+sS'wodurch '
+p133
+I1
+sS'schlussendlich '
+p134
+I1
+sS'systemfehler '
+p135
+I1
+sS'auszuwischen '
+p136
+I1
+sS'erlauben '
+p137
+I2
+sS'erlaube '
+p138
+I3
+sS'erm\xc3\xb6glichte '
+p139
+I1
+sS'will '
+p140
+I1
+sS'erlaubte '
+p141
+I3
+sS'knast '
+p142
+I4
+stp143
+a((lp144
+S'allows'
+p145
+aS'Allows'
+p146
+a(dp147
+S'erm\xc3\xb6glicht '
+p148
+I4
+sS'erlauben '
+p149
+I2
+sS'gestattet '
+p150
+I2
+sS'erlaubt '
+p151
+I31
+sS'eriaubt '
+p152
+I1
+sS'f\\u00c3\\u00bc\\u00c3\\u0178e '
+p153
+I1
+sS'erder '
+p154
+I1
+sS'damit '
+p155
+I1
+sS'dadurch '
+p156
+I1
+sS'wars '
+p157
+I1
+sS'zul\xc3\xa4sst '
+p158
+I3
+stp159
+a((lp160
+S'best'
+p161
+aS'Best'
+p162
+a(dp163
+S'erledigt '
+p164
+I1
+sS'sch\xc3\xb6n '
+p165
+I1
+sS'm\xc3\xbche '
+p166
+I2
+sS'adoptiert '
+p167
+I1
+sS'am '
+p168
+I1
+sS'spiegel '
+p169
+I1
+sS'letzte '
+p170
+I3
+sS'm\xc3\xb6glich '
+p171
+I2
+sS'man '
+p172
+I1
+sS'sollte '
+p173
+I1
+sS'sollten '
+p174
+I2
+sS'bestm\xc3\xb6glichen '
+p175
+I3
+sS'hellste '
+p176
+I1
+sS'bestes '
+p177
+I196
+sS'wachse '
+p178
+I1
+sS'perfekt '
+p179
+I1
+sS'wirklich '
+p180
+I1
+sS'fassen '
+p181
+I1
+sS'begleichen '
+p182
+I1
+sS'lass '
+p183
+I1
+sS'meister '
+p184
+I1
+sS'richtige '
+p185
+I3
+sS'trauzeugen '
+p186
+I10
+sS'annehmbar '
+p187
+I1
+sS'hammer '
+p188
+I1
+sS'best '
+p189
+I13
+sS'tolle '
+p190
+I1
+sS'klassiker '
+p191
+I1
+sS'geliebt '
+p192
+I1
+sS'gegessen '
+p193
+I1
+sS'sonst '
+p194
+I1
+sS'besseren '
+p195
+I3
+sS'gut '
+p196
+I39
+sS'm\xc3\xb6glichstes '
+p197
+I5
+sS'bester '
+p198
+I211
+sS'gru\xc3\x9f '
+p199
+I2
+sS'liebsten '
+p200
+I2
+sS'bestm\xc3\xb6gliche '
+p201
+I9
+sS'h\xc3\xb6chstens '
+p202
+I1
+sS'\xc3\xbcberiegst '
+p203
+I1
+sS'lieblingsbesch\xc3\xa4ftigung '
+p204
+I1
+sS'\\u00b4s '
+p205
+I1
+sS'bestem '
+p206
+I2
+sS'titel '
+p207
+I1
+sS'kann '
+p208
+I1
+sS'trauzeuge '
+p209
+I30
+sS'gl\xc3\xbcck '
+p210
+I2
+sS'option '
+p211
+I1
+sS'w\xc3\xbcnsche '
+p212
+I1
+sS'gibst '
+p213
+I1
+sS'lassen '
+p214
+I2
+sS'ort '
+p215
+I1
+sS'gr\xc3\xbc\xc3\x9fe '
+p216
+I4
+sS'\xc3\xa4hm '
+p217
+I2
+sS'sorge '
+p218
+I1
+sS'besser '
+p219
+I69
+sS'gute '
+p220
+I15
+sS'wohl '
+p221
+I2
+sS'besseres '
+p222
+I5
+sS'meisterst\xc3\xbcck '
+p223
+I1
+sS'sch\xc3\xb6nsten '
+p224
+I7
+sS'bl\xc3\xb6der '
+p225
+I1
+sS'sch\xc3\xb6ne '
+p226
+I1
+sS'allerbesten '
+p227
+I7
+sS'med '
+p228
+I1
+sS'einzige '
+p229
+I19
+sS'beileid '
+p230
+I1
+sS'sch\xc3\xb6nste '
+p231
+I17
+sS'guten '
+p232
+I4
+sS'mehr '
+p233
+I14
+sS'versuche '
+p234
+I3
+sS'toll '
+p235
+I1
+sS'meisten '
+p236
+I4
+sS'renaissance- '
+p237
+I1
+sS'gr\xc3\xbc\xc3\x9fe\\u00b4 '
+p238
+I1
+sS'leichtesten '
+p239
+I2
+sS'guter '
+p240
+I2
+sS'geil '
+p241
+I1
+sS'reifer '
+p242
+I1
+sS'bestm\xc3\xb6glichste '
+p243
+I2
+sS'war '
+p244
+I1
+sS'wer '
+p245
+I1
+sS'gro\xc3\x9fes '
+p246
+I1
+sS'weltbesten '
+p247
+I3
+sS'so '
+p248
+I1
+sS'wunderbar '
+p249
+I1
+sS'glanzzeit '
+p250
+I1
+sS'erinnernungen '
+p251
+I1
+sS'spezialit\xc3\xa4t '
+p252
+I1
+sS'hellsten '
+p253
+I2
+sS'was '
+p254
+I6
+sS'walker '
+p255
+I1
+sS'alles '
+p256
+I8
+sS'maximal '
+p257
+I1
+sS'gr\xc3\xbc\xc3\x9fen '
+p258
+I4
+sS'tragen '
+p259
+I1
+sS'beste '
+p260
+I1356
+sS'besten '
+p261
+I771
+sS'beeil '
+p262
+I1
+sS'gr\xc3\xb6\xc3\x9fte '
+p263
+I4
+sS'tollsten '
+p264
+I3
+sS'st\xc3\xa4rkste '
+p265
+I1
+sS'allergr\xc3\xb6\xc3\x9fte '
+p266
+I2
+sS'stande '
+p267
+I1
+sS'lieber '
+p268
+I5
+sS'meiner '
+p269
+I1
+sS'waldorf '
+p270
+I1
+sS'h\xc3\xb6chstform '
+p271
+I1
+sS'kamera '
+p272
+I1
+sS'verbergen '
+p273
+I1
+sS'm. '
+p274
+I1
+sS'tollste '
+p275
+I1
+sS'kl\xc3\xbcgsten '
+p276
+I3
+sS'h\xc3\xb6chste '
+p277
+I2
+sS'beste, '
+p278
+I1
+sS'treuesten '
+p279
+I1
+sS'soweit '
+p280
+I1
+sS'neil '
+p281
+I1
+sS'allergeilste '
+p282
+I1
+sS'andere '
+p283
+I1
+sS'treuzeuge '
+p284
+I1
+sS'menschenm\xc3\xb6gliche '
+p285
+I1
+sS'super '
+p286
+I3
+sS'fiel '
+p287
+I1
+sS'vermeiden '
+p288
+I2
+sS'reichsten '
+p289
+I1
+sS'schlausten '
+p290
+I1
+sS'best- '
+p291
+I1
+sS'g\xc3\xbcnstigste '
+p292
+I1
+sS'berauschend '
+p293
+I1
+sS'wundersch\xc3\xb6nen '
+p294
+I1
+sS'aufbringen '
+p295
+I2
+sS'total '
+p296
+I1
+sS'allerbeste '
+p297
+I11
+sS'bestenfalls '
+p298
+I12
+sS'gutes '
+p299
+I1
+sS'kugeln '
+p300
+I1
+sS'allen '
+p301
+I2
+sS'bessere '
+p302
+I3
+sS'allerbester '
+p303
+I1
+sS'klugschei\xc3\x9fer '
+p304
+I1
+sS'gr\xc3\xa4sslich '
+p305
+I1
+sS'pr\xc3\xbcfungen '
+p306
+I1
+sS'alles, '
+p307
+I1
+stp308
+a((lp309
+S'better'
+p310
+aS'Better'
+p311
+a(dp312
+S'auto '
+p313
+I1
+sS'eher '
+p314
+I3
+sS'sch\xc3\xb6n '
+p315
+I3
+sS'better '
+p316
+I16
+sS'musst '
+p317
+I2
+sS'jetzt '
+p318
+I4
+sS'verbessre '
+p319
+I1
+sS'bisschen '
+p320
+I1
+sS'n\xc3\xbctze '
+p321
+I3
+sS'aufmuntert '
+p322
+I1
+sS'ziemlichen '
+p323
+I1
+sS'besserwerden '
+p324
+I1
+sS'komischeres '
+p325
+I1
+sS'ausschaue '
+p326
+I1
+sS'viel '
+p327
+I1
+sS'sollte '
+p328
+I12
+sS'nicht '
+p329
+I2
+sS'm\xc3\xbcssen '
+p330
+I4
+sS'rechten '
+p331
+I1
+sS'warne '
+p332
+I1
+sS'bessern '
+p333
+I10
+sS'cm '
+p334
+I1
+sS'besserung '
+p335
+I3
+sS'fahren '
+p336
+I1
+sS'heilen '
+p337
+I1
+sS'passen '
+p338
+I1
+sS'wohlf\xc3\xbchlst '
+p339
+I1
+sS'zur\xc3\xbcckholen '
+p340
+I1
+sS'wirklich '
+p341
+I1
+sS'sieh '
+p342
+I1
+sS'batterie '
+p343
+I1
+sS'sollen '
+p344
+I1
+sS'sch\xc3\xb6ner '
+p345
+I5
+sS'embolie '
+p346
+I1
+sS'zufrieden '
+p347
+I3
+sS'kommt '
+p348
+I1
+sS'anderes '
+p349
+I2
+sS'dann '
+p350
+I4
+sS'der '
+p351
+I1
+sS'cam '
+p352
+I1
+sS'rechts '
+p353
+I1
+sS'gr\xc3\xb6\xc3\x9feres '
+p354
+I1
+sS'nachspeise '
+p355
+I1
+sS'beste '
+p356
+I4
+sS'bringe '
+p357
+I1
+sS'schon '
+p358
+I3
+sS'machen '
+p359
+I1
+sS'einfacher '
+p360
+I5
+sS'mach '
+p361
+I3
+sS'gro\xc3\x9fmutter '
+p362
+I1
+sS'besseren '
+p363
+I185
+sS'gut '
+p364
+I24
+sS'also '
+p365
+I1
+sS'leichteren '
+p366
+I1
+sS'blo\xc3\x9f '
+p367
+I2
+sS'hoffen '
+p368
+I5
+sS'tr\xc3\xa4nen '
+p369
+I1
+sS'sarah '
+p370
+I1
+sS'gewerbeaufsicht '
+p371
+I1
+sS'besserem '
+p372
+I8
+sS'positiven '
+p373
+I2
+sS'iieber '
+p374
+I2
+sS'nebeneinander '
+p375
+I1
+sS'gl\xc3\xbccklich '
+p376
+I1
+sS'legen '
+p377
+I1
+sS'braverer '
+p378
+I1
+sS'sch\xc3\xb6neres '
+p379
+I2
+sS'ehepartner '
+p380
+I1
+sS'raten '
+p381
+I1
+sS'fastmeinen '
+p382
+I1
+sS'genauer '
+p383
+I1
+sS'adore '
+p384
+I1
+sS'privaten '
+p385
+I1
+sS'kannst '
+p386
+I4
+sS'sich '
+p387
+I3
+sS'wieder '
+p388
+I1
+sS'besser '
+p389
+I3479
+sS'gute '
+p390
+I3
+sS'wohl '
+p391
+I3
+sS'besorgniserregend '
+p392
+I1
+sS'besseres '
+p393
+I227
+sS'high- '
+p394
+I1
+sS'gesund '
+p395
+I17
+sS'aufzumuntern '
+p396
+I1
+sS'richtiger '
+p397
+I1
+sS'erholen '
+p398
+I4
+sS'leichter '
+p399
+I4
+sS'hilft '
+p400
+I1
+sS'verpfiff '
+p401
+I1
+sS'mehr '
+p402
+I70
+sS'rumgealbert '
+p403
+I1
+sS"'s "
+p404
+I1
+sS'beispiel '
+p405
+I1
+sS'svenborgia '
+p406
+I1
+sS'versuche '
+p407
+I1
+sS'schlechter '
+p408
+I1
+sS'raffen '
+p409
+I1
+sS'auch '
+p410
+I4
+sS'lemon '
+p411
+I1
+sS'besseer '
+p412
+I1
+sS'beeilst '
+p413
+I1
+sS'soiiten '
+p414
+I1
+sS'besserer '
+p415
+I71
+sS'verschliess\\u00b4 '
+p416
+I1
+sS'adler '
+p417
+I1
+sS'h\xc3\xbcbscher '
+p418
+I1
+sS'kennenlerne '
+p419
+I1
+sS'ehrenhafter '
+p420
+I1
+sS'geiler '
+p421
+I1
+sS'aber '
+p422
+I1
+sS'schule '
+p423
+I2
+sS'trinken '
+p424
+I1
+sS'm\xc3\xb6glich '
+p425
+I1
+sS'gott '
+p426
+I1
+sS'geh '
+p427
+I6
+sS'wahnsinnig '
+p428
+I2
+sS'muss '
+p429
+I11
+sS'besserf\xc3\xbcr '
+p430
+I1
+sS'rate '
+p431
+I2
+sS'gr\xc3\xb6\xc3\x9fer '
+p432
+I2
+sS'wohler '
+p433
+I1
+sS'\\u0392esseres '
+p434
+I1
+sS'neuen '
+p435
+I2
+sS'mal '
+p436
+I2
+sS'beeilen '
+p437
+I1
+sS'nimm '
+p438
+I1
+sS'beweg '
+p439
+I2
+sS'helfen '
+p440
+I1
+sS'geht '
+p441
+I2
+sS'passieren '
+p442
+I1
+sS'was '
+p443
+I1
+sS'w\xc3\xbcnschen '
+p444
+I1
+sS'wollten '
+p445
+I1
+sS'umziehen '
+p446
+I1
+sS'schnell '
+p447
+I1
+sS'sch\xc3\xb6nere '
+p448
+I2
+sS'tragen '
+p449
+I1
+sS'verpfuscht '
+p450
+I1
+sS'geh\xc3\xb6re '
+p451
+I1
+sS'besten '
+p452
+I23
+sS'solltest '
+p453
+I18
+sS'fitter '
+p454
+I1
+sS'gef\xc3\xa4lligst '
+p455
+I1
+sS'leute '
+p456
+I1
+sS'gr\xc3\xb6\xc3\x9fere '
+p457
+I1
+sS'guten '
+p458
+I4
+sS'bestens '
+p459
+I2
+sS'lieber '
+p460
+I230
+sS'noch '
+p461
+I1
+sS'wei\xc3\x9f '
+p462
+I1
+sS'sollten '
+p463
+I38
+sS'uffh\xc3\xb6ren '
+p464
+I1
+sS'beruhigt '
+p465
+I5
+sS'hoffentlich '
+p466
+I21
+sS'physiologie- '
+p467
+I1
+sS'verbessert '
+p468
+I2
+sS'dich '
+p469
+I1
+sS'gehe '
+p470
+I1
+sS'soiitest '
+p471
+I1
+sS'geholfen '
+p472
+I1
+sS'aufmuntern '
+p473
+I4
+sS'wehe '
+p474
+I13
+sS'aussehen '
+p475
+I1
+sS'bessers '
+p476
+I2
+sS'mache '
+p477
+I1
+sS'solltet '
+p478
+I8
+sS'verheilt '
+p479
+I1
+sS'tust '
+p480
+I1
+sS'ich '
+p481
+I6
+sS'schreckliche '
+p482
+I1
+sS'k\xc3\xb6nnen '
+p483
+I1
+sS'gl\xc3\xbccklicher '
+p484
+I1
+sS'es '
+p485
+I2
+sS'gedeih '
+p486
+I3
+sS'sicherer '
+p487
+I1
+sS'zur '
+p488
+I1
+sS'sehen '
+p489
+I1
+sS'bereiter '
+p490
+I1
+sS'internet '
+p491
+I1
+sS'das '
+p492
+I1
+sS'anderen '
+p493
+I4
+sS'absolut '
+p494
+I1
+sS'fast '
+p495
+I4
+sS'verbessern '
+p496
+I14
+sS'bessert '
+p497
+I3
+sS'andere '
+p498
+I2
+sS'bessere '
+p499
+I297
+sS'beleidigend '
+p500
+I1
+sS'gl\xc3\xbcck '
+p501
+I1
+sS'erst '
+p502
+I1
+sS'hoffe '
+p503
+I18
+stp504
+a((lp505
+S'crucial'
+p506
+aS'Crucial'
+p507
+a(dp508
+S'entscheidendes '
+p509
+I1
+sS'schwierig '
+p510
+I1
+sS'gebliebenen '
+p511
+I1
+sS'entscheidend '
+p512
+I9
+sS'bezeichnenden '
+p513
+I1
+sS'drinnen '
+p514
+I1
+sS'grundlegende '
+p515
+I1
+sS'entscheidenden '
+p516
+I2
+sS'entscheidendste '
+p517
+I1
+sS'wichtig '
+p518
+I2
+sS'entscheidender '
+p519
+I1
+stp520
+a((lp521
+S'dare'
+p522
+aS'Dare'
+p523
+a(dp524
+S'wagst '
+p525
+I22
+sS'mutprobe '
+p526
+I3
+sS'reise '
+p527
+I1
+sS'ladies '
+p528
+I1
+sS'w\xc3\xbcrde '
+p529
+I2
+sS'! '
+p530
+I3
+sS'herausforderung '
+p531
+I2
+sS'pflicht '
+p532
+I2
+sS'aktion '
+p533
+I2
+sS'd\xc3\xbcrfte '
+p534
+I1
+sS'anbieten '
+p535
+I1
+sS'staples '
+p536
+I1
+sS'jade '
+p537
+I1
+sS'erlaubst '
+p538
+I1
+sS'aversion '
+p539
+I1
+sS'redest '
+p540
+I1
+sS'so '
+p541
+I1
+sS'fordere '
+p542
+I2
+sS'erinnerung '
+p543
+I1
+sS'wow '
+p544
+I1
+sS'wagen '
+p545
+I75
+sS'untersteh '
+p546
+I4
+sS'erlauben '
+p547
+I2
+sS'kommst '
+p548
+I1
+sS'k\xc3\xb6nnen '
+p549
+I1
+sS'warne '
+p550
+I1
+sS'wagte '
+p551
+I6
+sS'wehe '
+p552
+I3
+sS'hofstadter '
+p553
+I1
+sS'opas '
+p554
+I1
+sS'konntest '
+p555
+I1
+sS'dumm '
+p556
+I1
+sS'kannst '
+p557
+I3
+sS'k\xc3\xb6nnt '
+p558
+I3
+sS'getraut '
+p559
+I4
+sS'tages '
+p560
+I1
+sS'unversch\xc3\xa4mt '
+p561
+I1
+sS'verdreht '
+p562
+I1
+sS'wage '
+p563
+I27
+sS'hallo '
+p564
+I1
+sS'blo\xc3\x9f '
+p565
+I1
+sS'traust '
+p566
+I15
+sS'konnten '
+p567
+I2
+sS'griechisch- '
+p568
+I1
+sS'unterstehe '
+p569
+I1
+sS'20 '
+p570
+I1
+sS'kommt '
+p571
+I3
+sS'unterstehen '
+p572
+I2
+sS'f\xc3\xa4llt '
+p573
+I12
+sS'will '
+p574
+I1
+sS'd\xc3\xbcrfen '
+p575
+I3
+sS'weeks '
+p576
+I1
+sS'kommen '
+p577
+I3
+sS'traut '
+p578
+I2
+sS'gekauft '
+p579
+I1
+sS'eier '
+p580
+I1
+sS'erlaubt '
+p581
+I1
+sS'seminare '
+p582
+I1
+sS'wag '
+p583
+I13
+sS'wagten '
+p584
+I1
+sS'trauen '
+p585
+I5
+sS'dringst '
+p586
+I1
+sS'fortpflanzung '
+p587
+I1
+sS'bildet '
+p588
+I2
+sS'eriauben '
+p589
+I1
+sS'darf '
+p590
+I2
+sS'gewettet '
+p591
+I1
+sS'gewagt '
+p592
+I1
+sS'nennst '
+p593
+I1
+sS'trau '
+p594
+I2
+sS'wagt '
+p595
+I17
+sS'angewendet '
+p596
+I1
+sS'zugeschlagen '
+p597
+I1
+sS'ja '
+p598
+I2
+stp599
+a((lp600
+S'demand'
+p601
+aS'Demand'
+p602
+a(dp603
+S'verlangen '
+p604
+I11
+sS'begehrt '
+p605
+I2
+sS'wunsch '
+p606
+I1
+sS'gefragt '
+p607
+I4
+sS'demand '
+p608
+I1
+sS'abruf '
+p609
+I1
+sS'eine\xc3\x84nderung '
+p610
+I2
+sS'm\xc3\xb6chten '
+p611
+I1
+sS'blutbedarf '
+p612
+I3
+sS'verlangst '
+p613
+I1
+sS'gefordert '
+p614
+I1
+sS'bestehen '
+p615
+I2
+sS'gefragten '
+p616
+I1
+sS'fordert '
+p617
+I1
+sS'nennt '
+p618
+I1
+sS'nachfrage '
+p619
+I27
+sS'verlange '
+p620
+I12
+sS'wirforderndie '
+p621
+I2
+sS'brauch '
+p622
+I1
+sS'fordern '
+p623
+I16
+sS'bedarf '
+p624
+I3
+sS'beanspruchen '
+p625
+I1
+sS'forderung '
+p626
+I2
+sS'fordere '
+p627
+I3
+sS'will '
+p628
+I1
+stp629
+a((lp630
+S'demands'
+p631
+aS'Demands'
+p632
+a(dp633
+S'forderung '
+p634
+I5
+sS'ballistiken '
+p635
+I1
+sS'besteht '
+p636
+I3
+sS'anforderungen '
+p637
+I3
+sS'dave '
+p638
+I1
+sS'anspr\xc3\xbcchen '
+p639
+I1
+sS'ihnen '
+p640
+I1
+sS'zwingt '
+p641
+I1
+sS'veriangt '
+p642
+I1
+sS'anspr\xc3\xbcche '
+p643
+I7
+sS'fordern '
+p644
+I1
+sS'bedarf '
+p645
+I2
+sS'beansprucht '
+p646
+I1
+sS'erfordert '
+p647
+I5
+sS'forderungenerf\xc3\xbcllt '
+p648
+I2
+sS'verlangt '
+p649
+I22
+sS'bed\xc3\xbcrfnisse '
+p650
+I1
+sS'forderungerf\xc3\xbcllt '
+p651
+I2
+sS'zusteht '
+p652
+I1
+sS'forderungen '
+p653
+I57
+stp654
+a((lp655
+S'essential'
+p656
+aS'Essential'
+p657
+a(dp658
+S'grundlegenden '
+p659
+I1
+sS'wichtiger '
+p660
+I2
+sS'unverzichtbarer '
+p661
+I1
+sS'wesentlichen '
+p662
+I2
+sS'iebenswichtigen '
+p663
+I1
+sS'erforderlich '
+p664
+I1
+sS'unerl\xc3\xa4sslich '
+p665
+I5
+sS'unwichtigen '
+p666
+I6
+sS'verzichtbare '
+p667
+I1
+sS'notwendig '
+p668
+I1
+sS'essentiell '
+p669
+I4
+sS'wichtige '
+p670
+I2
+sS'notwendige '
+p671
+I1
+sS'unverzichtbar '
+p672
+I1
+sS'grundlegende '
+p673
+I2
+sS'hauptsache '
+p674
+I1
+sS'couch '
+p675
+I1
+sS'wesentlicher '
+p676
+I1
+sS'entscheidendes '
+p677
+I1
+sS'wesentliche '
+p678
+I1
+sS'essentieller '
+p679
+I4
+sS'unabdingbar '
+p680
+I1
+sS'wichtig '
+p681
+I5
+stp682
+a((lp683
+S'excuse'
+p684
+aS'Excuse'
+p685
+a(dp686
+S'beim '
+p687
+I1
+sS'da '
+p688
+I1
+sS'uh '
+p689
+I1
+sS'entschuldigung, '
+p690
+I1
+sS'tut '
+p691
+I14
+sS'verga\xc3\x9f '
+p692
+I1
+sS'packen '
+p693
+I1
+sS"t' "
+p694
+I4
+sS'vorzutragen '
+p695
+I1
+sS'vergib '
+p696
+I2
+sS'fbi '
+p697
+I1
+sS'cocktails '
+p698
+I1
+sS'nein '
+p699
+I2
+sS'geysir '
+p700
+I2
+sS'pardon '
+p701
+I5
+sS'verzeihung '
+p702
+I145
+sS'rechtfertigung '
+p703
+I1
+sS'kenne '
+p704
+I1
+sS'volltreffer '
+p705
+I1
+sS'entschuidige '
+p706
+I6
+sS'verh\xc3\xa4tschele '
+p707
+I1
+sS'rachel '
+p708
+I1
+sS'enschuldigung '
+p709
+I3
+sS'genie\xc3\x9fen '
+p710
+I1
+sS'hallo '
+p711
+I9
+sS'bekommen '
+p712
+I1
+sS'weiter '
+p713
+I1
+sS'moment '
+p714
+I1
+sS'sorrie '
+p715
+I2
+sS'entschuldigst '
+p716
+I13
+sS'beschissen '
+p717
+I1
+sS'- '
+p718
+I6
+sS'ok '
+p719
+I1
+sS'lionel '
+p720
+I1
+sS'lassen '
+p721
+I1
+sS'detective '
+p722
+I2
+sS'lch '
+p723
+I1
+sS'also '
+p724
+I4
+sS'gestatten '
+p725
+I2
+sS'ja '
+p726
+I4
+sS'welches '
+p727
+I1
+sS'spannende '
+p728
+I1
+sS'darf '
+p729
+I3
+sS'entschuldigungen '
+p730
+I2
+sS'wiebitte '
+p731
+I1
+sS'anlass '
+p732
+I3
+sS'bist '
+p733
+I2
+sS'ach '
+p734
+I1
+sS'un\xc3\xbcbersetztes '
+p735
+I1
+sS'kleinger\xc3\xa4te '
+p736
+I1
+sS'spricht '
+p737
+I1
+sS'entschuidigt '
+p738
+I1
+sS'tschuldige '
+p739
+I1
+sS'aufkommen '
+p740
+I1
+sS'engschuldigt '
+p741
+I1
+sS'ausrede '
+p742
+I56
+sS'bis '
+p743
+I2
+sS'sagen '
+p744
+I1
+sS'enssch '
+p745
+I1
+sS'entschuidigen '
+p746
+I15
+sS'f\xc3\xb6rl\\u00e5t '
+p747
+I1
+sS'verzeih '
+p748
+I9
+sS'm\xc3\xb6gen '
+p749
+I1
+sS'verzeihen '
+p750
+I47
+sS'erkaufte '
+p751
+I1
+sS'arthur '
+p752
+I2
+sS'\\u00b4tschuldige '
+p753
+I2
+sS'verzeiht '
+p754
+I4
+sS'guten '
+p755
+I1
+sS'volumen '
+p756
+I1
+sS'vorwand '
+p757
+I13
+sS'achtung '
+p758
+I1
+sS'wo '
+p759
+I2
+sS'cheering '
+p760
+I1
+sS'entschudigt '
+p761
+I1
+sS'sehne '
+p762
+I1
+sS'augenbiick '
+p763
+I1
+sS'tschuldigung '
+p764
+I25
+sS'schl\xc3\xa4friges '
+p765
+I1
+sS'entschuldigen '
+p766
+I704
+sS'vorgeschobener '
+p767
+I1
+sS'war '
+p768
+I1
+sS'schuldigung '
+p769
+I1
+sS'sorry '
+p770
+I3
+sS'. '
+p771
+I1
+sS'gehst '
+p772
+I1
+sS'hey '
+p773
+I2
+sS'katholischen '
+p774
+I1
+sS'skeptisch '
+p775
+I1
+sS'sir '
+p776
+I1
+sS'd\xc3\xa4mlich '
+p777
+I1
+sS'anniversaire '
+p778
+I1
+sS'grund '
+p779
+I13
+sS'fargo '
+p780
+I2
+sS'was '
+p781
+I6
+sS'endschuldige '
+p782
+I2
+sS'personabteilung '
+p783
+I1
+sS'spaceman '
+p784
+I1
+sS'wie '
+p785
+I152
+sS'leg '
+p786
+I1
+sS'entschuldigung '
+p787
+I506
+sS'umgenietet '
+p788
+I1
+sS'bitte '
+p789
+I50
+sS'einsch\xc3\xa4tzung '
+p790
+I1
+sS'he '
+p791
+I1
+sS'doppel '
+p792
+I1
+sS'aufgeschmissen '
+p793
+I1
+sS'nat\xc3\xbcrlich '
+p794
+I1
+sS'\\u00b4tschuldigung '
+p795
+I2
+sS'wei\xc3\x9f '
+p796
+I1
+sS'yuri '
+p797
+I1
+sS'bek\xc3\xbcmmert '
+p798
+I1
+sS'macht '
+p799
+I2
+sS'aufzufrischen '
+p800
+I1
+sS'verstehe '
+p801
+I1
+sS'wei\xc3\x9ft '
+p802
+I1
+sS'entschul '
+p803
+I1
+sS'ausreden '
+p804
+I3
+sS'entschuldigt '
+p805
+I147
+sS'wieso '
+p806
+I1
+sS'tust '
+p807
+I1
+sS'losziehen '
+p808
+I1
+sS'endschuldigen '
+p809
+I2
+sS'dave '
+p810
+I1
+sS'geh\xc3\xb6r\\u00b4 '
+p811
+I1
+sS'boots '
+p812
+I1
+sS'reinlegen '
+p813
+I1
+sS'erlauben '
+p814
+I2
+sS'entshculdigung '
+p815
+I2
+sS'leider '
+p816
+I2
+sS'benutzt '
+p817
+I1
+sS'gorilla '
+p818
+I1
+sS'borghouse '
+p819
+I1
+sS'\xc3\x84h '
+p820
+I3
+sS'oh '
+p821
+I2
+sS'mary '
+p822
+I1
+sS'entschuidigung '
+p823
+I7
+sS'enschuldigen '
+p824
+I2
+sS'bluffst '
+p825
+I1
+sS'sicher '
+p826
+I1
+sS'zeitverschiebung '
+p827
+I1
+sS'declan '
+p828
+I1
+sS'gehen '
+p829
+I1
+sS'urs\xc3\xa4kta '
+p830
+I1
+sS'verlaub '
+p831
+I1
+sS'excuse '
+p832
+I6
+sS'geht '
+p833
+I1
+sS'exklusivste '
+p834
+I1
+sS'entschuldige '
+p835
+I203
+sS'augenblick '
+p836
+I2
+sS'traditionalisierten '
+p837
+I1
+sS'niemals '
+p838
+I1
+sS'danke '
+p839
+I2
+sS'h\xc3\xb6ren '
+p840
+I1
+sS'verzeih, '
+p841
+I1
+stp842
+a((lp843
+S'gotta'
+p844
+aS'Gotta'
+p845
+a(dp846
+S'mobben '
+p847
+I1
+sS'musst '
+p848
+I491
+sS'jetzt '
+p849
+I1
+sS'kn\xc3\xb6chel '
+p850
+I1
+sS'begreif '
+p851
+I1
+sS'ok '
+p852
+I3
+sS'schlag '
+p853
+I1
+sS'wirst '
+p854
+I15
+sS'hei\xc3\x9ft '
+p855
+I1
+sS'sollte '
+p856
+I12
+sS'm\xc3\xbcssen '
+p857
+I650
+sS'musste '
+p858
+I1
+sS'sollten '
+p859
+I25
+sS'gotta '
+p860
+I28
+sS'komm '
+p861
+I3
+sS'brauchen '
+p862
+I4
+sS'sind '
+p863
+I1
+sS'zugriff '
+p864
+I1
+sS'sollen '
+p865
+I4
+sS'gotta- '
+p866
+I3
+sS'm\xc3\xbcsste '
+p867
+I3
+sS'hallo '
+p868
+I1
+sS'bekommen '
+p869
+I2
+sS'erw\xc3\xa4hnen '
+p870
+I1
+sS'mu\xc3\x9ft '
+p871
+I4
+sS'debattierclub '
+p872
+I1
+sS'zeit '
+p873
+I3
+sS'glaubst '
+p874
+I2
+sS'gewaltig '
+p875
+I1
+sS'all '
+p876
+I1
+sS'bringe '
+p877
+I4
+sS'zolle '
+p878
+I1
+sS'teufel '
+p879
+I1
+sS'fragst '
+p880
+I1
+sS'ja '
+p881
+I1
+sS'umwerfendes '
+p882
+I1
+sS'werden '
+p883
+I3
+sS'dir '
+p884
+I1
+sS'treffe '
+p885
+I1
+sS'brauche '
+p886
+I6
+sS'ich '
+p887
+I4
+sS'gr\xc3\xbcn '
+p888
+I1
+sS'brauchst '
+p889
+I9
+sS'hab '
+p890
+I7
+sS'doch '
+p891
+I2
+sS'kann '
+p892
+I12
+sS'trotzdem '
+p893
+I1
+sS'zu '
+p894
+I20
+sS'darfst '
+p895
+I3
+sS'funktioniert '
+p896
+I1
+sS'iggy '
+p897
+I1
+sS'm\xc3\xbcsst '
+p898
+I40
+sS'haben '
+p899
+I2
+sS'k\xc3\xb6nnten '
+p900
+I1
+sS'wir '
+p901
+I3
+sS'braucht '
+p902
+I4
+sS'm\xc3\xbcsstest '
+p903
+I3
+sS'werd '
+p904
+I3
+sS'musstest '
+p905
+I2
+sS'folgenderma\xc3\x9fen '
+p906
+I1
+sS'werde '
+p907
+I27
+sS'schwulenfalle '
+p908
+I1
+sS'geh '
+p909
+I5
+sS'erst '
+p910
+I1
+sS'sinkt '
+p911
+I1
+sS'echt '
+p912
+I1
+sS'dagegegen '
+p913
+I2
+sS'schaffst '
+p914
+I1
+sS'raus '
+p915
+I1
+sS'glaub '
+p916
+I1
+sS'muss '
+p917
+I1301
+sS'kaufst '
+p918
+I2
+sS'er '
+p919
+I2
+sS'hege '
+p920
+I1
+sS'mal '
+p921
+I1
+sS'japsenschiff '
+p922
+I1
+sS'ran '
+p923
+I1
+sS'mirwas '
+p924
+I1
+sS'spring '
+p925
+I1
+sS'aufw\xc3\xbchlende '
+p926
+I1
+sS'm\xc3\xb6chte '
+p927
+I1
+sS'geht '
+p928
+I1
+sS'wird '
+p929
+I3
+sS'd\xc3\xbcrfen '
+p930
+I1
+sS'zugeben '
+p931
+I1
+sS'wie '
+p932
+I1
+sS'leg '
+p933
+I2
+sS'solltest '
+p934
+I17
+sS'darf '
+p935
+I4
+sS'rawk '
+p936
+I1
+sS'checken '
+p937
+I1
+sS'will '
+p938
+I9
+sS'noch '
+p939
+I1
+sS'erhielt '
+p940
+I1
+sS'mu\xc3\x9f '
+p941
+I33
+sS'leavitt '
+p942
+I1
+sS'gehe '
+p943
+I4
+sS'ausgezahlt '
+p944
+I1
+sS'miranda '
+p945
+I1
+sS'st\xc3\xbccke '
+p946
+I1
+sS'solltet '
+p947
+I2
+sS'irgendwann '
+p948
+I1
+sS'm\xc3\xbcssten '
+p949
+I6
+sS'seht '
+p950
+I1
+sS'k\xc3\xb6nnen '
+p951
+I3
+sS'sehen '
+p952
+I1
+sS'brauch '
+p953
+I2
+sS'musss '
+p954
+I1
+sS'sicher '
+p955
+I3
+sS'ist '
+p956
+I1
+sS'sollst '
+p957
+I1
+sS'wollte '
+p958
+I1
+sS'zutiefst '
+p959
+I1
+sS'durchziehen '
+p960
+I1
+sS'aussehen '
+p961
+I1
+sS'soll '
+p962
+I9
+stp963
+a((lp964
+S'hope'
+p965
+aS'Hope'
+p966
+a(dp967
+S'auch '
+p968
+I1
+sS'hoffen '
+p969
+I204
+sS'verschleierst '
+p970
+I1
+sS'hoff '
+p971
+I8
+sS'wenn '
+p972
+I1
+sS'gro\xc3\x9fartig '
+p973
+I2
+sS'hope '
+p974
+I41
+sS'hoffe, '
+p975
+I2
+sS'dein '
+p976
+I1
+sS'hoffentlich '
+p977
+I114
+sS'hofft '
+p978
+I5
+sS'geil '
+p979
+I1
+sS'hoffnung '
+p980
+I376
+sS's\xc3\xbcss '
+p981
+I1
+sS'hoffung '
+p982
+I1
+sS't\xc3\xb6chter '
+p983
+I1
+sS'bete '
+p984
+I4
+sS'w\xc3\xbcnschen '
+p985
+I1
+sS'vielleicht '
+p986
+I1
+sS'sollte '
+p987
+I1
+sS'reist '
+p988
+I1
+sS'doch '
+p989
+I4
+sS'w\xc3\xbcrde '
+p990
+I1
+sS'wiedersehen '
+p991
+I1
+sS'verfassung '
+p992
+I1
+sS'w\xc3\xbcnsche '
+p993
+I4
+sS'daumen '
+p994
+I2
+sS'hoffte '
+p995
+I1
+sS'erwarten '
+p996
+I1
+sS'w\xc3\xa4r '
+p997
+I1
+sS'hozze '
+p998
+I1
+sS'erhoffen '
+p999
+I5
+sS'zulasse '
+p1000
+I1
+sS'w\xc3\xbcnsch '
+p1001
+I1
+sS'blumen '
+p1002
+I1
+sS'\xc3\x9cbrig '
+p1003
+I1
+sS'hoffentiich '
+p1004
+I5
+sS'dass '
+p1005
+I3
+sS'nur '
+p1006
+I1
+sS'spinat '
+p1007
+I1
+sS'denkst '
+p1008
+I1
+sS'geht '
+p1009
+I1
+sS'getanzt '
+p1010
+I1
+sS'rettung '
+p1011
+I2
+sS'gehofft '
+p1012
+I6
+sS'betest '
+p1013
+I1
+sS'd\xc3\xbcrfen '
+p1014
+I1
+sS'chance '
+p1015
+I4
+sS'aaaaa '
+p1016
+I1
+sS'alles '
+p1017
+I1
+sS'versanddatenbank '
+p1018
+I1
+sS'm\xc3\xb6chte '
+p1019
+I1
+sS'wem '
+p1020
+I1
+sS'wisst '
+p1021
+I1
+sS'erwartet '
+p1022
+I4
+sS'wollte '
+p1023
+I1
+sS'entscheide '
+p1024
+I1
+sS'kleinste '
+p1025
+I1
+sS'angenehmer '
+p1026
+I1
+sS'entschuldige '
+p1027
+I1
+sS'mehrwert '
+p1028
+I1
+sS'erinnerst '
+p1029
+I1
+sS'hoffst '
+p1030
+I7
+sS'beten '
+p1031
+I3
+sS'hopes '
+p1032
+I1
+sS'hoffnungsschimmer '
+p1033
+I2
+sS'h\xc3\xa4ufen '
+p1034
+I1
+sS'besch\xc3\xa4digt '
+p1035
+I1
+sS'hoffnungen '
+p1036
+I4
+sS'will '
+p1037
+I2
+sS'sie '
+p1038
+I1
+sS'hoffe '
+p1039
+I1284
+sS'schaffen '
+p1040
+I1
+stp1041
+a((lp1042
+S'imperative'
+p1043
+aS'Imperative'
+p1044
+a(dp1045
+S'interesse '
+p1046
+I1
+sS'unbedingt '
+p1047
+I2
+sS'befohlen '
+p1048
+I1
+sS'zwingend '
+p1049
+I5
+sS'unumg\xc3\xa4nglich '
+p1050
+I5
+sS'imperativ '
+p1051
+I1
+sS'notwendig '
+p1052
+I2
+sS'notwendigkeit '
+p1053
+I2
+sS'wichtig '
+p1054
+I1
+stp1055
+a((lp1056
+S'important'
+p1057
+aS'Important'
+p1058
+a(dp1059
+S'ihren '
+p1060
+I1
+sS'undwowichtigist '
+p1061
+I2
+sS'einleuchtend '
+p1062
+I1
+sS'wert '
+p1063
+I4
+sS'viel '
+p1064
+I5
+sS'einflussreiche '
+p1065
+I1
+sS'nennenswertes '
+p1066
+I1
+sS'istwichtiger '
+p1067
+I1
+sS'wwichtig '
+p1068
+I1
+sS'wichtiger '
+p1069
+I138
+sS'wichtigsten '
+p1070
+I34
+sS'wichtigste '
+p1071
+I137
+sS'bedeutender '
+p1072
+I5
+sS'allerwichtigsten '
+p1073
+I2
+sS'wchtig '
+p1074
+I1
+sS'mystische '
+p1075
+I1
+sS'wichtigkeit '
+p1076
+I1
+sS'zeigen '
+p1077
+I1
+sS'glauben '
+p1078
+I1
+sS'bedeutsames '
+p1079
+I2
+sS'kim '
+p1080
+I1
+sS'sache '
+p1081
+I2
+sS'wichtigem '
+p1082
+I4
+sS'entscheidenden '
+p1083
+I1
+sS'hilfreich '
+p1084
+I1
+sS'wichtigere '
+p1085
+I15
+sS'tun '
+p1086
+I1
+sS'unbedingt '
+p1087
+I1
+sS'dreimal '
+p1088
+I1
+sS'dave '
+p1089
+I1
+sS'147 '
+p1090
+I1
+sS'ver\xc3\xa4nderungen '
+p1091
+I1
+sS'hey '
+p1092
+I1
+sS'wichtigerer '
+p1093
+I1
+sS'egal '
+p1094
+I1
+sS'muss '
+p1095
+I1
+sS'treffen '
+p1096
+I1
+sS'interessieren '
+p1097
+I1
+sS'wichtige '
+p1098
+I127
+sS'dringend '
+p1099
+I1
+sS'entscheidender '
+p1100
+I1
+sS'bedeutet '
+p1101
+I2
+sS'wchtges '
+p1102
+I1
+sS'wichtigeres '
+p1103
+I16
+sS'wichtiges '
+p1104
+I99
+sS'wertvoller '
+p1105
+I1
+sS'historische '
+p1106
+I1
+sS'relevant '
+p1107
+I2
+sS'bedeutendes '
+p1108
+I1
+sS'wertvoll '
+p1109
+I3
+sS'z\xc3\xa4hlt '
+p1110
+I4
+sS'helfen '
+p1111
+I1
+sS'ignoriert '
+p1112
+I1
+sS'wichtigen '
+p1113
+I51
+sS'dramatische '
+p1114
+I1
+sS'ernst '
+p1115
+I2
+sS'wissen '
+p1116
+I1
+sS'unwichtig '
+p1117
+I13
+sS'bedeutenden '
+p1118
+I1
+sS'sehrwichtiges '
+p1119
+I1
+sS'wichtrig '
+p1120
+I1
+sS'staats '
+p1121
+I1
+sS'wchtg '
+p1122
+I1
+sS'preis '
+p1123
+I1
+sS'\\u2039 '
+p1124
+I1
+sS'betone '
+p1125
+I1
+sS'sollte '
+p1126
+I1
+sS'punkte '
+p1127
+I1
+sS'wesentliche '
+p1128
+I3
+sS'unwichtigem '
+p1129
+I1
+sS'bedeutung '
+p1130
+I6
+sS'wichtigster '
+p1131
+I4
+sS'abed '
+p1132
+I1
+sS'vogel '
+p1133
+I1
+sS'gro\xc3\x9fen '
+p1134
+I2
+sS'allem, '
+p1135
+I1
+sS'einfluss '
+p1136
+I1
+sS'bedeutende '
+p1137
+I7
+sS'besonders '
+p1138
+I1
+sS'daran '
+p1139
+I1
+sS'bedeutendere '
+p1140
+I1
+sS'wichtig '
+p1141
+I852
+sS'bedeutend '
+p1142
+I13
+sS'schrott '
+p1143
+I1
+stp1144
+a((lp1145
+S'let'
+p1146
+aS'Let'
+p1147
+a(dp1148
+S'wenn '
+p1149
+I8
+sS'lloyd '
+p1150
+I1
+sS'stehst '
+p1151
+I1
+sS'm\xc3\xbcssenwir '
+p1152
+I2
+sS'beginnen '
+p1153
+I1
+sS'fahr '
+p1154
+I2
+sS'drake '
+p1155
+I1
+sS'iosiassen '
+p1156
+I1
+sS'wartet '
+p1157
+I1
+sS'reinl\xc3\xa4sst '
+p1158
+I1
+sS'darfst '
+p1159
+I8
+sS'sag\\u00b4 '
+p1160
+I1
+sS'verschwindet '
+p1161
+I1
+sS'sieh '
+p1162
+I1
+sS'loszulassen '
+p1163
+I8
+sS'\xc3\x9cberlassen '
+p1164
+I4
+sS'sl\xc3\xa4pp '
+p1165
+I2
+sS'gisborne '
+p1166
+I1
+sS'hat '
+p1167
+I2
+sS'nun '
+p1168
+I11
+sS'klar '
+p1169
+I1
+sS'losl\xc3\xa4sst '
+p1170
+I3
+sS'- '
+p1171
+I117
+sS'schlie\xc3\x9fen '
+p1172
+I1
+sS'mach '
+p1173
+I31
+sS'gestatten '
+p1174
+I1
+sS'lang '
+p1175
+I1
+sS'her '
+p1176
+I2
+sS'vorw\xc3\xa4rts '
+p1177
+I10
+sS'legen '
+p1178
+I33
+sS'schneller '
+p1179
+I1
+sS'mich '
+p1180
+I3
+sS'erste '
+p1181
+I1
+sS'geben '
+p1182
+I40
+sS'iass '
+p1183
+I9
+sS'vielleicht '
+p1184
+I4
+sS'reingelassen '
+p1185
+I1
+sS'sprechen '
+p1186
+I1
+sS'leave '
+p1187
+I1
+sS'iasst '
+p1188
+I2
+sS'tut '
+p1189
+I3
+sS'nicht '
+p1190
+I1
+sS'worauf '
+p1191
+I2
+sS'ab '
+p1192
+I3
+sS'verzeihung '
+p1193
+I1
+sS'b\xc3\xbcrotratsch '
+p1194
+I1
+sS'hier '
+p1195
+I4
+sS'lemon '
+p1196
+I1
+sS'drehen '
+p1197
+I3
+sS'mir '
+p1198
+I1
+sS'\xc3\xbcberbringen '
+p1199
+I1
+sS'versuch '
+p1200
+I1
+sS'hol '
+p1201
+I1
+sS'halt '
+p1202
+I4
+sS'durftest '
+p1203
+I2
+sS'lass- '
+p1204
+I1
+sS'er '
+p1205
+I6
+sS'seid '
+p1206
+I1
+sS'mal '
+p1207
+I218
+sS'wi '
+p1208
+I1
+sS'auf '
+p1209
+I234
+sS'liebt '
+p1210
+I1
+sS'd\xc3\xbcrfen '
+p1211
+I16
+sS'veriassen '
+p1212
+I1
+sS'warum '
+p1213
+I5
+sS'herzeigen '
+p1214
+I1
+sS'erlaubt '
+p1215
+I7
+sS'gro\xc3\x9fer '
+p1216
+I1
+sS'rausgeholt '
+p1217
+I1
+sS'lieber '
+p1218
+I2
+sS'ahh '
+p1219
+I1
+sS'schnappen '
+p1220
+I12
+sS'hoffentlich '
+p1221
+I2
+sS'lasen '
+p1222
+I1
+sS'wieso '
+p1223
+I1
+sS'hereinlassen '
+p1224
+I2
+sS'richtet '
+p1225
+I2
+sS'\xc3\x9cberlass '
+p1226
+I3
+sS', '
+p1227
+I1
+sS'reden '
+p1228
+I9
+sS'hast '
+p1229
+I11
+sS'nehmen '
+p1230
+I33
+sS'dann '
+p1231
+I145
+sS'aus '
+p1232
+I2
+sS'abfahrt '
+p1233
+I1
+sS'rede '
+p1234
+I1
+sS'vertiefen '
+p1235
+I1
+sS'zur\xc3\xbcck '
+p1236
+I1
+sS'entt\xc3\xa4usche '
+p1237
+I2
+sS'danke '
+p1238
+I2
+sS'da '
+p1239
+I1
+sS'jetzt '
+p1240
+I58
+sS'seien '
+p1241
+I38
+sS'belasse '
+p1242
+I1
+sS'ok '
+p1243
+I6
+sS'schlaft '
+p1244
+I1
+sS'teilen '
+p1245
+I1
+sS'schleifenquantengravitation '
+p1246
+I1
+sS'erlauben '
+p1247
+I14
+sS'komm '
+p1248
+I101
+sS'gib '
+p1249
+I33
+sS'hastmich '
+p1250
+I1
+sS'zeigt '
+p1251
+I7
+sS'treiben '
+p1252
+I2
+sS'informieren '
+p1253
+I1
+sS'wollen '
+p1254
+I26
+sS'beh\xc3\xa4lst '
+p1255
+I1
+sS'haut '
+p1256
+I3
+sS'abmarsch '
+p1257
+I3
+sS'dr\xc3\xbccken '
+p1258
+I1
+sS'reissen '
+p1259
+I1
+sS'machen '
+p1260
+I88
+sS'mai '
+p1261
+I7
+sS'also '
+p1262
+I53
+sS'und '
+p1263
+I18
+sS'losiassen '
+p1264
+I3
+sS'h\xc3\xb6r '
+p1265
+I15
+sS'zeigen '
+p1266
+I20
+sS'brauchst '
+p1267
+I1
+sS'lass\\u00b4 '
+p1268
+I19
+sS'h\xc3\xb6rt '
+p1269
+I2
+sS'zugibst '
+p1270
+I2
+sS'bewegung '
+p1271
+I9
+sS'm\xc3\xb6ge '
+p1272
+I12
+sS'jimmy '
+p1273
+I1
+sS'soii '
+p1274
+I1
+sS'sprungauf '
+p1275
+I1
+sS'warte '
+p1276
+I5
+sS'erlaube '
+p1277
+I4
+sS'iassen '
+p1278
+I6
+sS'm\xc3\xb6gen '
+p1279
+I3
+sS'kommen '
+p1280
+I14
+sS'bella '
+p1281
+I1
+sS'fass '
+p1282
+I1
+sS'\xc3\xbcberl\xc3\xa4sst '
+p1283
+I1
+sS'guten '
+p1284
+I1
+sS'vergessen '
+p1285
+I6
+sS'haltet '
+p1286
+I1
+sS'erstmal '
+p1287
+I2
+sS'werde '
+p1288
+I13
+sS'horst '
+p1289
+I1
+sS'raus '
+p1290
+I12
+sS'schauen '
+p1291
+I56
+sS'mladen '
+p1292
+I1
+sS'beenden '
+p1293
+I2
+sS'guck '
+p1294
+I1
+sS'unbedingt '
+p1295
+I1
+sS'packt '
+p1296
+I2
+sS'geh '
+p1297
+I2
+sS'belassen '
+p1298
+I12
+sS'rauslassen '
+p1299
+I3
+sS'wer '
+p1300
+I2
+sS'probieren '
+p1301
+I1
+sS'verrate '
+p1302
+I5
+sS'vergiss '
+p1303
+I18
+sS'ran '
+p1304
+I2
+sS'freilassen '
+p1305
+I2
+sS'gef\xc3\xa4hrlich '
+p1306
+I1
+sS'schaun '
+p1307
+I4
+sS'komm\\u00b4 '
+p1308
+I2
+sS'erkl\xc3\xa4ren '
+p1309
+I1
+sS'leg '
+p1310
+I4
+sS'sekunde '
+p1311
+I1
+sS'bitte '
+p1312
+I3
+sS'leute '
+p1313
+I1
+sS'aufh\xc3\xb6ren '
+p1314
+I1
+sS'nachgeben '
+p1315
+I3
+sS'beeilt '
+p1316
+I1
+sS'mischen '
+p1317
+I1
+sS'l\xc3\xa4sst '
+p1318
+I213
+sS'macht '
+p1319
+I2
+sS'mehmet '
+p1320
+I1
+sS'girlie '
+p1321
+I1
+sS'wei\xc3\x9ft '
+p1322
+I1
+sS'ranlassen '
+p1323
+I1
+sS'aiso '
+p1324
+I2
+sS'gebt '
+p1325
+I4
+sS'beweg '
+p1326
+I1
+sS'fahren '
+p1327
+I26
+sS'nichts '
+p1328
+I5
+sS'endlos '
+p1329
+I1
+sS'setzen '
+p1330
+I5
+sS'finden '
+p1331
+I1
+sS'an '
+p1332
+I4
+sS'k\xc3\xb6nnen '
+p1333
+I8
+sS'willst '
+p1334
+I1
+sS'steh '
+p1335
+I2
+sS'zum '
+p1336
+I1
+sS'20 '
+p1337
+I1
+sS'alle '
+p1338
+I2
+sS'das '
+p1339
+I37
+sS'schreiben '
+p1340
+I1
+sS'gehen '
+p1341
+I204
+sS'zeig\\u00b4 '
+p1342
+I1
+sS'lasset '
+p1343
+I2
+sS'liee '
+p1344
+I1
+sS'kann '
+p1345
+I28
+sS'erz\xc3\xa4hl '
+p1346
+I2
+sS'gleich '
+p1347
+I1
+sS'h\xc3\xa4nde '
+p1348
+I1
+sS'dein '
+p1349
+I1
+sS'g\xc3\xb6nnen '
+p1350
+I2
+sS'was '
+p1351
+I15
+sS'nein '
+p1352
+I10
+sS'viktor '
+p1353
+I1
+sS'zulasse '
+p1354
+I2
+sS'zeige '
+p1355
+I4
+sS'gibst '
+p1356
+I1
+sS'lie\xc3\x9f '
+p1357
+I83
+sS'stecken '
+p1358
+I1
+sS'entt\xc3\xa4uschst '
+p1359
+I2
+sS'lockerlassen '
+p1360
+I1
+sS'vielen '
+p1361
+I1
+sS'sollen '
+p1362
+I31
+sS'dass '
+p1363
+I40
+sS'sag '
+p1364
+I57
+sS'setz '
+p1365
+I1
+sS'f\\u00e5r '
+p1366
+I1
+sS'immer '
+p1367
+I2
+sS'weiter '
+p1368
+I14
+sS'lies '
+p1369
+I6
+sS'\xc3\xbcberlasse '
+p1370
+I4
+sS'anmerken '
+p1371
+I2
+sS'zeit '
+p1372
+I2
+sS'nehm '
+p1373
+I5
+sS'lasst '
+p1374
+I1229
+sS'zwischenfall '
+p1375
+I1
+sS'bringe '
+p1376
+I1
+sS'lch '
+p1377
+I10
+sS'la\xc3\x9f '
+p1378
+I113
+sS'wirs '
+p1379
+I2
+sS'beeilung '
+p1380
+I6
+sS'sie '
+p1381
+I9
+sS'ja '
+p1382
+I6
+sS'dies '
+p1383
+I1
+sS'darf '
+p1384
+I47
+sS'm\xc3\xa4nner '
+p1385
+I1
+sS'losgelassen '
+p1386
+I8
+sS'aufgeht '
+p1387
+I1
+sS'las '
+p1388
+I8
+sS'halten '
+p1389
+I2
+sS'zulie\xc3\x9fe '
+p1390
+I1
+sS'lie\xc3\x9fe '
+p1391
+I2
+sS'werfen '
+p1392
+I1
+sS'tempo '
+p1393
+I2
+sS'machs '
+p1394
+I1
+sS'sagen '
+p1395
+I58
+sS'suchen '
+p1396
+I2
+sS'hilf '
+p1397
+I2
+sS'direkt '
+p1398
+I1
+sS'zul\xc3\xa4sst '
+p1399
+I7
+sS'alles '
+p1400
+I1
+sS'wir '
+p1401
+I571
+sS'zur\xc3\xbccklassen '
+p1402
+I1
+sS'loslassen '
+p1403
+I83
+sS'verpiss '
+p1404
+I1
+sS'holen '
+p1405
+I22
+sS'ziehen '
+p1406
+I26
+sS'wo '
+p1407
+I1
+sS'von '
+p1408
+I3
+sS'sprich '
+p1409
+I1
+sS'k\xc3\xa4mpfen '
+p1410
+I1
+sS'angriff '
+p1411
+I1
+sS'genug '
+p1412
+I1
+sS'lie\xc3\x9fen '
+p1413
+I28
+sS'hm '
+p1414
+I2
+sS'nennen '
+p1415
+I1
+sS'mietfrist '
+p1416
+I2
+sS'erz\xc3\xa4hi '
+p1417
+I1
+sS'leiht '
+p1418
+I1
+sS'aber '
+p1419
+I5
+sS'wolln '
+p1420
+I1
+sS'hey '
+p1421
+I9
+sS'glaub '
+p1422
+I3
+sS'nehmt '
+p1423
+I5
+sS'weihe '
+p1424
+I1
+sS'upgrades '
+p1425
+I1
+sS'n\xc3\xa4chste '
+p1426
+I1
+sS'toast '
+p1427
+I1
+sS'verstanden '
+p1428
+I1
+sS'betrachtet '
+p1429
+I1
+sS'kinder '
+p1430
+I1
+sS'ausgezeichnet '
+p1431
+I1
+sS'vorbestraft '
+p1432
+I1
+sS'zeigs '
+p1433
+I1
+sS'geb '
+p1434
+I1
+sS'daddy '
+p1435
+I1
+sS'verschwinden '
+p1436
+I4
+sS'gelassen '
+p1437
+I42
+sS'okay '
+p1438
+I13
+sS'wie '
+p1439
+I14
+sS'\xc3\xbcberlassen '
+p1440
+I20
+sS'schluss '
+p1441
+I1
+sS'will '
+p1442
+I8
+sS'schaffen '
+p1443
+I4
+sS'beruhigen '
+p1444
+I1
+sS'fliegen '
+p1445
+I2
+sS'holt '
+p1446
+I4
+sS'stellen '
+p1447
+I6
+sS'erlaubst '
+p1448
+I3
+sS'fangen '
+p1449
+I48
+sS'iosi\xc3\xa4sst '
+p1450
+I1
+sS'allein '
+p1451
+I1
+sS'tun '
+p1452
+I3
+sS'halyme '
+p1453
+I1
+sS'eins '
+p1454
+I1
+sS'vergrault '
+p1455
+I1
+sS'darauf '
+p1456
+I1
+sS'gestattet '
+p1457
+I3
+sS'tja '
+p1458
+I1
+sS'siehst '
+p1459
+I2
+sS'berichte '
+p1460
+I1
+sS'jeder '
+p1461
+I1
+sS'helft '
+p1462
+I2
+sS'mache '
+p1463
+I1
+sS'zuzulassen '
+p1464
+I3
+sS'springen '
+p1465
+I1
+sS'zieh '
+p1466
+I5
+sS'sehen '
+p1467
+I31
+sS'lacht '
+p1468
+I1
+sS'betatschen '
+p1469
+I1
+sS'm\xc3\xb6chte '
+p1470
+I12
+sS'vermieten '
+p1471
+I1
+sS'konzentrieren '
+p1472
+I1
+sS'welt '
+p1473
+I1
+sS'hauen '
+p1474
+I24
+sS'bringt '
+p1475
+I3
+sS'habt '
+p1476
+I3
+sS'ruf '
+p1477
+I4
+sS'lie\xc3\x9ft '
+p1478
+I1
+sS'penny '
+p1479
+I1
+sS'packen '
+p1480
+I23
+sS'lasse '
+p1481
+I155
+sS'locken '
+p1482
+I1
+sS'sollten '
+p1483
+I11
+sS'erst '
+p1484
+I4
+sS'los '
+p1485
+I321
+sS'abr\xc3\xbccken '
+p1486
+I1
+sS'steigen '
+p1487
+I2
+sS'verkauft '
+p1488
+I1
+sS'fisch '
+p1489
+I1
+sS'sage '
+p1490
+I4
+sS'lass '
+p1491
+I3986
+sS'kommt '
+p1492
+I2
+sS'betrachten '
+p1493
+I1
+sS'meister '
+p1494
+I1
+sS'schlagen '
+p1495
+I1
+sS'( '
+p1496
+I5
+sS'moment '
+p1497
+I3
+sS'let '
+p1498
+I128
+sS'reinlassen '
+p1499
+I8
+sS'janet '
+p1500
+I1
+sS'z\xc3\xa4hlen '
+p1501
+I1
+sS'sagte '
+p1502
+I1
+sS'warten '
+p1503
+I5
+sS'durfte '
+p1504
+I7
+sS'entlassen '
+p1505
+I1
+sS'gut '
+p1506
+I2
+sS'last '
+p1507
+I7
+sS'chiko '
+p1508
+I1
+sS'ich '
+p1509
+I127
+sS'hab '
+p1510
+I4
+sS'feiger '
+p1511
+I1
+sS'nochmal '
+p1512
+I1
+sS'liessen '
+p1513
+I3
+sS'hinstellen '
+p1514
+I1
+sS'iie\xc3\x9f '
+p1515
+I1
+sS'kannst '
+p1516
+I4
+sS'lassen '
+p1517
+I2551
+sS'veschwinden '
+p1518
+I1
+sS'haxon '
+p1519
+I1
+sS'gezeigt '
+p1520
+I1
+sS'iasse '
+p1521
+I1
+sS'setzt '
+p1522
+I1
+sS'es '
+p1523
+I21
+sS'stop '
+p1524
+I1
+sS'liess '
+p1525
+I4
+sS'helfe '
+p1526
+I2
+sS'spielen '
+p1527
+I3
+sS'l\xc3\xa4\xc3\x9ft '
+p1528
+I2
+sS'bleiben '
+p1529
+I4
+sS'zeig '
+p1530
+I77
+sS'weih '
+p1531
+I1
+sS'hoffen '
+p1532
+I2
+sS'briareos '
+p1533
+I1
+sS'ah '
+p1534
+I2
+sS'lhr '
+p1535
+I1
+sS'\xc3\xbcberzeugt '
+p1536
+I1
+sS'nur '
+p1537
+I4
+sS'zulassen '
+p1538
+I131
+sS'ein '
+p1539
+I1
+sS'olivia '
+p1540
+I1
+sS'damit '
+p1541
+I32
+sS'beteilige '
+p1542
+I1
+sS'schnell '
+p1543
+I6
+sS'he '
+p1544
+I1
+sS'rechnen '
+p1545
+I1
+sS'bringen '
+p1546
+I61
+sS'la\xc3\x9ft '
+p1547
+I21
+sS'melden '
+p1548
+I1
+sS'hinwegkommen '
+p1549
+I1
+sS'wiii '
+p1550
+I2
+sS'\xc3\xbcberlass '
+p1551
+I4
+sS'gehn '
+p1552
+I1
+sS'dich '
+p1553
+I1
+sS'kochen '
+p1554
+I1
+sS'soll '
+p1555
+I58
+sS'oh '
+p1556
+I8
+sS'versuchen '
+p1557
+I11
+sS'in '
+p1558
+I1
+sS'\xc3\x9cberlegen '
+p1559
+I1
+sS'na '
+p1560
+I76
+sS'wem '
+p1561
+I1
+sS'zugelassen '
+p1562
+I8
+sS'vergi\xc3\x9f '
+p1563
+I2
+sS'bewegt '
+p1564
+I3
+sS'h\xc3\xb6ren '
+p1565
+I4
+stp1566
+a((lp1567
+S'liberty'
+p1568
+aS'Liberty'
+p1569
+a(dp1570
+S'bilbliotheksglocke '
+p1571
+I1
+sS'bundes- '
+p1572
+I1
+sS'dazu '
+p1573
+I1
+sS'17\\u00b4ter '
+p1574
+I1
+sS'verdammt '
+p1575
+I1
+sS't\xc3\xa4uschungsman\xc3\xb6ver '
+p1576
+I1
+sS'freiheitsglocke '
+p1577
+I2
+sS'freiheit '
+p1578
+I51
+sS'darf '
+p1579
+I3
+sS'befugt '
+p1580
+I2
+sS'freiheitsrechte '
+p1581
+I1
+sS'erlaubt '
+p1582
+I5
+sS'lage '
+p1583
+I1
+sS'liberty '
+p1584
+I49
+sS'spirit '
+p1585
+I1
+sS'frei '
+p1586
+I5
+sS'steht '
+p1587
+I1
+stp1588
+a((lp1589
+S'mind'
+p1590
+aS'Mind'
+p1591
+a(dp1592
+S'm\xc3\xbche '
+p1593
+I2
+sS'traurig '
+p1594
+I1
+sS'ausmacht '
+p1595
+I59
+sS'da '
+p1596
+I3
+sS'geistes '
+p1597
+I10
+sS'krick '
+p1598
+I1
+sS'sonne '
+p1599
+I1
+sS'gegen '
+p1600
+I9
+sS'\xc3\xbcberlegt '
+p1601
+I19
+sS'w\xc3\xbcrden '
+p1602
+I4
+sS'ok '
+p1603
+I2
+sS'k\xc3\xbcmmer '
+p1604
+I10
+sS'irritierendsten '
+p1605
+I1
+sS'verr\xc3\xbcckt '
+p1606
+I34
+sS'sinn '
+p1607
+I65
+sS'denkweise '
+p1608
+I2
+sS'egal '
+p1609
+I70
+sS'nicht '
+p1610
+I1
+sS'gerne '
+p1611
+I2
+sS'\xc3\xbcbel '
+p1612
+I4
+sS'inneren '
+p1613
+I1
+sS'seele '
+p1614
+I2
+sS'crawley '
+p1615
+I1
+sS'bescheuert '
+p1616
+I4
+sS'\xc3\xa4rgert '
+p1617
+I3
+sS'nett '
+p1618
+I4
+sS'\xc3\x9cberlegst '
+p1619
+I1
+sS'ausgeliehen '
+p1620
+I1
+sS'grille '
+p1621
+I1
+sS'ordnung '
+p1622
+I1
+sS'tue '
+p1623
+I1
+sS'beachte '
+p1624
+I2
+sS'launisch '
+p1625
+I1
+sS'erinnern '
+p1626
+I1
+sS'bereit '
+p1627
+I1
+sS'st\xc3\xb6rt '
+p1628
+I65
+sS'verstand '
+p1629
+I337
+sS'merken '
+p1630
+I4
+sS'lass '
+p1631
+I4
+sS'einmal '
+p1632
+I3
+sS'f\xc3\xa4llt '
+p1633
+I1
+sS'k\xc3\xbcmmre '
+p1634
+I1
+sS'ausgemacht '
+p1635
+I1
+sS'draus '
+p1636
+I1
+sS'pass '
+p1637
+I2
+sS'zusammenhang '
+p1638
+I1
+sS'vorsicht '
+p1639
+I5
+sS'losl\xc3\xa4sst '
+p1640
+I1
+sS'bedr\xc3\xbcckt '
+p1641
+I2
+sS'\xc3\xbcbergeschnappt '
+p1642
+I5
+sS'bestimmtes '
+p1643
+I1
+sS'seeie '
+p1644
+I1
+sS'genau '
+p1645
+I1
+sS'hinterkopf '
+p1646
+I7
+sS'lassen '
+p1647
+I1
+sS'du '
+p1648
+I1
+sS'stoert '
+p1649
+I2
+sS'umentscheiden '
+p1650
+I1
+sS'gut '
+p1651
+I25
+sS'gem\xc3\xbct '
+p1652
+I4
+sS'ja '
+p1653
+I1
+sS'tassen '
+p1654
+I1
+sS'einfallen '
+p1655
+I3
+sS'k\xc3\xbcmmert '
+p1656
+I6
+sS'k\xc3\xbcmmern '
+p1657
+I2
+sS'meinetwegen '
+p1658
+I3
+sS'bill '
+p1659
+I1
+sS'hypnose- '
+p1660
+I1
+sS'rolle '
+p1661
+I2
+sS'spinnst '
+p1662
+I5
+sS'sein '
+p1663
+I1
+sS'nach '
+p1664
+I1
+sS'herrje '
+p1665
+I1
+sS'durchgeknallt '
+p1666
+I1
+sS'meinung '
+p1667
+I157
+sS'bitte '
+p1668
+I19
+sS'allerdings '
+p1669
+I7
+sS'brauchst '
+p1670
+I1
+sS'mich '
+p1671
+I1
+sS'bewusstsein '
+p1672
+I1
+sS'entscheidung '
+p1673
+I4
+sS'k\xc3\xb6nnte '
+p1674
+I2
+sS'aufpassen '
+p1675
+I2
+sS'homburg '
+p1676
+I1
+sS'dagegen '
+p1677
+I121
+sS'w\xc3\xbcrdest '
+p1678
+I1
+sS'abzulenken '
+p1679
+I2
+sS'doch '
+p1680
+I2
+sS'kann '
+p1681
+I13
+sS'gedanken '
+p1682
+I118
+sS'vielleicht '
+p1683
+I11
+sS'schuh '
+p1684
+I1
+sS'geist '
+p1685
+I99
+sS'k\xc3\xbcmmere '
+p1686
+I9
+sS'bleiben '
+p1687
+I1
+sS'l\xc3\xa4stig '
+p1688
+I1
+sS'pete '
+p1689
+I1
+sS'w\xc3\xbcsste '
+p1690
+I2
+sS'kannst '
+p1691
+I2
+sS'\xc3\xbcberlege '
+p1692
+I7
+sS'ablenken '
+p1693
+I1
+sS'idee '
+p1694
+I3
+sS'sagen '
+p1695
+I1
+sS'bestimmte '
+p1696
+I1
+sS'sorge '
+p1697
+I2
+sS'ne, '
+p1698
+I1
+sS'sinnen '
+p1699
+I6
+sS'stur '
+p1700
+I1
+sS'entscheiden '
+p1701
+I14
+sS'gem\xc3\xbcht '
+p1702
+I1
+sS'stoerts '
+p1703
+I1
+sS'wohl '
+p1704
+I1
+sS'sch\xc3\xa4del '
+p1705
+I1
+sS'bitten '
+p1706
+I3
+sS'umentschlossen '
+p1707
+I1
+sS'erinnerung '
+p1708
+I3
+sS'vorbei '
+p1709
+I2
+sS'grips '
+p1710
+I1
+sS'verzeihen '
+p1711
+I1
+sS'gestattest '
+p1712
+I1
+sS'verruckt '
+p1713
+I1
+sS'achten '
+p1714
+I1
+sS'k\xc3\xb6nnten '
+p1715
+I2
+sS'klar '
+p1716
+I1
+sS'halt '
+p1717
+I1
+sS'meinst '
+p1718
+I1
+sS'vorgehen '
+p1719
+I1
+sS'k. '
+p1720
+I2
+sS'beachtet '
+p1721
+I2
+sS'schwebt '
+p1722
+I4
+sS'vergessen '
+p1723
+I12
+sS'st\xc3\xb6re '
+p1724
+I1
+sS'um '
+p1725
+I9
+sS'ged\xc3\xa4chtnis '
+p1726
+I15
+sS'aus '
+p1727
+I122
+sS'achtung '
+p1728
+I2
+sS'denk '
+p1729
+I4
+sS'kopf '
+p1730
+I111
+sS'\xc3\xbcberlegen '
+p1731
+I6
+sS'k\xc3\xb6pfe '
+p1732
+I1
+sS'danke '
+p1733
+I1
+sS'herzen '
+p1734
+I14
+sS'beraten '
+p1735
+I1
+sS'mir '
+p1736
+I3
+sS'sorgen '
+p1737
+I2
+sS'ohren '
+p1738
+I6
+sS'spur '
+p1739
+I6
+sS'geistig '
+p1740
+I1
+sS'entschuldigen '
+p1741
+I1
+sS'wohlgemerkt '
+p1742
+I3
+sS'hochzeit '
+p1743
+I1
+sS'eben '
+p1744
+I1
+sS'angst '
+p1745
+I1
+sS'eingefallen '
+p1746
+I3
+sS'vorstellte '
+p1747
+I1
+sS'durch '
+p1748
+I1
+sS'wahnsinnig '
+p1749
+I3
+sS'k\xc3\xbcmmerst '
+p1750
+I3
+sS'leonard '
+p1751
+I1
+sS'rumgegangen '
+p1752
+I1
+sS'augen '
+p1753
+I1
+sS'h\xc3\xbcten '
+p1754
+I1
+sS'geiste '
+p1755
+I1
+sS'mal '
+p1756
+I2
+sS'\\u00b4was '
+p1757
+I1
+sS'vergiss '
+p1758
+I6
+sS'verdammte '
+p1759
+I1
+sS'trost '
+p1760
+I1
+sS'auf '
+p1761
+I4
+sS'durchgedreht '
+p1762
+I3
+sS'denkst '
+p1763
+I7
+sS'geht '
+p1764
+I3
+sS'nachgedacht '
+p1765
+I1
+sS'gehirnkontrolle '
+p1766
+I1
+sS'wissen '
+p1767
+I2
+sS'd\xc3\xbcrfen '
+p1768
+I5
+sS'was '
+p1769
+I5
+sS'gern '
+p1770
+I6
+sS'st\xc3\xb6ren '
+p1771
+I30
+sS'ausgedacht '
+p1772
+I1
+sS'egai '
+p1773
+I2
+sS'okay '
+p1774
+I4
+sS'beckett '
+p1775
+I1
+sS'denken '
+p1776
+I14
+sS'fortpflanzung '
+p1777
+I1
+sS'entschuldigung '
+p1778
+I2
+sS'mind '
+p1779
+I6
+sS'darf '
+p1780
+I74
+sS'fantasie '
+p1781
+I1
+sS'chocatini '
+p1782
+I1
+sS'erlaubt '
+p1783
+I1
+sS'dir '
+p1784
+I1
+sS'pretoria '
+p1785
+I1
+sS'sich '
+p1786
+I3
+sS'dran '
+p1787
+I3
+sS'halte '
+p1788
+I1
+sS'wichtig '
+p1789
+I9
+sS'einstellung '
+p1790
+I1
+sS'sei '
+p1791
+I1
+sS'entschieden '
+p1792
+I12
+sS'zucker '
+p1793
+I1
+sS'entschlossen '
+p1794
+I5
+sS'macht '
+p1795
+I37
+sS'mentalitaet '
+p1796
+I1
+sS'\xc3\xbcberlegst '
+p1797
+I4
+sS'unwichtig '
+p1798
+I1
+sS'gedacht '
+p1799
+I9
+sS'verstandrecht '
+p1800
+I1
+sS'bem\xc3\xbche '
+p1801
+I1
+sS'herz '
+p1802
+I1
+sS'tun '
+p1803
+I5
+sS'k\xc3\xb6pfchen '
+p1804
+I2
+sS'besch\xc3\xa4ftigt '
+p1805
+I3
+sS'vorgenommen '
+p1806
+I1
+sS'problem '
+p1807
+I6
+sS'vorgestellt '
+p1808
+I4
+sS'hirn '
+p1809
+I6
+sS'schlimm '
+p1810
+I1
+sS"'s "
+p1811
+I1
+sS'herumging '
+p1812
+I1
+sS'mentale '
+p1813
+I1
+sS'beachten '
+p1814
+I2
+sS'k\xc3\xb6nntest '
+p1815
+I1
+sS'gehirn '
+p1816
+I8
+sS'erlauben '
+p1817
+I6
+sS'ausmachen '
+p1818
+I74
+sS'nichts '
+p1819
+I8
+sS'achte '
+p1820
+I1
+sS'frauen '
+p1821
+I1
+sS'interessieren '
+p1822
+I2
+sS'sinne '
+p1823
+I1
+sS'entschluss '
+p1824
+I1
+sS'bedenken '
+p1825
+I1
+sS'uninteressant '
+p1826
+I1
+sS'interessiert '
+p1827
+I1
+sS'vorgeht '
+p1828
+I2
+sS'an '
+p1829
+I1
+sS'm\xc3\xb6chten '
+p1830
+I1
+sS'bedr\xc3\xbccken '
+p1831
+I1
+sS'k\xc3\xb6nnen '
+p1832
+I2
+sS'eiektroiaden '
+p1833
+I1
+sS'willst '
+p1834
+I2
+sS'ignoriert '
+p1835
+I1
+sS'denke '
+p1836
+I11
+sS'ernst '
+p1837
+I1
+sS'd\xc3\xbcrfte '
+p1838
+I28
+sS'soll '
+p1839
+I1
+sS'geistigen '
+p1840
+I5
+sS'vorhatte '
+p1841
+I2
+sS'vor '
+p1842
+I10
+sS'gehen '
+p1843
+I2
+sS'denkt '
+p1844
+I9
+sS'vorhaben '
+p1845
+I1
+sS'getr\xc3\xa4umt '
+p1846
+I1
+sS'deppert '
+p1847
+I2
+sS'wild '
+p1848
+I2
+sS'willen '
+p1849
+I3
+sS'vater '
+p1850
+I1
+sS'freundlich '
+p1851
+I2
+sS'ruhig '
+p1852
+I1
+sS'spinnt '
+p1853
+I1
+sS'dicht '
+p1854
+I5
+sS'frei '
+p1855
+I2
+sS'etwas '
+p1856
+I1
+sS'recht '
+p1857
+I1
+sS'daran '
+p1858
+I3
+sS'auge '
+p1859
+I3
+sS'verzeihst '
+p1860
+I2
+sS'verst\xc3\xa4ndnis '
+p1861
+I1
+sS'konzentriere '
+p1862
+I4
+stp1863
+a((lp1864
+S'necessary'
+p1865
+aS'Necessary'
+p1866
+a(dp1867
+S'diskussion '
+p1868
+I1
+sS'musst '
+p1869
+I1
+sS'sein '
+p1870
+I9
+sS'unerl\xc3\xa4sslisch '
+p1871
+I1
+sS'erforderlich '
+p1872
+I7
+sS'\xc3\xbcberfl\xc3\xbcssig '
+p1873
+I1
+sS'undzeigenwollen '
+p1874
+I2
+sS'brauchst '
+p1875
+I1
+sS'besuch '
+p1876
+I1
+sS'dringender '
+p1877
+I1
+sS'unbedingt '
+p1878
+I1
+sS'm\xc3\xbcssen '
+p1879
+I3
+sS'auslauf '
+p1880
+I1
+sS'n\xc3\xb6tige '
+p1881
+I5
+sS'notwendigen '
+p1882
+I6
+sS'vonn\xc3\xb6ten '
+p1883
+I1
+sS'gerne '
+p1884
+I1
+sS'brauchen '
+p1885
+I1
+sS'notwendig '
+p1886
+I112
+sS'wahrscheinlich '
+p1887
+I1
+sS'unabwendbar '
+p1888
+I1
+sS'notwendiges '
+p1889
+I7
+sS'so '
+p1890
+I1
+sS'n\xc3\xb6tig '
+p1891
+I161
+sS'notwendige '
+p1892
+I6
+sS'noetiges '
+p1893
+I1
+sS'bedarf '
+p1894
+I1
+sS'muss '
+p1895
+I2
+sS'erforderliche '
+p1896
+I2
+sS'preis '
+p1897
+I2
+sS'veneers '
+p1898
+I1
+sS'geschossenwerden '
+p1899
+I1
+sS'n\xc3\xb6tigen '
+p1900
+I3
+sS'schwerste '
+p1901
+I1
+sS'n\xc3\xb6ten '
+p1902
+I2
+sS'n\xc3\xbctzlich '
+p1903
+I1
+sS'mitteln '
+p1904
+I1
+sS'notwenig '
+p1905
+I1
+sS'notwendiger '
+p1906
+I3
+sS'ausweisnummer '
+p1907
+I2
+sS'notwendigerweise '
+p1908
+I1
+sS'wichtig '
+p1909
+I1
+stp1910
+a((lp1911
+S'need'
+p1912
+aS'Need'
+p1913
+a(dp1914
+S'interesse '
+p1915
+I3
+sS'mach\\u00b4 '
+p1916
+I1
+sS'kis '
+p1917
+I1
+sS'musst '
+p1918
+I1172
+sS'jetzt '
+p1919
+I2
+sS'drang '
+p1920
+I2
+sS'fehlte '
+p1921
+I2
+sS'hauptsache '
+p1922
+I1
+sS'wichtigste '
+p1923
+I1
+sS'mussen '
+p1924
+I1
+sS'wirst '
+p1925
+I3
+sS'beschafft '
+p1926
+I1
+sS'erwarte '
+p1927
+I2
+sS'brauch\\u00b4 '
+p1928
+I11
+sS'bed\xc3\xbcrfniss '
+p1929
+I1
+sS'k\xc3\xb6nnte '
+p1930
+I1
+sS'angewiesen '
+p1931
+I1
+sS'sollte '
+p1932
+I10
+sS'nein '
+p1933
+I3
+sS'm\xc3\xbcssen '
+p1934
+I2235
+sS'einen '
+p1935
+I1
+sS'n\xc3\xb6tige '
+p1936
+I7
+sS'sollten '
+p1937
+I86
+sS'bevor '
+p1938
+I1
+sS'wunsch '
+p1939
+I2
+sS'nehmen '
+p1940
+I2
+sS'wen '
+p1941
+I2
+sS'brauchen '
+p1942
+I2710
+sS'keine '
+p1943
+I1
+sS'steigen '
+p1944
+I1
+sS'wenn '
+p1945
+I1
+sS'kotzt '
+p1946
+I1
+sS'br\xc3\xa4uchte '
+p1947
+I40
+sS'habe '
+p1948
+I6
+sS'zwar '
+p1949
+I1
+sS'n\xc3\xb6tig '
+p1950
+I95
+sS'dass '
+p1951
+I2
+sS'm\xc3\xbcsste '
+p1952
+I33
+sS'wollen '
+p1953
+I50
+sS'mhh '
+p1954
+I1
+sS'ihnen '
+p1955
+I1
+sS'damon '
+p1956
+I1
+sS'bedarf '
+p1957
+I20
+sS'dauert '
+p1958
+I1
+sS'mu\xc3\x9ft '
+p1959
+I24
+sS'weh '
+p1960
+I3
+sS'gebrauchen '
+p1961
+I40
+sS'blackwood '
+p1962
+I1
+sS'z\xc3\xa4hlen '
+p1963
+I1
+sS'braucehn '
+p1964
+I1
+sS'warten '
+p1965
+I1
+sS'h\xc3\xb6rt '
+p1966
+I1
+sS'praxis '
+p1967
+I1
+sS'wolltet '
+p1968
+I1
+sS'haben '
+p1969
+I5
+sS'sofort '
+p1970
+I2
+sS'brauchten '
+p1971
+I7
+sS'ben\xc3\xb6tigst '
+p1972
+I9
+sS'scheren '
+p1973
+I1
+sS'pr\xc3\xa4sident '
+p1974
+I1
+sS'gruselig '
+p1975
+I1
+sS'durchsuchungsbefehl '
+p1976
+I1
+sS'schon '
+p1977
+I1
+sS'jane '
+p1978
+I1
+sS'nutzen '
+p1979
+I1
+sS'darf '
+p1980
+I5
+sS'brauche '
+p1981
+I2636
+sS'anlass '
+p1982
+I2
+sS'hilfe '
+p1983
+I1
+sS'brauchst '
+p1984
+I1029
+sS'mich '
+p1985
+I1
+sS'mit '
+p1986
+I2
+sS'hab '
+p1987
+I2
+sS'geben '
+p1988
+I1
+sS'ben\xc3\xb6tigen '
+p1989
+I98
+sS'bed\xc3\xbcrfnis '
+p1990
+I51
+sS'kann '
+p1991
+I11
+sS'hinm\xc3\xbcsst '
+p1992
+I1
+sS'ob '
+p1993
+I1
+sS'lustig '
+p1994
+I1
+sS'suche '
+p1995
+I4
+sS'gerne '
+p1996
+I2
+sS'zu '
+p1997
+I1
+sS'dringend '
+p1998
+I3
+sS'kannst '
+p1999
+I4
+sS'lassen '
+p2000
+I1
+sS'sorge '
+p2001
+I4
+sS'ziehst '
+p2002
+I1
+sS'm\xc3\xbcsst '
+p2003
+I90
+sS'besser '
+p2004
+I2
+sS'zucchini '
+p2005
+I1
+sS'suchen '
+p2006
+I2
+sS'ernst '
+p2007
+I1
+sS'klinger '
+p2008
+I2
+sS'bitten '
+p2009
+I1
+sS'brauchee '
+p2010
+I1
+sS'fehlt '
+p2011
+I3
+sS'zwecke '
+p2012
+I1
+sS'gebraucht '
+p2013
+I21
+sS'l\xc3\xbcft '
+p2014
+I1
+sS'kommen '
+p2015
+I3
+sS'unterwegs '
+p2016
+I1
+sS'hinfahren '
+p2017
+I1
+sS'k\xc3\xb6nnten '
+p2018
+I2
+sS'provide '
+p2019
+I1
+sS'bed\xc3\xbcrfen '
+p2020
+I1
+sS'musstjetzt '
+p2021
+I1
+sS'braucht '
+p2022
+I417
+sS'm\xc3\xbcsstest '
+p2023
+I6
+sS'mehr '
+p2024
+I2
+sS'musste '
+p2025
+I14
+sS'werd '
+p2026
+I2
+sS'must '
+p2027
+I2
+sS'ja '
+p2028
+I2
+sS'medizin '
+p2029
+I1
+sS'musstest '
+p2030
+I1
+sS'notwendigkeit '
+p2031
+I10
+sS'meine '
+p2032
+I1
+sS'holen '
+p2033
+I3
+sS'irgendwas '
+p2034
+I1
+sS'werde '
+p2035
+I3
+sS'kriege '
+p2036
+I1
+sS'cop '
+p2037
+I1
+sS'hinm\xc3\xbcssen '
+p2038
+I1
+sS'gib '
+p2039
+I3
+sS'noch '
+p2040
+I10
+sS'm\xc3\xbc\xc3\x9ftest '
+p2041
+I1
+sS'mir '
+p2042
+I5
+sS'sorgen '
+p2043
+I1
+sS'erst '
+p2044
+I1
+sS'ben\xc3\xb6tigt '
+p2045
+I16
+sS'hilfsbed\xc3\xbcrftigen '
+p2046
+I1
+sS'wozu '
+p2047
+I1
+sS'm\\u00c3\\u00bcssen '
+p2048
+I1
+sS'genug '
+p2049
+I3
+sS'casey '
+p2050
+I1
+sS'mirvielleicht '
+p2051
+I1
+sS'dog '
+p2052
+I1
+sS'unbedingt '
+p2053
+I2
+sS'm\\u05e6chtest '
+p2054
+I1
+sS'gesicht '
+p2055
+I1
+sS'hey '
+p2056
+I1
+sS'unn\xc3\xb6tig '
+p2057
+I5
+sS'muss '
+p2058
+I2122
+sS'notwendig '
+p2059
+I22
+sS'm\xc3\xb6chtest '
+p2060
+I6
+sS'br\xc3\xa4uchtest '
+p2061
+I1
+sS'mal '
+p2062
+I1
+sS'auftrag '
+p2063
+I1
+sS'br\xc3\xa4uchten '
+p2064
+I25
+sS'auf '
+p2065
+I1
+sS'nur '
+p2066
+I1
+sS'grund '
+p2067
+I87
+sS'sollst '
+p2068
+I4
+sS'brauchtest '
+p2069
+I4
+sS'reicht '
+p2070
+I1
+sS'm\xc3\xbcsstet '
+p2071
+I1
+sS'ohne '
+p2072
+I6
+sS'd\xc3\xbcrfen '
+p2073
+I6
+sS'was '
+p2074
+I1
+sS'brauchte '
+p2075
+I20
+sS'gern '
+p2076
+I9
+sS'glaube '
+p2077
+I2
+sS'bed\xc3\xbcrfnissen '
+p2078
+I1
+sS'weiss '
+p2079
+I1
+sS'hab\\u00b4 '
+p2080
+I2
+sS'solltest '
+p2081
+I74
+sS'm\xc3\xbcssem '
+p2082
+I1
+sS'bitte '
+p2083
+I20
+sS'k\xc3\xa4mest '
+p2084
+I3
+sS'bestehen '
+p2085
+I1
+sS'm\\ufffdssen '
+p2086
+I1
+sS'gib\\u00b4 '
+p2087
+I1
+sS'wichtig '
+p2088
+I10
+sS'massive '
+p2089
+I1
+sS'verlangen '
+p2090
+I10
+sS'ben\xc3\xb6tige '
+p2091
+I36
+sS'polizeiarbeit '
+p2092
+I1
+sS'schwingen '
+p2093
+I1
+sS'mu\xc3\x9f '
+p2094
+I54
+sS'holt '
+p2095
+I1
+sS'kleiner '
+p2096
+I1
+sS'veranlassung '
+p2097
+I2
+sS'wiii '
+p2098
+I1
+sS'muessen '
+p2099
+I7
+sS'koennen '
+p2100
+I1
+sS'schluss '
+p2101
+I1
+sS'du- '
+p2102
+I1
+sS'lust '
+p2103
+I1
+sS'\xc3\xbcberfl\xc3\xbcssig '
+p2104
+I1
+sS'tun '
+p2105
+I2
+sS'sucht '
+p2106
+I1
+sS'reg '
+p2107
+I1
+sS'dich '
+p2108
+I1
+sS', '
+p2109
+I3
+sS'gefehlt '
+p2110
+I5
+sS'flehe '
+p2111
+I1
+sS'waffen '
+p2112
+I1
+sS'treten '
+p2113
+I1
+sS'verwendung '
+p2114
+I1
+sS'bin '
+p2115
+I1
+sS'reden '
+p2116
+I2
+sS'exizor '
+p2117
+I2
+sS'bereits '
+p2118
+I1
+sS'bed\xc3\xbcrftigen '
+p2119
+I1
+sS'verlange '
+p2120
+I1
+sS'produziere '
+p2121
+I1
+sS'solltet '
+p2122
+I10
+sS'offen '
+p2123
+I1
+sS'hole '
+p2124
+I1
+sS'verkackt '
+p2125
+I1
+sS'm\xc3\xbcssten '
+p2126
+I10
+sS'm\xc3\xb6chten '
+p2127
+I8
+sS'k\xc3\xb6nnen '
+p2128
+I1
+sS'anpacken '
+p2129
+I2
+sS'oh '
+p2130
+I3
+sS'helfen '
+p2131
+I4
+sS'brauch '
+p2132
+I372
+sS'willst '
+p2133
+I19
+sS'ich '
+p2134
+I2
+sS'grisham '
+p2135
+I1
+sS'ist '
+p2136
+I7
+sS'm\xc3\xb6chte '
+p2137
+I147
+sS'wollte '
+p2138
+I4
+sS'wollt '
+p2139
+I7
+sS'will '
+p2140
+I143
+sS'need '
+p2141
+I32
+sS'perez '
+p2142
+I1
+sS'not '
+p2143
+I12
+sS'soll '
+p2144
+I25
+sS'danke '
+p2145
+I2
+sS'zehn '
+p2146
+I1
+sS'aiies '
+p2147
+I1
+sS'h\xc3\xb6ren '
+p2148
+I2
+sS'bringt '
+p2149
+I1
+stp2150
+a((lp2151
+S'needed'
+p2152
+aS'Needed'
+p2153
+a(dp2154
+S'gebracht '
+p2155
+I2
+sS'beendet '
+p2156
+I1
+sS'musst '
+p2157
+I6
+sS'ben\xc3\xb6tige '
+p2158
+I1
+sS'anh\xc3\xb6rung '
+p2159
+I1
+sS'fehlte '
+p2160
+I1
+sS'anna '
+p2161
+I1
+sS'suchte '
+p2162
+I1
+sS'ratsam '
+p2163
+I1
+sS'wolltest '
+p2164
+I4
+sS'erforderlich '
+p2165
+I2
+sS'ben\xc3\xb6tigt '
+p2166
+I7
+sS'geliefert '
+p2167
+I1
+sS'brauche '
+p2168
+I19
+sS'musstet '
+p2169
+I1
+sS'brauchst '
+p2170
+I22
+sS'klauen '
+p2171
+I1
+sS'viel '
+p2172
+I1
+sS'f\xc3\xa4llig '
+p2173
+I1
+sS'882 '
+p2174
+I1
+sS'springt '
+p2175
+I1
+sS'ben\xc3\xb6tigen '
+p2176
+I3
+sS'm\xc3\xbcssen '
+p2177
+I2
+sS'm\xc3\xbcsse '
+p2178
+I4
+sS'gefehlt '
+p2179
+I7
+sS'musste '
+p2180
+I116
+sS'musstest '
+p2181
+I10
+sS'ben\xc3\xb6tigten '
+p2182
+I1
+sS'vonn\xc3\xb6ten '
+p2183
+I2
+sS'muss '
+p2184
+I23
+sS'wer '
+p2185
+I1
+sS'brauchen '
+p2186
+I27
+sS'notwendig '
+p2187
+I2
+sS'darfst '
+p2188
+I1
+sS'i\xc3\xbcge '
+p2189
+I1
+sS'br\xc3\xa4uchte '
+p2190
+I21
+sS'br\xc3\xa4uchtest '
+p2191
+I2
+sS'n\xc3\xb6tig '
+p2192
+I27
+sS'br\xc3\xa4uchten '
+p2193
+I5
+sS'klar '
+p2194
+I1
+sS'soll\\u00b4 '
+p2195
+I1
+sS'm\xc3\xbcsste '
+p2196
+I8
+sS'mussten '
+p2197
+I8
+sS'twitchell '
+p2198
+I1
+sS'sollte '
+p2199
+I3
+sS'nette '
+p2200
+I1
+sS'brauch '
+p2201
+I4
+sS'brauchtest '
+p2202
+I10
+sS'gebraucht '
+p2203
+I104
+sS'brauchte '
+p2204
+I223
+sS'einzuschleusen '
+p2205
+I1
+sS'wollten '
+p2206
+I2
+sS'alles '
+p2207
+I1
+sS'wollte '
+p2208
+I17
+sS'w\xc3\x9crde '
+p2209
+I1
+sS'idee '
+p2210
+I1
+sS'erz\xc3\xa4hlt '
+p2211
+I1
+sS'braucht '
+p2212
+I39
+sS'b\xc3\xa4uchten '
+p2213
+I1
+sS'n\xc3\xb6tige '
+p2214
+I2
+sS'sollten '
+p2215
+I2
+sS'fehlt '
+p2216
+I1
+sS'schlimmer '
+p2217
+I1
+sS'ben\xc3\xb6tigte '
+p2218
+I10
+sS'abgeblieben '
+p2219
+I1
+sS'brauchten '
+p2220
+I66
+sS'geschafft '
+p2221
+I1
+stp2222
+a((lp2223
+S'needing'
+p2224
+aS'Needing'
+p2225
+a(dp2226
+S'welchen '
+p2227
+I1
+sS'ben\xc3\xb6tigen '
+p2228
+I14
+sS'braucht '
+p2229
+I1
+sS'gef\xc3\xa4ngnisses '
+p2230
+I1
+sS'notwendigkeit '
+p2231
+I1
+sS'brauchen '
+p2232
+I23
+sS'entladen '
+p2233
+I1
+sS'damit '
+p2234
+I1
+sS'm\xc3\xbcsstet '
+p2235
+I1
+sS'brauche '
+p2236
+I6
+sS'spa\xc3\x9fig '
+p2237
+I1
+sS'brauchst '
+p2238
+I5
+sS'gegeben '
+p2239
+I1
+sS'brauchten '
+p2240
+I2
+stp2241
+a((lp2242
+S'needs'
+p2243
+aS'Needs'
+p2244
+a(dp2245
+S'brauchst '
+p2246
+I3
+sS'mu\xc3\x9f '
+p2247
+I17
+sS'anforderungen '
+p2248
+I4
+sS'sansibar '
+p2249
+I1
+sS'brillant '
+p2250
+I1
+sS'ben\xc3\xb6tigt '
+p2251
+I32
+sS'517 '
+p2252
+I1
+sS'freiwilige '
+p2253
+I1
+sS'hat '
+p2254
+I1
+sS'brauche '
+p2255
+I2
+sS'geh\xc3\xb6rt '
+p2256
+I4
+sS'letzte '
+p2257
+I1
+sS'altkleidersammlung '
+p2258
+I1
+sS'sollte '
+p2259
+I18
+sS'sachen '
+p2260
+I1
+sS'm\xc3\xbcssen '
+p2261
+I7
+sS'm\xc3\xbcsse '
+p2262
+I1
+sS'gibt '
+p2263
+I1
+sS'musste '
+p2264
+I1
+sS'kann '
+p2265
+I1
+sS'sagt '
+p2266
+I1
+sS'fehlt '
+p2267
+I7
+sS'w\xc3\xbcnsche '
+p2268
+I1
+sS'muss '
+p2269
+I400
+sS'brauchen '
+p2270
+I11
+sS'schrecklich '
+p2271
+I1
+sS'proudly '
+p2272
+I1
+sS'dringend '
+p2273
+I1
+sS'mnemba '
+p2274
+I1
+sS'br\xc3\xa4uchte '
+p2275
+I4
+sS'mal '
+p2276
+I1
+sS'sind '
+p2277
+I1
+sS'unabdinglich '
+p2278
+I2
+sS'n\xc3\xb6tig '
+p2279
+I10
+sS'ich '
+p2280
+I1
+sS'm\xc3\xbcsste '
+p2281
+I4
+sS'soll '
+p2282
+I7
+sS'e '
+p2283
+I1
+sS'mehrzweckpresse '
+p2284
+I1
+sS'wichtigen '
+p2285
+I1
+sS'brauch '
+p2286
+I15
+sS'einkaufszettel '
+p2287
+I1
+sS'bedarf '
+p2288
+I3
+sS'neugierig '
+p2289
+I1
+sS'gebraucht '
+p2290
+I1
+sS'bed\xc3\xbcrfnisse '
+p2291
+I57
+sS'ballk\xc3\xb6nige '
+p2292
+I1
+sS'geh\\u0161rt '
+p2293
+I1
+sS'gebrauchen '
+p2294
+I3
+sS'm\xc3\xb6chte '
+p2295
+I5
+sS'bed\xc3\xbcrfnissen '
+p2296
+I13
+sS'brauchte '
+p2297
+I3
+sS'braucht '
+p2298
+I1004
+sS'n\xc3\xb6te '
+p2299
+I2
+sS'needs '
+p2300
+I6
+sS'abk\xc3\xbchlen '
+p2301
+I1
+sS'erfordert '
+p2302
+I5
+sS'will '
+p2303
+I14
+sS'teufel '
+p2304
+I1
+sS'wichtig '
+p2305
+I1
+stp2306
+a((lp2307
+S'permission'
+p2308
+aS'Permission'
+p2309
+a(dp2310
+S'hand '
+p2311
+I1
+sS'permission '
+p2312
+I3
+sS'erteilt '
+p2313
+I3
+sS'dreherlaubnis '
+p2314
+I1
+sS'sondererlaubnis '
+p2315
+I1
+sS'feuerbefehi '
+p2316
+I1
+sS'angst '
+p2317
+I1
+sS'genehmigung '
+p2318
+I13
+sS'erlauben '
+p2319
+I4
+sS'zugangserlaubnis '
+p2320
+I1
+sS'erbitte '
+p2321
+I1
+sS'\\u0395rlaubnis '
+p2322
+I1
+sS'vollmacht '
+p2323
+I1
+sS'ihnen '
+p2324
+I1
+sS'erlaube '
+p2325
+I1
+sS'athleten '
+p2326
+I1
+sS'befugung '
+p2327
+I1
+sS'd\xc3\xbcrfen '
+p2328
+I2
+sS'auslaufen '
+p2329
+I1
+sS'einwilligung '
+p2330
+I2
+sS'erteile '
+p2331
+I3
+sS'erlaubnis '
+p2332
+I152
+sS'erm\xc3\xa4chtigung '
+p2333
+I1
+sS'darf '
+p2334
+I2
+sS'sonderlizenz '
+p2335
+I1
+sS'erlaubt '
+p2336
+I4
+sS'feuerfreigabe '
+p2337
+I1
+sS'einverst\xc3\xa4ndnis '
+p2338
+I1
+sS'zustimmung '
+p2339
+I7
+sS'schussfreigabe '
+p2340
+I1
+sS'danke '
+p2341
+I1
+sS'gestatten '
+p2342
+I1
+sS'eriaubnis '
+p2343
+I2
+stp2344
+a((lp2345
+S'permit'
+p2346
+aS'Permit'
+p2347
+a(dp2348
+S'parkerlaubnis '
+p2349
+I1
+sS'erlaubst '
+p2350
+I2
+sS'genehmigung '
+p2351
+I13
+sS'vorausschicken '
+p2352
+I1
+sS'kann" '
+p2353
+I1
+sS'wozu '
+p2354
+I2
+sS'aufenthaltsbewilligung '
+p2355
+I1
+sS'waffenschein '
+p2356
+I2
+sS'schein '
+p2357
+I1
+sS'arbeitserlaubnis '
+p2358
+I1
+sS'ausweis '
+p2359
+I1
+sS'zulassen '
+p2360
+I1
+sS'erlaube '
+p2361
+I4
+sS'stimmt '
+p2362
+I1
+sS'golferlaubnis '
+p2363
+I1
+sS'erlaubnis '
+p2364
+I11
+sS'darf '
+p2365
+I2
+sS'bist '
+p2366
+I1
+sS'erlaubt '
+p2367
+I2
+sS'tragegenehmigung '
+p2368
+I1
+sS'erlauben '
+p2369
+I11
+sS'gestatten '
+p2370
+I1
+stp2371
+a((lp2372
+S'permitted'
+p2373
+aS'Permitted'
+p2374
+a(dp2375
+S'blutzusatz '
+p2376
+I2
+sS'zog '
+p2377
+I1
+sS'gestattet '
+p2378
+I4
+sS'befugt '
+p2379
+I2
+sS'darf '
+p2380
+I1
+sS'erlaubt '
+p2381
+I5
+sS'abschreitung '
+p2382
+I1
+sS'permitted '
+p2383
+I1
+sS'd\xc3\xbcrfen '
+p2384
+I1
+sS'verboten '
+p2385
+I2
+stp2386
+a((lp2387
+S'rather'
+p2388
+aS'Rather'
+p2389
+a(dp2390
+S'ganz '
+p2391
+I2
+sS'eher '
+p2392
+I61
+sS'auch '
+p2393
+I3
+sS'verlockendes '
+p2394
+I1
+sS'mir '
+p2395
+I1
+sS'vorziehe '
+p2396
+I3
+sS'liebsten '
+p2397
+I2
+sS'h\xc3\xb6chstens '
+p2398
+I1
+sS'hei\xc3\x9ft '
+p2399
+I1
+sS'mehr '
+p2400
+I1
+sS'bevorzuge '
+p2401
+I4
+sS'gerne '
+p2402
+I1
+sS'lieb '
+p2403
+I1
+sS'angebauter '
+p2404
+I1
+sS'rather '
+p2405
+I6
+sS'action '
+p2406
+I1
+sS'bohei '
+p2407
+I1
+sS'ziemlich '
+p2408
+I28
+sS'eigentlich '
+p2409
+I4
+sS'gew\xc3\xbcnscht '
+p2410
+I1
+sS'tue '
+p2411
+I1
+sS'vielmehr '
+p2412
+I5
+sS'geneigt '
+p2413
+I1
+sS'nur '
+p2414
+I2
+sS'wollen '
+p2415
+I2
+sS'besser '
+p2416
+I12
+sS'willst '
+p2417
+I1
+sS'sogar '
+p2418
+I1
+sS'wohl '
+p2419
+I1
+sS'liz '
+p2420
+I1
+sS'statt '
+p2421
+I6
+sS'ankommen '
+p2422
+I1
+sS'sehr '
+p2423
+I5
+sS'das '
+p2424
+I1
+sS'gern '
+p2425
+I6
+sS'schon '
+p2426
+I3
+sS'metallplatte '
+p2427
+I1
+sS'kiarzukommen '
+p2428
+I1
+sS'setzte '
+p2429
+I1
+sS'rate '
+p2430
+I1
+sS'iieber '
+p2431
+I3
+sS'guckt '
+p2432
+I1
+sS'vorziehen '
+p2433
+I2
+sS'anstatt '
+p2434
+I11
+sS'etwas '
+p2435
+I1
+sS'recht '
+p2436
+I8
+sS'korb '
+p2437
+I1
+sS'lieber '
+p2438
+I334
+sS'als '
+p2439
+I1
+sS'beides '
+p2440
+I1
+stp2441
+a((lp2442
+S'require'
+p2443
+aS'Require'
+p2444
+a(dp2445
+S'verlangen '
+p2446
+I2
+sS'ben\xc3\xb6tige '
+p2447
+I7
+sS'w\xc3\xbcnschen '
+p2448
+I1
+sS'f\xc3\xa4nden '
+p2449
+I1
+sS'ben\xc3\xb6tigt '
+p2450
+I1
+sS'geforderten '
+p2451
+I1
+sS'brauche '
+p2452
+I8
+sS'verpflichtet '
+p2453
+I1
+sS'diezahlen '
+p2454
+I2
+sS'ben\xc3\xb6tigen '
+p2455
+I3
+sS'verbinden '
+p2456
+I1
+sS'erfordert '
+p2457
+I7
+sS'brauchen '
+p2458
+I7
+sS'abverlangen '
+p2459
+I1
+sS'ben\xc3\xb6tigst '
+p2460
+I1
+sS'br\xc3\xa4uchte '
+p2461
+I1
+sS'fordert '
+p2462
+I1
+sS'm\xc3\xbcssten '
+p2463
+I1
+sS'verlange '
+p2464
+I6
+sS'ben\\u00c3\\u00b6tigen '
+p2465
+I1
+sS'bar '
+p2466
+I2
+sS'brauch '
+p2467
+I1
+sS'radiohead '
+p2468
+I1
+sS'fordern '
+p2469
+I1
+sS'bedarf '
+p2470
+I2
+sS'entdeckungsreisen '
+p2471
+I1
+sS'bed\xc3\xbcrfen '
+p2472
+I1
+sS'unauthorisierten '
+p2473
+I1
+sS'braucht '
+p2474
+I1
+sS'fordere '
+p2475
+I3
+sS'verlangt '
+p2476
+I1
+sS'erfordern '
+p2477
+I8
+sS'verzichten '
+p2478
+I1
+stp2479
+a((lp2480
+S'required'
+p2481
+aS'Required'
+p2482
+a(dp2483
+S'vorgeschriebenen '
+p2484
+I1
+sS'n\xc3\xb6tig '
+p2485
+I4
+sS'schachfigur '
+p2486
+I1
+sS'erwartet '
+p2487
+I1
+sS'notwendig '
+p2488
+I3
+sS'gen\xc3\xb6tigt '
+p2489
+I2
+sS'schlimm '
+p2490
+I1
+sS'verpflichtet '
+p2491
+I3
+sS'ben\xc3\xb6tigt '
+p2492
+I10
+sS'erforderlichen '
+p2493
+I4
+sS'erforderte '
+p2494
+I1
+sS'erforderlich '
+p2495
+I6
+sS'verlangt '
+p2496
+I2
+sS'vorraus '
+p2497
+I1
+sS'verlangten '
+p2498
+I1
+sS'gesetzlich '
+p2499
+I1
+sS'erforderliche '
+p2500
+I2
+sS'werde '
+p2501
+I2
+stp2502
+a((lp2503
+S'requires'
+p2504
+aS'Requires'
+p2505
+a(dp2506
+S'n\xc3\xb6tig '
+p2507
+I2
+sS'pr\xc3\xa4zises '
+p2508
+I1
+sS'erfordert '
+p2509
+I38
+sS'braucht '
+p2510
+I9
+sS'm\xc3\xbchewaltung '
+p2511
+I1
+sS'ben\xc3\xb6tigt '
+p2512
+I21
+sS'bedarf '
+p2513
+I2
+sS'gebraucht '
+p2514
+I1
+sS'behutsam '
+p2515
+I1
+sS'besagt '
+p2516
+I1
+sS'verlangt '
+p2517
+I24
+sS'ben\\u00c3\\u00b6tigt '
+p2518
+I4
+sS'abverlangt '
+p2519
+I1
+stp2520
+a((lp2521
+S'vital'
+p2522
+aS'Vital'
+p2523
+a(dp2524
+S'lebenswichtig '
+p2525
+I6
+sS'vital '
+p2526
+I3
+sS'wichtiger '
+p2527
+I2
+sS'lebenswichtige '
+p2528
+I2
+sS'erhebliche '
+p2529
+I1
+sS'vitalen '
+p2530
+I2
+sS'vitales '
+p2531
+I1
+sS'lebenswichtigen '
+p2532
+I3
+sS'entscheidend '
+p2533
+I1
+sS'vitale '
+p2534
+I1
+sS'notwendig '
+p2535
+I1
+sS'wichtige '
+p2536
+I7
+sS'filmrollen '
+p2537
+I1
+sS'entscheidender '
+p2538
+I2
+sS'vitalzeichen '
+p2539
+I1
+sS'vitalwerte '
+p2540
+I4
+sS'lebenswichtiges '
+p2541
+I3
+sS'entscheidende '
+p2542
+I5
+sS'unverzichtbar '
+p2543
+I2
+sS'wichtigen '
+p2544
+I2
+sS'wichtigeren '
+p2545
+I1
+sS'hochwichtigen '
+p2546
+I1
+sS'wesentliche '
+p2547
+I1
+sS'lebenswerter '
+p2548
+I1
+sS'lebensnotwendig '
+p2549
+I8
+sS'wichtig '
+p2550
+I8
+stp2551
+a((lp2552
+S'wanna'
+p2553
+aS'Wanna'
+p2554
+a(dp2555
+S'willste '
+p2556
+I5
+sS'w\xc3\xbcrde '
+p2557
+I6
+sS'dein '
+p2558
+I1
+sS'wolltest '
+p2559
+I5
+sS'vielleicht '
+p2560
+I1
+sS'nein '
+p2561
+I2
+sS'kommst '
+p2562
+I7
+sS'sollten '
+p2563
+I3
+sS'achtsam '
+p2564
+I1
+sS'steigen '
+p2565
+I1
+sS'hinsicht '
+p2566
+I1
+sS'sage '
+p2567
+I1
+sS'erzaehle '
+p2568
+I1
+sS'sollen '
+p2569
+I6
+sS'wollen '
+p2570
+I367
+sS'evakuierungen '
+p2571
+I1
+sS'mochte '
+p2572
+I1
+sS'woiiten '
+p2573
+I1
+sS'veranlasst '
+p2574
+I1
+sS'frag '
+p2575
+I1
+sS'abdecken '
+p2576
+I1
+sS'geweitet '
+p2577
+I1
+sS'wll '
+p2578
+I1
+sS'solltest '
+p2579
+I11
+sS'finster '
+p2580
+I2
+sS'bock '
+p2581
+I1
+sS'm\xc3\xb6chtet '
+p2582
+I1
+sS'ichwill '
+p2583
+I1
+sS'liebsten '
+p2584
+I1
+sS'weltkriege '
+p2585
+I1
+sS'mit '
+p2586
+I7
+sS'fu\xc3\x9fball '
+p2587
+I1
+sS'w\xc3\xbcrdest '
+p2588
+I1
+sS'doch '
+p2589
+I1
+sS'trotzdem '
+p2590
+I1
+sS'gerne '
+p2591
+I11
+sS'fahrtrichtung '
+p2592
+I1
+sS'w\xc3\xbcsste '
+p2593
+I1
+sS'liebling '
+p2594
+I2
+sS'wllst '
+p2595
+I1
+sS'gute '
+p2596
+I1
+sS'wiiist '
+p2597
+I6
+sS'kommen '
+p2598
+I2
+sS'w\xc3\xbcrd '
+p2599
+I2
+sS'wollten '
+p2600
+I7
+sS'super '
+p2601
+I1
+sS'werde '
+p2602
+I9
+sS'wanna '
+p2603
+I25
+sS'hinwillst '
+p2604
+I2
+sS'soiiten '
+p2605
+I1
+sS'magst '
+p2606
+I1
+sS'zeig '
+p2607
+I2
+sS'woiien '
+p2608
+I7
+sS'auswechsel '
+p2609
+I1
+sS'unbedingt '
+p2610
+I1
+sS'm\xc3\xb6cht '
+p2611
+I1
+sS'lady '
+p2612
+I1
+sS'muss '
+p2613
+I5
+sS'm\xc3\xb6chtest '
+p2614
+I83
+sS'probieren '
+p2615
+I1
+sS'mal '
+p2616
+I3
+sS'umarmen '
+p2617
+I4
+sS'runde '
+p2618
+I1
+sS'l\xc3\xb6sche '
+p2619
+I1
+sS'was '
+p2620
+I1
+sS'gern '
+p2621
+I8
+sS'klar '
+p2622
+I1
+sS'wills '
+p2623
+I3
+sS'anlegen '
+p2624
+I1
+sS'versuchst '
+p2625
+I1
+sS'will '
+p2626
+I797
+sS'lieber '
+p2627
+I8
+sS'l\xc3\xa4cheln '
+p2628
+I1
+sS'macht '
+p2629
+I2
+sS'wiii '
+p2630
+I10
+sS'fragen '
+p2631
+I2
+sS'lust '
+p2632
+I16
+sS'hast '
+p2633
+I2
+sS'\xc3\x9cbergeben '
+p2634
+I1
+sS'halb- '
+p2635
+I1
+sS'kevin '
+p2636
+I1
+sS'solltet '
+p2637
+I1
+sS'superreichen '
+p2638
+I1
+sS'interessiert '
+p2639
+I1
+sS'ranfahren '
+p2640
+I2
+sS'm\xc3\xb6chten '
+p2641
+I39
+sS'rhodey '
+p2642
+I1
+sS'willst '
+p2643
+I774
+sS'brauch '
+p2644
+I2
+sS'sicher '
+p2645
+I1
+sS'will" '
+p2646
+I1
+sS'm\xc3\xb6chte '
+p2647
+I218
+sS'wollte '
+p2648
+I43
+sS'wollt '
+p2649
+I53
+sS'\\u00b4n '
+p2650
+I1
+sS'cool '
+p2651
+I1
+sS'soll '
+p2652
+I9
+sS'etwas '
+p2653
+I2
+stp2654
+a((lp2655
+S'want'
+p2656
+aS'Want'
+p2657
+a(dp2658
+S'interesse '
+p2659
+I3
+sS'mchte '
+p2660
+I1
+sS'willste '
+p2661
+I5
+sS'w\xc3\xbcrde '
+p2662
+I28
+sS'wissen '
+p2663
+I1
+sS'musst '
+p2664
+I4
+sS'jetzt '
+p2665
+I2
+sS'wenn '
+p2666
+I4
+sS'jagen '
+p2667
+I1
+sS': '
+p2668
+I1
+sS'verdient '
+p2669
+I1
+sS'seien '
+p2670
+I1
+sS'wolltest '
+p2671
+I61
+sS'bereit '
+p2672
+I1
+sS'richtige '
+p2673
+I1
+sS'blo\xc3\x9f '
+p2674
+I1
+sS'wirst '
+p2675
+I8
+sS'lasse '
+p2676
+I2
+sS'erwarte '
+p2677
+I3
+sS'zur\xc3\xbcckommen '
+p2678
+I1
+sS'mangeln '
+p2679
+I1
+sS'entschuldigt '
+p2680
+I1
+sS'w\xc3\xbcnsche '
+p2681
+I16
+sS'absehen '
+p2682
+I1
+sS'nein '
+p2683
+I3
+sS'trinkst '
+p2684
+I1
+sS'einen '
+p2685
+I1
+sS'kommst '
+p2686
+I3
+sS'sollten '
+p2687
+I12
+sS'verwendung '
+p2688
+I2
+sS'willen '
+p2689
+I1
+sS'ready '
+p2690
+I1
+sS'klappe '
+p2691
+I1
+sS'brauchen '
+p2692
+I14
+sS'denn '
+p2693
+I9
+sS'bruder '
+p2694
+I3
+sS'bekomme '
+p2695
+I1
+sS'hab\\u00b4 '
+p2696
+I2
+sS'sage '
+p2697
+I1
+sS'wirklich '
+p2698
+I1
+sS'moechte '
+p2699
+I6
+sS'vill '
+p2700
+I3
+sS'zwar '
+p2701
+I1
+sS'sollen '
+p2702
+I91
+sS'jungs '
+p2703
+I2
+sS'dass '
+p2704
+I47
+sS'verlange '
+p2705
+I2
+sS'wollen '
+p2706
+I3487
+sS'liebhaber '
+p2707
+I1
+sS'mochte '
+p2708
+I1
+sS'm\\u05e6chte '
+p2709
+I2
+sS'sollt '
+p2710
+I1
+sS'w\xc3\xa4r '
+p2711
+I1
+sS'dingen '
+p2712
+I1
+sS'meinen '
+p2713
+I1
+sS'4100 '
+p2714
+I1
+sS'woiiten '
+p2715
+I1
+sS'mache '
+p2716
+I2
+sS'gebrauchen '
+p2717
+I3
+sS'solltet '
+p2718
+I1
+sS'glaubst '
+p2719
+I1
+sS'frag '
+p2720
+I1
+sS'wolltet '
+p2721
+I1
+sS'bock '
+p2722
+I5
+sS'heraus '
+p2723
+I1
+sS'warten '
+p2724
+I1
+sS'lassen '
+p2725
+I1
+sS'machen '
+p2726
+I1
+sS'\\u2026 '
+p2727
+I1
+sS'verdammter '
+p2728
+I1
+sS'schmeckt '
+p2729
+I2
+sS'verhindern '
+p2730
+I1
+sS'wahl '
+p2731
+I1
+sS'haben '
+p2732
+I2
+sS'sie '
+p2733
+I3
+sS'fragst '
+p2734
+I2
+sS'sex '
+p2735
+I1
+sS'wll '
+p2736
+I8
+sS'wert '
+p2737
+I1
+sS'absicht '
+p2738
+I1
+sS'denken '
+p2739
+I1
+sS'meredith '
+p2740
+I1
+sS'w\xc3\xbcrden '
+p2741
+I6
+sS'zwerg '
+p2742
+I1
+sS'sieg '
+p2743
+I1
+sS'w\xc3\xbcnschen '
+p2744
+I19
+sS'besch\xc3\xbctzen '
+p2745
+I1
+sS'm\xc3\xb6chtet '
+p2746
+I5
+sS'werd\\u00b4 '
+p2747
+I1
+sS'darf '
+p2748
+I21
+sS'gl\xc3\xbccklich '
+p2749
+I1
+sS'brauche '
+p2750
+I32
+sS'wllst '
+p2751
+I1
+sS'brauchst '
+p2752
+I30
+sS'geb\xc3\xbchrt '
+p2753
+I1
+sS'entscheidung '
+p2754
+I1
+sS'hab '
+p2755
+I2
+sS'ben\xc3\xb6tigen '
+p2756
+I4
+sS'w\xc3\xbcrdest '
+p2757
+I3
+sS'verlangst '
+p2758
+I10
+sS'kann '
+p2759
+I3
+sS'anspruch '
+p2760
+I1
+sS'suche '
+p2761
+I3
+sS'gerne '
+p2762
+I46
+sS'erwarten '
+p2763
+I5
+sS's\\u03bf '
+p2764
+I1
+sS'w\xc3\xbcnschst '
+p2765
+I6
+sS'kannst '
+p2766
+I12
+sS'soii '
+p2767
+I11
+sS'grej '
+p2768
+I1
+sS'sagen '
+p2769
+I2
+sS'richtig '
+p2770
+I1
+sS'spiderman '
+p2771
+I1
+sS'ungern '
+p2772
+I1
+sS'm\xc3\xbcsst '
+p2773
+I1
+sS'besser '
+p2774
+I4
+sS'sollte '
+p2775
+I1
+sS'suchen '
+p2776
+I10
+sS'bekommst '
+p2777
+I1
+sS't\xc3\xb6rtchen '
+p2778
+I1
+sS'wiiist '
+p2779
+I40
+sS'na '
+p2780
+I1
+sS'kommen '
+p2781
+I1
+sS'also '
+p2782
+I1
+sS'ganze '
+p2783
+I1
+sS'w\xc3\xbcrd '
+p2784
+I1
+sS'wollten '
+p2785
+I52
+sS'zeit '
+p2786
+I1
+sS'sehen '
+p2787
+I1
+sS'w\xc3\xbcnscht '
+p2788
+I4
+sS'meinst '
+p2789
+I10
+sS'braucht '
+p2790
+I5
+sS'mehr '
+p2791
+I10
+sS'chte '
+p2792
+I1
+sS'werd '
+p2793
+I1
+sS'hier '
+p2794
+I9
+sS'schwein '
+p2795
+I1
+sS'meine '
+p2796
+I2
+sS'verlangt '
+p2797
+I5
+sS'brachte '
+p2798
+I1
+sS'marseille '
+p2799
+I1
+sS'treuebruch '
+p2800
+I1
+sS'werde '
+p2801
+I31
+sS'ichwillwissen '
+p2802
+I2
+sS'wollen, '
+p2803
+I1
+sS'auch '
+p2804
+I7
+sS'solls '
+p2805
+I2
+sS'gib '
+p2806
+I1
+sS'wunsch '
+p2807
+I1
+sS'm\xc3\xb6cht '
+p2808
+I5
+sS'wodurch '
+p2809
+I2
+sS'mir '
+p2810
+I7
+sS'gesch\xc3\xa4ft '
+p2811
+I2
+sS'oh, '
+p2812
+I1
+sS'liebsten '
+p2813
+I1
+sS'geh\xc3\xa4nge '
+p2814
+I1
+sS'want '
+p2815
+I40
+sS'zeige '
+p2816
+I1
+sS'magst '
+p2817
+I18
+sS'\xc3\x9cberpr\xc3\xbcfst '
+p2818
+I1
+sS'erwartest '
+p2819
+I5
+sS'woiien '
+p2820
+I27
+sS'moechtest '
+p2821
+I1
+sS'm\xc3\xb6gen '
+p2822
+I1
+sS'get '
+p2823
+I1
+sS'gesucht '
+p2824
+I1
+sS'gehst '
+p2825
+I1
+sS'warst '
+p2826
+I2
+sS'raus '
+p2827
+I1
+sS'los '
+p2828
+I1
+sS'mangei '
+p2829
+I1
+sS'muss '
+p2830
+I43
+sS'dr\xc3\xa4ngt '
+p2831
+I1
+sS'behalten '
+p2832
+I1
+sS'n\xc3\xa4chste '
+p2833
+I1
+sS'm\xc3\xb6chtest '
+p2834
+I487
+sS'soiist '
+p2835
+I1
+sS'eigentlich '
+p2836
+I1
+sS'mal '
+p2837
+I1
+sS'oxnard '
+p2838
+I1
+sS'passt '
+p2839
+I1
+sS'wohin '
+p2840
+I1
+sS'nerv '
+p2841
+I1
+sS'bleibe '
+p2842
+I1
+sS'lieferdatum '
+p2843
+I2
+sS'auf '
+p2844
+I2
+sS'nur '
+p2845
+I3
+sS'danach '
+p2846
+I1
+sS'woll '
+p2847
+I2
+sS'sollst '
+p2848
+I27
+sS'scharf '
+p2849
+I3
+sS'woiit '
+p2850
+I2
+sS'wird '
+p2851
+I1
+sS'was '
+p2852
+I9
+sS'sucht '
+p2853
+I1
+sS'neugieriger '
+p2854
+I1
+sS'gern '
+p2855
+I34
+sS'korse '
+p2856
+I1
+sS'hinter '
+p2857
+I6
+sS'warum '
+p2858
+I3
+sS'du '
+p2859
+I3
+sS'brauchte '
+p2860
+I2
+sS'solltest '
+p2861
+I19
+sS'bitte '
+p2862
+I11
+sS'ihrwollt '
+p2863
+I4
+sS'schuhe '
+p2864
+I1
+sS'meinung '
+p2865
+I2
+sS'stammt '
+p2866
+I1
+sS'gewollt '
+p2867
+I19
+sS'gepinkelt '
+p2868
+I1
+sS'will '
+p2869
+I5929
+sS'habe '
+p2870
+I1
+sS'lieber '
+p2871
+I9
+sS'urgh '
+p2872
+I1
+sS'zeigen '
+p2873
+I1
+sS'verlangen '
+p2874
+I10
+sS'noch '
+p2875
+I7
+sS'kackst '
+p2876
+I1
+sS'wei\xc3\x9f '
+p2877
+I1
+sS'mu\xc3\x9f '
+p2878
+I1
+sS'bringen '
+p2879
+I4
+sS'entschieden '
+p2880
+I1
+sS'ichwill '
+p2881
+I2
+sS'schneiden '
+p2882
+I1
+sS'wiii '
+p2883
+I76
+sS'schluss '
+p2884
+I1
+sS'halte '
+p2885
+I1
+sS'lust '
+p2886
+I48
+sS'spiel '
+p2887
+I1
+sS'wolltihr '
+p2888
+I1
+sS'mangel '
+p2889
+I1
+sS'etwa '
+p2890
+I3
+sS'gibt\\u0092s '
+p2891
+I2
+sS'gehe '
+p2892
+I1
+sS'w\xc3\xbcnschte '
+p2893
+I6
+sS'einf\xc3\xa4llt '
+p2894
+I2
+sS', '
+p2895
+I2
+sS'fall '
+p2896
+I1
+sS'gef\xc3\xa4llt '
+p2897
+I6
+sS'bin '
+p2898
+I2
+sS'k\xc3\xb6nntest '
+p2899
+I1
+sS'hast '
+p2900
+I1
+sS'nehmen '
+p2901
+I1
+sS'sch\xc3\xa4tze '
+p2902
+I1
+sS'findest '
+p2903
+I1
+sS'sag '
+p2904
+I2
+sS'interessieren '
+p2905
+I3
+sS'wilst '
+p2906
+I5
+sS'mochten '
+p2907
+I1
+sS'problem '
+p2908
+I2
+sS'wunschen '
+p2909
+I1
+sS'w\xc3\xbcnsch '
+p2910
+I1
+sS'tapfer '
+p2911
+I1
+sS'da\xc3\x9f '
+p2912
+I2
+sS'interessiert '
+p2913
+I8
+sS'sondern '
+p2914
+I1
+sS'ich '
+p2915
+I1
+sS'm\xc3\xb6chten '
+p2916
+I271
+sS'willstihn '
+p2917
+I1
+sS'wolle '
+p2918
+I6
+sS'klinik '
+p2919
+I2
+sS'willst '
+p2920
+I4169
+sS'falsch '
+p2921
+I1
+sS'reizt '
+p2922
+I1
+sS'brauch '
+p2923
+I1
+sS'ertr\xc3\xa4glich '
+p2924
+I1
+sS'ziele '
+p2925
+I1
+sS'soll '
+p2926
+I512
+sS'f\xc3\xa4hrst '
+p2927
+I4
+sS'vor '
+p2928
+I6
+sS'will" '
+p2929
+I1
+sS'gehen '
+p2930
+I3
+sS'? '
+p2931
+I4
+sS'ist '
+p2932
+I2
+sS'hastin '
+p2933
+I1
+sS'm\xc3\xb6chte '
+p2934
+I2058
+sS'bietest '
+p2935
+I1
+sS'wollte '
+p2936
+I313
+sS'wollt '
+p2937
+I413
+sS'daraufweise '
+p2938
+I2
+sS'pochender '
+p2939
+I1
+sS'bist '
+p2940
+I1
+sS'autsch '
+p2941
+I1
+sS'suchst '
+p2942
+I6
+sS'beehle '
+p2943
+I1
+sS'sofort '
+p2944
+I2
+sS'frei '
+p2945
+I2
+sS'attosekunden '
+p2946
+I1
+sS'zehn '
+p2947
+I2
+sS'von '
+p2948
+I4
+sS'erz\xc3\xa4hl '
+p2949
+I1
+stp2950
+a.

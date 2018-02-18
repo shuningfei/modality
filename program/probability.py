@@ -1,0 +1,23 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+import pickle
+
+countDict_file = open("countList.pkl","rb")
+
+countDict = pickle.load(countDict_file)
+
+seedsGeFull = [['scheinen', 'Scheinen', 'scheine', 'Scheine', 'scheinst', 'Scheinst', 'scheint', 'Scheint', 'schien', 'Schien', 'schienst', 'Schienst', 'schienen', 'Schienen', 'schient', 'Schient', 'scheinest', 'Scheinest', 'scheinet', 'Scheinet', 'scheinend', 'Scheinend', 'geschienen', 'Geschienen'], ['bestimmt', 'Bestimmt'], ['vielleicht', 'Vielleicht'], ['m\xc3\xb6glicherweise', 'M\xc3\xb6glicherweise'], ['wohl', 'Wohl'], ['wom\xc3\xb6glich', 'Wom\xc3\xb6glich'], ['eventuell', 'Eventuell'], ['wahrscheinlich', 'Wahrscheinlich', 'unwahrscheinlich', 'Unwahrscheinlich'], ['sicher', 'Sicher'], ['vermutlich', 'Vermutlich'], ['sicherlich', 'Sicherlich'], ['erlaube', 'Erlaube', 'erlaubst', 'Erlaubst', 'erlaubt', 'Erlaubt', 'erlauben', 'Erlauben', 'erlaubte', 'Erlaubte', 'erlaubtest', 'Erlaubtest', 'erlaubten', 'Erlaubten', 'erlaubtet', 'Erlaubtet'], ['gestatte', 'Gestatte', 'gestattest', 'Gestattest', 'gestattet', 'Gestattet', 'gestatten', 'Gestatten', 'gestattete', 'Gestattete', 'gestattetest', 'Gestattetest', 'gestatteten', 'Gestatteten', 'gestattetet', 'Gestattetet', 'gestattend', 'Gestattend'], ['brauche', 'Brauche', 'brauchst', 'Brauchst', 'braucht', 'Braucht', 'brauchen', 'Brauchen', 'brauchte', 'Brauchte', 'brauchtest', 'Brauchtest', 'brauchten', 'Brauchten', 'brauchtet', 'Brauchtet', 'gebraucht', 'Gebraucht', 'brauchest', 'Brauchest', 'brauchet', 'Brauchet', 'brauch', 'Brauch', 'brauchend', 'Brauchend'], ['bedarf', 'Bedarf', 'bedarfst', 'Bedarfst', 'bed\xc3\xbcrfen', 'Bed\xc3\xbcrfen', 'bed\xc3\xbcrft', 'Bed\xc3\xbcrft', 'bed\xc3\xbcrfe', 'Bed\xc3\xbcrfe', 'bed\xc3\xbcrfest', 'Bed\xc3\xbcrfest', 'bed\xc3\xbcrfet', 'Bed\xc3\xbcrfet', 'bedurft', 'Bedurft', 'bedurfte', 'Bedurfte', 'bedurftest', 'Bedurftest', 'bedurften', 'Bedurften', 'bedurftet', 'Bedurftet', 'bed\xc3\xbcrfte', 'Bed\xc3\xbcrfte', 'bed\xc3\xbcrftest', 'Bed\xc3\xbcrftest', 'bed\xc3\xbcrften', 'Bed\xc3\xbcrften', 'bed\xc3\xbcrftet', 'Bed\xc3\xbcrftet', 'bedurft', 'Bedurft'], ['unbedingt', 'Unbedingt'], ['erforderlich', 'Erforderlich', 'erfordere', 'Erfordere', 'erforderst', 'Erforderst', 'erfordert', 'Erfordert', 'erfordern', 'Erfordern', 'erforderte', 'Erforderte', 'erfordertest', 'Erfordertest', 'erforderten', 'Erforderten', 'erfordertet', 'Erfordertet', 'erfordere', 'Erfordere', 'erforderest', 'Erforderest', 'erforderet', 'Erforderet', 'erfordernd', 'Erfordernd'], ['ben\xc3\xb6tige', 'Ben\xc3\xb6tige', 'ben\xc3\xb6tigst', 'Ben\xc3\xb6tigst', 'ben\xc3\xb6tigt', 'Ben\xc3\xb6tigt', 'ben\xc3\xb6tigen', 'Ben\xc3\xb6tigen', 'ben\xc3\xb6tigest', 'Ben\xc3\xb6tigest', 'ben\xc3\xb6tiget', 'Ben\xc3\xb6tiget', 'ben\xc3\xb6tig', 'Ben\xc3\xb6tig', 'ben\xc3\xb6tigte', 'Ben\xc3\xb6tigte', 'ben\xc3\xb6tigtest', 'Ben\xc3\xb6tigtest', 'ben\xc3\xb6tigten', 'Ben\xc3\xb6tigten', 'ben\xc3\xb6tigtet', 'Ben\xc3\xb6tigtet', 'ben\xc3\xb6tigend', 'Ben\xc3\xb6tigend'], ['besser', 'Besser'], ['lieber', 'Lieber'], ['hoffentlich', 'Hoffentlich'], ['geschafft', 'Geschafft', 'geschaffen', 'Geschaffen', 'schaffe', 'Schaffe', 'schaffst', 'Schaffst', 'schafft', 'Schafft', 'schaffen', 'Schaffen', 'schuf', 'Schuf', 'schufst', 'Schufst', 'schufen', 'Schufen', 'sch\xc3\xbcfe', 'Sch\xc3\xbcfe', 'sch\xc3\xbcfest', 'Sch\xc3\xbcfest', 'sch\xc3\xbcfen', 'Sch\xc3\xbcfen', 'sch\xc3\xbcfet', 'Sch\xc3\xbcfet', 'schaffend', 'Schaffend'], ['gelinge', 'Gelinge', 'gelingst', 'Gelingst', 'gelingt', 'Gelingt', 'gelingen', 'Gelingen', 'gelang', 'Gelang', 'gelangst', 'Gelangst', 'gelangen', 'Gelangen', 'gelangt', 'Gelangt', 'gelungen', 'Gelungen', 'gelingest', 'Gelingest', 'gelinget', 'Gelinget', 'gel\xc3\xa4nge', 'Gel\xc3\xa4nge', 'gel\xc3\xa4ngest', 'Gel\xc3\xa4ngest', 'gel\xc3\xa4ngen', 'Gel\xc3\xa4ngen', 'gel\xc3\xa4nget', 'Gel\xc3\xa4nget', 'geling', 'Geling', 'gelingend', 'Gelingend'], ['erkennbar', 'Erkennbar', 'machbar', 'Machbar', 'vergleichbares', 'Vergleichbares', 'vorstellbar', 'Vorstellbar', 'realisierbar', 'Realisierbar', 'erneuerbarer', 'Erneuerbarer', 'vermeidbar', 'Vermeidbar', 'vermeidbare', 'Vermeidbare']]
+
+for pair in zip(countDict,seedsGeFull):
+
+    fw = open(pair[1][0]+".txt",'w')
+
+    countResList = sorted(pair[0].iteritems(), key=lambda d:d[1], reverse = True)
+    fw.write(pair[1][0]+ ": \n")
+    total = 0
+    for ele in countResList:
+        total += int(ele[1])
+
+    for ele in countResList:
+        fw.write(ele[0] + ": " + str(int(ele[1])/float(total))+'\n')

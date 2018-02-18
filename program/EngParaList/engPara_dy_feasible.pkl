@@ -1,0 +1,58 @@
+(lp0
+((lp1
+S'durchf\xc3\xbchrbar'
+p2
+aS'Durchf\xc3\xbchrbar'
+p3
+a(dp4
+S'feasible '
+p5
+I1
+sS'gauge '
+p6
+I1
+sS'viable '
+p7
+I1
+sS'statement '
+p8
+I1
+stp9
+a((lp10
+S'<'
+p11
+aS'<'
+p12
+a(dp13
+S'basically, '
+p14
+I2
+sS'am '
+p15
+I2
+sS'trials '
+p16
+I2
+sS"'il "
+p17
+I2
+sS'and '
+p18
+I2
+sS'used '
+p19
+I2
+sS'about '
+p20
+I2
+sS'< '
+p21
+I192
+sS'beep '
+p22
+I2
+sS'feasible '
+p23
+I2
+stp24
+a.

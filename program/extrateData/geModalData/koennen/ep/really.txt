@@ -1,0 +1,75 @@
+Er kann einem leid tun .	1	ep
+I really feel sorry for him .	1
+
+Können wir wirklich nicht mehr tun ?	0	ep
+Is that really all we can manage to do ?	2
+
+Das kann doch nicht wirklich im Interesse der Verbraucher sein .	1	ep
+That really cannot be in the interests of consumers .	1
+
+- Dann kann ich endlich nach Hause .	2	ep
+- I really just wanna go home .	2
+
+So kann es wirklich nicht weitergehen .	1	ep
+This really cannot continue .	1
+
+Ich kann ihn !	1	ep
+- I really ...	2
+
+- Kann das warten ?	1	ep
+I really didn 't like her .	1
+
+Wir können nur dann wirksam handeln , wenn wir für mehr Effizienz sorgen .	1	ep
+The only way we can be really effective is to improve efficiency .	6
+
+Kann man da soweit gehen ?	0	ep
+You really want us to get this heavy ?	1
+
+Integrierte Meerespolitik kennt kaum jemand , es ist aber ein entscheidendes Thema für uns alle , denn man kann wirklich sagen , unsere Zukunft liegt im Meer .	18	ep
+Hardly anyone has heard of integrated maritime policy , but it is a decisive subject for us all , because it really is true that our future lies in the sea .	21
+
+Mehr kann man nun wirklich nicht tun .	1	ep
+We really cannot do any more than that .	1
+
+Und ich kann es kaum erwarten .	2	ep
+And I really , really want this to happen .	2
+
+Das Ergebnis kann sich wirklich sehen lassen .	2	ep
+We have achieved a really good result .	4
+
+Ich kann Herrn Maat überhaupt nicht verstehen . Er hat gesagt , es sei ein großer Schritt nach vorne .	1	ep
+I really cannot understand how Mr Maat can describe this as tremendous progress .	1
+
+Ist er nun wirklich der Meinung , zuerst müssten all diese Voraussetzungen erfüllt sein , bevor wir über die Kapitel diskutieren können ?	21	ep
+Does he really believe that this should all be completed before we can discuss the chapters ?	2
+
+Wie kann ich Ihnen helfen ?	1	ep
+- Not really .	2
+
+- Entschuldige , aber ich kann nicht ...	5	ep
+- Sorry , but I really ...	5
+
+Und genau das Gebiet , wo wir wirklich große Erfolge erzielen könnten , ist Zypern .	11	ep
+And the area where we could really achieve great success is precisely Cyprus .	6
+
+Wir können aus einem kleinen Haushalt nicht etwas ergänzen oder ersetzen , was wirklich viel größerer Unterstützung durch die nationalen Regierungen bzw. Regionalbehörden in großen Bundesstaaten bedarf .	1	ep
+We cannot supplement or substitute , from a small budget , what really needs much greater support from the national governments or regional authorities in large federal states .	12
+
+Dann können wir wirklich zu einer guten , korrekten und gleichberechtigten Partnerschaft kommen .	1	ep
+Then we will really be able to achieve a good , appropriate and equal partnership .	3
+
+- Kann man nicht behaupten .	1	ep
+- Not really .	2
+
+Nein . Ich kann nicht .	3	ep
+( whispers ) really ?	3
+
+Ich bin kein Militär , aber ich kann sagen , daß ich den Plan verstanden habe .	7	ep
+As a civilian I can 't really say I fully understand , but I think I 've understood the general position .	6
+
+Das kann ich nun wirklich nicht glauben .	1	ep
+I really cannot believe that .	1
+
+Ich kann nicht .	1	ep
+Not really .	1
+

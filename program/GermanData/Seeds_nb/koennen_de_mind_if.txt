@@ -1,0 +1,17 @@
+- Kann ich was trinken ?	de	1
+- Kann ich mich setzen ?	de	1
+- Kann ich ein wenig laufen gehen ?	de	1
+- Kann ich mit runterkommen ?	de	1
+Kann ich vielleicht ein paar Minuten alleine sein ?	de	0
+Terry , du kannst gehen ...	de	3
+- Könnte ich einen Blick drauf werfen ?	de	1
+- Kann ich mitkommen ?	de	1
+- Kann ich heute etwas früher gehen ?	de	1
+- Könnten wir das Zeug nicht rauchen ?	de	1
+Ich kann das Spiel spielen .	de	1
+- Kann ich dort fernsehen ?	de	1
+- Könnte ich dem eben ... - Nein .	de	1
+- Können wir das Thema wechseln ?	de	1
+- Kann ich mir das ausleihen ?	de	1
+- Kann ich mit \u00b4runterkommen ?	de	1
+- Kann ich das behalten ?	de	1

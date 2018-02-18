@@ -1,0 +1,18 @@
+- Darf ich mitkommen ?	1	ep
+- I think you 'd better stay here .	2
+
+Das dürfte deine Größe sein .	1	ep
+I think they got your size .	1
+
+Also ... einen Moment lang dachte ich , ich dürfte auch nicht kommen .	9	ep
+Well ... for a minute there , I didn 't think I was going to make it .	10
+
+Wir dürfen es meiner Meinung nach nicht unterlassen , gegen diese Maßnahme der USA vorzugehen .	1	ep
+I think that once again we cannot stand by without reacting against this measure by the United States .	1
+
+Dürfte ich vielleicht Ihr Handy benutzen ?	0	ep
+Do you think i could use your phone ?	2
+
+Das dürfte kaum gehen .	1	ep
+I don 't think so .	3
+

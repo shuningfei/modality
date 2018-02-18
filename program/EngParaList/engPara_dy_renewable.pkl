@@ -1,0 +1,54 @@
+(lp0
+((lp1
+S'erneuerbare'
+p2
+aS'Erneuerbare'
+p3
+a(dp4
+S'scruff '
+p5
+I1
+sS'renewable '
+p6
+I7
+stp7
+a((lp8
+S'erneuerbaren'
+p9
+aS'Erneuerbaren'
+p10
+a(dp11
+S'fossil- '
+p12
+I1
+sS'renewable '
+p13
+I4
+stp14
+a((lp15
+S'erneuerbarer'
+p16
+aS'Erneuerbarer'
+p17
+a(dp18
+S'nonrenewable '
+p19
+I1
+sS'renewable '
+p20
+I2
+stp21
+a((lp22
+S'erneuerbar'
+p23
+aS'Erneuerbar'
+p24
+a(dp25
+S'regenerative '
+p26
+I1
+sS'renewable '
+p27
+I1
+stp28
+a.

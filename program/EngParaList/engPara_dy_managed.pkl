@@ -1,0 +1,2374 @@
+(lp0
+((lp1
+S'geschafft'
+p2
+aS'Geschafft'
+p3
+a(dp4
+S'messed '
+p5
+I1
+sS'down '
+p6
+I2
+sS'making '
+p7
+I2
+sS'$20 '
+p8
+I1
+sS'ugh '
+p9
+I1
+sS'did '
+p10
+I27
+sS'gotten '
+p11
+I2
+sS'solve '
+p12
+I1
+sS'manage '
+p13
+I12
+sS'pulled '
+p14
+I3
+sS'it '
+p15
+I5
+sS'accomplished '
+p16
+I7
+sS'god '
+p17
+I1
+sS'fine '
+p18
+I1
+sS'ha '
+p19
+I1
+sS'cherry '
+p20
+I1
+sS'successful '
+p21
+I1
+sS'ouch '
+p22
+I1
+sS'house '
+p23
+I1
+sS'got '
+p24
+I8
+sS'afro '
+p25
+I1
+sS'impressions '
+p26
+I1
+sS'exam '
+p27
+I1
+sS'finished '
+p28
+I6
+sS'could '
+p29
+I1
+sS'make '
+p30
+I71
+sS'good '
+p31
+I3
+sS'time '
+p32
+I1
+sS'doing '
+p33
+I1
+sS'taken '
+p34
+I1
+sS'volcano '
+p35
+I1
+sS'way '
+p36
+I3
+sS'able '
+p37
+I3
+sS'managed '
+p38
+I49
+sS'through '
+p39
+I11
+sS'tip '
+p40
+I1
+sS'crewman '
+p41
+I1
+sS'out '
+p42
+I3
+sS'here '
+p43
+I1
+sS'fred '
+p44
+I1
+sS'sprung '
+p45
+I1
+sS'carried '
+p46
+I1
+sS'survive '
+p47
+I1
+sS'done '
+p48
+I56
+sS'oughta '
+p49
+I1
+sS'goob '
+p50
+I1
+sS'there '
+p51
+I1
+sS'home '
+p52
+I1
+sS'worked '
+p53
+I1
+sS'juggling '
+p54
+I1
+sS'needed '
+p55
+I1
+sS'achieved '
+p56
+I1
+sS'visuals '
+p57
+I1
+sS'couldn '
+p58
+I2
+sS'off '
+p59
+I3
+sS'forward '
+p60
+I1
+sS'smart '
+p61
+I1
+sS'held '
+p62
+I1
+sS'bandage '
+p63
+I1
+sS'charlie '
+p64
+I1
+sS'okay '
+p65
+I3
+sS'cardiac '
+p66
+I1
+sS'chimp '
+p67
+I1
+sS'tapped '
+p68
+I1
+sS'snap '
+p69
+I1
+sS'well '
+p70
+I1
+sS'knackered '
+p71
+I1
+sS'endured '
+p72
+I1
+sS'colin '
+p73
+I1
+sS'succeeded '
+p74
+I2
+sS'invest '
+p75
+I1
+sS'clear '
+p76
+I1
+sS'away '
+p77
+I3
+sS'worry '
+p78
+I1
+sS'brad '
+p79
+I1
+sS'does, '
+p80
+I1
+sS'beat '
+p81
+I3
+sS'made '
+p82
+I162
+sS'longer '
+p83
+I1
+sS'long '
+p84
+I1
+sS'verge '
+p85
+I1
+sS'free '
+p86
+I1
+sS'get '
+p87
+I5
+sS'nailed '
+p88
+I1
+sS'weight '
+p89
+I1
+sS'finally '
+p90
+I3
+sS'hold '
+p91
+I1
+sS'do '
+p92
+I6
+sS'yeah '
+p93
+I1
+stp94
+a((lp95
+S'konnten'
+p96
+aS'Konnten'
+p97
+a(dp98
+S'dare '
+p99
+I2
+sS'stood '
+p100
+I1
+sS'got '
+p101
+I10
+sS'hadn '
+p102
+I6
+sS'thought '
+p103
+I2
+sS"'d "
+p104
+I5
+sS'having '
+p105
+I1
+sS'eddie '
+p106
+I1
+sS'did '
+p107
+I27
+sS'didn '
+p108
+I3
+sS'could '
+p109
+I178
+sS'haven '
+p110
+I2
+sS'wouldn '
+p111
+I3
+sS'were '
+p112
+I8
+sS'religion '
+p113
+I1
+sS'can '
+p114
+I18
+sS'pulled '
+p115
+I1
+sS'might '
+p116
+I1
+sS'couldn '
+p117
+I186
+sS'able '
+p118
+I19
+sS"'ve "
+p119
+I1
+sS'managed '
+p120
+I8
+sS'get '
+p121
+I2
+sS'had '
+p122
+I10
+sS'notice '
+p123
+I1
+sS'go '
+p124
+I1
+sS'couldn\\u2019 '
+p125
+I2
+sS'unable '
+p126
+I1
+sS'to '
+p127
+I1
+stp128
+a((lp129
+S'gelang'
+p130
+aS'Gelang'
+p131
+a(dp132
+S'managed '
+p133
+I5
+sS'had '
+p134
+I2
+sS'able '
+p135
+I2
+sS'control '
+p136
+I1
+sS'bubbles '
+p137
+I3
+stp138
+a((lp139
+S'gelungen'
+p140
+aS'Gelungen'
+p141
+a(dp142
+S'ones '
+p143
+I1
+sS'managed '
+p144
+I4
+sS'did '
+p145
+I3
+sS'succeeded '
+p146
+I6
+sS'manage '
+p147
+I1
+sS'got '
+p148
+I1
+sS'could '
+p149
+I1
+sS'couldn '
+p150
+I3
+sS'teed '
+p151
+I1
+sS'good '
+p152
+I1
+sS'worked '
+p153
+I1
+sS'succeed '
+p154
+I1
+sS'screwed '
+p155
+I1
+sS'job '
+p156
+I1
+sS'able '
+p157
+I3
+sS'last '
+p158
+I2
+stp159
+a((lp160
+S'schaffte'
+p161
+aS'Schaffte'
+p162
+a(dp163
+S'managed '
+p164
+I4
+sS'did '
+p165
+I3
+sS'didn '
+p166
+I4
+sS'got '
+p167
+I3
+sS'later '
+p168
+I1
+sS'couldn '
+p169
+I1
+sS'made '
+p170
+I5
+sS"'d "
+p171
+I1
+sS'gotten '
+p172
+I2
+stp173
+a((lp174
+S'konnte'
+p175
+aS'Konnte'
+p176
+a(dp177
+S'codn '
+p178
+I1
+sS'could, '
+p179
+I1
+sS'caffee '
+p180
+I1
+sS'knew '
+p181
+I11
+sS'got '
+p182
+I17
+sS'be, '
+p183
+I1
+sS'has '
+p184
+I9
+sS'didnt '
+p185
+I1
+sS'good- '
+p186
+I1
+sS'would '
+p187
+I6
+sS"'d "
+p188
+I15
+sS'finds '
+p189
+I1
+sS'called '
+p190
+I1
+sS'allowed '
+p191
+I2
+sS'upside- '
+p192
+I1
+sS'should '
+p193
+I2
+sS'tedious '
+p194
+I1
+sS'may '
+p195
+I2
+sS'come '
+p196
+I2
+sS'know '
+p197
+I1
+sS'just '
+p198
+I3
+sS'did '
+p199
+I62
+sS'satisfied '
+p200
+I1
+sS'didn '
+p201
+I44
+sS'do '
+p202
+I1
+sS'could '
+p203
+I912
+sS'how '
+p204
+I2
+sS'haven '
+p205
+I5
+sS'ccould '
+p206
+I1
+sS'run '
+p207
+I1
+sS'wouldn '
+p208
+I2
+sS'couldrt '
+p209
+I1
+sS'mother '
+p210
+I1
+sS'saw '
+p211
+I3
+sS'dynamics '
+p212
+I1
+sS'does '
+p213
+I4
+sS'guards '
+p214
+I1
+sS'can '
+p215
+I56
+sS'bravely '
+p216
+I1
+sS'might '
+p217
+I5
+sS'couldn '
+p218
+I867
+sS'gave '
+p219
+I3
+sS'tell '
+p220
+I1
+sS'was '
+p221
+I41
+sS'chance '
+p222
+I2
+sS'wasn '
+p223
+I7
+sS'able '
+p224
+I48
+sS"'ve "
+p225
+I6
+sS'managed '
+p226
+I4
+sS'kept '
+p227
+I4
+sS'had '
+p228
+I22
+sS'sorry '
+p229
+I1
+sS'walked '
+p230
+I2
+sS'path '
+p231
+I1
+sS'he '
+p232
+I1
+sS'couldn\\u2019 '
+p233
+I7
+sS'unable '
+p234
+I3
+sS'to '
+p235
+I4
+sS'way '
+p236
+I2
+sS'traveled '
+p237
+I1
+sS'understandably '
+p238
+I2
+stp239
+a((lp240
+S'gelenkt'
+p241
+aS'Gelenkt'
+p242
+a(dp243
+S'ruled '
+p244
+I2
+sS'managed '
+p245
+I3
+sS'driving '
+p246
+I2
+sS'directed '
+p247
+I1
+stp248
+a((lp249
+S'hinbekommen'
+p250
+aS'Hinbekommen'
+p251
+a(dp252
+S'got '
+p253
+I1
+sS'hats '
+p254
+I1
+sS'hi '
+p255
+I1
+sS'done '
+p256
+I5
+sS'cleaned '
+p257
+I1
+sS'together '
+p258
+I1
+sS'figure '
+p259
+I2
+sS'work '
+p260
+I7
+sS'worked '
+p261
+I2
+sS'build '
+p262
+I4
+sS'pretty '
+p263
+I1
+sS'manage '
+p264
+I4
+sS'thefamous '
+p265
+I1
+sS'managed '
+p266
+I3
+sS'both '
+p267
+I1
+sS'whoa '
+p268
+I1
+sS'made '
+p269
+I1
+sS'handle '
+p270
+I5
+sS'missing '
+p271
+I1
+sS'get '
+p272
+I3
+sS'happen '
+p273
+I2
+sS'tech '
+p274
+I1
+sS'comparred '
+p275
+I1
+stp276
+a((lp277
+S'schafften'
+p278
+aS'Schafften'
+p279
+a(dp280
+S'made '
+p281
+I3
+sS'didn '
+p282
+I1
+sS'emerged '
+p283
+I1
+sS'managed '
+p284
+I3
+stp285
+a((lp286
+S'habe'
+p287
+aS'Habe'
+p288
+a(dp289
+S'checked '
+p290
+I7
+sS'feel '
+p291
+I3
+sS'only '
+p292
+I1
+sS'am '
+p293
+I211
+sS'no '
+p294
+I2
+sS'almost '
+p295
+I1
+sS'wealth '
+p296
+I2
+sS'would '
+p297
+I4
+sS'wrote '
+p298
+I3
+sS'actually '
+p299
+I2
+sS'kinda '
+p300
+I3
+sS'did '
+p301
+I983
+sS'work '
+p302
+I4
+sS'then '
+p303
+I1
+sS'set '
+p304
+I4
+sS'really '
+p305
+I1
+sS'with '
+p306
+I1
+sS'up '
+p307
+I3
+sS'won '
+p308
+I1
+sS'pelottaakin '
+p309
+I1
+sS'hardly '
+p310
+I2
+sS'took '
+p311
+I97
+sS'ordered '
+p312
+I3
+sS'pulled '
+p313
+I2
+sS'spinnaker '
+p314
+I1
+sS'bought '
+p315
+I10
+sS'kids '
+p316
+I1
+sS'found '
+p317
+I34
+sS'hearysyou '
+p318
+I1
+sS"'ve "
+p319
+I4257
+sS'helped '
+p320
+I1
+sS'all '
+p321
+I1
+sS'had '
+p322
+I200
+sS'retrieved '
+p323
+I2
+sS'want '
+p324
+I1
+sS'ain '
+p325
+I18
+sS've '
+p326
+I30
+sS'by '
+p327
+I1
+sS'done '
+p328
+I1
+sS'surfing '
+p329
+I1
+sS'called '
+p330
+I6
+sS'award '
+p331
+I1
+sS'getting '
+p332
+I1
+sS'got '
+p333
+I2061
+sS'her '
+p334
+I1
+sS'has '
+p335
+I15
+sS'missed '
+p336
+I1
+sS"'ll "
+p337
+I2
+sS'left '
+p338
+I52
+sS'having '
+p339
+I10
+sS'job '
+p340
+I1
+sS'king '
+p341
+I1
+sS'broke '
+p342
+I3
+sS'drawer '
+p343
+I1
+sS'just '
+p344
+I59
+sS'because '
+p345
+I1
+sS'at '
+p346
+I1
+sS'could '
+p347
+I10
+sS'come '
+p348
+I1
+sS'find '
+p349
+I2
+sS'make '
+p350
+I1
+sS'carry '
+p351
+I1
+sS'are '
+p352
+I3
+sS'saw '
+p353
+I49
+sS'is '
+p354
+I45
+sS'answered '
+p355
+I1
+sS'guess '
+p356
+I4
+sS'oh '
+p357
+I1
+sS'discussion '
+p358
+I1
+sS'asked '
+p359
+I3
+sS'told '
+p360
+I28
+sS'giving '
+p361
+I1
+sS'went '
+p362
+I15
+sS'managed '
+p363
+I3
+sS'played '
+p364
+I1
+sS'tucked '
+p365
+I1
+sS'talked '
+p366
+I4
+sS"'s "
+p367
+I122
+sS'didin '
+p368
+I1
+sS'drank '
+p369
+I1
+sS'knew '
+p370
+I1
+sS'wonder '
+p371
+I1
+sS'myself '
+p372
+I7
+sS'hadn '
+p373
+I11
+sS'stole '
+p374
+I2
+sS'have '
+p375
+I5265
+sS'haven '
+p376
+I459
+sS'know '
+p377
+I2
+sS'my '
+p378
+I4
+sS'times '
+p379
+I1
+sS'bring '
+p380
+I1
+sS'fighting '
+p381
+I1
+sS'kept '
+p382
+I13
+sS'i- '
+p383
+I5
+sS'a '
+p384
+I1
+sS'own '
+p385
+I2
+sS'love '
+p386
+I2
+sS'didn '
+p387
+I1430
+sS'gelatin '
+p388
+I1
+sS'brought '
+p389
+I53
+sS'remember '
+p390
+I1
+sS'used '
+p391
+I58
+sS'worked '
+p392
+I3
+sS'turned '
+p393
+I1
+sS'ran '
+p394
+I7
+sS'spoke '
+p395
+I1
+sS'spilt '
+p396
+I1
+sS'on '
+p397
+I1
+sS'couldn '
+p398
+I10
+sS'you '
+p399
+I5
+sS'don '
+p400
+I78
+sS'gave '
+p401
+I52
+sS'what '
+p402
+I14
+sS'was '
+p403
+I1321
+sS'effects '
+p404
+I4
+sS'said '
+p405
+I9
+sS'... '
+p406
+I1
+sS'life '
+p407
+I1
+sS'm '
+p408
+I3
+sS'tried '
+p409
+I5
+sS'body '
+p410
+I1
+sS'didn" '
+p411
+I1
+sS'give '
+p412
+I1
+sS'miss '
+p413
+I1
+sS'stefano '
+p414
+I1
+sS'have, '
+p415
+I1
+sS'he '
+p416
+I1
+sS'put '
+p417
+I83
+sS'take '
+p418
+I2
+sS'haven\\u2019 '
+p419
+I1
+sS'asking '
+p420
+I1
+sS'spotted '
+p421
+I1
+sS'lost '
+p422
+I9
+sS'figured '
+p423
+I3
+sS'started '
+p424
+I4
+sS'thought '
+p425
+I16
+sS"'d "
+p426
+I61
+sS'bet '
+p427
+I1
+sS'picked '
+p428
+I4
+sS'heard '
+p429
+I19
+sS'spent '
+p430
+I16
+sS'looked '
+p431
+I2
+sS'keep '
+p432
+I7
+sS'i, '
+p433
+I1
+sS', '
+p434
+I88
+sS'do '
+p435
+I155
+sS"'m "
+p436
+I1231
+sS'since '
+p437
+I1
+sS'dad '
+p438
+I2
+sS'away '
+p439
+I1
+sS'some '
+p440
+I1
+sS'wear '
+p441
+I1
+sS'read '
+p442
+I4
+sS'came '
+p443
+I15
+sS'can '
+p444
+I45
+sS'lijfwachten '
+p445
+I1
+sS'never '
+p446
+I6
+sS'made '
+p447
+I162
+sS'caught '
+p448
+I1
+sS'forgot '
+p449
+I1
+sS'hear '
+p450
+I1
+sS'see '
+p451
+I1
+sS'i '
+p452
+I25
+sS'been '
+p453
+I5
+sS'wasn '
+p454
+I101
+sS'get '
+p455
+I24
+sS'bumped '
+p456
+I1
+sS'wanted '
+p457
+I3
+sS'need '
+p458
+I6
+sS'yeah '
+p459
+I2
+sS'killed '
+p460
+I4
+sS'something '
+p461
+I2
+stp462
+a((lp463
+S'darum'
+p464
+aS'Darum'
+p465
+a(dp466
+S'matter '
+p467
+I4
+sS'but '
+p468
+I1
+sS'bottom '
+p469
+I2
+sS'coasters '
+p470
+I1
+sS'asap '
+p471
+I1
+sS'beggin '
+p472
+I2
+sS'no '
+p473
+I1
+sS'shrek '
+p474
+I1
+sS'so\\u00a1 '
+p475
+I1
+sS'hence '
+p476
+I1
+sS'nevermind '
+p477
+I1
+sS'around '
+p478
+I1
+sS'allowed '
+p479
+I1
+sS'making '
+p480
+I2
+sS'mom '
+p481
+I1
+sS'well '
+p482
+I1
+sS'therefore '
+p483
+I11
+sS'point '
+p484
+I31
+sS'deal '
+p485
+I1
+sS'because '
+p486
+I13
+sS'something '
+p487
+I1
+sS'then '
+p488
+I1
+sS'that '
+p489
+I241
+sS'hey '
+p490
+I1
+sS'arrangements '
+p491
+I1
+sS'overflowed '
+p492
+I1
+sS'why '
+p493
+I213
+sS'clean '
+p494
+I1
+sS'so '
+p495
+I64
+sS'question '
+p496
+I2
+sS'this '
+p497
+I27
+sS'on '
+p498
+I1
+sS'those '
+p499
+I1
+sS'it '
+p500
+I68
+sS'you '
+p501
+I1
+sS'about '
+p502
+I261
+sS'competition '
+p503
+I1
+sS'i '
+p504
+I1
+sS'scissors '
+p505
+I1
+sS'polnt '
+p506
+I1
+sS'neither '
+p507
+I1
+sS'managed '
+p508
+I1
+sS'bother '
+p509
+I1
+sS'that\\u2019 '
+p510
+I1
+sS'and '
+p511
+I5
+sS'becoming '
+p512
+I1
+sS'what '
+p513
+I4
+sS'ask '
+p514
+I4
+sS'intends '
+p515
+I1
+sS'asking '
+p516
+I3
+sS'to '
+p517
+I2
+sS'hockey '
+p518
+I1
+sS'which '
+p519
+I12
+stp520
+a((lp521
+S'jede'
+p522
+aS'Jede'
+p523
+a(dp524
+S'one '
+p525
+I1
+sS'anyone '
+p526
+I5
+sS'uh '
+p527
+I1
+sS'no '
+p528
+I1
+sS'ever '
+p529
+I1
+sS'the '
+p530
+I1
+sS'end '
+p531
+I2
+sS'every '
+p532
+I664
+sS'anybody '
+p533
+I1
+sS'loads '
+p534
+I1
+sS'lots '
+p535
+I1
+sS'single '
+p536
+I1
+sS'too '
+p537
+I1
+sS'beyond '
+p538
+I1
+sS'everywhere '
+p539
+I1
+sS'either '
+p540
+I1
+sS'whatever '
+p541
+I16
+sS'each '
+p542
+I82
+sS'foreach '
+p543
+I1
+sS'everybody '
+p544
+I1
+sS'a '
+p545
+I5
+sS'plenty '
+p546
+I1
+sS'managed '
+p547
+I1
+sS'all '
+p548
+I38
+sS'uh- '
+p549
+I2
+sS'tons '
+p550
+I5
+sS'by '
+p551
+I1
+sS'heaps '
+p552
+I1
+sS'any '
+p553
+I220
+sS'girl '
+p554
+I1
+stp555
+a((lp556
+S'fertiggebracht'
+p557
+aS'Fertiggebracht'
+p558
+a(dp559
+S'managed '
+p560
+I1
+stp561
+a((lp562
+S'\xc3\x9cberflutung'
+p563
+aS'\xc3\x9cberflutung'
+p564
+a(dp565
+S'managed '
+p566
+I2
+sS'flooding '
+p567
+I4
+stp568
+a((lp569
+S'verwaltete'
+p570
+aS'Verwaltete'
+p571
+a(dp572
+S'managed '
+p573
+I1
+stp574
+a((lp575
+S'hingekriegt'
+p576
+aS'Hingekriegt'
+p577
+a(dp578
+S'heck '
+p579
+I1
+sS'managed '
+p580
+I1
+sS'wrong '
+p581
+I1
+sS'star '
+p582
+I1
+sS'off '
+p583
+I2
+sS'handling '
+p584
+I1
+sS'do '
+p585
+I3
+sS'startin '
+p586
+I1
+sS'handled '
+p587
+I1
+sS'nailed '
+p588
+I1
+sS'done '
+p589
+I1
+sS'job '
+p590
+I1
+sS'smooth '
+p591
+I1
+sS'seriously '
+p592
+I1
+sS'things '
+p593
+I1
+stp594
+a((lp595
+S'\xc3\xbcberlebte'
+p596
+aS'\xc3\xbcberlebte'
+p597
+a(dp598
+S'managed '
+p599
+I2
+sS'prevailed '
+p600
+I2
+sS'live '
+p601
+I2
+sS'felled '
+p602
+I2
+sS'walks '
+p603
+I2
+sS'survive '
+p604
+I6
+sS'survived '
+p605
+I32
+stp606
+a((lp607
+S'klatschnass'
+p608
+aS'Klatschnass'
+p609
+a(dp610
+S'soaked '
+p611
+I1
+sS'managed '
+p612
+I1
+sS'soaking '
+p613
+I2
+sS'????? '
+p614
+I1
+sS'sweating '
+p615
+I1
+sS'wet '
+p616
+I1
+sS'\\u00a1 '
+p617
+I1
+sS'laughing '
+p618
+I1
+stp619
+a((lp620
+S'sah'
+p621
+aS'Sah'
+p622
+a(dp623
+S'checked '
+p624
+I1
+sS'range '
+p625
+I1
+sS'watching '
+p626
+I7
+sS'far '
+p627
+I1
+sS'w '
+p628
+I1
+sS'glimpsed '
+p629
+I1
+sS'got '
+p630
+I1
+sS'thought '
+p631
+I6
+sS"'d "
+p632
+I6
+sS'felt '
+p633
+I1
+sS'zeke '
+p634
+I1
+sS'looks '
+p635
+I6
+sS'realized '
+p636
+I1
+sS'figured '
+p637
+I1
+sS'sighs '
+p638
+I1
+sS'maureen '
+p639
+I1
+sS'robot '
+p640
+I1
+sS'witnessed '
+p641
+I1
+sS'aren '
+p642
+I1
+sS'knd '
+p643
+I1
+sS'oos '
+p644
+I1
+sS'did '
+p645
+I29
+sS'didn '
+p646
+I41
+sS'appeared '
+p647
+I1
+sS"'m "
+p648
+I1
+sS'seemed '
+p649
+I15
+sS'watched '
+p650
+I47
+sS'used '
+p651
+I1
+sS'iooked '
+p652
+I1
+sS'sees '
+p653
+I2
+sS'seen '
+p654
+I113
+sS'saw '
+p655
+I836
+sS'deep '
+p656
+I1
+sS'were '
+p657
+I1
+sS'took '
+p658
+I3
+sS"'ve "
+p659
+I1
+sS'looked '
+p660
+I188
+sS'look '
+p661
+I10
+sS'pulled '
+p662
+I1
+sS'exactly '
+p663
+I1
+sS'looking '
+p664
+I7
+sS'couldn '
+p665
+I1
+sS'you '
+p666
+I1
+sS'noticed '
+p667
+I3
+sS'found '
+p668
+I7
+sS'see '
+p669
+I36
+sS'was '
+p670
+I40
+sS'wasn '
+p671
+I1
+sS'when '
+p672
+I1
+sS'made '
+p673
+I1
+sS'went '
+p674
+I1
+sS'she '
+p675
+I1
+sS'managed '
+p676
+I1
+sS'drugged '
+p677
+I1
+sS'like '
+p678
+I1
+sS'- '
+p679
+I1
+sS'had '
+p680
+I1
+sS'began '
+p681
+I3
+sS'met '
+p682
+I5
+sS'spotted '
+p683
+I2
+sS'seeing '
+p684
+I5
+sS'ain '
+p685
+I1
+sS'eyes '
+p686
+I4
+sS'realizedfor '
+p687
+I1
+sS'emerged '
+p688
+I1
+sS'beheld '
+p689
+I1
+sS'macpherson '
+p690
+I1
+stp691
+a((lp692
+S'erreichten'
+p693
+aS'Erreichten'
+p694
+a(dp695
+S'managed '
+p696
+I1
+sS'scored '
+p697
+I1
+stp698
+a((lp699
+S'erreicht'
+p700
+aS'Erreicht'
+p701
+a(dp702
+S'lost '
+p703
+I1
+sS'ahold '
+p704
+I5
+sS'getting '
+p705
+I1
+sS'accomplish '
+p706
+I1
+sS'end '
+p707
+I1
+sS'done '
+p708
+I3
+sS'hits '
+p709
+I1
+sS'reaching '
+p710
+I3
+sS'become '
+p711
+I2
+sS'well '
+p712
+I1
+sS'approaches '
+p713
+I1
+sS'obtained '
+p714
+I1
+sS'ruled '
+p715
+I1
+sS'gotten '
+p716
+I1
+sS'reach '
+p717
+I19
+sS'message '
+p718
+I1
+sS'does '
+p719
+I1
+sS'achieved '
+p720
+I11
+sS'finds '
+p721
+I3
+sS'through '
+p722
+I2
+sS'clocking '
+p723
+I1
+sS'nice '
+p724
+I1
+sS'accomplished '
+p725
+I7
+sS'gets '
+p726
+I3
+sS'iife '
+p727
+I1
+sS'managed '
+p728
+I1
+sS'accomplishing '
+p729
+I1
+sS'arrived '
+p730
+I1
+sS'get '
+p731
+I4
+sS'regained '
+p732
+I1
+sS'approaching '
+p733
+I1
+sS'reached '
+p734
+I41
+sS'reaches '
+p735
+I23
+sS'gained '
+p736
+I1
+stp737
+a((lp738
+S'bewerkstelligt'
+p739
+aS'Bewerkstelligt'
+p740
+a(dp741
+S'managed '
+p742
+I1
+sS'happen '
+p743
+I1
+stp744
+a((lp745
+S'zustande'
+p746
+aS'Zustande'
+p747
+a(dp748
+S'managed '
+p749
+I1
+sS'propose '
+p750
+I1
+sS'achieve '
+p751
+I1
+sS'pulled '
+p752
+I1
+sS'pull '
+p753
+I1
+sS'than '
+p754
+I2
+sS'through '
+p755
+I1
+sS'close '
+p756
+I1
+sS'succeed '
+p757
+I1
+stp758
+a((lp759
+S'dummerweise'
+p760
+aS'Dummerweise'
+p761
+a(dp762
+S'managed '
+p763
+I1
+sS'foolishly '
+p764
+I2
+sS'tricked '
+p765
+I1
+sS'unfortunately '
+p766
+I3
+sS'stupidly '
+p767
+I3
+stp768
+a((lp769
+S'reingekriegt'
+p770
+aS'Reingekriegt'
+p771
+a(dp772
+S'managed '
+p773
+I1
+sS'in '
+p774
+I1
+stp775
+a((lp776
+S'bew\xc3\xa4ltigt'
+p777
+aS'Bew\xc3\xa4ltigt'
+p778
+a(dp779
+S'managed '
+p780
+I1
+stp781
+a((lp782
+S'wegbrachten'
+p783
+aS'Wegbrachten'
+p784
+a(dp785
+S'managed '
+p786
+I1
+sS'ianding '
+p787
+I1
+stp788
+a((lp789
+S'k\xc3\xbcmmerte'
+p790
+aS'K\xc3\xbcmmerte'
+p791
+a(dp792
+S'managed '
+p793
+I1
+sS'could '
+p794
+I1
+sS'looking '
+p795
+I1
+sS'handled '
+p796
+I2
+sS'care '
+p797
+I13
+sS'minding '
+p798
+I1
+sS'cared '
+p799
+I2
+sS'took '
+p800
+I1
+stp801
+a((lp802
+S'besorgte'
+p803
+aS'Besorgte'
+p804
+a(dp805
+S'minimizing '
+p806
+I1
+sS'managed '
+p807
+I1
+sS'concerned '
+p808
+I1
+sS'got '
+p809
+I8
+sS'worried '
+p810
+I2
+sS'girlfrie '
+p811
+I1
+stp812
+a((lp813
+S'gelohnt'
+p814
+aS'Gelohnt'
+p815
+a(dp816
+S'managed '
+p817
+I1
+sS'profitable '
+p818
+I1
+sS"'th "
+p819
+I1
+sS'worthwhile '
+p820
+I4
+sS'worth '
+p821
+I4
+sS'merited '
+p822
+I1
+sS'serious '
+p823
+I1
+sS'worked '
+p824
+I1
+sS'investment '
+p825
+I1
+sS'w\xc3\xadth '
+p826
+I1
+sS'paid '
+p827
+I1
+sS'aw '
+p828
+I2
+stp829
+a((lp830
+S'verwaltenden'
+p831
+aS'Verwaltenden'
+p832
+a(dp833
+S'managed '
+p834
+I1
+stp835
+a((lp836
+S'brachte'
+p837
+aS'Brachte'
+p838
+a(dp839
+S'threw '
+p840
+I1
+sS'got '
+p841
+I16
+sS'makes '
+p842
+I2
+sS'returned '
+p843
+I4
+sS'gets '
+p844
+I1
+sS'want '
+p845
+I1
+sS'm. '
+p846
+I1
+sS'bring '
+p847
+I7
+sS'dropped '
+p848
+I3
+sS'walked '
+p849
+I1
+sS'yielded '
+p850
+I1
+sS'pushed '
+p851
+I1
+sS'did '
+p852
+I6
+sS'murdered '
+p853
+I1
+sS'didn '
+p854
+I3
+sS'brought '
+p855
+I119
+sS'kills '
+p856
+I1
+sS'led '
+p857
+I7
+sS'passed '
+p858
+I3
+sS'turned '
+p859
+I2
+sS'took '
+p860
+I21
+sS'killed '
+p861
+I19
+sS'caused '
+p862
+I4
+sS'made '
+p863
+I30
+sS'taken '
+p864
+I1
+sS'delivered '
+p865
+I1
+sS'gave '
+p866
+I7
+sS'bringing '
+p867
+I4
+sS'taught '
+p868
+I28
+sS'managed '
+p869
+I1
+sS'killing '
+p870
+I1
+sS'parents '
+p871
+I1
+sS'repair '
+p872
+I1
+sS'put '
+p873
+I17
+sS'take '
+p874
+I2
+sS'dropping '
+p875
+I1
+stp876
+a.

@@ -1,0 +1,68 @@
+- Könnten wir das Zeug nicht rauchen ?	1	de
+- You mind if we smoke up while we work ?	2
+
+Kann ich vielleicht ein paar Minuten alleine sein ?	0	de
+You guys mind if I have a few minutes ?	2
+
+- Kann ich mich setzen ?	1	de
+- Do you mind if I take a seat ?	3
+
+- Könnte ich einen Blick drauf werfen ?	1	de
+- Do you mind if I take a look at it ?	3
+
+Mr. Quinn , können sie uns sagen was sie hier tun ?	3	de
+Mr. Quinn , mind telling us what you 're doing here ?	3
+
+- Könnten Sie mir Starthilfe geben ?	1	de
+- Yeah . You mind giving me a jump ?	4
+
+- Kann ich ein wenig laufen gehen ?	1	de
+Would you mind if I go for a run ?	2
+
+- Kann ich das behalten ?	1	de
+- You mind if I keep this one ?	2
+
+- Können wir das Thema wechseln ?	1	de
+Would anybody mind if the subject were changed ?	2
+
+- Kann ich mit runterkommen ?	1	de
+Do you mind if I come down there to see what you 're doing ?	2
+
+Ich kann das Spiel spielen .	1	de
+Not at all . You mind if I leave ?	5
+
+- Kann ich ein wenig laufen gehen ?	1	de
+- Would you mind if I go for a run ?	3
+
+Terry , du kannst gehen ...	3	de
+Would you mind if I went up and put them inside now ?	2
+
+Man kann da nicht rein und nicht raus .	1	de
+I changed my mind . Enough .	3
+
+- Kann ich mit runterkommen ?	1	de
+You mind if I come down there and see what you 're doing ?	1
+
+- Kann ich mit \u00b4runterkommen ?	1	de
+You mind if I come down there and see what you 're doing ?	1
+
+- Kann ich mir das ausleihen ?	1	de
+You mind if I borrow this ? What ...	1
+
+- Kann ich dort fernsehen ?	1	de
+- Would you mind if I watched TV ?	3
+
+- Könnte ich dem eben ... - Nein .	1	de
+Do you mind if I -- no .	2
+
+- Kann ich was trinken ?	1	de
+- Do you mind if I have a drink ?	3
+
+- Kann ich mitkommen ?	1	de
+- You mind if I come along ?	2
+
+- Kann ich heute etwas früher gehen ?	1	de
+- Do you mind if I leave early tonight ?	3
+
+Hey , könnten Sie uns eine Minute alleine lassen ?	2	de
+Hey , you mind giving us a minute ?	3

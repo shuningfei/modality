@@ -1,0 +1,852 @@
+(lp0
+((lp1
+S'erlaubt'
+p2
+aS'Erlaubt'
+p3
+a(dp4
+S'dare '
+p5
+I1
+sS'may '
+p6
+I2
+sS'lets '
+p7
+I1
+sS'gives '
+p8
+I1
+sS'permission '
+p9
+I4
+sS'forbid '
+p10
+I1
+sS'said '
+p11
+I1
+sS'ok '
+p12
+I1
+sS'liberty '
+p13
+I5
+sS'allows '
+p14
+I31
+sS'allowed '
+p15
+I100
+sS'approve '
+p16
+I1
+sS'supposed '
+p17
+I2
+sS'fair '
+p18
+I3
+sS'number '
+p19
+I1
+sS'could '
+p20
+I4
+sS'goes '
+p21
+I1
+sS'permit '
+p22
+I2
+sS'leave '
+p23
+I1
+sS'mind '
+p24
+I1
+sS'allow '
+p25
+I40
+sS'can '
+p26
+I2
+sS'this '
+p27
+I1
+sS'told '
+p28
+I1
+sS'permitted '
+p29
+I5
+sS'dawdled '
+p30
+I1
+sS'enables '
+p31
+I1
+sS'let '
+p32
+I7
+sS'forbidden '
+p33
+I1
+sS'legal '
+p34
+I4
+sS'winding '
+p35
+I1
+sS'won '
+p36
+I1
+sS'tolerated '
+p37
+I1
+sS'invalid '
+p38
+I1
+sS'allowing '
+p39
+I8
+stp40
+a((lp41
+S'gestattet'
+p42
+aS'Gestattet'
+p43
+a(dp44
+S'let '
+p45
+I3
+sS'forbidden '
+p46
+I1
+sS'facility '
+p47
+I1
+sS'may '
+p48
+I1
+sS'ladies '
+p49
+I1
+sS'295 '
+p50
+I1
+sS'grants '
+p51
+I2
+sS'permitted '
+p52
+I4
+sS'allows '
+p53
+I2
+sS'allowed '
+p54
+I15
+sS'eligible '
+p55
+I3
+sS'stall '
+p56
+I1
+sS'able '
+p57
+I1
+stp58
+a((lp59
+S'blutzusatz'
+p60
+aS'Blutzusatz'
+p61
+a(dp62
+S'permitted '
+p63
+I2
+stp64
+a((lp65
+S'befugt'
+p66
+aS'Befugt'
+p67
+a(dp68
+S'authorized '
+p69
+I8
+sS'469 '
+p70
+I1
+sS'liberty '
+p71
+I2
+sS'permitted '
+p72
+I2
+sS'cleared '
+p73
+I3
+sS'authority '
+p74
+I6
+stp75
+a((lp76
+S'verboten'
+p77
+aS'Verboten'
+p78
+a(dp79
+S'unfunny '
+p80
+I1
+sS'mutually '
+p81
+I1
+sS'instructed '
+p82
+I1
+sS'limits '
+p83
+I1
+sS'forbid '
+p84
+I1
+sS'said '
+p85
+I1
+sS'parties '
+p86
+I1
+sS'allowed '
+p87
+I4
+sS'guilty '
+p88
+I1
+sS'supposed '
+p89
+I2
+sS'illegal '
+p90
+I12
+sS'bounds '
+p91
+I1
+sS'prohibited '
+p92
+I8
+sS'outlawed '
+p93
+I6
+sS'forbade '
+p94
+I3
+sS'allow '
+p95
+I3
+sS'banned '
+p96
+I7
+sS'ailowed '
+p97
+I3
+sS'order '
+p98
+I1
+sS'trespassing '
+p99
+I2
+sS'against '
+p100
+I2
+sS'simon '
+p101
+I1
+sS'permitted '
+p102
+I2
+sS'i '
+p103
+I1
+sS'forbidden '
+p104
+I42
+sS'shushed '
+p105
+I1
+sS'restricted '
+p106
+I1
+sS'told '
+p107
+I4
+stp108
+a((lp109
+S'd\xc3\xbcrfen'
+p110
+aS'D\xc3\xbcrfen'
+p111
+a(dp112
+S'could '
+p113
+I2
+sS'may '
+p114
+I32
+sS'use '
+p115
+I1
+sS'hope '
+p116
+I1
+sS'permission '
+p117
+I2
+sS'nurses '
+p118
+I1
+sS'allowed '
+p119
+I52
+sS'have '
+p120
+I9
+sS'shouldn '
+p121
+I6
+sS'cannot '
+p122
+I24
+sS'ride '
+p123
+I2
+sS'should '
+p124
+I5
+sS'supposed '
+p125
+I12
+sS', '
+p126
+I1
+sS'do '
+p127
+I7
+sS'gotta '
+p128
+I1
+sS'dare '
+p129
+I3
+sS'sure '
+p130
+I1
+sS'right '
+p131
+I1
+sS"'re "
+p132
+I13
+sS'cleared '
+p133
+I4
+sS'watch '
+p134
+I1
+sS'allow '
+p135
+I2
+sS'can '
+p136
+I271
+sS'admittance '
+p137
+I1
+sS'diplomats '
+p138
+I1
+sS'couldn '
+p139
+I2
+sS'don '
+p140
+I3
+sS'permitted '
+p141
+I1
+sS'see '
+p142
+I1
+sS'mustn '
+p143
+I5
+sS'able '
+p144
+I2
+sS'ridiculous '
+p145
+I1
+sS'let '
+p146
+I16
+sS'... '
+p147
+I1
+sS'are '
+p148
+I4
+sS'cant '
+p149
+I1
+sS'get '
+p150
+I2
+sS'go '
+p151
+I1
+sS'mind '
+p152
+I5
+sS'need '
+p153
+I6
+sS'coverts '
+p154
+I1
+sS'must '
+p155
+I17
+sS'to '
+p156
+I2
+sS'free '
+p157
+I4
+stp158
+a((lp159
+S'zog'
+p160
+aS'Zog'
+p161
+a(dp162
+S'wandered '
+p163
+I2
+sS'pennies '
+p164
+I1
+sS'threw '
+p165
+I1
+sS'withdrew '
+p166
+I2
+sS"'d "
+p167
+I2
+sS'haul '
+p168
+I1
+sS'raised '
+p169
+I2
+sS'dad '
+p170
+I1
+sS'uhhh '
+p171
+I1
+sS'took '
+p172
+I4
+sS'retreated '
+p173
+I1
+sS'dragged '
+p174
+I3
+sS'pulled '
+p175
+I27
+sS'pull '
+p176
+I1
+sS'puiled '
+p177
+I1
+sS'pulling '
+p178
+I2
+sS'permitted '
+p179
+I1
+sS'went '
+p180
+I4
+sS'flying '
+p181
+I1
+sS'raising '
+p182
+I1
+sS'stripped '
+p183
+I1
+sS'downwith '
+p184
+I1
+sS'pulls '
+p185
+I1
+sS'put '
+p186
+I3
+sS'drew '
+p187
+I4
+sS'moved '
+p188
+I31
+stp189
+a((lp190
+S'darf'
+p191
+aS'Darf'
+p192
+a(dp193
+S'mayl '
+p194
+I1
+sS'dare '
+p195
+I2
+sS'may '
+p196
+I364
+sS'am '
+p197
+I1
+sS'permission '
+p198
+I2
+sS'would '
+p199
+I8
+sS'liberty '
+p200
+I3
+sS'cannot '
+p201
+I52
+sS'letting '
+p202
+I3
+sS'join '
+p203
+I1
+sS'possible '
+p204
+I1
+sS'gotta '
+p205
+I4
+sS'anjadodwaeyo '
+p206
+I1
+sS'crab '
+p207
+I1
+sS'if '
+p208
+I10
+sS'asposed '
+p209
+I1
+sS'isn '
+p210
+I3
+sS'heaven '
+p211
+I2
+sS'no '
+p212
+I3
+sS'mademoiselle '
+p213
+I2
+sS'senator '
+p214
+I1
+sS'nailing '
+p215
+I1
+sS'please '
+p216
+I1
+sS'let '
+p217
+I47
+sS'- '
+p218
+I7
+sS'sympathetic '
+p219
+I1
+sS'have '
+p220
+I4
+sS'the" '
+p221
+I1
+sS'sandstorm '
+p222
+I1
+sS'me '
+p223
+I1
+sS'has '
+p224
+I4
+sS"'ll "
+p225
+I16
+sS'having '
+p226
+I1
+sS'allowed '
+p227
+I84
+sS'daresay '
+p228
+I1
+sS'should '
+p229
+I10
+sS'or '
+p230
+I2
+sS'could '
+p231
+I17
+sS'come '
+p232
+I3
+sS'hancock '
+p233
+I1
+sS'is '
+p234
+I8
+sS'mind '
+p235
+I74
+sS'allow '
+p236
+I11
+sS'might '
+p237
+I12
+sS'say '
+p238
+I1
+sS'gets '
+p239
+I17
+sS'forbidden '
+p240
+I1
+sS'perhaps '
+p241
+I1
+sS'show '
+p242
+I1
+sS'joel '
+p243
+I1
+sS"'s "
+p244
+I10
+sS'cass '
+p245
+I1
+sS'must '
+p246
+I27
+sS'can\\u2019 '
+p247
+I2
+sS'myself '
+p248
+I8
+sS'want '
+p249
+I21
+sS'my '
+p250
+I3
+sS'right '
+p251
+I1
+sS'permit '
+p252
+I2
+sS'tofu '
+p253
+I1
+sS'endure '
+p254
+I1
+sS'flossing '
+p255
+I3
+sS'takes '
+p256
+I2
+sS'doesn '
+p257
+I1
+sS'million '
+p258
+I1
+sS'couldn '
+p259
+I6
+sS'don '
+p260
+I1
+sS'permitted '
+p261
+I1
+sS'what '
+p262
+I3
+sS'manner '
+p263
+I1
+sS'said '
+p264
+I1
+sS'storybook '
+p265
+I2
+sS'okay '
+p266
+I1
+sS'lion '
+p267
+I1
+sS'why '
+p268
+I1
+sS'take '
+p269
+I3
+sS'will '
+p270
+I10
+sS'to '
+p271
+I6
+sS'??????? '
+p272
+I1
+sS"' "
+p273
+I1
+sS"'d "
+p274
+I2
+sS'meet '
+p275
+I5
+sS'coming '
+p276
+I4
+sS'shouldn '
+p277
+I5
+sS'supposed '
+p278
+I13
+sS'keep '
+p279
+I3
+sS'do '
+p280
+I21
+sS"'m "
+p281
+I1
+sS'tung '
+p282
+I1
+sS'does '
+p283
+I3
+sS'can '
+p284
+I693
+sS'tali '
+p285
+I1
+sS'hello '
+p286
+I1
+sS'i '
+p287
+I1
+sS'mustn '
+p288
+I10
+sS'abalone '
+p289
+I1
+sS'shall '
+p290
+I3
+sS'excuse '
+p291
+I3
+sS'free '
+p292
+I1
+sS'get '
+p293
+I20
+sS'warschau '
+p294
+I1
+sS'need '
+p295
+I5
+sS'claim '
+p296
+I4
+sS'yeah '
+p297
+I1
+stp298
+a((lp299
+S'permitted'
+p300
+aS'Permitted'
+p301
+a(dp302
+S'permitted '
+p303
+I1
+stp304
+a((lp305
+S'abschreitung'
+p306
+aS'Abschreitung'
+p307
+a(dp308
+S'permitted '
+p309
+I1
+stp310
+a.

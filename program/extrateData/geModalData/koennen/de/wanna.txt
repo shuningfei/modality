@@ -1,0 +1,21 @@
+Opa , kannst du mir einen Whisky bringen , wenn du mal \u00b4ne Sekunde hast ?	2	de
+Pop , you wanna get me a whisky sour when you get a sec ?	3
+
+Jeff , könntest du draußen warten ?	2	de
+Jeff , you wanna wait outside ?	3
+
+Sie können die Genehmigung ändern , bitte schön .	1	de
+You wanna change the permit , go right ahead .	1
+
+- Kannst Du nicht bleiben ?	1	de
+Don 't you wanna hang out ?	3
+
+Wir können ein Geschäft mit Gold machen .	1	de
+We wanna make a deal for gold .	1
+
+( Ted ) Kannst du das nicht noch ein bißchen lauter sagen ? ' tschuldige , aber es ist so .	3	de
+( Ted ) You wanna say it a little louder ? I 'm sorry , but it was .	4
+
+Du kannst es ruhig vor ihr sagen .	1	de
+Anything you wanna say , say in front of her .	2
+

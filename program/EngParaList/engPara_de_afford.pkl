@@ -1,0 +1,1487 @@
+(lp0
+((lp1
+S'leisten'
+p2
+aS'Leisten'
+p3
+a(dp4
+S'join '
+p5
+I14
+sS'efficient '
+p6
+I1
+sS'accomplish '
+p7
+I1
+sS'vasendorf '
+p8
+I1
+sS"'t "
+p9
+I1
+sS'keep '
+p10
+I1
+sS'do '
+p11
+I5
+sS'racist '
+p12
+I1
+sS'rich '
+p13
+I1
+sS'strengths '
+p14
+I1
+sS'barbara, '
+p15
+I1
+sS'doing '
+p16
+I4
+sS'room '
+p17
+I2
+sS'underarms '
+p18
+I1
+sS'afford '
+p19
+I214
+sS'honey '
+p20
+I1
+sS'pay '
+p21
+I1
+sS'we '
+p22
+I1
+sS'buy '
+p23
+I2
+sS'because '
+p24
+I1
+sS'indigent '
+p25
+I1
+sS'finance '
+p26
+I1
+sS'afforded '
+p27
+I2
+sS'put '
+p28
+I1
+sS'priu\\u0459ti\\u0459 '
+p29
+I1
+stp30
+a((lp31
+S'erlauben'
+p32
+aS'Erlauben'
+p33
+a(dp34
+S'consent '
+p35
+I1
+sS'may '
+p36
+I2
+sS'permission '
+p37
+I4
+sS'ok '
+p38
+I1
+sS'have '
+p39
+I2
+sS'approve '
+p40
+I2
+sS'allowed '
+p41
+I4
+sS'break '
+p42
+I1
+sS'pardon '
+p43
+I1
+sS'do '
+p44
+I9
+sS'dare '
+p45
+I2
+sS'hump '
+p46
+I1
+sS'permit '
+p47
+I11
+sS'watch '
+p48
+I1
+sS'allow '
+p49
+I104
+sS'slipping '
+p50
+I1
+sS'afford '
+p51
+I15
+sS'i '
+p52
+I1
+sS'let '
+p53
+I14
+sS'excuse '
+p54
+I2
+sS'mind '
+p55
+I6
+sS'authorize '
+p56
+I1
+sS'allows '
+p57
+I2
+sS'allowing '
+p58
+I2
+stp59
+a((lp60
+S'bezahlen'
+p61
+aS'Bezahlen'
+p62
+a(dp63
+S'money '
+p64
+I2
+sS'repay '
+p65
+I3
+sS'lemon '
+p66
+I1
+sS'price '
+p67
+I2
+sS"'ll "
+p68
+I1
+sS'paying '
+p69
+I68
+sS'gathered '
+p70
+I1
+sS'hm '
+p71
+I1
+sS'wow '
+p72
+I1
+sS'cost '
+p73
+I4
+sS'forthese '
+p74
+I1
+sS'payment '
+p75
+I1
+sS'bill '
+p76
+I2
+sS'do '
+p77
+I1
+sS'p '
+p78
+I1
+sS'buying '
+p79
+I1
+sS'cash '
+p80
+I1
+sS'cocks '
+p81
+I1
+sS'charge '
+p82
+I5
+sS'pays '
+p83
+I3
+sS'owe '
+p84
+I1
+sS'buck '
+p85
+I1
+sS'mcnally '
+p86
+I1
+sS'afford '
+p87
+I5
+sS'pay '
+p88
+I537
+sS'cover '
+p89
+I2
+sS'notify '
+p90
+I2
+sS'this '
+p91
+I1
+sS'buy '
+p92
+I4
+sS'help '
+p93
+I1
+sS'get '
+p94
+I1
+sS'check '
+p95
+I3
+sS'spanlsh '
+p96
+I1
+sS'postal '
+p97
+I1
+sS'paying, '
+p98
+I1
+sS'exempt '
+p99
+I1
+sS'nick '
+p100
+I1
+sS'paid '
+p101
+I7
+sS'peter '
+p102
+I1
+sS'resuscitation '
+p103
+I1
+stp104
+a((lp105
+S'teuer'
+p106
+aS'Teuer'
+p107
+a(dp108
+S'cost '
+p109
+I4
+sS'much '
+p110
+I14
+sS'lot '
+p111
+I1
+sS'costs '
+p112
+I1
+sS'costly '
+p113
+I2
+sS'prices '
+p114
+I2
+sS'price '
+p115
+I1
+sS'tes '
+p116
+I1
+sS'afford '
+p117
+I5
+sS'expensive '
+p118
+I106
+sS'cheaper '
+p119
+I1
+sS'overbuilt, '
+p120
+I1
+sS'dearly '
+p121
+I5
+sS'bad '
+p122
+I1
+sS'faces '
+p123
+I1
+sS'high '
+p124
+I5
+sS'pay '
+p125
+I3
+sS'pricey '
+p126
+I2
+sS'strawberry '
+p127
+I1
+sS'pricer '
+p128
+I1
+stp129
+a((lp130
+S'zulassen'
+p131
+aS'Zulassen'
+p132
+a(dp133
+S'admit '
+p134
+I1
+sS'stay '
+p135
+I1
+sS'okayed '
+p136
+I1
+sS'forbid '
+p137
+I1
+sS'leaving '
+p138
+I2
+sS'filesat '
+p139
+I1
+sS'have '
+p140
+I10
+sS'happening '
+p141
+I2
+sS'approve '
+p142
+I1
+sS'hurt '
+p143
+I1
+sS'die '
+p144
+I1
+sS'letting '
+p145
+I2
+sS'do '
+p146
+I1
+sS'that '
+p147
+I1
+sS'iet '
+p148
+I1
+sS'yes '
+p149
+I2
+sS'permit '
+p150
+I1
+sS'leave '
+p151
+I1
+sS'start '
+p152
+I1
+sS'willing '
+p153
+I2
+sS'allow '
+p154
+I26
+sS'afford '
+p155
+I4
+sS'britain '
+p156
+I1
+sS'let '
+p157
+I131
+sS'enough '
+p158
+I1
+sS'lettin '
+p159
+I1
+sS'unacceptable '
+p160
+I1
+sS'greater '
+p161
+I1
+sS'caroline '
+p162
+I1
+sS'happen '
+p163
+I55
+sS'unsuited '
+p164
+I1
+stp165
+a((lp166
+S'aufbringen'
+p167
+aS'Aufbringen'
+p168
+a(dp169
+S'pony '
+p170
+I1
+sS'raise '
+p171
+I4
+sS'$30000 '
+p172
+I1
+sS'best '
+p173
+I2
+sS'afford '
+p174
+I3
+sS'swing '
+p175
+I2
+sS'ponied '
+p176
+I1
+stp177
+a((lp178
+S'kaufen'
+p179
+aS'Kaufen'
+p180
+a(dp181
+S'one '
+p182
+I2
+sS'remind '
+p183
+I1
+sS'experience '
+p184
+I1
+sS'for '
+p185
+I1
+sS'money '
+p186
+I1
+sS"'ll "
+p187
+I1
+sS'instead '
+p188
+I1
+sS'hire '
+p189
+I1
+sS'hamburger '
+p190
+I5
+sS'shame '
+p191
+I1
+sS'problem '
+p192
+I1
+sS'shop '
+p193
+I3
+sS'now '
+p194
+I2
+sS'buying '
+p195
+I85
+sS'afternoon '
+p196
+I1
+sS'whistles '
+p197
+I1
+sS'rock '
+p198
+I1
+sS'price '
+p199
+I2
+sS'hide '
+p200
+I1
+sS'purchasing '
+p201
+I1
+sS'sell '
+p202
+I2
+sS'bought '
+p203
+I19
+sS'afford '
+p204
+I2
+sS'yours '
+p205
+I2
+sS'shopping '
+p206
+I7
+sS'purchase '
+p207
+I7
+sS'what '
+p208
+I1
+sS'jog '
+p209
+I1
+sS'pay '
+p210
+I1
+sS'sale '
+p211
+I8
+sS'grab '
+p212
+I2
+sS'buy '
+p213
+I582
+sS'get '
+p214
+I19
+sS'give '
+p215
+I2
+sS'bail '
+p216
+I2
+sS'market '
+p217
+I2
+sS'spread '
+p218
+I1
+stp219
+a((lp220
+S'ieisten'
+p221
+aS'Ieisten'
+p222
+a(dp223
+S'afford '
+p224
+I2
+stp225
+a((lp226
+S'mittel'
+p227
+aS'Mittel'
+p228
+a(dp229
+S'funding '
+p230
+I3
+sS'perks '
+p231
+I1
+sS'pepto- '
+p232
+I1
+sS'central '
+p233
+I1
+sS'905 '
+p234
+I1
+sS'doing '
+p235
+I1
+sS'resort '
+p236
+I1
+sS'job '
+p237
+I1
+sS'react '
+p238
+I1
+sS'drug '
+p239
+I3
+sS'cure '
+p240
+I1
+sS'ways '
+p241
+I2
+sS'motherwort '
+p242
+I1
+sS'middling '
+p243
+I1
+sS'medium '
+p244
+I2
+sS'thiopental '
+p245
+I1
+sS'tools '
+p246
+I1
+sS'antidote '
+p247
+I6
+sS'between '
+p248
+I1
+sS'device '
+p249
+I2
+sS'club '
+p250
+I1
+sS'funds '
+p251
+I4
+sS'costs '
+p252
+I1
+sS'buck '
+p253
+I1
+sS'afford '
+p254
+I2
+sS'assets '
+p255
+I1
+sS'resources '
+p256
+I21
+sS'remedy '
+p257
+I2
+sS'means '
+p258
+I43
+sS'carver '
+p259
+I1
+sS'medication '
+p260
+I2
+sS'remedies '
+p261
+I2
+sS'way '
+p262
+I2
+sS'something '
+p263
+I1
+stp264
+a((lp265
+S'geld'
+p266
+aS'Geld'
+p267
+a(dp268
+S'son '
+p269
+I1
+sS'wallet '
+p270
+I3
+sS'dinero '
+p271
+I5
+sS'penny '
+p272
+I1
+sS'suitcase '
+p273
+I1
+sS'moneythan '
+p274
+I1
+sS'make '
+p275
+I1
+sS'deal '
+p276
+I2
+sS'payment '
+p277
+I4
+sS'haven '
+p278
+I1
+sS'dollars '
+p279
+I2
+sS'setting '
+p280
+I1
+sS'green '
+p281
+I2
+sS'thank '
+p282
+I1
+sS'it '
+p283
+I2
+sS'malfeas- '
+p284
+I1
+sS'dough '
+p285
+I8
+sS'cash '
+p286
+I231
+sS'ids '
+p287
+I1
+sS'bribe '
+p288
+I1
+sS'any '
+p289
+I1
+sS'rob '
+p290
+I2
+sS'earned '
+p291
+I1
+sS'loan '
+p292
+I1
+sS'potless '
+p293
+I1
+sS'broke '
+p294
+I5
+sS'cash- '
+p295
+I1
+sS'stash '
+p296
+I1
+sS'digger '
+p297
+I2
+sS'payoff '
+p298
+I4
+sS'change '
+p299
+I1
+sS'man '
+p300
+I1
+sS'iceberg '
+p301
+I1
+sS'funds '
+p302
+I13
+sS'rent '
+p303
+I1
+sS'show '
+p304
+I1
+sS'loans '
+p305
+I1
+sS'support '
+p306
+I1
+sS'foryou '
+p307
+I1
+sS'those '
+p308
+I1
+sS'lot '
+p309
+I1
+sS'drugs '
+p310
+I1
+sS'money '
+p311
+I4080
+sS'prize '
+p312
+I2
+sS'price '
+p313
+I5
+sS'currency '
+p314
+I9
+sS'brought '
+p315
+I1
+sS'right '
+p316
+I1
+sS'pound '
+p317
+I1
+sS'wages '
+p318
+I1
+sS'money, '
+p319
+I18
+sS'ah '
+p320
+I2
+sS'pounds '
+p321
+I2
+sS'account '
+p322
+I5
+sS'spending '
+p323
+I1
+sS'headlight '
+p324
+I1
+sS'afford '
+p325
+I2
+sS'off '
+p326
+I7
+sS'paper '
+p327
+I1
+sS'pay '
+p328
+I18
+sS'ch '
+p329
+I1
+sS'enough '
+p330
+I2
+sS'income '
+p331
+I1
+sS'coin '
+p332
+I5
+sS'brass '
+p333
+I1
+sS'money- '
+p334
+I2
+sS'living '
+p335
+I6
+sS'cheque '
+p336
+I1
+sS'fee '
+p337
+I1
+sS'elmer '
+p338
+I1
+sS'bread '
+p339
+I1
+sS'dad '
+p340
+I2
+sS'away '
+p341
+I1
+sS'refund '
+p342
+I1
+sS'charge '
+p343
+I3
+sS'some '
+p344
+I1
+sS'fortune '
+p345
+I2
+sS'business '
+p346
+I1
+sS'buck '
+p347
+I5
+sS'yours '
+p348
+I1
+sS'cent '
+p349
+I1
+sS'paid '
+p350
+I13
+sS'buy '
+p351
+I1
+sS'payday '
+p352
+I1
+sS'bucks '
+p353
+I3
+sS'dibs '
+p354
+I1
+sS'401 '
+p355
+I1
+stp356
+a((lp357
+S'akzeptieren'
+p358
+aS'Akzeptieren'
+p359
+a(dp360
+S'admit '
+p361
+I3
+sS'acceptance '
+p362
+I1
+sS'approve '
+p363
+I1
+sS'band '
+p364
+I1
+sS'answer '
+p365
+I3
+sS'deal '
+p366
+I1
+sS'face '
+p367
+I2
+sS'disrespect '
+p368
+I1
+sS'virginity '
+p369
+I1
+sS'accepts '
+p370
+I1
+sS'adapt '
+p371
+I2
+sS'accept '
+p372
+I149
+sS'afford '
+p373
+I1
+sS'agree '
+p374
+I1
+sS'embrace '
+p375
+I6
+sS'roll '
+p376
+I2
+sS'accepting '
+p377
+I10
+sS'decent '
+p378
+I1
+sS'honor '
+p379
+I2
+sS'hyv\xc3\xa4ksy\xc3\xa4 '
+p380
+I1
+sS'respect '
+p381
+I1
+sS'take '
+p382
+I6
+stp383
+a((lp384
+S'blechen'
+p385
+aS'Blechen'
+p386
+a(dp387
+S'afford '
+p388
+I1
+stp389
+a((lp390
+S'durchf\xc3\xbcttern'
+p391
+aS'Durchf\xc3\xbcttern'
+p392
+a(dp393
+S'feed '
+p394
+I1
+sS'afford '
+p395
+I1
+sS'fed '
+p396
+I1
+stp397
+a((lp398
+S'bildest'
+p399
+aS'Bildest'
+p400
+a(dp401
+S'tate '
+p402
+I1
+sS'imagination '
+p403
+I2
+sS'fucking '
+p404
+I1
+sS'give '
+p405
+I1
+sS'afford '
+p406
+I1
+sS'imagining '
+p407
+I6
+sS'teach '
+p408
+I1
+stp409
+a((lp410
+S'ausger\xc3\xbcstet'
+p411
+aS'Ausger\xc3\xbcstet'
+p412
+a(dp413
+S'afford '
+p414
+I1
+sS'equipped '
+p415
+I11
+sS'armed '
+p416
+I2
+sS'gear '
+p417
+I2
+sS'suited '
+p418
+I1
+stp419
+a((lp420
+S'20.'
+p421
+aS'20.'
+p422
+a(dp423
+S'beavers '
+p424
+I2
+sS'20s '
+p425
+I4
+sS'twenty '
+p426
+I16
+sS'20th '
+p427
+I54
+sS'afford '
+p428
+I2
+sS'20th- '
+p429
+I2
+sS'20 '
+p430
+I182
+sS'$20, '
+p431
+I12
+sS'twentieth '
+p432
+I2
+sS'me20, '
+p433
+I2
+sS'obvious '
+p434
+I2
+sS'fifteen '
+p435
+I2
+sS'$20 '
+p436
+I2
+sS'here '
+p437
+I2
+sS'8 '
+p438
+I8
+sS'20, '
+p439
+I54
+sS'? '
+p440
+I2
+stp441
+a((lp442
+S'verschwendeten'
+p443
+aS'Verschwendeten'
+p444
+a(dp445
+S'afford '
+p446
+I1
+stp447
+a((lp448
+S'riskieren'
+p449
+aS'Riskieren'
+p450
+a(dp451
+S'afford '
+p452
+I1
+sS'go '
+p453
+I1
+sS'chances '
+p454
+I8
+sS'risk '
+p455
+I138
+sS'jeopardize '
+p456
+I1
+sS'do '
+p457
+I1
+sS'take '
+p458
+I1
+sS'risking '
+p459
+I15
+sS'gamble '
+p460
+I1
+sS'don '
+p461
+I1
+sS'put '
+p462
+I1
+sS'risks '
+p463
+I2
+sS'chance '
+p464
+I9
+sS'risked '
+p465
+I1
+stp466
+a((lp467
+S'afford'
+p468
+aS'Afford'
+p469
+a(dp470
+S'afford '
+p471
+I1
+stp472
+a((lp473
+S'l\xc3\xa4nger'
+p474
+aS'L\xc3\xa4nger'
+p475
+a(dp476
+S'indefinitely '
+p477
+I1
+sS'while '
+p478
+I13
+sS'access '
+p479
+I1
+sS'andl '
+p480
+I1
+sS'anymore '
+p481
+I37
+sS'aways '
+p482
+I1
+sS'wanting '
+p483
+I2
+sS'lately '
+p484
+I2
+sS'grape '
+p485
+I1
+sS'extra '
+p486
+I8
+sS'slower '
+p487
+I1
+sS'dickhead '
+p488
+I1
+sS'been '
+p489
+I1
+sS'keep '
+p490
+I11
+sS'work '
+p491
+I1
+sS'be '
+p492
+I1
+sS'that '
+p493
+I2
+sS'36 '
+p494
+I1
+sS'away '
+p495
+I1
+sS'arrangements '
+p496
+I1
+sS'ionger '
+p497
+I2
+sS'late '
+p498
+I5
+sS'time '
+p499
+I4
+sS'atgo '
+p500
+I1
+sS'history '
+p501
+I1
+sS'overtime '
+p502
+I1
+sS'last '
+p503
+I2
+sS'stammering '
+p504
+I1
+sS'afford '
+p505
+I1
+sS'longer '
+p506
+I451
+sS'counting '
+p507
+I1
+sS'more '
+p508
+I66
+sS'please '
+p509
+I1
+sS'suspected '
+p510
+I1
+sS'long '
+p511
+I13
+sS'unsuited '
+p512
+I1
+sS'purity '
+p513
+I2
+sS'okay '
+p514
+I1
+sS'later '
+p515
+I3
+sS'overstay '
+p516
+I4
+sS'further '
+p517
+I4
+sS'tahked '
+p518
+I1
+sS'stand '
+p519
+I1
+sS'notthe '
+p520
+I2
+sS'to '
+p521
+I1
+sS'back '
+p522
+I2
+sS'onboard '
+p523
+I1
+stp524
+a((lp525
+S'gek\xc3\xbcsst'
+p526
+aS'Gek\xc3\xbcsst'
+p527
+a(dp528
+S'good '
+p529
+I3
+sS'country '
+p530
+I1
+sS'lips '
+p531
+I1
+sS'afford '
+p532
+I1
+sS'kissed '
+p533
+I126
+sS'kissing '
+p534
+I25
+sS'kiss '
+p535
+I21
+stp536
+a((lp537
+S'eriauben'
+p538
+aS'Eriauben'
+p539
+a(dp540
+tp541
+a((lp542
+S'entbehren'
+p543
+aS'Entbehren'
+p544
+a(dp545
+S'bear '
+p546
+I1
+sS'spare '
+p547
+I13
+sS'afford '
+p548
+I1
+stp549
+a((lp550
+S'betteln'
+p551
+aS'Betteln'
+p552
+a(dp553
+S'asking '
+p554
+I1
+sS'begging '
+p555
+I18
+sS'afford '
+p556
+I1
+sS'beg '
+p557
+I18
+sS'thisthe '
+p558
+I1
+stp559
+a.

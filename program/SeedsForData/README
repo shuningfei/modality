@@ -1,0 +1,11 @@
+
+goodSeed: (a) we have judged that they are all good
+AnnoSeed: (b) the ones for which we have to judge the correctness of samples
+		    xx_mengfei: I remove the instances I think incorrect, good instances remained
+		    xx_original: all instances
+		   (I don't manual check sollen-ep-supposed, they are too many, I'm confused and don't feel well to check them.)
+LeoSeed: data for Leo to do annotation. (except sollen-ep-supposed, other data is based the data, which I already removed the bad ones, so they should be not bad)
+
+There are two statistics files
+statGood.txt: modals and senses
+instances.txt: instances of every seed

@@ -1,0 +1,402 @@
+(lp0
+((lp1
+S'erreichen'
+p2
+aS'Erreichen'
+p3
+a(dp4
+S'track '
+p5
+I1
+sS'ahold '
+p6
+I8
+sS'access '
+p7
+I1
+sS'getting '
+p8
+I1
+sS'deliver '
+p9
+I1
+sS'see '
+p10
+I2
+sS'difference '
+p11
+I1
+sS'arrive '
+p12
+I5
+sS'jammed '
+p13
+I1
+sS'short '
+p14
+I1
+sS'communicate '
+p15
+I1
+sS'reception '
+p16
+I1
+sS'anywhere '
+p17
+I1
+sS'reaching '
+p18
+I2
+sS'brutal '
+p19
+I1
+sS'touch '
+p20
+I7
+sS'movie '
+p21
+I1
+sS'available '
+p22
+I2
+sS'do '
+p23
+I9
+sS'make '
+p24
+I2
+sS'hit '
+p25
+I2
+sS'call '
+p26
+I3
+sS'achieving '
+p27
+I2
+sS'contacting '
+p28
+I2
+sS'approaching '
+p29
+I9
+sS'unreachable '
+p30
+I1
+sS'excerpts '
+p31
+I1
+sS'reach '
+p32
+I166
+sS'cuff '
+p33
+I1
+sS'doing '
+p34
+I2
+sS'reach, '
+p35
+I1
+sS'achieve '
+p36
+I34
+sS'achieved '
+p37
+I1
+sS'raise '
+p38
+I1
+sS'this '
+p39
+I1
+sS'it '
+p40
+I1
+sS'succeed '
+p41
+I2
+sS'accomplished '
+p42
+I1
+sS'calling '
+p43
+I3
+sS'accomplish '
+p44
+I11
+sS'signal '
+p45
+I1
+sS'get '
+p46
+I43
+sS'texting '
+p47
+I1
+sS'enter '
+p48
+I1
+sS'catch '
+p49
+I2
+sS'reached '
+p50
+I2
+sS'reaches '
+p51
+I1
+sS'contact '
+p52
+I15
+sS'locate '
+p53
+I1
+sS'hold '
+p54
+I1
+stp55
+a((lp56
+S'erlangen'
+p57
+aS'Erlangen'
+p58
+a(dp59
+S'achieve '
+p60
+I5
+sS'receive '
+p61
+I2
+sS'obtain '
+p62
+I1
+sS'recovered '
+p63
+I1
+sS'regain '
+p64
+I2
+sS'gain '
+p65
+I8
+sS'to- '
+p66
+I1
+sS'remedy '
+p67
+I3
+sS'recover '
+p68
+I2
+stp69
+a((lp70
+S'erzielen'
+p71
+aS'Erzielen'
+p72
+a(dp73
+S'score '
+p74
+I1
+sS'achieve '
+p75
+I2
+sS'importand '
+p76
+I1
+sS'scoring '
+p77
+I1
+sS'obtain '
+p78
+I2
+stp79
+a((lp80
+S'bewirken'
+p81
+aS'Bewirken'
+p82
+a(dp83
+S'doing '
+p84
+I1
+sS'science '
+p85
+I1
+sS'achieve '
+p86
+I2
+sS'sputtering '
+p87
+I1
+sS'do '
+p88
+I3
+sS'different '
+p89
+I1
+sS'shield '
+p90
+I1
+sS'make '
+p91
+I2
+sS'off '
+p92
+I1
+sS'accuse '
+p93
+I1
+sS'difference '
+p94
+I6
+stp95
+a((lp96
+S'erlangt'
+p97
+aS'Erlangt'
+p98
+a(dp99
+S'achieve '
+p100
+I1
+sS'earned '
+p101
+I1
+sS'gains '
+p102
+I1
+sS'regained '
+p103
+I1
+sS'gained '
+p104
+I2
+sS'achieved '
+p105
+I1
+sS'redeem '
+p106
+I1
+stp107
+a((lp108
+S'erreiche'
+p109
+aS'Erreiche'
+p110
+a(dp111
+S'achieve '
+p112
+I1
+sS'ahold '
+p113
+I2
+sS'can '
+p114
+I1
+sS'michael '
+p115
+I2
+sS'do '
+p116
+I1
+sS'accomplish '
+p117
+I1
+sS'contact '
+p118
+I1
+sS'achieving '
+p119
+I2
+sS'hold '
+p120
+I3
+sS'reach '
+p121
+I2
+sS'cash '
+p122
+I1
+stp123
+a((lp124
+S'hersteiien'
+p125
+aS'Hersteiien'
+p126
+a(dp127
+tp128
+a((lp129
+S'zustande'
+p130
+aS'Zustande'
+p131
+a(dp132
+S'managed '
+p133
+I1
+sS'propose '
+p134
+I1
+sS'achieve '
+p135
+I1
+sS'pulled '
+p136
+I1
+sS'pull '
+p137
+I1
+sS'than '
+p138
+I2
+sS'through '
+p139
+I1
+sS'close '
+p140
+I1
+sS'succeed '
+p141
+I1
+stp142
+a((lp143
+S'vollenden'
+p144
+aS'Vollenden'
+p145
+a(dp146
+S'accomplish '
+p147
+I1
+sS'dregs '
+p148
+I2
+sS'finish '
+p149
+I4
+sS'achieve '
+p150
+I1
+sS'complete '
+p151
+I11
+stp152
+a((lp153
+S'bezwecken'
+p154
+aS'Bezwecken'
+p155
+a(dp156
+S'point '
+p157
+I2
+sS'accomplish '
+p158
+I1
+sS'achieve '
+p159
+I1
+stp160
+a.

@@ -1,0 +1,87 @@
+Solltest du die Zügel nicht langsam lockerer lassen ?	0	ep
+You think maybe it 's time to let him out of the tent ?	2
+
+Oder soll ich Dir einen runterholen ?	1	ep
+Or maybe I could give you a hand job . Would that put an end to all of this ?	1
+
+Oder soll ich dir einen Aperitif holen ?	1	ep
+Or maybe I can get you a drink ?	1
+
+Dann sollten Sie besser das Weite suchen .	1	ep
+Then maybe you 'd better move along .	1
+
+Nun sollte ich etwas versuchen , das ich nicht so gut kann .	1	ep
+I think maybe it 's time I try something I 'm not so good at , something different .	2
+
+Sollten wir das nicht lieber stoppen , bevor wir in Schwierigkeiten geraten ?	0	ep
+You think maybe we shouldn 't shut it down before we get into trouble ?	2
+
+Du solltest früh ins Bett gehen .	1	ep
+Early night tonight , maybe ?	4
+
+Wenn Sie nicht reiten können , sollten Sie besser dableiben .	6	ep
+If you can 't ride , maybe you 'd better stay here .	6
+
+Jetzt brauche ich neue Ideen auf meinem Schreibtisch bis Mitternacht , also sollten wir darüber nachdenken uns hier früh raus zu schleichen .	12	ep
+Now I need some new ideas on my desk by midnight , so maybe we 'll think about sneaking out of here early .	13
+
+Sollen wir etwas machen ?	0	ep
+But maybe you and I can do something .	1
+
+Nun , wenn das geklärt ist , sollten wir etwas anderes besprechen .	7	ep
+Well , if you 've made your mind up on that point , Um , maybe it 's time to consider other matters .	15
+
+Also sollten sie vielleicht nicht zu viel sagen .	1	ep
+So maybe it 's about what they don 't say .	1
+
+Sollten wir nicht erstmal mit jemandem sprechen ?	0	ep
+Listen , maybe we ought to tell somebody about this .	2
+
+Wenn sie Verstärkung schicken , sollten wir die Lage auskundschaften ... ... und diese Maschinengewehre lokalisieren .	5	ep
+If they send us reinforcements , maybe we could scout around and locate these machine guns .	6
+
+Wenn sie Verstärkung schicken , sollten wir die Lage auskundschaften ... ... und diese Maschinengewehre lokalisieren .	5	ep
+If they send us reinforcements , maybe we could scout around and Iocate these machine guns .	6
+
+Wenn der Fall abgeschlossen ist , sollten wir uns neue Partner suchen .	6	ep
+After we close this case , maybe we should look for different partners .	6
+
+Bei David als Bräutigam sollte er besser wilden Reis werfen .	4	ep
+With David the bridegroom , maybe he 'd better use wild rice .	5
+
+Anstatt zu streiten , sollten wir lieber versuchen hier wegzukommen .	4	ep
+Instead of arguing with each other ... maybe we should be trying to find a way out of this place .	7
+
+Also sollte die Frage vielleicht lauten , ist sie wirklich von Gott gesandt ?	1	ep
+So maybe the good question is , is she really sent by God ?	1
+
+Ich meine , wieso sollte ich erwarten , er würde mir genommen ?	4	ep
+But did you ever think that maybe the island just wants to fix things itself ?	6
+
+- Das sollten wir schnell herausfinden .	2	ep
+- I think maybe we 'd better find out fast .	3
+
+Also sollten wir gemeinsame Sache machen .	1	ep
+So maybe we can join together .	1
+
+- Dann sollte ich mal mit Ihnen shoppen . - Ja , das wäre fantastisch . Ich werde Sie anrufen .	2	ep
+Well maybe this will teach you to treat people with a little bit of respect !	1
+
+Mein Kleiner hat nichts mehr zu sagen , deshalb solltest du besser gehen .	9	ep
+My little friend is not in charge anymore , so maybe you should go .	10
+
+4 oder 5 Autos ... und 6 oder 7 schöne Fernseher , dann sollten sie besser woanders arbeiten , aber man lebt gut hier .	13	ep
+I think if you want to have two or three million- dollar homes and four or five nice cars and six or seven nice televisions , then maybe , yeah , you need to practice somewhere where you can earn that . But I think we live comfortably here .	27
+
+Die sollten Sie in die Rede einfügen .	1	ep
+I thought maybe you might want to incorporate them .	2
+
+Also sollten gemeinsame Sache machen .	1	ep
+So maybe we can join together .	1
+
+Was ich euch also fürs Erste vorschlagen wollte : Da Anwälte sehr teuer sind , sollten wir Geld sammeln , und wir sollten zum Gericht kommen und eine Aktion starten , um das Urteil zu beeinflussen .	22	ep
+To start with as lawyers cost a lot we could do a collection and maybe even go to court to try have some influence on the verdict	14
+
+Sie sollten dem Konsul die Einzelheiten meiner Aufgabe erläutern .	1	ep
+Agent Russ , maybe this is a good time ... to tell him the details of my assignment .	3
+

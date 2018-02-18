@@ -1,0 +1,1517 @@
+(lp0
+((lp1
+S'erschaffen'
+p2
+aS'Erschaffen'
+p3
+a(dp4
+S'recreate '
+p5
+I3
+sS'reinvent '
+p6
+I1
+sS'create '
+p7
+I75
+sS'possible '
+p8
+I1
+sS'built '
+p9
+I8
+sS'exists '
+p10
+I1
+sS'created '
+p11
+I81
+sS'dunk '
+p12
+I1
+sS'creates '
+p13
+I1
+sS'creating '
+p14
+I14
+sS'make '
+p15
+I7
+sS'made '
+p16
+I11
+sS'pilly '
+p17
+I1
+sS'fuels '
+p18
+I1
+sS'building '
+p19
+I1
+sS'trucked '
+p20
+I2
+sS'rebuild '
+p21
+I1
+sS'making '
+p22
+I1
+sS'designed '
+p23
+I2
+stp24
+a((lp25
+S'geschaffen'
+p26
+aS'Geschaffen'
+p27
+a(dp28
+S'create '
+p29
+I1
+sS'cut '
+p30
+I7
+sS'built '
+p31
+I4
+sS'work '
+p32
+I1
+sS'created '
+p33
+I50
+sS'meant '
+p34
+I1
+sS'overcome '
+p35
+I1
+sS'jenna '
+p36
+I1
+sS'digest '
+p37
+I1
+sS'made '
+p38
+I28
+sS'boyfriend '
+p39
+I1
+sS'j. '
+p40
+I1
+sS'added '
+p41
+I1
+sS'exist '
+p42
+I1
+sS'rehab '
+p43
+I1
+sS'unleashed '
+p44
+I1
+sS'perfect '
+p45
+I1
+sS'designed '
+p46
+I4
+sS'efforts '
+p47
+I1
+stp48
+a((lp49
+S'erschuf'
+p50
+aS'Erschuf'
+p51
+a(dp52
+S'created '
+p53
+I12
+sS'made '
+p54
+I3
+sS'built '
+p55
+I1
+sS'creating '
+p56
+I1
+sS'recreated '
+p57
+I1
+stp58
+a((lp59
+S'schuf'
+p60
+aS'Schuf'
+p61
+a(dp62
+S'created '
+p63
+I9
+sS'made '
+p64
+I1
+sS'established '
+p65
+I1
+sS'adopt '
+p66
+I1
+sS'creating '
+p67
+I3
+stp68
+a((lp69
+S'erzeugt'
+p70
+aS'Erzeugt'
+p71
+a(dp72
+S'does '
+p73
+I2
+sS'produces '
+p74
+I1
+sS'created '
+p75
+I7
+sS'creates '
+p76
+I5
+sS'generates '
+p77
+I5
+sS'creating '
+p78
+I2
+sS'generated '
+p79
+I12
+stp80
+a((lp81
+S'entwickelte'
+p82
+aS'Entwickelte'
+p83
+a(dp84
+S'invented '
+p85
+I1
+sS'sophisticated '
+p86
+I2
+sS'developed '
+p87
+I15
+sS'advanced '
+p88
+I1
+sS'developing '
+p89
+I1
+sS'grew '
+p90
+I1
+sS'created '
+p91
+I7
+sS'lynch '
+p92
+I1
+sS'turn '
+p93
+I1
+sS'evolved '
+p94
+I3
+stp95
+a((lp96
+S'kreiert'
+p97
+aS'Kreiert'
+p98
+a(dp99
+S'created '
+p100
+I5
+sS'designed '
+p101
+I1
+sS'twos '
+p102
+I1
+sS'engineered '
+p103
+I1
+stp104
+a((lp105
+S'erstellt'
+p106
+aS'Erstellt'
+p107
+a(dp108
+S'does '
+p109
+I2
+sS'manufactured '
+p110
+I2
+sS'create '
+p111
+I3
+sS'created '
+p112
+I3
+sS'issued '
+p113
+I1
+sS'wrote '
+p114
+I1
+sS'bird '
+p115
+I1
+sS'made '
+p116
+I1
+sS'builds '
+p117
+I2
+sS'draw '
+p118
+I1
+sS'compiled '
+p119
+I3
+stp120
+a((lp121
+S'erfunden'
+p122
+aS'Erfunden'
+p123
+a(dp124
+S'fictitious '
+p125
+I1
+sS'person '
+p126
+I1
+sS'attached '
+p127
+I1
+sS'created '
+p128
+I3
+sS'project '
+p129
+I1
+sS'invented '
+p130
+I101
+sS'story '
+p131
+I1
+sS'imagined '
+p132
+I1
+sS'spanish '
+p133
+I1
+sS'reinvented '
+p134
+I3
+sS'obnoxious '
+p135
+I1
+sS'compositions '
+p136
+I1
+sS'duffy '
+p137
+I1
+sS'up '
+p138
+I25
+sS'juuri '
+p139
+I1
+sS'makin '
+p140
+I1
+sS'invent '
+p141
+I11
+sS'cares '
+p142
+I1
+sS'lie '
+p143
+I1
+sS'fiction '
+p144
+I4
+sS'schrodinger '
+p145
+I1
+sS'inventing '
+p146
+I1
+sS'fictional '
+p147
+I2
+sS'creation '
+p148
+I1
+sS'made '
+p149
+I17
+sS'discovered '
+p150
+I1
+sS'fabricated '
+p151
+I2
+sS'phony '
+p152
+I2
+stp153
+a((lp154
+S'schufen'
+p155
+aS'Schufen'
+p156
+a(dp157
+S'created '
+p158
+I2
+sS'multiplied '
+p159
+I1
+stp160
+a((lp161
+S'gebaut'
+p162
+aS'Gebaut'
+p163
+a(dp164
+S'constructed '
+p165
+I2
+sS'up '
+p166
+I1
+sS'crushed '
+p167
+I1
+sS'built '
+p168
+I167
+sS'thanks '
+p169
+I1
+sS'packages '
+p170
+I1
+sS'poster '
+p171
+I1
+sS'screwin '
+p172
+I1
+sS'cock '
+p173
+I1
+sS'motion '
+p174
+I1
+sS'made '
+p175
+I28
+sS'building '
+p176
+I11
+sS'messed '
+p177
+I10
+sS'done '
+p178
+I2
+sS'build '
+p179
+I21
+sS'creaks '
+p180
+I1
+sS'making '
+p181
+I2
+sS'created '
+p182
+I2
+sS'mickey '
+p183
+I1
+sS'designed '
+p184
+I6
+sS'screwed '
+p185
+I9
+stp186
+a((lp187
+S'erschafft'
+p188
+aS'Erschafft'
+p189
+a(dp190
+S'create '
+p191
+I3
+sS'created '
+p192
+I2
+sS'creative '
+p193
+I1
+sS'brings '
+p194
+I2
+sS'creates '
+p195
+I6
+sS'creating '
+p196
+I4
+sS'makes '
+p197
+I2
+sS'mph '
+p198
+I1
+sS'evolves '
+p199
+I1
+sS'performs '
+p200
+I1
+sS'construct '
+p201
+I2
+stp202
+a((lp203
+S'erfanden'
+p204
+aS'Erfanden'
+p205
+a(dp206
+S'invented '
+p207
+I2
+sS'created '
+p208
+I2
+sS'made '
+p209
+I1
+stp210
+a((lp211
+S'gegr\xc3\xbcndet'
+p212
+aS'Gegr\xc3\xbcndet'
+p213
+a(dp214
+S'formed '
+p215
+I1
+sS'started '
+p216
+I10
+sS'major '
+p217
+I1
+sS'created '
+p218
+I1
+sS'failure '
+p219
+I1
+sS'raised '
+p220
+I1
+sS'founded '
+p221
+I23
+sS'established '
+p222
+I3
+sS'birthplace '
+p223
+I1
+sS'based '
+p224
+I2
+stp225
+a((lp226
+S'verursachte'
+p227
+aS'Verursachte'
+p228
+a(dp229
+S'created '
+p230
+I1
+sS'caused '
+p231
+I8
+stp232
+a((lp233
+S'kreierten'
+p234
+aS'Kreierten'
+p235
+a(dp236
+S'created '
+p237
+I1
+sS'designed '
+p238
+I1
+stp239
+a((lp240
+S'entworfen'
+p241
+aS'Entworfen'
+p242
+a(dp243
+S'created '
+p244
+I1
+sS'design '
+p245
+I5
+sS'designed '
+p246
+I46
+sS'built '
+p247
+I1
+sS'suggestion '
+p248
+I1
+stp249
+a((lp250
+S'fechtete'
+p251
+aS'Fechtete'
+p252
+a(dp253
+S'created '
+p254
+I1
+sS'challenging '
+p255
+I1
+stp256
+a((lp257
+S'verursacht'
+p258
+aS'Verursacht'
+p259
+a(dp260
+S'doing '
+p261
+I2
+sS'makes '
+p262
+I1
+sS'clue '
+p263
+I1
+sS'thing, '
+p264
+I1
+sS'created '
+p265
+I1
+sS'caused '
+p266
+I94
+sS'registered '
+p267
+I1
+sS'cause '
+p268
+I10
+sS'causes '
+p269
+I26
+sS'creates '
+p270
+I3
+sS"'cause "
+p271
+I1
+sS'causing '
+p272
+I20
+sS'done '
+p273
+I3
+sS'dwight '
+p274
+I1
+sS'theatrics '
+p275
+I1
+sS'terrorist '
+p276
+I1
+sS'company '
+p277
+I1
+sS'begets '
+p278
+I1
+sS'made '
+p279
+I1
+stp280
+a((lp281
+S'wurde'
+p282
+aS'Wurde'
+p283
+a(dp284
+S'felt '
+p285
+I3
+sS'weren '
+p286
+I2
+sS'kept '
+p287
+I1
+sS'being '
+p288
+I7
+sS'created '
+p289
+I1
+sS'am '
+p290
+I5
+sS'got '
+p291
+I455
+sS'her '
+p292
+I2
+sS'has '
+p293
+I150
+sS'would '
+p294
+I15
+sS"'d "
+p295
+I5
+sS'have '
+p296
+I6
+sS'left '
+p297
+I1
+sS'become '
+p298
+I21
+sS'yur '
+p299
+I1
+sS'caught '
+p300
+I1
+sS'did '
+p301
+I50
+sS', '
+p302
+I9
+sS'didn '
+p303
+I23
+sS'gotten '
+p304
+I3
+sS"'m "
+p305
+I8
+sS'hit '
+p306
+I4
+sS'wouldn '
+p307
+I1
+sS'worked '
+p308
+I1
+sS'became '
+p309
+I168
+sS'turned '
+p310
+I22
+sS'is '
+p311
+I30
+sS'were '
+p312
+I67
+sS"'sh "
+p313
+I1
+sS'took '
+p314
+I5
+sS'returns '
+p315
+I1
+sS'a '
+p316
+I1
+sS'dui '
+p317
+I1
+sS'isn '
+p318
+I1
+sS'came '
+p319
+I15
+sS'happened '
+p320
+I13
+sS'made '
+p321
+I19
+sS'taken '
+p322
+I4
+sS'received '
+p323
+I1
+sS'about '
+p324
+I4
+sS'just '
+p325
+I1
+sS'gets '
+p326
+I1
+sS'was '
+p327
+I2336
+sS'been '
+p328
+I410
+sS'wasn '
+p329
+I53
+sS'when '
+p330
+I1
+sS'went '
+p331
+I40
+sS'fell '
+p332
+I2
+sS'grew '
+p333
+I6
+sS'... '
+p334
+I1
+sS'- '
+p335
+I1
+sS'clearly '
+p336
+I1
+sS'get '
+p337
+I2
+sS'had '
+p338
+I19
+sS'changed '
+p339
+I1
+sS'serum '
+p340
+I1
+sS'becoming '
+p341
+I1
+sS"'s "
+p342
+I51
+sS'they '
+p343
+I22
+sS'struck '
+p344
+I1
+sS'killed '
+p345
+I1
+sS'hasn '
+p346
+I11
+sS'who '
+p347
+I1
+sS'moved '
+p348
+I1
+stp349
+a((lp350
+S'gebildet'
+p351
+aS'Gebildet'
+p352
+a(dp353
+S'formed '
+p354
+I5
+sS'playing '
+p355
+I1
+sS'lara '
+p356
+I1
+sS'educated '
+p357
+I7
+sS'made '
+p358
+I2
+sS'created '
+p359
+I1
+sS'education '
+p360
+I2
+sS'uneducated '
+p361
+I1
+sS'??????? '
+p362
+I1
+stp363
+a((lp364
+S'entstehung'
+p365
+aS'Entstehung'
+p366
+a(dp367
+S'creation '
+p368
+I1
+sS'created '
+p369
+I1
+sS'beginning '
+p370
+I1
+sS'origin '
+p371
+I2
+stp372
+a((lp373
+S'gab'
+p374
+aS'Gab'
+p375
+a(dp376
+S'ided '
+p377
+I1
+sS'weren '
+p378
+I12
+sS'ahold '
+p379
+I2
+sS'fed '
+p380
+I1
+sS'created '
+p381
+I1
+sS'there '
+p382
+I7
+sS'got '
+p383
+I14
+sS'sent '
+p384
+I2
+sS'has '
+p385
+I5
+sS'at '
+p386
+I1
+sS"'d "
+p387
+I2
+sS'given '
+p388
+I17
+sS'left '
+p389
+I4
+sS'shouldn '
+p390
+I1
+sS'admitted '
+p391
+I1
+sS'lost '
+p392
+I1
+sS'caved '
+p393
+I2
+sS'dropped '
+p394
+I1
+sS'did '
+p395
+I30
+sS', '
+p396
+I5
+sS'began '
+p397
+I1
+sS'didn '
+p398
+I12
+sS'could '
+p399
+I4
+sS'since '
+p400
+I1
+sS'brought '
+p401
+I1
+sS'gives '
+p402
+I1
+sS'seen '
+p403
+I1
+sS'occurred '
+p404
+I3
+sS'spent '
+p405
+I5
+sS'passed '
+p406
+I4
+sS'saw '
+p407
+I2
+sS'handed '
+p408
+I8
+sS'were '
+p409
+I165
+sS'posed '
+p410
+I1
+sS'gab '
+p411
+I1
+sS'pretended '
+p412
+I4
+sS'issued '
+p413
+I1
+sS'happened '
+p414
+I3
+sS'couldn '
+p415
+I1
+sS'announced '
+p416
+I1
+sS'made '
+p417
+I12
+sS'delivered '
+p418
+I1
+sS'black '
+p419
+I1
+sS'gave '
+p420
+I409
+sS'succeeded '
+p421
+I1
+sS'was '
+p422
+I566
+sS'existed '
+p423
+I2
+sS'been '
+p424
+I74
+sS'wasn '
+p425
+I40
+sS'went '
+p426
+I3
+sS'hands '
+p427
+I3
+sS'... '
+p428
+I1
+sS'surrendered '
+p429
+I5
+sS'helped '
+p430
+I1
+sS'had '
+p431
+I55
+sS'yeah '
+p432
+I1
+sS'slipped '
+p433
+I1
+sS'give '
+p434
+I7
+sS'known '
+p435
+I1
+sS'offered '
+p436
+I1
+sS"'s "
+p437
+I29
+sS'have '
+p438
+I3
+sS'put '
+p439
+I1
+sS'blamed '
+p440
+I3
+sS'hasn '
+p441
+I1
+sS'told '
+p442
+I1
+sS'took '
+p443
+I1
+sS'any '
+p444
+I1
+stp445
+a((lp446
+S'angerichtet'
+p447
+aS'Angerichtet'
+p448
+a(dp449
+S'slowwith '
+p450
+I1
+sS'committed '
+p451
+I1
+sS'did '
+p452
+I3
+sS'damage '
+p453
+I2
+sS'created '
+p454
+I1
+sS'goofed '
+p455
+I1
+sS'now '
+p456
+I1
+sS'made '
+p457
+I2
+sS'done, '
+p458
+I1
+sS'anycolor '
+p459
+I1
+sS'done '
+p460
+I22
+sS'late '
+p461
+I1
+sS'served '
+p462
+I4
+sS'ramifications '
+p463
+I1
+stp464
+a((lp465
+S'entstehen'
+p466
+aS'Entstehen'
+p467
+a(dp468
+S'created '
+p469
+I1
+sS'come '
+p470
+I4
+sS'overexposure '
+p471
+I1
+sS'becoming '
+p472
+I1
+sS'medicated '
+p473
+I1
+sS'grow '
+p474
+I2
+sS'unfold '
+p475
+I1
+sS'produce '
+p476
+I1
+stp477
+a((lp478
+S'erfindest'
+p479
+aS'Erfindest'
+p480
+a(dp481
+S'created '
+p482
+I1
+sS'd0n '
+p483
+I1
+sS'alcohol '
+p484
+I1
+sS'lnventing '
+p485
+I1
+sS'making '
+p486
+I5
+sS'mm '
+p487
+I1
+stp488
+a((lp489
+S'hergestellt'
+p490
+aS'Hergestellt'
+p491
+a(dp492
+S'manufactured '
+p493
+I10
+sS'created '
+p494
+I1
+sS'restored '
+p495
+I8
+sS'smell '
+p496
+I1
+sS'make '
+p497
+I2
+sS'made '
+p498
+I23
+sS'health '
+p499
+I1
+sS'established '
+p500
+I2
+sS'reinstated '
+p501
+I1
+sS'remain '
+p502
+I1
+sS'designed '
+p503
+I1
+sS'rebuilt '
+p504
+I1
+stp505
+a((lp506
+S'gerufen'
+p507
+aS'Gerufen'
+p508
+a(dp509
+S'hollering '
+p510
+I1
+sS'yelled '
+p511
+I2
+sS'shout '
+p512
+I1
+sS'shouted '
+p513
+I2
+sS'sent '
+p514
+I1
+sS'created '
+p515
+I1
+sS'effort '
+p516
+I1
+sS'crying '
+p517
+I1
+sS'song '
+p518
+I1
+sS'convenient '
+p519
+I1
+sS'cried '
+p520
+I2
+sS'calling '
+p521
+I7
+sS'summoned '
+p522
+I6
+sS'told '
+p523
+I1
+sS'call '
+p524
+I32
+sS'called '
+p525
+I105
+sS'cue '
+p526
+I1
+sS'llamaste '
+p527
+I1
+sS'calls '
+p528
+I1
+sS'hear '
+p529
+I1
+stp530
+a((lp531
+S'erstellte'
+p532
+aS'Erstellte'
+p533
+a(dp534
+S'created '
+p535
+I1
+stp536
+a((lp537
+S'gr\xc3\xbcndeten'
+p538
+aS'Gr\xc3\xbcndeten'
+p539
+a(dp540
+S'created '
+p541
+I1
+sS'estabilished '
+p542
+I1
+sS'founded '
+p543
+I3
+sS'started '
+p544
+I1
+stp545
+a((lp546
+S'verbringen'
+p547
+aS'Verbringen'
+p548
+a(dp549
+S'stay '
+p550
+I4
+sS'me '
+p551
+I1
+sS'live '
+p552
+I5
+sS'created '
+p553
+I1
+sS'wile '
+p554
+I1
+sS'pitching '
+p555
+I1
+sS'spare '
+p556
+I1
+sS'hanging '
+p557
+I3
+sS'beings '
+p558
+I3
+sS'waste '
+p559
+I1
+sS'spent '
+p560
+I3
+sS'urgent '
+p561
+I1
+sS'cry '
+p562
+I1
+sS'really '
+p563
+I1
+sS'quality '
+p564
+I2
+sS'some '
+p565
+I1
+sS'chuckles '
+p566
+I1
+sS'downhere '
+p567
+I1
+sS'cheap '
+p568
+I1
+sS'spending '
+p569
+I45
+sS'apartfor '
+p570
+I1
+sS'spend '
+p571
+I248
+sS'horrible '
+p572
+I1
+sS'sleep '
+p573
+I2
+sS'throughout '
+p574
+I1
+sS'pass '
+p575
+I2
+sS'on- '
+p576
+I1
+sS'hang '
+p577
+I2
+sS'max '
+p578
+I1
+sS'share '
+p579
+I3
+sS'loveto '
+p580
+I1
+stp581
+a((lp582
+S'computerlabor'
+p583
+aS'Computerlabor'
+p584
+a(dp585
+S'created '
+p586
+I1
+stp587
+a((lp588
+S'gef\xc3\xa4lltmir'
+p589
+aS'Gef\xc3\xa4lltmir'
+p590
+a(dp591
+S'created '
+p592
+I1
+stp593
+a.

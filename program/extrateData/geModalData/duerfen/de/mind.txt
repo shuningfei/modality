@@ -1,0 +1,846 @@
+- Darf ich mich zu dir setzen ?	1	de
+- You mind if I join you here ?	2
+
+- Darf ich ihn mal knuddeln ?	1	de
+- You mind if I have a cuddle ?	2
+
+Darf ich mich setzen ?	0	de
+Do you mind my sitting here ?	2
+
+Darf ich Sie was fragen ?	0	de
+You mind if I ask you a question , Agent Hanratty ?	1
+
+Darf ich Onkel Verne zu dir sagen ?	0	de
+You mind if i call you Uncle Verne ?	1
+
+Wenn ich mich so ausdrücken darf , Sir , vieIIeicht sogar mehr .	5	de
+If you don 't mind my saying so . . . . . . perhaps . . . . . . a bit more .	4
+
+Darf ich fragen , wer diese manchen Leute waren ?	0	de
+Do you mind if I ask who these " some people " were ?	2
+
+Darf ich probieren ?	0	de
+Do you mind if I take a sip ?	2
+
+Ich darf dich doch " Bob " nennen , oder ?	1	de
+You don 't mind if I call you " Bob , " do you ?	3
+
+Ich darf Sie doch Ted nennen statt Edward ?	1	de
+You don 't mind if I call you Ted , as opposed to Edward ?	3
+
+- Hey , darf ich mir das mal ansehen ?	3	de
+- Hey , do you mind if I get in there ?	5
+
+Ich darf das für die Beweisführung mitnehmen ?	1	de
+You won 't mind if I take this for ballistics ?	3
+
+- Dürfte ich Ihnen ein Foto zeigen ?	1	de
+- Do you mind if I show you a photo ?	3
+
+Wenn ich Sie jetzt bitten dürfte ...	5	de
+Now , if you wouldn 't mind ...	6
+
+Darf ich da maI kurz reinschauen ?	0	de
+You mind if I take a look ?	1
+
+Wenn ich das sagen darf , ich finde , du solltest dir einen Job suchen .	4	de
+If you don 't mind my saying , I think you should get a job .	4
+
+- Dürfte ich 's mal versuchen ? - Ach .	1	de
+Do you mind me trying ?	2
+
+Wie heissen Sie , wenn ich fragen darf ? Max .	7	de
+- What 's your name , if you don 't mind me asking ?	10
+
+Darf ich mich näher zu Ihnen setzen ?	0	de
+Would you mind if I sat a little bit closer ?	2
+
+Wenn ich das sagen darf , Albert , er steht weit über dir .	4	de
+If you don 't mind my saying so , Albert , he 's got it all over you .	4
+
+Dürfte ich einen Blick auf den Inhalt Ihrer Tasche werfen ?	0	de
+Sir , would you mind letting me have a look at the contents of your bag ?	4
+
+Darf ich hier einziehen ?	0	de
+Would you mind if I move here ?	2
+
+Und obwohl ich gerne gekommen bin - darf ich dir ein Telefon installieren lassen ?	7	de
+And much as I enjoyed coming here to see you , would you mind terribly if I got you a telephone ?	13
+
+Krönung , wenn ich das so sagen darf .	7	de
+High point , if you don 't mind me saying .	7
+
+Darf ich da maI kurz reinschauen ?	0	de
+You mind if I take a Iook ?	1
+
+Hören Sie , darf ich die mitnehmen ?	3	de
+Look , do you mind if I take this with me ?	4
+
+- Dürfen wir mit ihm spielen ?	1	de
+- Do you mind us playing with your dog ?	3
+
+Ich darf dich doch so nennen , was , Fartface ?	1	de
+You don 't mind me calling you that , now , do you , Fartface ?	3
+
+Darf ich Ihnen die Hand geben ?	0	de
+Do you mind shaking hands ?	2
+
+Dürfte ich ab und zu vorbeischauen ?	0	de
+Would you mind if , time to time , I stopped by and said hello ?	2
+
+- Darf ich bitten ?	1	de
+Do you mind ?	2
+
+Darf ich schon anfangen ?	0	de
+You mind if I get started ?	1
+
+Wenn ich das sagen darf !	4	de
+If you don 't mind my saying so .	4
+
+Wenn ich das fragen darf ... Was sind Sie ?	4	de
+If you don 't mind my asking ... what are you ?	4
+
+Wenn ich das fragen darf .	4	de
+If you don 't mind me asking .	4
+
+Wovon leben Sie , wenn ich fragen darf ?	7	de
+How do you manage your daily expenses ? If you don 't mind telling us .	12
+
+- Und wir dürfen einfach zusehen ?	3	de
+- Would they mind if we watched ?	3
+
+Und es ist auch bald Mittag , wenn ich Sie dran erinnern darf .	12	de
+And it is also near midday , if you don 't mind my reminding you .	11
+
+- Darf ich deinen Pool benutzen ?	1	de
+- Do you mind if I use your pool ?	3
+
+Darf ich --	0	de
+Do you mind if I ... ?	2
+
+- Darf ich ?	1	de
+- You mind ? - No .	2
+
+Darf ich Ihnen noch Fragen stellen ?	0	de
+Fiona , would you mind if I asked you a few more questions ?	4
+
+Darf ich dir eine Frage stellen ?	0	de
+Would you mind if I ask you a question , brother ?	2
+
+- Darf ich sie mal halten .	1	de
+- Do you mind giving it to me ?	3
+
+Darf ich , Leutnant ?	0	de
+Do you mind , Lieutenant ?	2
+
+- Dürfen wir denn ?	1	de
+- You don 't mind if we do ?	4
+
+Darf ich ?	0	de
+Oh , do you mind ?	4
+
+Dabei dürfen wir aber nicht vergessen , daß wir in Zukunft gut mit dem Rat zusammenarbeiten müssen .	1	de
+We have to bear in mind , however , that we will need to cooperate extremely closely with the Council in the future .	5
+
+- Darf ich die Privatsphäre einschalten ?	1	de
+- Do you mind if I invoke privacy ?	3
+
+- Darf ich ?	1	de
+- If you don 't mind ?	5
+
+Dürfte ich dich zum Test mal schlagen ?	0	de
+Would you mind if I give you two fists ?	2
+
+- Darf ich ?	1	de
+- You don 't mind ?	4
+
+- Darf ich mal die Toilette benutzen ?	1	de
+- Do you mind if I use the loo ?	3
+
+Dürfte ich Ihnen noch ein bisschen zuhören ?	0	de
+You mind if I stay and listen for a little while ?	1
+
+Also , wenn ich fragen darf ...	5	de
+So , if you don 't mind my asking ...	6
+
+- Darf ich ?	1	de
+- Do you mind ?	3
+
+Darf ich mir die Hände wärmen ?	0	de
+Do you mind if I warm my hands ?	2
+
+- Dürfte ich die hier ausleihen ?	1	de
+Do you mind if I borrow these ?	2
+
+Na , darf ich mal durch ?	2	de
+Do you mind ? - You didn 't finish your dinner .	2
+
+Ich trinke weiter mein Bier aus dem Weinglas , wenn ich darf .	11	de
+I 'll just have my beer out of your wine glass , if you don 't mind .	16
+
+Darf ich Ihnen erklären , was Ihnen da bevorsteht ?	0	de
+Look , do you mind ... ... if I give you a rough idea what you 're up against ?	4
+
+- Darf ich ?	1	de
+Do you mind ?	2
+
+Darf ich reinkommen ?	0	de
+Do you mind if I come in ?	2
+
+Wenn ich das sagen darf ... es hat wenig Sinn , das Krankenhaus zu verlassen ... und dann hier rumzusitzen wie Niobe , ehe sie zu Stein verwandelt wurde .	4	de
+If you don 't mind my saying so ... ... there seems little point in leaving the hospital ... ... and then coming to sit here like Niobe prior to being turned into stone .	4
+
+Darf ich mich zurückziehen und etwas schlafen ?	0	de
+I would not mind going to sleep for a couple of hours	3
+
+Darf ich bitte einen Satz zu Ende bringen ?	0	de
+Do you mind if I get one little sentence out here ?	2
+
+Darf ich mich setzen ?	0	de
+You don 't mind if I sit down ?	3
+
+- Darf ich ?	1	de
+- Do you mind if I poke holes ?	3
+
+Darf ich mal sehen ?	0	de
+Do you mind if I take a look at it ?	2
+
+Wie heißen Sie , wenn ich fragen darf ?	7	de
+What 's your name , if you don 't mind me asking ?	9
+
+Darf ich Sie etwas fragen ?	0	de
+Do you mind if I ask you a question ?	2
+
+Aber ich möchte erst mal lhre Kenntnisse prüfen , wenn ich darf .	11	de
+But first of all , I 'd just like to test your expertise , if you don 't mind .	18
+
+Hey , hey , hey , darf ich ?	6	de
+Hey , hey , hey , you mind ?	7
+
+Da dieses Zimmer nicht mehr das Ihre ist , darf ich es benutzen ?	9	de
+Since this room is no longer yours , do you mind if I utilize it ?	10
+
+Darf ich meinen Arm um dich Iegen ?	0	de
+Do you mind if I put my arm around you ?	2
+
+Dürfte ich mir wohl ihren Computer kurz ausleihen ?	0	de
+I say , look , would you mind if I borrowed your computer console ? - What ?	7
+
+Sie dürfen .	1	de
+I wouldn 't mind .	3
+
+Darf ich mich mal umsehen ?	0	de
+You mind if I look the place over before I go back ?	1
+
+Darf ich meinen Arm um dich legen ?	0	de
+Do you mind if I put my arm around you ?	2
+
+Dürfte ich einen Blick auf den Inhalt lhrer Tasche werfen ?	0	de
+Sir , would you mind letting me have a look at the contents of your bag ?	4
+
+Darf ich Ihre Taschen überprüfen ?	0	de
+Would you mind if I check your pockets ?	2
+
+Darf ich dich auf etwas aufmerksam machen ?	0	de
+Do you mind if I raise a little caution flag ?	2
+
+Ich weiß , dass es komisch klingt , aber dürfte ich hineingehen ?	9	de
+Look , I know this is weird , but do you mind if I go inside ?	11
+
+Darf ich mich an deinem Feuer wärmen ?	0	de
+Do you mind if I share your fire ?	2
+
+- Darf ich mich kurz beraten ?	1	de
+- Do you mind if I have a moment ?	3
+
+- Darf ich mal ?	1	de
+Do you mind ?	2
+
+Darf ich mich setzen ?	0	de
+Do you mind if i sit down ?	2
+
+Darf ich fragen , worum es hier eigentlich geht ?	0	de
+I 'm sorry , Detective , do you mind telling me what this is about ?	8
+
+Darf ich mich zu Ihnen setzen ?	0	de
+Do you mind if I sit down ?	2
+
+Darf ich die behalten ?	0	de
+Do you mind if I take this ? .	2
+
+Dürften wir lhnen ein paar Fragen stellen ?	0	de
+Do you mind if we ask you a few questions ?	2
+
+Dürfen wir mitkommen , Sir ?	0	de
+- You mind if we tag along , sir ?	2
+
+Dürfte ich mal meine emails checken ?	0	de
+You mind if I check my e- mail ?	1
+
+Das darf nicht vergessen werden .	1	de
+It is important to bear that in mind .	7
+
+- Dürfte ich mal reinschauen ?	1	de
+Would you mind if I take a quick look inside ?	2
+
+Also , darf ich mit euch spielen ?	2	de
+Well , do you mind if I join you ?	4
+
+Darf es Leitungswasser sein ?	0	de
+You don 't mind tap water , do you ?	3
+
+- Dürfte ich fragen , wo Sie es herhaben ?	1	de
+Do you mind if I ask you where you got it ?	2
+
+Hi , Nancy . Ich bin Dr. Sloan . Darf ich einen Blick darauf werden ?	9	de
+Hi, nancy . I 'm dr . Sloan . You mind if I take a look ?	10
+
+Ich darf ihn mir doch ausleihen ?	1	de
+You don 't mind me borrowing it , do you ?	3
+
+- Dürfte ich lhnen eine Frage stellen ? Würden Sie uns sagen , was sich in den Säcken befindet ?	1	de
+If you don\u2019 t mind me asking you , Mr Bishop , what exactly is in those tan duffel bags ?	4
+
+Was machen Sie beruflich , wenn ich fragen darf ?	8	de
+Where do you work , Miss , if you don 't mind me asking ?	11
+
+Darf ich das Telefon benutzen ?	0	de
+Do you mind if I use the phone ?	2
+
+Hey ! Darf ich mir Ihr Spielzeug borgen ?	2	de
+Hey , you mind if I borrow some of your toys ?	3
+
+Darf ich ein Foto machen ?	0	de
+Would you mind if I took your picture ? Everyone together ?	2
+
+Darf ich mich setzen ?	0	de
+Do you mind if I sit down ?	2
+
+- Darf ich mich erst mal erholen ?	1	de
+- Do you mind if I heal first ?	3
+
+Ich darf doch Jack sagen ?	1	de
+You don 't mind if I call you Jack ?	3
+
+- Darf ich ihn streicheln ?	1	de
+- Do you mind if I pet him ?	3
+
+Ich darf Sie Edward nennen ?	1	de
+- Edward ... - You don 't mind if I call you Edward ?	7
+
+- Darf ich sie alleine sprechen ?	1	de
+- Do you mind if I see them alone ?	3
+
+- Dürfte ich eine Runde schwimmen ?	1	de
+- Think they 'd mind if I swim ?	4
+
+Dabei dürfen wir nicht aus den Augen verlieren , dass knapp 14 Mio. Menschen von den Überschwemmungen in Pakistan betroffen waren , das sind fast biblische Ausmaße .	1	de
+We should bear in mind that almost 14 million people suffered from the flooding in Pakistan , which was of truly biblical dimensions .	4
+
+Darf ich mich setzen ?	0	de
+You mind if I have a seat ?	1
+
+- Darf ich mit den Spielsachen spielen ?	1	de
+- Do you mind if I play with your toys ?	3
+
+Chief , darf ich Sie fragen , wann fange ich mit meinem grossen Fall an ?	2	de
+- Get a big smile ! Chief , if you don 't mind my asking , when do I get started on my big case ?	12
+
+Darf ich ?	0	de
+You mind ?	1
+
+- Dürfte ich Ihnen ein Foto zeigen ?	1	de
+How ? Do you mind if I show you a photo ?	4
+
+Dürfen Sie .	0	de
+No , I don 't mind .	5
+
+- Dürfte ich wohl einen Drink haben ?	1	de
+- Would you mind if I had a drink ?	3
+
+Wohin wir auch kamen , in Großbritannien , in den Niederlanden schlug uns ein überwältigendes Interesse entgegen , und das dürfte auch dem Europäischen Parlament selbst zugute gekommen sein .	20	de
+Wherever we went , in the United Kingdom or in the Netherlands , the interest was overwhelming , and to my mind it benefited the European Parliament itself .	21
+
+Darf ich ... ?	0	de
+Do you mind ?	2
+
+Was arbeiten Sie denn , wenn ich fragen darf ?	8	de
+What kind of work do you do , Barton , if you don 't mind my asking ?	14
+
+Darf ich mal ?	0	de
+You mind ?	1
+
+Sie enttäuschen mich , wenn ich das sagen darf .	8	de
+You disappoint me , if you don 't mind my saying so .	8
+
+Darf ich auch mal ?	0	de
+You mind if I take a look ?	1
+
+Und , äh , warum ziehen Sie weg , wenn ich fragen darf ? - Na ja , das bleibt aber unter uns ... - Ja ?	12	de
+And why the move , if you don 't mind me asking ? \u2013 Well , just between you and I \u2026 \u2013 Yes ? \u2013 You know that fella who blew up ? \u2013 George Merchant .	9
+
+Darf ich mal das Bad benutzen ?	0	de
+Do you mind if I use the bathroom ?	2
+
+Darf ich Sie etwas fragen ?	0	de
+Do you mind if I ask a few questions ?	2
+
+Hoeren Sie .. .. wenn ich fragen darf -- Was ist passiert ?	7	de
+Look ... ... if you don 't mind me ... if you don 't mind me asking you , what happened ?	14
+
+Darf ich die Suite jemand anderem zeigen ?	0	de
+Since the suite will be vacant , do you mind if show it ?	9
+
+Sie Heuchlerin ! Wissen darf ich davon , aber nicht darüber sprechen .	4	de
+You don 't mind my knowing about them , just my talking about them .	3
+
+Darf ich vorher noch Blutpinkeln ?	0	de
+OK . Do you mind if I piss a little blood first ?	4
+
+Dürfte ich mir einen Bleistift holen ?	0	de
+Do you mind if I take the time to go get a pencil ?	2
+
+Wenn ich euch nun bitten dürfte , ich hab zu tun .	5	de
+Now , do you mind , I 'm busy .	4
+
+Aber bei dem Klima sollte er schnell unter die Erde kommen . Wenn ich das sagen darf !	16	de
+What I mean to say is , what with the climate , the quicker we get him buried the better ... if you don 't mind my saying so .	25
+
+Darf ich den Stuhl nehmen ?	0	de
+Yes , I mind . Sorry .	3
+
+Darf ich sie sehen ?	0	de
+Do you mind if I see them ?	2
+
+Ein schönes Zimmer , darf ich es fotografieren ?	4	de
+Nice room . Do you mind if I take a picture since he isn 't here ? - I don 't want to disturb your uncle .	5
+
+Das darf man gerne .	1	de
+I wouldn 't mind .	3
+
+Darf ich mir ein paar Notizen machen ?	0	de
+You don 't mind if I just take a few notes , do you ?	3
+
+Darf ich 's mal mit der probieren ?	0	de
+You mind if I try that one ?	1
+
+Dürfen wir tanzen , auch wenn Tante Charlotte nicht will ?	0	de
+You don 't mind if we dance even though Aunt Charlotte does ?	3
+
+Dürfte ich vielleicht mal kurz lhre Toilette benutzen ?	0	de
+Hey . you mind if I use your restroom real fast ?	3
+
+Dürfen wir Ihnen ein paar Fragen stellen , Vater ? - Ja .	0	de
+Would you mind us asking you a few questions , Father ?	2
+
+Darf ich Ihnen was zeigen , Doktor ?	0	de
+Do you mind if I show you something , Doctor ?	2
+
+Mrs. Gagin , darf Danielle einen Kaffee mit mir trinken ?	3	de
+Mrs. Gagin , do you mind if Danielle joins me for a coffee break ?	5
+
+Wir dürfen die EU-Erweiterung nicht vergessen .	1	de
+We have to bear in mind such matters as EU enlargement .	5
+
+Dürfte ich mir einen Bleistift holen ?	0	de
+Do you mind if I take the time to go and get a pencil ?	2
+
+Darf ich mir das borgen ?	0	de
+Do you mind if I borrow this ?	2
+
+Darf ich meine Hand in lhre Tasche stecken ?	0	de
+Would you mind if I put my hand in your pocket ?	2
+
+- Dürfte ich Sie was fragen ? - Selbstverständlich .	1	de
+- You mind if I ask you something ?	2
+
+Dürfte ich ?	0	de
+Do you mind ? !	2
+
+Wenn ich das fragen darf .	4	de
+What you do for living , you don 't mind me asking .	9
+
+Dürfte ich Sie um einen Botengang zu meinem Büro bitten ?	0	de
+You mind if I send you on an errand ? I need you to go to my office .	1
+
+Ich bin weiß Gott kein Snob , aber es dürfte Sie interessieren ... dass ich einmal zwei Ex- Könige beim Lunch zu Gast hatte .	9	de
+Heavens knows I 'm not a snob , but just as a matter of interest ... ... I don 't mind telling you that on one occasion I had two ex- kings to lunch .	20
+
+Wovon leben Sie , wenn ich fragen darf ?	7	de
+How do you manage your daily expenses ? lf you don 't mind telling us .	12
+
+Darf ich meine Hand in Ihre Tasche stecken ?	0	de
+Would you mind if I put my hand in your pocket ?	2
+
+Darf ich ?	0	de
+Do you mind ? .	2
+
+Entschuldigung , dürfte ich mal kurz was essen ?	2	de
+Do you mind ? I 'm tryin ' to have a little lunch .	2
+
+Darf ich mich mal umsehen ?	0	de
+You mind if I have a peek around ?	1
+
+Offensichtlich , Und darf ich fragen warum ?	3	de
+- Obviously . Do you mind if I ask why ?	5
+
+Darf ich Wasser kochen für meine Pasta ?	0	de
+Would you mind if I boiled water for my pasta ?	2
+
+Mr DeMille , darf ich ein paar Worte sagen ?	3	de
+Mr DeMille , do you mind if I say a few words ?	5
+
+Darf ich mich setzten ?	0	de
+Do you mind if I sit down ?	2
+
+Dürfte ich mir Rachel kurz ausleihen ?	0	de
+You mind if I borrow Rachel ?	1
+
+- Darf ich bitte ... ?	1	de
+- Do you mind if I ... ?	3
+
+Wenn ich darf , fliege ich Ausweichmanöver .	2	de
+If you don 't mind , I 'm going to take evasive action .	4
+
+Und wenn ich Ihnen das sagen darf , Sie haben das , was man dazu braucht .	6	de
+And if you don 't mind my saying , - you 've got plenty of what it takes .	5
+
+Darf ich ?	0	de
+- Lf you don 't mind ...	5
+
+Dürfte ich mir Ihren ansehen ?	0	de
+You mind if i look at yours ?	1
+
+Darf ich ?	0	de
+You don 't mind ?	3
+
+Ich darf doch fragen ?	1	de
+You don 't mind me asking you ?	3
+
+- Tosh , darf ich mal ... - Was denn ?	3	de
+- Do you mind if I use - - What ?	3
+
+Ich darf Ihnen doch den Rücken zukehren .	1	de
+Don 't mind my back , gentlemen .	2
+
+Es darf jedoch nicht vergessen werden , dass all diese Änderungen , die die Landwirtschaft sicherer machen sollen , erhebliche Kostensteigerungen zur Folge haben werden .	1	de
+It is important to bear in mind , however , that all such changes aimed at tightening up safety conditions in agriculture result in significant cost increases .	6
+
+- Darf ich Sie etwas fragen ?	1	de
+- Do you mind if I ask you something ?	3
+
+Dürfte ich mir wohl ihren Computer kurz ausleihen ?	0	de
+Would you mind if I borrowed your computer console ?	2
+
+Darf ich schauen , ob etwas fehlt ?	0	de
+Do you mind if I look around to see if anything 's missing ?	2
+
+Darf ich das eine Weile behalten ?	0	de
+D 'you mind if I hang on to this for now ?	2
+
+- Dürfen wir mit ihm spielen ?	1	de
+- Do you mind us playing with your dog ? - No .	3
+
+Darf ich Sie ganz offen etwas fragen ?	0	de
+Do you mind if I ask you a question , frankly ?	2
+
+Darf ich nachschauen , ob etwas fehlt ?	0	de
+Do you mind if I look around to see if anything 's missing ?	2
+
+Nachdem meine Mutter gestorben war , glaube ich , wollte er mich bei sich haben . - Darf ich fragen , wie sie gestorben ist ? - Autokollision .	17	de
+I think after my mum died , it 's what he wanted , you know , keep me close by . \u2013 Do you mind if I ask how she died ? \u2013 Traffic collision .	24
+
+Darf ich mitfahren ?	0	de
+Do you mind if I ride along with you ?	2
+
+Darf ich ihn ausprobieren ?	0	de
+Do you mind if I try ?	2
+
+- Entschuldigen Sie , darf ich ?	4	de
+- Excuse me , do you mind ?	6
+
+- Darf ich Sie Fred nennen ?	1	de
+Do you mind if I call you Fred ?	2
+
+- Darf ich Sie Fred nennen ?	1	de
+Do you mind if I call you Fred ? Not at all .	2
+
+- Dürfte ich eine rauchen ?	1	de
+- Do you mind if I smoke ?	3
+
+Natürlich dürfen Sie fragen .	1	de
+I don 't mind your asking .	3
+
+Darf ich was fragen ?	0	de
+Do you guys mind if I say something ?	3
+
+- Darf ich jemanden mitbringen ?	1	de
+- You mind if I bring a friend ?	2
+
+Darf ich mich setzen ?	0	de
+You mind if I sit ?	1
+
+Darf ich ?	0	de
+Would you mind ?	2
+
+Wenn ich bitten darf ?	3	de
+Do you mind ?	2
+
+Weitaus interessanter dürfte im Augenblick die politische Frage sein , ob seit dem Beschluss von Helsinki zwischen der Türkei und der Europäischen Union nicht mehr eine so große Kluft besteht .	2	de
+What is currently more interesting to my mind , is the question as to whether Turkey and the European Union have drawn closer together since the Helsinki decisions .	7
+
+- Dürfte ich wohl einen Drink haben ?	1	de
+Would you mind if I had a drink , please ?	2
+
+Dürfte ich mein Jackett ablegen ?	0	de
+Does the lady mind if I remove my coat ?	3
+
+Darf ich Ihnen eine Frage steIIen ?	0	de
+Do you mind if I ask you ... ... a question ?	2
+
+Darf ich das mal verwenden , Vater ?	0	de
+You mind if I use that one sometime , Father ?	1
+
+Darf ich ihn mir mal ansehen ?	0	de
+You mind if I have a look ?	1
+
+Wenn ich mich so ausdrücken darf , Sir , vielleicht sogar mehr .	5	de
+If you don 't mind my saying so ... ... perhaps ... ... a bit more .	4
+
+Doktor , dürfen wir ... ?	2	de
+Doctor , would you mind if we ... ?	4
+
+Dürfte ich meine Dankbarkeit ausdrücken ?	0	de
+Would you mind if I expressed my gratitude ?	2
+
+- Darf ich , bitte ?	1	de
+If you don 't mind , sir .	4
+
+Darf ich Sie auch Wiggy nennen ?	0	de
+Do you mind if I call you Wiggy , Mrs Wiggs ?	2
+
+Darf ich lhnen eine Frage stellen ?	0	de
+Do you mind if I ask you a question ?	2
+
+Wenn ich das mal sagen darf .	5	de
+If you don 't mind my saying .	4
+
+Wenn ich das sagen darf .	4	de
+If you don 't mind me saying so .	4
+
+Ich möchte Ihnen ein paar Fragen stellen , wenn ich darf .	10	de
+I 'd like to ask you a few things , if you don 't mind .	14
+
+Wenn ich das sagen darf , Megan , du scheinst sehr ruhig und gelassen zu sein .	4	de
+If you don 't mind my saying , Megan , you seem very calm and composed .	4
+
+Darf ich vielleicht mitfahren ?	0	de
+You mind if I come with ?	1
+
+Wenn ich fragen darf .	3	de
+If you don 't mind me asking .	4
+
+Ilona , Liebe , dürfte mein Enkel einen Blick in den Bücherschrank werfen ?	4	de
+Ilona , would you mind letting my grandson look through the bookcase ? - We 're searching for something . - Come right in , Granny .	4
+
+- Darf ich sie dann spielen ?	1	de
+- In that case , do you mind if I play her ?	7
+
+Ich darf die Braut doch küssen , oder ?	1	de
+You don 't mind if I kiss the bride , do you ?	3
+
+Billie , darf ich mich setzen ?	2	de
+Billie , mind if I sit down ?	2
+
+Dürfte ich ?	0	de
+Do you mind ?	2
+
+Ich darf mich doch hinter dich setzen , oder ?	1	de
+You don 't mind that I sit behind , do you ?	3
+
+Darf ich mich zu dir setzen ?	0	de
+Would you mind if I sit with you ?	2
+
+Vielleicht dürften dann mein Freund und ich uns mal hier umsehen .	1	de
+AII right . Then maybe you won 't mind if me and my friend take a Iook around .	8
+
+Dürfen wir Sie filmen ?	0	de
+Do you mind if we film you ?	2
+
+Darf ich dich fragen , wieso du hinkst , Dan ?	0	de
+You mind if I ask you hoW you got that hitch in your step , Dan ?	1
+
+- Darf ich das selbst regeln ?	1	de
+Do you mind if I take care of this my way for a change ?	2
+
+Wenn ich fragen darf .	3	de
+Do you mind me asking ?	2
+
+Ob wir mal in ihr Zimmer dürfen ?	6	de
+Do you mind if we see her room ?	2
+
+Dürfen wir die Telefongesellschaft nach der Liste der Verbindungen fragen ?	0	de
+Do you mind if we have the phone company subpoenaed for records ?	2
+
+Man darf nur Gott lieben .	1	de
+Keep in mind two things :	2
+
+- Darf ich lhnen zeigen , wie ?	1	de
+- Do you mind if I show you how ?	3
+
+Dürfte ich vielleicht mal kurz lhre Toilette benutzen ?	0	de
+Hey , you mind if I use your restroom real fast ?	3
+
+Darf ich fragen , wie mein Gastgeber heißt ?	0	de
+Do you mind if I ask the name of my host ?	2
+
+Jetzt , wo wir allein sind , darf ich dir meine Dankbarkeit ausdrücken , für das , was du für Susan getan hast ?	7	de
+Now that we have a moment , would you mind if I expressed my gratitude for what you did for Susan ?	9
+
+- Darf ich ihn mir mal ausborgen ?	1	de
+- You mind if I borrow it ?	2
+
+Darf es radikal sein ?	0	de
+Do you mind if it 's radical ?	2
+
+Dürfen wir mit dir duschen ?	0	de
+Do you mind if we share your shower ?	2
+
+- Darf ich mal in den Hänger schauen ?	1	de
+- You mind opening her up ?	2
+
+Darf ich morgen zu Ihnen arbeiten kommen ?	0	de
+Carl , you mind if I come to work with you tomorrow ?	3
+
+Wie heissen Sie , wenn ich fragen darf ?	7	de
+What 's your name , if you don 't mind me asking ?	9
+
+Wenn das der Abgesang ist , mein Bester , darf ich mich doch gewiss auf Britisch verabschieden .	9	de
+Well , if this is it , old boy , I hope you don 't mind if I go out speaking the King 's .	15
+
+Darf ich mir das mal angucken ?	0	de
+Do you mind if I have a look at that ?	2
+
+Darf ich neben dir her gehen ?	0	de
+Do you mind if I walk along beside you ?	2
+
+Darf ich was aufnehmen bei dir ?	0	de
+Do you mind me to record ?	2
+
+Dürfte ich mich zu ihnen setzen ?	0	de
+Do you mind if I join you ?	2
+
+Miss Tuck , wenn ich das fragen darf : Was ist in der Kiste ?	7	de
+Miss Tuck , if you don 't mind , what 's in the box ?	7
+
+Darf ich dich fragen , wieso du hinkst , Dan ?	0	de
+You mind if I ask you how you got that hitch in your step , Dan ?	1
+
+Darf ich mich zurückziehen ?	0	de
+Do you mind if I turn in ?	2
+
+Darf ich mich setzen ?	0	de
+Would you mind if I sat down ?	2
+
+Darf ich mich setzen ?	0	de
+You mind if I join you ?	1
+
+- Darf ich Ihnen zeigen , wie ?	1	de
+- Do you mind if I show you how ?	3
+
+- Darf ich etwas näher rücken ?	1	de
+- Do you mind if I sit just a little bit closer ?	3
+
+Darf ich die behalten ?	0	de
+Do you mind if I take this ?	2
+
+Darf ich mir lhre Kamera borgen ?	0	de
+Would you mind if I borrowed your camera ?	2
+
+Darf ich schauen , ob etwas fehIt ?	0	de
+Do you mind if I look around to see if anything 's missing ?	2
+
+Darf ich dir en Geheimnis anvertrauen ?	0	de
+Do you mind if I tell you one more secret ?	2
+
+- Darf ich mal ?	1	de
+- Do you mind ?	3
+
+Darf ich ?	0	de
+Do you mind if I join ?	2
+
+Ich denke , dass wir dieses Problem auf allen Ebenen und in allen Verantwortungsbereichen nicht vergessen dürfen .	16	de
+I think that , at all levels and in all of our spheres of responsibility , we really must bear this problem in mind .	23
+
+Darf ich lhnen die Hand geben ?	0	de
+Do you mind shaking hands ?	2
+
+Dürfte ich mir von den $ 10 etwas Schnupftabak kaufen ?	0	de
+You mind if he gets me some snuff out of that $ 10 ?	1
+
+Kein Hirn darf brach gelassen werden .	2	de
+A mind is a terrible thing to waste .	1
+
+Dürfte ich einen Moment allein haben , ums ihr zu erklären ?	0	de
+Would you mind if I had a moment alone before you come in ? To explain things to her ?	2
+
+- Darf ich mal die Toilette benutzen ?	1	de
+- Do you mind if I use the loo ? .	3
+
+- Dürfte ich hier sitzen ?	1	de
+- Would you mind if I go here ?	3
+
+Darf ich ihn für eine Spritztour haben ?	0	de
+Wow . You mind if I take it for a spin ?	3
+
+Darf ich mich zu dir setzen ?	0	de
+Do you mind if I sit down beside you ?	2
+
+Hey , Coach , darf ich sie fragen , was überhaupt der Plan ist ?	4	de
+Hey , Coach . You don 't mind me asking . What 's the big plan , anyway ?	7
+
+Darf ich das machen ?	0	de
+Would you guys mind if I told them ?	3
+
+Darf ich ?	0	de
+Do you mind ?	2
+
+Darf ich das schnell waschen ?	0	de
+Do you mind if I borrow your washer ?	2
+
+- Darf ich mich setzen ?	1	de
+- Do you mind if I sit down ?	3
+
+Sicher dürfen Sie .	1	de
+Mind ? I don 't mind !	5
+
+Darf ich fragen , wie Sie ...	0	de
+I was wondering , if you don 't mind , how did you get --	8
+
+Darf ich den Film in lhren Kühlschrank tun ?	0	de
+Do you mind if I put some film in the fridge ?	2
+
+Ich darf aber ? - Bitte !	1	de
+- You don 't mind ?	4
+
+Ich darf Sie doch Clinton nennen , oder ?	1	de
+You don 't mind if I call you Clinton , do you ?	3
+
+Darf ich ein Foto machen ?	0	de
+You mind if I take a picture ?	1
+
+- Darf ich mich erst etwas einschmeicheln ?	1	de
+Do you mind if I butter you up before I answer ? Yes , I do .	2
+
+Dürfte ich Ihnen eine vielleicht seltsame und persönliche Frage stellen ?	0	de
+Do you mind if I ask you a somewhat strange and personal question ?	2
+
+Riecht besser als Ihr anderes , wenn ich das sagen darf .	10	de
+It 's better than your regular , if you don 't mind my saying .	11
+
+Darf ich ?	0	de
+Uh , do you mind ?	4
+
+Sie haben einen lässigen Schlag , wenn ich Ihnen das sagen darf .	11	de
+You have a smooth stroke , if you don 't mind me saying .	10
+

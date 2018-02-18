@@ -1,0 +1,291 @@
+Sag ihr , wie sie sich verhalten soll , damit sie mir nichts vermasselt .	7	de
+You tell me . I don 't wanna start off on no left foot .	7
+
+Du solltest das also , ... du weißt schon , ...	1	de
+So you may just wanna ... You know , factor that in .	4
+
+Soll ich dir etwas sagen ?	0	de
+You wanna know something ?	1
+
+- Sollen wir drum streiten ?	1	de
+- Do you wanna fight about it ?	3
+
+lhr solltet drin sein , wenn es wieder steht .	1	de
+You wanna be on this side when we get this up again .	1
+
+Sollen wir es nebenan versuchen ?	0	de
+You wanna check next door or anything ?	1
+
+Ich glaube nicht , dass Sie sich deswegen Sorgen machen müssen , aber vielleicht sollten Sie einen Facharzt aufsuchen , um ganz sicher zu gehen .	14	de
+Now I don 't think it 's anything you need to worry about . But you may wanna see a genetic counsellor , just to be on the safe side .	17
+
+- Du solltest das nicht tun .	2	de
+You don 't wanna do this .	3
+
+Sollen wir es uns ansehen ?	0	de
+You wanna check it out ?	1
+
+Sie sollten vielleicht ...	1	de
+You may wanna --	2
+
+Sie sollen doch gut aussehen .	1	de
+What have you got going on here ? You wanna look just special for the wedding .	9
+
+Du solltest Eis drauf tun .	1	de
+You wanna put some ice on that .	1
+
+Die Kerle sollen doch dafür bezahlen , was sie ihr angetan haben ?	2	de
+You wanna get even for what happened to Christina , don 't you ?	1
+
+Du solltest vorsichtig sein .	1	de
+You may wanna be careful .	2
+
+Was soll das , hä ?	1	de
+Oh , wanna play " this " game , huh ? Huh ?	2
+
+Wenn ich sterben soll , dann tu ich es hier Dann werde ich euch bekämpfen müssen	3	de
+Ifl wanna die , I 'll die right here right now , fightin ' you , ifl wanna die .	1
+
+Du solltest vielleicht ein bißchen langsamer machen , denn du siehst aus , als würdest du jeden Moment umkippen , Doc . Mir geht 's gut .	1	de
+You might wanna slow down a little ... ... ' cause you look like you 're about to keel over , doc .	2
+
+Ich soll Sie hier nur heil rausbringen , richtig ?	1	de
+MULVANEY : I just wanna get you out of here safe , right ?	4
+
+AuBerdem solltest du deinen besten Mann nicht umlegen ,	1	de
+Not to mention the fact that I don 't think you wanna kill the best man on your crew before we strike oil .	11
+
+Das solltest aufpassen , Dale .	1	de
+You wanna watch it , Dale .	1
+
+Sollen wir auf der Veranda kurz übers Geschäft reden ?	0	de
+You wanna go outside and talk a little business on the porch ?	1
+
+Wir sollten uns vielleicht setzen .	1	de
+We might wanna sit down .	2
+
+Sie sollen sich hinsetzen und mit mir reden .	1	de
+What you wanna do is sit down and talk to me .	2
+
+Du solltest das Hotel räumen , denn das ist noch nicht das Ende !	1	de
+You wanna clear this hotel because this is not the end of this !	1
+
+Du solltest erwähnen , dass dies Joaquins erste Szene war .	1	de
+I think you wanna mention this was Joaquin 's first scene .	3
+
+Ich weiß , äh , dass diese Kiste bis zu 3 Tage für eine Übereinstimmung brauchen kann ... also sollten Sie vielleicht woanders die Daumen drücken .	19	de
+You know , um , I 've seen this baby take as long as three days to make a match ... ... so maybe you guys wanna cross your fingers somewhere else . [ YAWNS ]	26
+
+- Du solltest vielleicht versuchen , hin und wieder mal ein bißchen Hoffnung zu vergeben .	2	de
+You might wanna try handing out some hope every once in a while .	2
+
+Sollen wir danach was zusammen essen ?	0	de
+You wanna grab a bite to eat when you 're done with that and I get off work ?	1
+
+Du solltest dich öfters wie ein Mädchen anziehen .	1	de
+- You wanna dress like a girl more often .	2
+
+Aber soll ich die Wahrheit sagen ?	1	de
+You wanna know the truth , though ?	1
+
+- Ja , soll ich mal ?	3	de
+- You wanna hear ?	2
+
+Sollen wir was essen gehen ?	0	de
+You wanna have dinner or something ?	1
+
+Du solltest vorsichtig sein , Kim .	1	de
+You wanna be careful , Kim .	1
+
+Da soll die Übergabe stattfinden .	1	de
+That 's where they wanna do the exchange .	4
+
+Soll ich mich schuldig fühlen ? Wenigstens etwas .	0	de
+What , you wanna make me feel bad ?	3
+
+- ( Adele ) Soll ich dir welche zeigen ?	4	de
+- ( Adele ) You wanna learn some ?	5
+
+Die sollen \u00b4nen Abgang machen .	1	de
+- You wanna get these people out of here now ?	2
+
+Du sollst ihn töten !	1	de
+You wanna kill him !	1
+
+Wir hätten das neu aufnehmen sollen , sie sind zu weit auseinander .	5	de
+Oh , I don 't wanna go in there with all the happy dancing couples .	5
+
+- Soll ich dir ein paar Tricks zeigen ?	1	de
+- Come on , wanna see some moves ?	4
+
+Das solltest du nicht verpassen .	1	de
+You don 't wanna miss that .	3
+
+Sie sollten sich hinsetzen und mit mir reden .	1	de
+What you wanna do is sit down and talk to me .	2
+
+- Soll ich mal fahren ?	1	de
+- You wanna let me drive ?	2
+
+Wie weit soll das gehen ?	2	de
+How far you wanna take this ?	3
+
+Man soll sehen , daß wir an der Riviera sind .	1	de
+We wanna show we 're on the Riviera .	1
+
+Sollen wir gehen ?	0	de
+You wanna go ?	1
+
+Was soll das werden , Mann ?	1	de
+What you wanna do , man ?	2
+
+Soll ich dir was zeigen ?	0	de
+You wanna see something ?	1
+
+Sag mir , was ich tun soll und ich tu 's .	6	de
+[ Homer ] Just tell me . I 'll do whatever you wanna do .	12
+
+' Ich soll wohl auf Knien betteln ? '	2	de
+- You wanna make your mother beg ?	2
+
+Detectives , das sollten Sie sich anschauen .	3	de
+Dicks , you 'll wanna come take a look at this .	4
+
+Du solltest Richtung Süden fahren .	1	de
+You wanna head south .	1
+
+Sollen wir Partner sein , Jimmy ?	0	de
+You wanna be partners , jimmy ?	1
+
+Sollen wir uns was zu ...	0	de
+Man , we 're almost home . You wanna get something to eat ?	8
+
+Soll ich dir noch was verraten ?	0	de
+You wanna know something else ?	1
+
+Du solltest dich öfters wie ein Mädchen anziehen .	1	de
+You wanna dress like a girl more often ?	1
+
+Sollen wir unter die Decke schlüpfen ?	0	de
+You wanna get under the covers ?	1
+
+Sollen wir schneller fahren , Studs ?	0	de
+You wanna go fast , Studs ?	1
+
+- Soll ich dir was sagen ?	1	de
+- You wanna know something ?	2
+
+Sollen wir tauschen ?	0	de
+You wanna trade ?	1
+
+Soll ich dir sagen , wie viel ich noch übrig habe ?	0	de
+You wanna know how much I 've got left ?	1
+
+Die Mädchen sollen nicht in das alte Haus gehen .	2	de
+Them girls , they don 't wanna go messing around an old house .	6
+
+Euch soll nichts trennen .	1	de
+I don 't wanna see you split up .	3
+
+Wie sollen wir sie aufhalten ? Selbst wenn wir fliehen , finden wir sie nicht .	1	de
+I know you wanna stop them , but even if we got out , we don 't know where they are .	3
+
+Sie sollten Richtung Norden fahren .	1	de
+North . That 's where you wanna go .	6
+
+- Was soll dieses verrückte Gerede ?	2	de
+- I wanna know about this nutty talk .	2
+
+- Soll ich dir welche zeigen ?	1	de
+- You wanna learn some ?	2
+
+Und jetzt soll ich mir deine anhören ?	2	de
+Now you wanna take up my day with yours ? No .	2
+
+Vanessa will mit mir Schluss machen ... ... und ich weiß nicht , wie ich sie halten soll .	17	de
+Vanessa 's gonna break up with me ... ... and I don 't know how to make her wanna stay .	18
+
+Scott , soll ich ein Handtuch holen ?	2	de
+Scott , you wanna get me a towel ?	3
+
+Das solltest du dir wirklich noch einmal überlegen .	1	de
+You really wanna think about this .	2
+
+- Sie sollen meinen Tod vortäuschen .	2	de
+- I wanna make it look like I 've been killed .	2
+
+Vielleicht sollten wir mit Don reden .	1	de
+- Maybe you wanna bring Don in on this .	3
+
+Du solltest Richtung Süden fahren .	1	de
+South , kid . You wanna head south .	5
+
+Soll 's weh tun ?	0	de
+You wanna be hurt ?	1
+
+Vanessa will mit mir Schluss machen ... ... und ich weis nicht , wie ich sie halten soll .	17	de
+Vanessa 's gonna break up with me ... ... and I don 't know how to make her wanna stay .	18
+
+- Uh , ihr solltet vielleicht zurücktreten .	4	de
+- Uh , you might wanna stand back .	5
+
+Sie soll still sein .	1	de
+- I wanna go home ! - Shut her up . Shut her up .	2
+
+Du solltest vielleicht ein bißchen langsamer machen , denn du siehst aus , als würdest du jeden Moment umkippen , Doc .	1	de
+You might wanna slow down a little , ' cause you look like you 're about to keel over , doc .	2
+
+Sollen wir das gemeinsam tun ?	0	de
+You wanna go over the plan ?	1
+
+- Wir sollten noch warten .	2	de
+- We may wanna hold off a while .	3
+
+Nun , du solltest ihn einfach vergessen . Nolie , mein Schatz .	3	de
+Well , you 'll just wanna forget him , Nolie , darling .	5
+
+Ich soll weiter singen ?	1	de
+You wanna hear some more ?	1
+
+Sie sollen Lloyd im Büro von Ari Gold anrufen .	1	de
+You wanna talk to Lloyd in Ari Gold 's office .	1
+
+Soll ich mich bedanken ?	0	de
+You wanna hear I owe ya ?	1
+
+Aber die Welt soll sehen , dass nicht nur Russland gute Athleten hat .	3	de
+I just wanna show the whole world that Russia doesn 't have all the best athletes .	2
+
+DuU solltest hier nicht anhalten .	1	de
+You don 't wanna stop here .	3
+
+- Sie sollen sagen , wo Kate ist . - Ich brauche Zeit ...	2	de
+I wanna know where Kate is .	1
+
+Du solltest aufhören , solange du vorne liegst .	1	de
+You may wanna quit while you 're ahead .	2
+
+Aber um überhaupt eine Glaubwürdigkeit zu haben , solltest du vielleicht deinen Hochzeitsring abnehmen .	8	de
+But to have any credibility at all , you might wanna take off your wedding ring .	10
+
+Soll ich dich feuern ?	0	de
+You wanna be fired ? - No , I don 't .	1
+
+Mit dem sollen wir ins Bett gehen ?	2	de
+You know who Greene is and you wanna put us in bed with him .	7
+
+Bei so was solltet ihr nicht zusehen ... sonst werdet ihr genau so böse wie meine Geschwister .	3	de
+You don 't wanna watch things like that ... ... or you 're gonna grow up mean , just like all my brothers and cousins .	3
+
+Ich meine , mein Gott ... vor 2 Wochen hast du jeden gefragt , ob du erwachsen werden solltest .	18	de
+I wanna know everything . Do you wanna talk about it ? Gooch , let 's go talk about it .	7
+
+- Also , soll ich das gleich machen ?	3	de
+- So you wanna do this right away ?	3
+
+Er soll richtig leiden , was ?	1	de
+You wanna put him through the whole dance .	1
+
+- Sollen wir gehen ? Nein !	1	de
+- Well , do you wanna leave ?	5
+

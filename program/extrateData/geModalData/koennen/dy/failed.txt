@@ -1,0 +1,15 @@
+Wir konnten ihn nicht aufhalten .	1	dy
+We failed to stop him .	1
+
+Sie konnten ihn nicht aufhalten .	1	dy
+You have failed to stop him .	2
+
+Wir konnten noch nicht entdecken , wie er das GoId auber Lande schafft .	1	dy
+We 've failed to discover how he transfers his gold overseas .	2
+
+Die Tatsache , dass die Regierungen bisher keine Einigung in dieser Sache erzielen konnten , ist für alle Beteiligten unannehmbar .	13	dy
+The fact that the governments have so far failed to reach agreement on this is unacceptable to everyone .	8
+
+Sie haben 7 meiner Leute getötet , aber die , die Sie nicht töten konnten , haben nun lhre Freunde .	14	dy
+Your plan killed seven of my people , but the ones that you failed to kill are now holding your friends ,	13
+

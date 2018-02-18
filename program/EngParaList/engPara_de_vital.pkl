@@ -1,0 +1,943 @@
+(lp0
+((lp1
+S'lebensnotwendig'
+p2
+aS'Lebensnotwendig'
+p3
+a(dp4
+S'vital '
+p5
+I8
+stp6
+a((lp7
+S'wichtig'
+p8
+aS'Wichtig'
+p9
+a(dp10
+S'much '
+p11
+I9
+sS'matter '
+p12
+I81
+sS'vital '
+p13
+I8
+sS'wieners '
+p14
+I1
+sS'sue '
+p15
+I1
+sS'imperative '
+p16
+I1
+sS'that '
+p17
+I2
+sS'huge '
+p18
+I1
+sS'rita '
+p19
+I1
+sS'essential '
+p20
+I5
+sS'ok '
+p21
+I2
+sS'needs '
+p22
+I1
+sS'high '
+p23
+I1
+sS'difference '
+p24
+I2
+sS'singular '
+p25
+I1
+sS'key '
+p26
+I1
+sS'bed '
+p27
+I1
+sS'well '
+p28
+I2
+sS'wow '
+p29
+I1
+sS'point '
+p30
+I1
+sS'urgent '
+p31
+I6
+sS'deal '
+p32
+I9
+sS'important '
+p33
+I852
+sS'shot '
+p34
+I1
+sS'value '
+p35
+I4
+sS'irrelevant '
+p36
+I2
+sS'matters '
+p37
+I52
+sS'gay '
+p38
+I1
+sS'wether '
+p39
+I1
+sS'necessary '
+p40
+I1
+sS'really '
+p41
+I1
+sS'good '
+p42
+I6
+sS'valued '
+p43
+I1
+sS'everyonei '
+p44
+I1
+sS'caramel- '
+p45
+I2
+sS'bottom '
+p46
+I1
+sS'worry '
+p47
+I1
+sS'brakes '
+p48
+I1
+sS'valuable '
+p49
+I2
+sS'immportant '
+p50
+I1
+sS'mind '
+p51
+I9
+sS'overimportant '
+p52
+I1
+sS'nothing '
+p53
+I1
+sS'cares '
+p54
+I3
+sS'concern '
+p55
+I1
+sS'apology '
+p56
+I1
+sS'does '
+p57
+I2
+sS'mattered '
+p58
+I9
+sS'primed '
+p59
+I1
+sS'account '
+p60
+I1
+sS'relevant '
+p61
+I9
+sS'even '
+p62
+I4
+sS'compromises '
+p63
+I1
+sS'serious '
+p64
+I3
+sS'special '
+p65
+I1
+sS'critical '
+p66
+I3
+sS'pregnant '
+p67
+I1
+sS'riding '
+p68
+I1
+sS'seriously '
+p69
+I2
+sS'street '
+p70
+I1
+sS'thing '
+p71
+I1
+sS'precious '
+p72
+I3
+sS'means '
+p73
+I2
+sS'dear '
+p74
+I1
+sS'whatever '
+p75
+I2
+sS'hangs '
+p76
+I1
+sS'sensing '
+p77
+I1
+sS'crucial '
+p78
+I2
+sS'sam '
+p79
+I1
+sS'behind '
+p80
+I1
+sS'importance '
+p81
+I5
+sS'forget '
+p82
+I1
+sS'importantto '
+p83
+I1
+sS'night '
+p84
+I1
+sS'need '
+p85
+I10
+sS'counts '
+p86
+I2
+sS'care '
+p87
+I30
+sS'rest '
+p88
+I1
+sS'take '
+p89
+I1
+sS'importantthat '
+p90
+I1
+sS'cared '
+p91
+I5
+sS'big '
+p92
+I3
+sS'significant '
+p93
+I3
+sS'mission '
+p94
+I1
+sS'back '
+p95
+I1
+stp96
+a((lp97
+S'wichtige'
+p98
+aS'Wichtige'
+p99
+a(dp100
+S'breaking '
+p101
+I1
+sS'vital '
+p102
+I7
+sS'emergency '
+p103
+I1
+sS'continue '
+p104
+I1
+sS'reunion '
+p105
+I1
+sS'appreciate '
+p106
+I1
+sS'bright '
+p107
+I1
+sS'material '
+p108
+I1
+sS'important '
+p109
+I127
+sS'matters '
+p110
+I3
+sS'pertinent '
+p111
+I2
+sS'valuable '
+p112
+I1
+sS'either '
+p113
+I1
+sS'lmportant '
+p114
+I1
+sS'pertinents '
+p115
+I1
+sS'somebody '
+p116
+I1
+sS'stone '
+p117
+I1
+sS'high- '
+p118
+I1
+sS'intersect '
+p119
+I1
+sS'essentials '
+p120
+I1
+sS'event '
+p121
+I1
+sS'major '
+p122
+I6
+sS'essential '
+p123
+I2
+sS'grave '
+p124
+I1
+sS'big '
+p125
+I11
+sS'significant '
+p126
+I2
+sS'jeans '
+p127
+I1
+stp128
+a((lp129
+S'lebenswichtig'
+p130
+aS'Lebenswichtig'
+p131
+a(dp132
+S'vital '
+p133
+I6
+stp134
+a((lp135
+S'entscheidende'
+p136
+aS'Entscheidende'
+p137
+a(dp138
+S'being '
+p139
+I1
+sS'secret '
+p140
+I1
+sS'vital '
+p141
+I5
+sS'definite '
+p142
+I2
+sS'only '
+p143
+I1
+sS'real '
+p144
+I1
+sS'matters '
+p145
+I1
+sS'operaton '
+p146
+I1
+sS'bottom '
+p147
+I1
+sS'deciding '
+p148
+I2
+sS'ingredient '
+p149
+I1
+sS'defining '
+p150
+I1
+sS'critical '
+p151
+I2
+sS'salient '
+p152
+I1
+sS'big '
+p153
+I1
+sS'key '
+p154
+I1
+sS'ultimate '
+p155
+I1
+sS'decisive '
+p156
+I2
+stp157
+a((lp158
+S'vitalwerte'
+p159
+aS'Vitalwerte'
+p160
+a(dp161
+S'vital '
+p162
+I4
+sS'what '
+p163
+I1
+stp164
+a((lp165
+S'vital'
+p166
+aS'Vital'
+p167
+a(dp168
+S'vital '
+p169
+I3
+sS'healthy '
+p170
+I2
+stp171
+a((lp172
+S'lebenswichtigen'
+p173
+aS'Lebenswichtigen'
+p174
+a(dp175
+S'vitals '
+p176
+I1
+sS'vital '
+p177
+I3
+stp178
+a((lp179
+S'lebenswichtiges'
+p180
+aS'Lebenswichtiges'
+p181
+a(dp182
+S'vital '
+p183
+I3
+sS'survival '
+p184
+I1
+stp185
+a((lp186
+S'wichtiger'
+p187
+aS'Wichtiger'
+p188
+a(dp189
+S'initiate '
+p190
+I1
+sS'vital '
+p191
+I2
+sS'tie '
+p192
+I1
+sS'worth '
+p193
+I3
+sS'preordered '
+p194
+I1
+sS'snob '
+p195
+I1
+sS'job '
+p196
+I1
+sS'point '
+p197
+I1
+sS'important '
+p198
+I138
+sS'dean '
+p199
+I1
+sS'value '
+p200
+I2
+sS'matters '
+p201
+I1
+sS'bigger '
+p202
+I2
+sS'first '
+p203
+I1
+sS'issue '
+p204
+I1
+sS'more '
+p205
+I20
+sS'mema '
+p206
+I1
+sS'mostly '
+p207
+I1
+sS'less '
+p208
+I1
+sS'greater '
+p209
+I1
+sS'dealt '
+p210
+I1
+sS'importantly '
+p211
+I37
+sS'choosing '
+p212
+I1
+sS'essential '
+p213
+I2
+sS'hot '
+p214
+I1
+sS'big '
+p215
+I8
+sS'above '
+p216
+I2
+stp217
+a((lp218
+S'lebenswichtige'
+p219
+aS'Lebenswichtige'
+p220
+a(dp221
+S'vital '
+p222
+I2
+stp223
+a((lp224
+S'vitalen'
+p225
+aS'Vitalen'
+p226
+a(dp227
+S'vital '
+p228
+I2
+stp229
+a((lp230
+S'entscheidender'
+p231
+aS'Entscheidender'
+p232
+a(dp233
+S'vital '
+p234
+I2
+sS'crucial '
+p235
+I1
+sS'heuristic '
+p236
+I2
+sS'pivotal '
+p237
+I1
+sS'smoking '
+p238
+I1
+sS'defining '
+p239
+I4
+sS'critical '
+p240
+I2
+sS'important '
+p241
+I1
+stp242
+a((lp243
+S'unverzichtbar'
+p244
+aS'Unverzichtbar'
+p245
+a(dp246
+S'vital '
+p247
+I2
+sS'essential '
+p248
+I1
+stp249
+a((lp250
+S'wichtigen'
+p251
+aS'Wichtigen'
+p252
+a(dp253
+S'material '
+p254
+I4
+sS'bg '
+p255
+I1
+sS'chilly '
+p256
+I1
+sS'vital '
+p257
+I2
+sS'heavy '
+p258
+I1
+sS'needs '
+p259
+I1
+sS'significance '
+p260
+I1
+sS'serious '
+p261
+I2
+sS'major '
+p262
+I4
+sS'minor '
+p263
+I1
+sS'critical '
+p264
+I1
+sS'important '
+p265
+I51
+sS'big '
+p266
+I9
+sS'key '
+p267
+I1
+sS'pharmacy '
+p268
+I1
+sS'great '
+p269
+I1
+stp270
+a((lp271
+S'erhebliche'
+p272
+aS'Erhebliche'
+p273
+a(dp274
+S'vital '
+p275
+I1
+sS'significant '
+p276
+I1
+sS'substantial '
+p277
+I2
+sS'considerable '
+p278
+I4
+sS'severe '
+p279
+I1
+stp280
+a((lp281
+S'vitales'
+p282
+aS'Vitales'
+p283
+a(dp284
+S'vital '
+p285
+I1
+stp286
+a((lp287
+S'entscheidend'
+p288
+aS'Entscheidend'
+p289
+a(dp290
+S'matter '
+p291
+I1
+sS'vital '
+p292
+I1
+sS'crucial '
+p293
+I9
+sS'paramount '
+p294
+I2
+sS'decisively '
+p295
+I1
+sS'focused '
+p296
+I1
+sS'critical '
+p297
+I8
+sS'break '
+p298
+I1
+sS'key '
+p299
+I3
+sS'decisive '
+p300
+I1
+stp301
+a((lp302
+S'vitale'
+p303
+aS'Vitale'
+p304
+a(dp305
+S'vitale '
+p306
+I1
+sS'vital '
+p307
+I1
+stp308
+a((lp309
+S'notwendig'
+p310
+aS'Notwendig'
+p311
+a(dp312
+S'required '
+p313
+I3
+sS'needed '
+p314
+I2
+sS'vital '
+p315
+I1
+sS'need '
+p316
+I22
+sS'remodeling '
+p317
+I1
+sS'indicated '
+p318
+I1
+sS'fit '
+p319
+I1
+sS'necessary '
+p320
+I112
+sS'fine '
+p321
+I1
+sS'imperative '
+p322
+I2
+sS'have '
+p323
+I10
+sS'necessarily '
+p324
+I2
+sS'essential '
+p325
+I1
+sS'necessity '
+p326
+I2
+sS'critical '
+p327
+I1
+sS'nicked '
+p328
+I1
+sS'god '
+p329
+I1
+sS'spooge '
+p330
+I1
+stp331
+a((lp332
+S'filmrollen'
+p333
+aS'Filmrollen'
+p334
+a(dp335
+S'vital '
+p336
+I1
+stp337
+a((lp338
+S'vitalzeichen'
+p339
+aS'Vitalzeichen'
+p340
+a(dp341
+S'vital '
+p342
+I1
+sS'vitals '
+p343
+I1
+stp344
+a((lp345
+S'wichtigeren'
+p346
+aS'Wichtigeren'
+p347
+a(dp348
+S'vital '
+p349
+I1
+sS'favouring '
+p350
+I1
+sS'bouts '
+p351
+I1
+stp352
+a((lp353
+S'hochwichtigen'
+p354
+aS'Hochwichtigen'
+p355
+a(dp356
+S'vital '
+p357
+I1
+stp358
+a((lp359
+S'wesentliche'
+p360
+aS'Wesentliche'
+p361
+a(dp362
+S'point '
+p363
+I3
+sS'essence '
+p364
+I1
+sS'important '
+p365
+I3
+sS'essentials '
+p366
+I2
+sS'gist '
+p367
+I2
+sS'basics '
+p368
+I1
+sS'accurate '
+p369
+I1
+sS'basic '
+p370
+I1
+sS'major '
+p371
+I1
+sS'board '
+p372
+I1
+sS'essentially '
+p373
+I1
+sS'vital '
+p374
+I1
+sS'essential '
+p375
+I1
+sS'focus '
+p376
+I1
+stp377
+a((lp378
+S'lebenswerter'
+p379
+aS'Lebenswerter'
+p380
+a(dp381
+S'vital '
+p382
+I1
+stp383
+a.

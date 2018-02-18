@@ -1,0 +1,24 @@
+- Dann dürfen Sie .	2	de
+- Then I permit you .	3
+
+Doch , in Begleitung darf ich fahren .	4	de
+Why ? I have my permit .	5
+
+Das ist ein Schritt , den kein Parlament dieser Welt , wenn es denn rechtsstaatlichen Prinzipien verpflichtet ist , zulassen darf .	20	de
+That is a step that no parliament in the world which is committed to constitutional principles can permit .	17
+
+Darf ich Euch beim Essen zusehen ? Ihr seid der Gebieter .	0	de
+Will you permit me to watch you dine ?	2
+
+Meine Herren , darf ich Sie in Mexiko willkommen heißen ?	3	de
+Gentlemen , permit me to welcome you to Mexico .	2
+
+Wir müssen in diesem Kampf hartnäckig bleiben und dürfen uns nicht von den Beleidigungen , für die er ein solches Talent entwickelt hat , beeindrucken lassen .	8	de
+We must persevere in this struggle and not permit ourselves to be dismayed by the abuse at which he has become so adept .	8
+
+Darf ich lhnen mein Flugzeug zeigen ?	0	de
+Would you permit me to show you my plane ? - Maybe .	2
+
+lhr dürft über Ägypten als eine römische Provinz herrschen .	1	de
+I permit you to rule Egypt as a Roman province and return your possessions .	1
+

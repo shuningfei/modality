@@ -1,0 +1,4 @@
+können: ep 757, de 575, dy 2320, all 3652
+müssen: ep 291, de 23920, dy 212 all 24423
+sollen: ep 3250, de 4646, dy 76 all 7972
+dürfen: ep 191, de 1610, dy 13 all 1814

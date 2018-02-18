@@ -1,0 +1,655 @@
+(lp0
+((lp1
+S'entscheidend'
+p2
+aS'Entscheidend'
+p3
+a(dp4
+S'matter '
+p5
+I1
+sS'vital '
+p6
+I1
+sS'crucial '
+p7
+I9
+sS'paramount '
+p8
+I2
+sS'decisively '
+p9
+I1
+sS'focused '
+p10
+I1
+sS'critical '
+p11
+I8
+sS'break '
+p12
+I1
+sS'key '
+p13
+I3
+sS'decisive '
+p14
+I1
+stp15
+a((lp16
+S'wichtig'
+p17
+aS'Wichtig'
+p18
+a(dp19
+S'much '
+p20
+I9
+sS'matter '
+p21
+I81
+sS'vital '
+p22
+I8
+sS'wieners '
+p23
+I1
+sS'sue '
+p24
+I1
+sS'imperative '
+p25
+I1
+sS'that '
+p26
+I2
+sS'huge '
+p27
+I1
+sS'rita '
+p28
+I1
+sS'essential '
+p29
+I5
+sS'ok '
+p30
+I2
+sS'needs '
+p31
+I1
+sS'high '
+p32
+I1
+sS'difference '
+p33
+I2
+sS'singular '
+p34
+I1
+sS'key '
+p35
+I1
+sS'bed '
+p36
+I1
+sS'well '
+p37
+I2
+sS'wow '
+p38
+I1
+sS'point '
+p39
+I1
+sS'urgent '
+p40
+I6
+sS'deal '
+p41
+I9
+sS'important '
+p42
+I852
+sS'shot '
+p43
+I1
+sS'value '
+p44
+I4
+sS'irrelevant '
+p45
+I2
+sS'matters '
+p46
+I52
+sS'gay '
+p47
+I1
+sS'wether '
+p48
+I1
+sS'necessary '
+p49
+I1
+sS'really '
+p50
+I1
+sS'good '
+p51
+I6
+sS'valued '
+p52
+I1
+sS'everyonei '
+p53
+I1
+sS'caramel- '
+p54
+I2
+sS'bottom '
+p55
+I1
+sS'worry '
+p56
+I1
+sS'brakes '
+p57
+I1
+sS'valuable '
+p58
+I2
+sS'immportant '
+p59
+I1
+sS'mind '
+p60
+I9
+sS'overimportant '
+p61
+I1
+sS'nothing '
+p62
+I1
+sS'cares '
+p63
+I3
+sS'concern '
+p64
+I1
+sS'apology '
+p65
+I1
+sS'does '
+p66
+I2
+sS'mattered '
+p67
+I9
+sS'primed '
+p68
+I1
+sS'account '
+p69
+I1
+sS'relevant '
+p70
+I9
+sS'even '
+p71
+I4
+sS'compromises '
+p72
+I1
+sS'serious '
+p73
+I3
+sS'special '
+p74
+I1
+sS'critical '
+p75
+I3
+sS'pregnant '
+p76
+I1
+sS'riding '
+p77
+I1
+sS'seriously '
+p78
+I2
+sS'street '
+p79
+I1
+sS'thing '
+p80
+I1
+sS'precious '
+p81
+I3
+sS'means '
+p82
+I2
+sS'dear '
+p83
+I1
+sS'whatever '
+p84
+I2
+sS'hangs '
+p85
+I1
+sS'sensing '
+p86
+I1
+sS'crucial '
+p87
+I2
+sS'sam '
+p88
+I1
+sS'behind '
+p89
+I1
+sS'importance '
+p90
+I5
+sS'forget '
+p91
+I1
+sS'importantto '
+p92
+I1
+sS'night '
+p93
+I1
+sS'need '
+p94
+I10
+sS'counts '
+p95
+I2
+sS'care '
+p96
+I30
+sS'rest '
+p97
+I1
+sS'take '
+p98
+I1
+sS'importantthat '
+p99
+I1
+sS'cared '
+p100
+I5
+sS'big '
+p101
+I3
+sS'significant '
+p102
+I3
+sS'mission '
+p103
+I1
+sS'back '
+p104
+I1
+stp105
+a((lp106
+S'entscheidenden'
+p107
+aS'Entscheidenden'
+p108
+a(dp109
+S'dunno '
+p110
+I1
+sS'important '
+p111
+I1
+sS'staying '
+p112
+I1
+sS'crucial '
+p113
+I2
+sS'leading '
+p114
+I1
+sS'smoking '
+p115
+I2
+sS'crunch '
+p116
+I1
+sS'defining '
+p117
+I1
+sS'significant '
+p118
+I1
+sS'decisive '
+p119
+I1
+stp120
+a((lp121
+S'entscheidendes'
+p122
+aS'Entscheidendes'
+p123
+a(dp124
+S'crucial '
+p125
+I1
+sS'essential '
+p126
+I1
+stp127
+a((lp128
+S'schwierig'
+p129
+aS'Schwierig'
+p130
+a(dp131
+S'difficult, '
+p132
+I1
+sS'score '
+p133
+I1
+sS'character '
+p134
+I1
+sS'difficult '
+p135
+I156
+sS'anymore '
+p136
+I1
+sS'tricky '
+p137
+I16
+sS'brother '
+p138
+I1
+sS'iscrpljen '
+p139
+I1
+sS'problem '
+p140
+I1
+sS'troubled '
+p141
+I4
+sS'messy '
+p142
+I4
+sS'easy '
+p143
+I6
+sS'strange '
+p144
+I1
+sS'soup '
+p145
+I1
+sS'manage '
+p146
+I1
+sS'hard '
+p147
+I79
+sS'handful '
+p148
+I4
+sS'vision '
+p149
+I1
+sS'decisions '
+p150
+I2
+sS'critical '
+p151
+I1
+sS'tight '
+p152
+I2
+sS'disabled '
+p153
+I1
+sS'... '
+p154
+I1
+sS'siberia '
+p155
+I1
+sS'dffcult '
+p156
+I1
+sS'tough '
+p157
+I22
+sS'degree '
+p158
+I1
+sS'crucial '
+p159
+I1
+sS'anthropologie '
+p160
+I1
+sS'dyslexia '
+p161
+I1
+sS'trying '
+p162
+I1
+sS'complicated '
+p163
+I5
+sS'close '
+p164
+I1
+sS'heavy '
+p165
+I1
+sS'trouble '
+p166
+I2
+stp167
+a((lp168
+S'gebliebenen'
+p169
+aS'Gebliebenen'
+p170
+a(dp171
+S'crucial '
+p172
+I1
+sS'is '
+p173
+I1
+stp174
+a((lp175
+S'drinnen'
+p176
+aS'Drinnen'
+p177
+a(dp178
+S'slogan '
+p179
+I1
+sS'goingin '
+p180
+I1
+sS'homes '
+p181
+I2
+sS'indoors '
+p182
+I5
+sS'whatevs '
+p183
+I1
+sS'fall '
+p184
+I1
+sS'tying '
+p185
+I1
+sS'there '
+p186
+I15
+sS'shepherd '
+p187
+I1
+sS'right '
+p188
+I1
+sS'jesus '
+p189
+I1
+sS'biri '
+p190
+I1
+sS'deep '
+p191
+I1
+sS'presentation '
+p192
+I1
+sS'she '
+p193
+I1
+sS'hear '
+p194
+I1
+sS'inn '
+p195
+I1
+sS'in '
+p196
+I342
+sS'coaster '
+p197
+I1
+sS'inside '
+p198
+I222
+sS'heckyou '
+p199
+I1
+sS'- '
+p200
+I1
+sS'emily '
+p201
+I1
+sS'crucial '
+p202
+I1
+sS'go '
+p203
+I1
+sS'gun '
+p204
+I1
+sS'morgan '
+p205
+I1
+sS'here '
+p206
+I2
+stp207
+a((lp208
+S'grundlegende'
+p209
+aS'Grundlegende'
+p210
+a(dp211
+S'underlying '
+p212
+I2
+sS'deep, '
+p213
+I3
+sS'makeover, '
+p214
+I1
+sS'basics '
+p215
+I3
+sS'crucial '
+p216
+I1
+sS'juanito '
+p217
+I1
+sS'basic '
+p218
+I8
+sS'major '
+p219
+I2
+sS'essential '
+p220
+I2
+sS'fundamental '
+p221
+I4
+stp222
+a((lp223
+S'bezeichnenden'
+p224
+aS'Bezeichnenden'
+p225
+a(dp226
+S'crucial '
+p227
+I1
+stp228
+a((lp229
+S'entscheidendste'
+p230
+aS'Entscheidendste'
+p231
+a(dp232
+S'crucial '
+p233
+I1
+stp234
+a((lp235
+S'entscheidender'
+p236
+aS'Entscheidender'
+p237
+a(dp238
+S'vital '
+p239
+I2
+sS'crucial '
+p240
+I1
+sS'heuristic '
+p241
+I2
+sS'pivotal '
+p242
+I1
+sS'smoking '
+p243
+I1
+sS'defining '
+p244
+I4
+sS'critical '
+p245
+I2
+sS'important '
+p246
+I1
+stp247
+a.

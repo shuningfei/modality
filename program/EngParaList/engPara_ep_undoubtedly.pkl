@@ -1,0 +1,317 @@
+(lp0
+((lp1
+S'zweifellos'
+p2
+aS'Zweifellos'
+p3
+a(dp4
+S'doubt '
+p5
+I14
+sS'clearly '
+p6
+I1
+sS'doubtless '
+p7
+I1
+sS'undoubtedly '
+p8
+I8
+sS'certainly '
+p9
+I3
+sS'absolutely '
+p10
+I1
+sS'strictly '
+p11
+I2
+sS'hands '
+p12
+I1
+sS'decidedly '
+p13
+I1
+sS'footloose '
+p14
+I2
+stp15
+a((lp16
+S'unzweifelhaft'
+p17
+aS'Unzweifelhaft'
+p18
+a(dp19
+S'undoubtedly '
+p20
+I3
+sS'doubt '
+p21
+I1
+stp22
+a((lp23
+S'rachegedanken'
+p24
+aS'Rachegedanken'
+p25
+a(dp26
+S'undoubtedly '
+p27
+I2
+stp28
+a((lp29
+S'zweifel'
+p30
+aS'Zweifel'
+p31
+a(dp32
+S'doubt '
+p33
+I141
+sS'unremarkable '
+p34
+I1
+sS'unprecedentedly '
+p35
+I1
+sS'decco '
+p36
+I1
+sS'anxious '
+p37
+I1
+sS'miike '
+p38
+I1
+sS'doubts '
+p39
+I49
+sS'convinced '
+p40
+I1
+sS'buts '
+p41
+I1
+sS'down '
+p42
+I1
+sS'flag '
+p43
+I1
+sS'thoughts '
+p44
+I3
+sS'sure '
+p45
+I1
+sS'question '
+p46
+I7
+sS'probability '
+p47
+I2
+sS'surely '
+p48
+I2
+sS'about '
+p49
+I5
+sS'match '
+p50
+I1
+sS'internal '
+p51
+I1
+sS'guaranteed '
+p52
+I1
+sS'second- '
+p53
+I1
+sS'part '
+p54
+I1
+sS'argument '
+p55
+I1
+sS'undoubtedly '
+p56
+I2
+sS'fail '
+p57
+I1
+sS'doubting '
+p58
+I2
+sS'fear '
+p59
+I1
+stp60
+a((lp61
+S'undoubtedly'
+p62
+aS'Undoubtedly'
+p63
+a(dp64
+S'undoubtedly '
+p65
+I1
+stp66
+a((lp67
+S'allerdings'
+p68
+aS'Allerdings'
+p69
+a(dp70
+S'shiro '
+p71
+I1
+sS'but '
+p72
+I25
+sS'darn '
+p73
+I1
+sS'only '
+p74
+I2
+sS'that '
+p75
+I1
+sS'yup '
+p76
+I1
+sS'say '
+p77
+I2
+sS'shan '
+p78
+I2
+sS'jane '
+p79
+I1
+sS'we '
+p80
+I1
+sS'know '
+p81
+I1
+sS'heard '
+p82
+I1
+sS'actually '
+p83
+I2
+sS'mm '
+p84
+I1
+sS'point '
+p85
+I1
+sS'course '
+p86
+I3
+sS'though '
+p87
+I86
+sS'did '
+p88
+I4
+sS'wants '
+p89
+I1
+sS'amen '
+p90
+I1
+sS'absolutely '
+p91
+I6
+sS'yes '
+p92
+I11
+sS'sure '
+p93
+I15
+sS'although '
+p94
+I4
+sS'right '
+p95
+I2
+sS'is '
+p96
+I7
+sS'mind '
+p97
+I7
+sS'smiling '
+p98
+I1
+sS'does '
+p99
+I2
+sS'very '
+p100
+I1
+sS'asks '
+p101
+I1
+sS'indeed '
+p102
+I19
+sS'it '
+p103
+I2
+sS'decision '
+p104
+I1
+sS'cal '
+p105
+I1
+sS'they '
+p106
+I3
+sS'what '
+p107
+I1
+sS'i '
+p108
+I1
+sS'warming '
+p109
+I1
+sS'except '
+p110
+I5
+sS'undoubtedly '
+p111
+I1
+sS'talking '
+p112
+I1
+sS'certainly '
+p113
+I9
+sS'getthem '
+p114
+I1
+sS'bridge '
+p115
+I1
+sS'however '
+p116
+I39
+sS'quite '
+p117
+I3
+sS'495 '
+p118
+I1
+sS'yeah '
+p119
+I3
+sS'however, '
+p120
+I1
+stp121
+a.

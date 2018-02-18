@@ -1,0 +1,978 @@
+Ich muss heim .	1	de
+I want to go home .	1
+
+Warte , ich muß mit dir reden .	3	de
+Wait , I want to talk to you .	3
+
+lch muss den anderen Ring finden .	1	de
+I want to find that other ring .	1
+
+Ich muss da rein .	1	de
+- I want to look inside .	2
+
+- Ich muss unterwegs meine Rede üben .	2	de
+I want you to hear my speech on the way .	1
+
+Das muss ich genau sehen .	1	de
+I want a better look .	1
+
+- Sie müssen sie nicht nehmen .	2	de
+- Of course I want to keep it .	4
+
+Es ist mir egal wie , aber ich muss dieses Grundstück haben .	8	de
+I don 't care how you do it , I want that piece of real estate .	10
+
+- Ich muss es unbedingt heute zahlen , sonst ...	2	de
+They want it today , or else . . .	1
+
+Das musst du dir ansehen .	1	de
+I want you to see this .	1
+
+Sie müssen mich schon holen !	1	de
+If you want me , come and get me !	2
+
+Ich muss mir diesen Raum wirklich ansehen .	1	de
+I just didn 't want to tell you ' cause I knew you 'd freak out .	4
+
+Willoughby , ich muss Ihnen etwas sagen .	3	de
+Willoughby , look I want to tell you something .	4
+
+- Darüber muss ich mit Ihnen sprechen .	2	de
+- I want to talk about it , anyway .	2
+
+Ich muss alles wissen .	1	de
+I want to know everything .	1
+
+Aber eins muss ich sagen ... ... all das Nichts hat mir mehr bedeutet , als ... ... so viele Etwas .	2	de
+But ljust want to say ... ... all this nothing has meant more to me than so many ... ... somethings .	2
+
+Ich Armer muß mich verkaufen , um meine Familie zu begraben	2	de
+I am poor , I want to sell my self to bury my whole family !	5
+
+Ich muss es unbedingt herausfinden .	1	de
+I want to know that very much .	1
+
+Ich muss dir das Geld wegnehmen .	1	de
+( Sobbing ) I want to take my money .	4
+
+Ich muss es mit eigenen Augen sehen . Mein Traum soll nicht zerstört werden .	1	de
+I want to see the truth for myself	1
+
+- Cecilia , ich muss Sie sprechen .	4	de
+- Cecilia , I want to talk .	4
+
+Bevor irgendetwas passiert , muss die CTU die Satellitenüberwachung abschalten .	4	de
+Before we do anything , I want CTU to turn off the satellite feed .	6
+
+Die muss man pflegen .	1	de
+I want to protect them .	1
+
+Du musst ihnen nur genau erklären , was sie zu tun haben .	1	de
+Just tell them what you want them to do .	5
+
+Ich muss euch was Wichtiges sagen .	1	de
+I want to tell you something .	1
+
+Ich muß dringend mit dir sprechen .	1	de
+I want to talk to you .	1
+
+ich muss Giuseppe diesen Brief schicken und ... würdest du ihn für mich übersetzen ?	1	de
+I want to send this letter to Giuseppe . Could you translate it for me ?	1
+
+Ich muss pinkeln !	1	de
+I want to go pissing !	1
+
+Ich muss Sie sprechen .	1	de
+No- no- no . I just want to talk to you for a second .	6
+
+Der Mann muss sterben .	2	de
+I want that man dead .	1
+
+- In Zukunft mußt du damit klarkommen . - Ich muß klarkommen .	3	de
+So you want to know he owes that to you .	2
+
+- Ich muß mit dir reden .	2	de
+- I want to talk .	2
+
+Er muss die ganze Nacht überwacht werden , Fagin .	1	de
+He 'll want checking on during the night , Fagin .	2
+
+Ich muss essen !	1	de
+I want to eat now !	1
+
+Mrs. Venable , ich muss mit Ihnen sprechen ...	4	de
+Mrs. Venable , I do want to speak with you ...	5
+
+Ich muss mit Ihnen reden .	1	de
+I want to talk to you .	1
+
+Ich muss später mit dir reden .	1	de
+I want to talk to you later .	1
+
+Dein Verlobter muss wissen , dass du in Sicherheit bist .	2	de
+Your fiancé will want to know you 're safe .	3
+
+Ich muß aIIes von Hong Ling sehen , was am Tatort war .	1	de
+I want to see any of Hong Ling 's effects gathered at the scene .	1
+
+Ich muß mit dir reden .	1	de
+I want to talk to you .	1
+
+- CeciIia , ich muss Sie sprechen .	4	de
+- Cecilia , I want to talk .	4
+
+Wenn es so sein muss .	4	de
+If that 's how you want it .	5
+
+Etwas muss Ihnen klar sein .	1	de
+I want you to remember one thing .	1
+
+Über eins musst du dir klar werden .	2	de
+Honey , I want you to understand this .	3
+
+- Ich muss mit dir reden , Ilene .	2	de
+- I want to talk to you , llene .	2
+
+Ich muss unbedingt aufs Klo .	1	de
+I want to use the toilet .	1
+
+Ich muss sagen , ich bin wirklich stolz auf dich .	1	de
+I want to tell you how proud I am of you .	1
+
+Ich muss eben herausfinden , wer das Mädchen ist , ... bevor das Etorphin seine Wirkung verliert .	1	de
+I just want to find out who that girl is before the m- 99 wears off .	2
+
+Ich muss was trinken .	1	de
+I want that drink , and I 'm gonna get it .	1
+
+lch muss mit dir über etwas reden .	1	de
+There 's something I want to talk about .	4
+
+Ich muss mit dir reden .	1	de
+I want to talk to you .	1
+
+- Ich muss etwas sagen .	2	de
+- I want to tell you something .	2
+
+Ich muss dir unbedingt etwas sagen !	1	de
+I want to tell you a secret .	1
+
+Wo ich herkomme , muss er nur heiß sein .	4	de
+Well , where I 'm from , people just want it to be hot .	9
+
+Ich weiß nur , dass man für sein Glück kämpfen muss .	10	de
+All I know is you got to fight for what you want .	11
+
+Gewiß ist der Konsens wünschenswert , aber es müssen Entscheidungen getroffen werden , wenn wir wollen , daß Europa funktioniert .	8	de
+Clearly , what we really want is consensus , but decisions will have to be taken if we want Europe to work .	5
+
+Ich habe etwas , das ich Dir sagen muss .	8	de
+I have something I want to tell you .	4
+
+lch muss mit dir reden .	1	de
+I want to talk .	1
+
+Er muss in ein Krankenhaus !	1	de
+Richard , thank God . I want him in a hospital .	6
+
+Eins müssen Sie noch für mich tun .	1	de
+I want you to do one more thing for me .	1
+
+Das muss mit der Diplomatenpost heute noch nach Lissabon .	1	de
+I want that in the diplomatic pouch to Lisbon this afternoon .	1
+
+Ich muss die richtige Entscheidung treffen .	1	de
+I want to be sure that I made the right decision .	1
+
+Ich muss dir ein Geständnis machen .	1	de
+Darling , I want to make a confession .	3
+
+Lena , ich muss mit dir reden .	3	de
+Lena , could you stop ? I want to speak to you .	7
+
+Hier ist Seymour , ich muss unbedingt mit dir reden .	5	de
+I really want to talk to you .	2
+
+Von irgendwas muss man ja leben .	2	de
+If you want to go on living , you 'd better .	2
+
+lch muss meinen Bruder anrufen .	1	de
+Let me use your phone . I want to check on my brother .	7
+
+Ich muss Will finden .	1	de
+All I want is to find Will .	2
+
+Ich muss mit dir reden .	1	de
+I want to talk to you	1
+
+- Ich muss mit dir reden .	2	de
+- I want to talk to you and your mother .	2
+
+Euch allen ... muss ich etwas mitteilen .	3	de
+All of you ... ... l want to tell you something .	6
+
+Ich muss Sie aber vor den Schlangen warnen .	1	de
+There 's only one thing I want to warn you about :	6
+
+- Ich muss noch zahlen .	2	de
+Now , wait , I want to pay for my drink .	5
+
+SobaId Sie gesund sind , müssen Sie von hier verschwinden .	5	de
+As soon as that happens , I want you off this station .	7
+
+Wir müssen uns richtig ausschlafen .	1	de
+I want you as well- rested as possible .	1
+
+Also mußt du auf den Knopf mit der 3 und der 1 drauf drücken ?	1	de
+So I want you to press number 3- 1 .	2
+
+Ich muss Sie mal was fragen .	1	de
+There 's something I want to ask you .	4
+
+- Muss ich dir die Fresse poIieren ?	1	de
+You want to get fucking beaten , Danny ?	1
+
+Ich muss mit dir sprechen .	1	de
+I want to talk to you .	1
+
+Ich muss ihr doch sagen , dass ich morgen nach Kopenhagen fahre .	1	de
+I want her to know I 'm going to Copenhagen tomorrow .	1
+
+Muß nicht sein , nur so aussehen .	0	de
+I don 't want it to be legal . I just want it to look that way .	3
+
+lch muss mir ein Bild machen .	1	de
+I still want the full picture .	2
+
+Bitte , ich muss mit dir reden .	3	de
+Please , I want to talk to you .	3
+
+Wir müssen dort ein neues Klima schaffen und wollen auch in der Frage der technischen Unterstützung eine Menge tun .	1	de
+We have to create a new climate there and we also want to do a lot on the question of technical support .	11
+
+- Ich muss kein Inspector sein .	2	de
+And it 's not like I want to be Chief .	6
+
+Ich sollte das jetzt nicht tun , aber ich muss dir sagen , du warst so natürlich bei der Antwort wegen der Außerirdischen .	9	de
+I know I shouldn 't do this , I just want you to know ... ... that you were so real in your response to the aliens .	10
+
+lch muss Sie mal was fragen .	1	de
+There 's something I want to ask you .	4
+
+Ich muss mit meinem Bruder reden .	1	de
+Wait in Danny 's room . I want to talk to my brother .	7
+
+Du mußt umdrehen und zurückfahren bis zur Gabelung .	1	de
+You want to turn it around and drive back to the fork .	1
+
+- Ich muss ... - Nachher .	2	de
+- I want to speak ...	2
+
+Sie muss da raus .	1	de
+I want her out of there .	1
+
+Ich muss mit dir reden , es ist wichtig !	1	de
+' I want to talk to you . It 's important .	2
+
+Ich muss dir was sagen . Und , was hat sie gesagt ?	1	de
+I want to tell you something what did she said ?	1
+
+Ich muss ihn finden .	1	de
+I ... I just want to see him !	4
+
+Ich muss Sie das sagen hören .	1	de
+All right , now , I want to hear you say it .	6
+
+- Ich muss in der Bar telefonieren .	2	de
+- I want to use the bar phone .	2
+
+Ich muss noch einen Anruf machen .	1	de
+Barney , Barney , I don 't want his number . I don 't want anyone 's number , okay ?	14
+
+Kommt mit mir . Es gibt etwas , was ich Euch zeigen muss .	12	de
+Come with me , there 's something I want to show you .	8
+
+Ich muss ihn sofort finden .	1	de
+And I want to find him now !	2
+
+Du , ich muss mit dir reden .	3	de
+Hey , I want to talk to you .	3
+
+Ich muss mich beschützen .	1	de
+I want to protect myself . OK .	1
+
+ManchmaI genügt es nicht , Recht zu kriegen , man muss auch Recht haben .	10	de
+Sometimes it 's not enough to be told you 're right . You want to be right too .	13
+
+lch muss all e s wiss e n.	1	de
+I want the good , the bad , the ugly .	1
+
+Ich muss dir was sagen	1	de
+There\u2019 s something I want to say to you .	4
+
+Das muss sofort aufhören .	1	de
+I want this over . Now .	1
+
+Und ich muss allein ins Bett gehen ?	2	de
+You 're quite sure you don 't want to ... ?	7
+
+Sie haben eine grosse Mauer rundherum gebaut , und jetzt muss hier aufräumt werden .	10	de
+They put up a huge wall , and now they want to clean the place up .	10
+
+Aber eins musst du mir versprechen : Dass du dich deswegen nicht in Prügeleien reinziehen lässt ... egal , was man zu dir sagt .	2	de
+But I want you to promise me one thing : that you won 't get into fights over it ... no matter what they say to you .	2
+
+Du bist meine Fantasie . Du musst wahr werden .	6	de
+But you 're my fantasy , and I want to make you real .	8
+
+Das muss dir klar sein .	1	de
+I want you to be clear with this .	1
+
+Ich trage ein Toupet . Ohne Scheiss . Ich muss auch was gestehen .	9	de
+I do , I do now , yes I do Do I want you to stay by my side	12
+
+Ich muss unbedingt was essen !	1	de
+I want to eat . Mac !	1
+
+Sarah , ich muss das machen .	3	de
+I don 't want you to get hurt .	3
+
+Du weißt , was ich für dich empfinde , Tom . Aber ich muss darüber nachdenken .	13	de
+You know how I feel , Tom , but I just want to think it over .	11
+
+Ich muss raus hier .	1	de
+I don 't want to be here anymore .	3
+
+Ich muss zu ihm .	1	de
+I want to go to him .	1
+
+Ich muß was besprechen mit dir .	1	de
+Good . There 's something I want to talk to you about .	6
+
+\u00c9ch muss te\u00c9efonieren .	1	de
+\u00c9 want to make a ca\u00c9\u00c9 .	1
+
+lch muss mit dir reden .	1	de
+I want to talk to you . Come with me .	1
+
+Bei dieser Lieferung muss alles klappen .	3	de
+I don 't want anything to go wrong with this shipment .	3
+
+Das muss nicht in den Akten stehen .	1	de
+I don 't want it in the records of the battalion .	3
+
+Dann musst du tiefer hineingehen .	1	de
+Then I want you to go deeper .	2
+
+- Kate ... - Kate , du mußt gehen .	7	de
+You don 't want to be out of control .	3
+
+- Tut mir Leid , es muss jetzt sein .	6	de
+- I 'm sorry , they want it now .	6
+
+Ich muss hier raus .	1	de
+I want to get out of here .	1
+
+Euch allen ... muss ich etwas mitteilen .	3	de
+All of you ... ... I want to tell you something .	6
+
+Muss es einer von uns sein ?	0	de
+You want to do that to one of men ?	1
+
+Warte , ich muss ihn begrüssen .	3	de
+- I want to go and say hello to him .	2
+
+Ich muss mehr wissen , bevor ich sie in Therapie gebe .	1	de
+I want to know more before committing her to that kind of care .	1
+
+Muss Ihr Junge unbedingt dabei sein ? Sheriff !	0	de
+- You gonna want your boy in on this ?	3
+
+Sag es , sonst müssen wir bezahlen .	4	de
+Tell them . They want us to pay .	4
+
+Der Mann muss so wild auf mich sein , dass er schon glaubt , er kriegt mich nie .	2	de
+I like a guy to want it so bad he thinks he isn 't gonna get it ever .	5
+
+Jani , ich muss Ihnen noch etwas sagen , bevor wir ankommen .	3	de
+Jani , there 's something I want to say before we get there .	6
+
+Ich muss einige Frösche zu Walters Labor bringen .	1	de
+There something you want to talk to me about ?	3
+
+Ich muß es zuerst sehen , das Baby .	1	de
+I want to see it first , the baby .	1
+
+Leute , ich muss mit E reden .	3	de
+If you want this acting thing to become more than a hobby ,	2
+
+Ich muss dir ein Zimmer zeigen , Eric .	1	de
+I want to show you this room , Eric .	1
+
+Politik ist die Kunst des Vorhersehens , des Vorbereitens dessen , was wir wollen , sodass wir nicht mit dem leben müssen , was wir nicht wollen .	21	de
+Politics is the art of anticipating , preparing what we would like so that we do not have to put up with what we do not want .	26
+
+- Gut , so muss es sein .	4	de
+Just the way I want it to be .	4
+
+Du bist \u00b4n hübsches Mädel , du musst nur fröhlicher werden .	7	de
+You 're a nice- Looking girl , only you want to brighten yourself up .	9
+
+Ich muss nach Hause !	1	de
+I want to go home !	1
+
+Erstens müssen alle Bullenschweine von hier verschwinden , zweitens wollen wir einen Wagen , der Polizeifunk hat .	1	de
+First , we want all the pigs out of here . Second , we want a car . . . . . . with a police radio .	3
+
+Aber mal ernsthaft , 2 Dinge musst du uber mich wissen :	6	de
+But for serious , two things you want to know about me :	7
+
+Aber mal ernsthaft , 2 Dinge musst du über mich wissen :	6	de
+But for serious , two things you want to know about me :	7
+
+- Das Schwein muss sterben !	3	de
+I want him dead . I don 't care how .	1
+
+Das muss man genau untersuchen .	1	de
+I want a complete investigation .	1
+
+Muss ich auf drei zählen ?	0	de
+You want me to count to three , like a movie ?	1
+
+Musst du immer sanft sein , vorsichtig , als wär 's dir nicht scheißegal .	0	de
+They want you to be so kind , so gentle , like you give a fuck or something .	1
+
+Es gibt da gewisse Dinge , die ich beweisen muss .	9	de
+There are ... ... certain things .... Until I can prove these things ... ... l want you to stay here with me .	16
+
+Das muss noch etwas heisser werden !	1	de
+OK , I want you guys to sing , louder !	3
+
+Zieh dich an , ich muss mit dir reden .	5	de
+Get dressed . I want to talk to you .	4
+
+Das muss alles repariert werden !	1	de
+- The government will pay ... I want you gone .	7
+
+Ich muss euch etwas sagen .	1	de
+There 's something I want you to know .	4
+
+Ich muss dir einen guten Freund vorstellen .	1	de
+I want to introduce you to a friend of mine .	1
+
+Ich muss sowieso mal raus .	1	de
+I want to walk around anyway .	1
+
+Ich muss es wissen !	1	de
+Well , Ida .... I want to know !	5
+
+Du musst jetzt gehen .	1	de
+Do you want to take advantage of to swim fast	2
+
+Ich muss zu Prinz Naresuan . Wir haben wichtige Dinge zu besprechen .	1	de
+Do I want elder brother SongKing in	2
+
+Ich muss endlich mit dir reden !	1	de
+I want to speak to you .	1
+
+- Sie müssen es in 10 schaffen .	2	de
+- I want it done in 10 .	2
+
+Es muss perfekt ablaufen .	1	de
+I want to make it perfect .	1
+
+Das muss nicht in den Akten stehen .	1	de
+I don 't want it in the records ofthe battalion .	3
+
+Hör zu , ich muss noch mal in das Lagerhaus .	4	de
+Look , I want to get back inside the warehouse .	3
+
+- Sie riefen an , New York- London , ich muss los .	10	de
+They want me on the New York - London .	1
+
+Ich muss dir etwas zeigen .	1	de
+I want to show you something .	1
+
+Ich muß mit Ihnen reden !	1	de
+I want to talk to you !	1
+
+Ich kann nicht mehr . Ich muss schlafen .	6	de
+I 'm worn out , I want to sleep .	6
+
+- Du musst es mir wiedergeben .	2	de
+- I want it back .	2
+
+Ich muß wissen : Wie entkam er ?	1	de
+I want one thing : how he escaped The Rock .	1
+
+Du musst 25 Plätze freihalten .	1	de
+Opening night , I want 25 seats set aside . - Set aside ?	4
+
+- So muß es sein .	2	de
+- That 's the way I want it .	6
+
+Sanft muß es sein .	1	de
+That 's what I want . BUCK : Okay .	4
+
+Ich muss gesenkten Hauptes ... und ganz leise gehen , leise sprechen , ich bin nicht mehr als eine Marionette , ein Gegenstand !	1	de
+I feel like an object on display in your palace ! I want to speak in a loud voice .	12
+
+lch muss mit ihm reden .	1	de
+Tell him I want to talk to him .	3
+
+Ich muss Sie aber vor den Schlangen warnen .	1	de
+There 's only one thing I want to warn you about : Snakes .	6
+
+Ich muß telefonieren .	1	de
+I want to make a call .	1
+
+Nein , ich muss sowieso wieder zurück an die Arbeit , wirklich .	3	de
+I want to talk to you , okay ?	1
+
+- Ich muss dir etwas sagen	2	de
+- There ??? s something I want to tell you .	6
+
+Wir müssen etwas fordern !	1	de
+Let us want something !	2
+
+Ich muss das loswerden !	1	de
+I want to get this off !	1
+
+\u00c9ch muss Sie sprechen .	1	de
+\u00c9 want to ta\u00c9k to you .	1
+
+Es heißt nur , sie muss es immer weiter versuchen , egal , wie frustrierend es für sie wird .	5	de
+I 've always wonder what the kid would say if it were up to him . You want to do what , now ?	17
+
+So musst du aussehen !	1	de
+That 's how I want you to look .	4
+
+Das kann Ihnen jeder sagen . Und jetzt lassen Sie mich in Ruhe , oder ich muss Sie bestrafen .	16	de
+I get to watch whatever I want while she reads her pregnancy book .	6
+
+Ich muss wissen , dass sie nicht verletzt ist .	1	de
+I want to know if she 's alright .	1
+
+Muß die Ohren untersuchen lassen .	0	de
+I want my ears checked .	1
+
+Ich muß Sie sprechen .	1	de
+I want to talk to you .	1
+
+- Für mich muss nicht gebetet werden .	3	de
+- I don 't want nobody praying for me .	4
+
+- Für dich muss das Fleisch gut durch sein .	3	de
+You want your meat raw and still breathing .	1
+
+Ich muss dir etwas sagen .	1	de
+( Sniffles ) I want to tell you something .	4
+
+- Aber ich muss Ihnen was erklären ...	3	de
+- But I want to tell you that ...	3
+
+Ich habe die halbe Nacht gegrübelt und muss dich etwas fragen .	7	de
+I was up half the night thinking . I want to ask you a question .	9
+
+Muss ihn sehen .	0	de
+I want to see him .	1
+
+Salva ? Hier ist Martin . Ich muss dich sehen .	7	de
+Salva , it" s Martin , I want to see you .	7
+
+Ziva , du musst Abby anrufen .	3	de
+Ziva, you want to call Abby .	2
+
+Das muß sowohl in der Wettbewerbsbehörde wie auch in der Energieabteilung der Kommission eine klare Aussage sein , die wir uns an die Märkte wünschen .	1	de
+We want both the competition and energy departments of the Commission to make a clear statement on that to the markets .	1
+
+Sie müssen mich schon holen !	1	de
+lf you want me , come and get me !	2
+
+- Ich muss mit dir sprechen .	2	de
+- I want to talk .	2
+
+Ich muss dir etwas sagen .	1	de
+I want to tell you something .	1
+
+Gut weil ich muss jetzt auf Toilette .	3	de
+And I don 't want to brag , but they 're filled with jelly . Thanks .	4
+
+- Ich muss Sie sprechen .	2	de
+- I want to talk to you .	2
+
+- Aber etwas müsst ihr tun .	3	de
+- There 's only one thing I want you to do .	7
+
+Wie oft muss ich das noch sagen ?	2	de
+I don 't want to say it each time .	3
+
+lch muss alles wissen .	1	de
+I want to know everything .	1
+
+Oh , bis morgen Vormittag muss alles bereit sein .	5	de
+But listen , I want it up by tomorrow morning !	4
+
+Ich muß dir etwas zeigen .	1	de
+Come here . I want to show you something , Jimmy .	4
+
+Ich muss sagen , Ihr Service ... ... könnte Verbesserung gebrauchen .	1	de
+And I want to tell you that the service here ... ... needs immediate improvement .	2
+
+Entschuldigung , ich muss hier raus .	3	de
+Excuse me , I want to get off	4
+
+- Nein , muss nicht sein .	3	de
+No , thanks . You want -	5
+
+Ich muss den anderen Ring finden .	1	de
+I want to find that other ring .	1
+
+Ich muss nachdenken .	1	de
+I want time to think .	1
+
+Peter , ich muss sagen , ich konnte das Buch nicht weglegen .	3	de
+- Peter , first of all , - Yes ? - I want to tell you ... that I could not put your book down last night .	12
+
+Ich bevorzuge es , mich als Draufgängerin zu bezeichnen . Nun gut , jetzt musst du nur hier unterschreiben , hier , hier , und die Initialen wo die kleinen Flaggen sind .	14	de
+I prefer to think of myself as a " go- getter . " All right , now you 're gonna want to sign here , here , here and initial where the little flags are .	20
+
+- Muss ich dir die Fresse polieren ?	1	de
+You want to get fucking beaten , Danny ?	1
+
+lch glaube , du warst ein böses Mädchen ... ... und ich muss dich jetzt mit meinem Lineal bestrafen .	12	de
+I think you 've been a bad girl ... ... and I want to spank you with my ruler .	12
+
+Das musst du sehen , Peaches .	1	de
+I want you to see this , Peaches .	1
+
+Du weisst , was ich für dich empfinde , Tom . Aber ich muss darüber nachdenken .	13	de
+You know how I feel , Tom , but I just want to think it over .	11
+
+Ich muss sein Testament ändern .	1	de
+I want to change his will . Can I change his will ?	1
+
+Ich muss alles sehen .	1	de
+I want to see everything you shot .	1
+
+Also , zuerst ... musst du den Kleber in allen Formen auftragen die du magst .	4	de
+So , first , you want to rub the glue on the paper in any shapes you like .	5
+
+Herr , ich muss dir etwas sagen .	3	de
+Master , I want to tell you one thing .	3
+
+Das muss ich Ihnen sagen .	1	de
+That is what I want to say to you .	4
+
+lch muss dich sprechen , Terry .	1	de
+- I want to see you , Terry .	2
+
+Muss noch mit ihnen reden .	0	de
+I want to communicate !	1
+
+Ich muss mal mit dir reden , aber draussen .	1	de
+I want a word with you outside .	1
+
+- Das muss ganz nach oben auf unsere Liste .	2	de
+- I want this at the top of our list .	2
+
+- lch muss dir was Wichtiges ...	2	de
+- I want to talk to you .	2
+
+Ich muss es wissen !	1	de
+I want to know !	1
+
+Du musst dir Gedanken über die Konsequenzen machen !	1	de
+I mean , if you want to . Okay . And , uhh , maybe the watering can there .	5
+
+Seibei ... Ich muss mit dir sprechen .	3	de
+Seibei ... ... I want to talk to you	4
+
+Du musst vorsichtig sein , Work 'us , wenn du da drin mit den ganzen Särgen schläfst .	1	de
+You want to be careful , Work 'us , when you 're sleeping in with all them coffins .	1
+
+Ich muß ihn nicht mitnehmen .	1	de
+- But I want to go .	3
+
+Du musst vorsichtig sein , mit dem was tot ist , Work 'us , denn sie werden wieder lebendig , wenn es dunkel ist .	1	de
+You want to be careful of them what 's dead , Work 'us , cos they come back to life when it 's dark .	1
+
+Aber ... warten Sie noch , ich muss Ihnen erklären , warum ich hier ... ... ein wenig sitzen bleiben musste .	7	de
+Wait a second I want to explain the motives ... why I have to stay sitting here .	4
+
+Ich muss herausfinden , wer es wagt , so etwas zu sagen .	1	de
+I want to know just who dared to say these things if I have to force my way into every house in town .	1
+
+Bleib ruhig , Roger , das muss einfach mehr aus der Hüfte kommen .	6	de
+And I can put my drink down wherever the hell I want ?	11
+
+Und diese Ehre muss geschützt bleiben .	3	de
+I want to protect what little honor remains .	1
+
+Er weiß zu viel , er muss beseitigt werden .	6	de
+He knows too much and I want him dead .	6
+
+Wir sind gerade mittendrin , ich muss mich konzentrieren ... sonst verliert man einen Finger .	6	de
+We 're in the zone over here . I don 't want to lose focus . That 's how people lose fingers , huh ?	11
+
+Aber eines mußt du wissen :	2	de
+I want you to know that ...	1
+
+Ich muss wissen , was diese Inschrift bedeutet .	1	de
+I want to know what that inscription means .	1
+
+Weil du glaubst , dort kriegen wir dich nicht , um zu tun , was du tun musst .	17	de
+You think we can 't get to you to do what we want ?	12
+
+Gehst du jetzt runter oder muss ich gehen ?	5	de
+Are you gonna go down there , or do you want me to do it ?	10
+
+Wir müssen es schnellstens finden .	1	de
+I want it found and I want it found now .	1
+
+- Cecilia , ich muss Sie sprechen .	4	de
+EVERETT : Cecilia , I want to talk . NUSSBAUM :	5
+
+Aber du mußt mich lieben .	2	de
+" Whatever you want , just name it and it 's yours .	3
+
+- mußt du mit einem Gummiband ...	1	de
+' - we 're gonna want you to bungee ...	5
+
+Ich muss es wissen !	1	de
+Well , Ida ... I want to know !	5
+
+Ich muß mit Ihnen reden !	1	de
+KAREN : I want to talk to you !	3
+
+Und diese Ehre muss geschützt bleiben	3	de
+I want to protect what little honor remains .	1
+
+Herr Günsche , ich muss unbedingt noch einmal den Führer sprechen .	4	de
+Herr Günsche , I want to speak to the Führer .	4
+
+Ich muss mit denen reden können .	1	de
+I want to be able to talk to them .	1
+
+Erstens müssen alle Bullenschweine von hier verschwinden , zweitens wollen wir einen Wagen , der Polizeifunk hat .	1	de
+First , we want all the pigs out of here . Second , we want a car ... ... with a police radio . Deliver it right out there in front .	3
+
+- Er muss aus der Toskana verschwinden .	2	de
+- I want him out of Tuscany fast .	2
+
+Baby , ich muß nur wissen ob du da sein wirst ?	3	de
+Baby , I just want to know , are you going to be there ?	4
+
+Ich sehe deine süßen Lippen und ich muss sie einfach küssen .	7	de
+I see your pretty lips and I want to kiss them ! Really ?	7
+
+- Ich muss mit Ihnen reden .	2	de
+- I want to talk to you .	2
+
+- Nein . Ich muss mit ihm reden .	4	de
+There 's something I want to talk over with him .	4
+
+Ich muss pinkeln .	1	de
+You want to come over ?	1
+
+Ich muss wissen : Wie entkam er ?	1	de
+I want one thing : how he escaped The Rock .	1
+
+Alles muss perfekt sein .	1	de
+I want everything perfect .	1
+
+Man muss böse sein .	1	de
+I want to be bad .	1
+
+Hör zu . Ich muss mit dir reden .	4	de
+I want to see you to talk to you .	1
+
+Ich glaube , du warst ein böses Mädchen ... ... und ich muss dich jetzt mit meinem Lineal bestrafen .	12	de
+I think you 've been a bad girl ... ... and I want to spank you with my ruler .	12
+
+- Ich muss etwas mit dir besprechen .	2	de
+- I want to talk to you .	2
+
+Weißt du , ich muss mich \u00b4nem Jungen nah fühlen , bevor ich mit ihm zusammen sein kann ...	4	de
+I want to find the right guy first .	1
+
+Ich muß mich übergeben .	1	de
+I want to throw up .	1
+
+Du musst immer irgendwas machen .	1	de
+You always want to be doing something .	2
+
+lch muss mehr wissen , bevor ich sie in Therapie gebe .	1	de
+I want to know more before committing her to that kind of care .	1
+
+Komm , ich muss dir was zeigen !	3	de
+Come , I want to show you something !	3
+
+Komm , ich muss mit dir reden .	3	de
+Come here . I want to talk to you .	4
+
+Es muss einen Weg geben .	1	de
+I want to figure out some way .	1
+
+Ich muss dir noch was erzählen ... - Warte . Gleich . Ja , mein Schatz ?	1	de
+Hey , listen , there 's something I want to talk to you about .	8
+
+Wie oft muss ich das noch sagen ? - Uhrzeigersinn ! Das heisst gar nichts .	2	de
+I don 't want to say it each time . \u201c Hands of a watch \u201d doesn 't mean anything .	3
+
+Macht die Tür auf , ich muss beten .	6	de
+Open the gates , I want to pray .	5
+
+Bis Samstag muss er fertig sein .	2	de
+I want it by Saturday .	1
+
+Flauschie , ich muss mit Dir reden .	3	de
+Fluffles , I want a word with you .	3
+
+Das musst du mir zeigen .	1	de
+I want you to show me .	1
+
+Nein , ich muss sowieso zurück zur Arbeit .	3	de
+I don 't want any pot .	3
+
+Hör zu , Johnny . Ich muß Sie was fragen .	6	de
+Listen , Johnny ... there 's a question I want to ask .	9
+
+lch muss mit dir reden .	1	de
+I want to talk to you .	1
+
+Wenn sie sauber sind , und ich wette , das sind sie , dann muss das gestoppt werden .	14	de
+lf they 're clean , and I 'm betting they are , I want that shipment cancelled .	13
+
+Ich muss jetzt diese Flecken hier endlich wegmachen .	1	de
+Excuse me , I want to at least clean these marks off .	4
+
+Ich muss dich was fragen .	1	de
+I want to ask you about something .	1
+
+Ich muss noch einen HaIt machen , bevor wir die Stadt verIassen .	1	de
+Although I do want to make just one stop before we Ieave town .	3
+
+- Ich muss mit dir reden .	2	de
+- I want to talk to you .	2
+
+Wenn meine Männer kämpfen , muss ich als ihre Königin doch bei ihnen sein .	5	de
+If my men fight , I want to be with them . That 's the least a queen can do for her subjects .	6
+
+Ich muss mir ein Bild machen .	1	de
+I still want the full picture .	2
+
+- Ich muss ...	2	de
+- I want to ...	2
+
+HandeIt es sich um eine neue TechnoIogie , muss es intakt bIeiben .	8	de
+If this is a new technology , a new race , I want that ship intact .	12
+
+Ich muss das sehen .	1	de
+I want to see this .	1
+
+Du musst 25 Plätze freihalten .	1	de
+Opening night , I want 25 seats set aside .	4
+
+Das müssen Sie mir beibringen .	1	de
+I want you to teach me one of those tricks .	1
+
+Ich muss jetzt neu erfinden .	1	de
+Now I want to invent .	2
+
+Fast Food muss immer möglichst schnell serviert werden .	2	de
+Fast food demands a fast pace ... because we want to present a food item ... within so many seconds , if we can do it .	9
+
+Ja , und deshalb muss ich hier weg .	4	de
+I don 't want this .	3
+
+Muss ich erst ausrasten ?	0	de
+You want me to drop the hammer , baby ?	1
+
+Ich muss dir etwas sagen , das wirklich ...	1	de
+I want to remind you of something very ...	1
+
+Ich muss Ihnen sagen , dass Sie wahnsinnig talentiert sind .	1	de
+I just want to say I think you 're really talented .	2
+
+- Ich muss kurz mit Danny reden .	2	de
+I want to talk to him .	1
+
+Wenn 's sein muss .	3	de
+Get in here . I don 't want to ... Okay .	7
+
+Ich muss unbedingt mit ihr reden .	1	de
+I just want to talk to her face to face .	2
+
+Wenn der liebe Direktor nicht einsichtig ist , muss man sich die Schuhe binden .	8	de
+If the headmaster won 't listen to reason , you might want to tie your shoe .	11
+
+Ich muss Sie sprechen .	1	de
+I just want to talk to you .	2
+
+Ich muss nicht sehen , wie du mit Victor diese Scheiße durchziehst .	1	de
+I don 't want to see you doing that shit with Victor , all right , so I 'll wait for you .	3
+
+Bitte , Frau Junge ... Ich ... Ich muss Ihnen sofort mein persönliches Testament diktieren .	8	de
+Please , Frau Junge ... ... I want to dictate my will to you .	7
+
+Muss ich die Mauer hochklettern und durchs Fenster ?	0	de
+Do you want me to climb up the wall , come through the window ? Because I will .	2
+
+Ich muss Ihnen diese Frage stellen :	1	de
+Now , the question I want to put to you is this :	5
+
+- lch muss mit dir über Mikey reden .	2	de
+- I want to talk about Mikey .	2
+
+Ich muß mal telefonieren !	1	de
+I want to make a phone call !	1
+
+lch muss dich sprechen , Terry .	1	de
+I want to see you , Terry .	1
+
+Diese Ausgangsposition muss man sich deutlich vor Augen halten , wenn man zu einer gerechten Beurteilung kommen will .	2	de
+If we want to arrive at a fair assessment of the situation , we must be clear in our own minds that this is how it started .	2
+
+- Ich muss hier aufpassen .	2	de
+I want to catch this !	1
+
+Edward , ich muss mit dir reden .	3	de
+Edward , I want to talk to you	3
+
+- Ich muss hier aufpassen .	2	de
+I want to catch this .	1
+
+Bisher hast du auch nicht gesagt , warum ich an den Kochtopf zurück muss .	13	de
+If I 'm to lose my rank and fall to housekeeping , I want to know the reason .	13
+
+Wenn ich höre , dass mehr Weiße kommen werden , muss ich lachen .	10	de
+When I hear that more whites are coming , I want to laugh .	10
+
+Wenn Sie im Zeugenstand sind , dann müssen Sie die Wahrheit sagen .	7	de
+When you get up on that stand , I want you to tell the truth .	9
+
+Hör mal , ich muß wissen , ob du Geld hast . Für die Trainingskosten .	4	de
+Listen , I want to know if you got any money for training expenses .	3
+
+- Das muss bis heute Abend sein .	2	de
+I want it cleared tonight .	1
+
+Ich muss General von Brock sprechen .	1	de
+I want to see General von Brock immediately .	1
+
+Komm zu mir , ich muss mit dir sprechen .	5	de
+Come back . I want to talk .	4
+
+Ma 'am , bitte ! Ich muss den Code entschlüsseln .	6	de
+- I want to find out where we 're going .	2
+
+Ich muss den Staat gesund und mächtig machen !	1	de
+I want to give it back its power .	1
+
+- Das muss dir nicht Leid tun !	2	de
+- I don 't want you to be sorry !	4
+
+Glaubt was ihr glauben müsst , aber ich rate dir sich daran zu gewöhnen , dass du in unserem Gästezimmer wohnen wirst .	4	de
+Believe what you want , but if I were you , I 'd believe that you 're staying in our guest room .	3
+

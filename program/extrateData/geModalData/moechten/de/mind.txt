@@ -1,0 +1,12 @@
+Sie möchten wissen , wie die Kamera in Ihr Haus kam ?	1	de
+- Never mind who that is .	2
+
+Kumpel , möchten Sie ?	2	de
+Buddy , you mind ?	3
+
+- Fragen Sie , was Sie möchten , Kindchen .	6	de
+- Speak your mind , child . - Very well .	3
+
+Nicht vieI , aber was möchten Sie ?	5	de
+Not much , but what 's on your mind ?	8
+

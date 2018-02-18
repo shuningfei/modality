@@ -1,0 +1,982 @@
+(lp0
+((lp1
+S'erlaubt'
+p2
+aS'Erlaubt'
+p3
+a(dp4
+S'dare '
+p5
+I1
+sS'may '
+p6
+I2
+sS'lets '
+p7
+I1
+sS'gives '
+p8
+I1
+sS'permission '
+p9
+I4
+sS'forbid '
+p10
+I1
+sS'said '
+p11
+I1
+sS'ok '
+p12
+I1
+sS'liberty '
+p13
+I5
+sS'allows '
+p14
+I31
+sS'allowed '
+p15
+I100
+sS'approve '
+p16
+I1
+sS'supposed '
+p17
+I2
+sS'fair '
+p18
+I3
+sS'number '
+p19
+I1
+sS'could '
+p20
+I4
+sS'goes '
+p21
+I1
+sS'permit '
+p22
+I2
+sS'leave '
+p23
+I1
+sS'mind '
+p24
+I1
+sS'allow '
+p25
+I40
+sS'can '
+p26
+I2
+sS'this '
+p27
+I1
+sS'told '
+p28
+I1
+sS'permitted '
+p29
+I5
+sS'dawdled '
+p30
+I1
+sS'enables '
+p31
+I1
+sS'let '
+p32
+I7
+sS'forbidden '
+p33
+I1
+sS'legal '
+p34
+I4
+sS'winding '
+p35
+I1
+sS'won '
+p36
+I1
+sS'tolerated '
+p37
+I1
+sS'invalid '
+p38
+I1
+sS'allowing '
+p39
+I8
+stp40
+a((lp41
+S'knast'
+p42
+aS'Knast'
+p43
+a(dp44
+S'locked '
+p45
+I2
+sS'house '
+p46
+I1
+sS'slammer '
+p47
+I7
+sS'lockdown '
+p48
+I1
+sS'hoosegow '
+p49
+I1
+sS'tenerti '
+p50
+I1
+sS'ass '
+p51
+I1
+sS'wait '
+p52
+I1
+sS'time '
+p53
+I4
+sS'lockup '
+p54
+I4
+sS'pokey '
+p55
+I1
+sS'hoag '
+p56
+I1
+sS'gamoklssdanawaseogeurae '
+p57
+I1
+sS'closet '
+p58
+I1
+sS'you '
+p59
+I1
+sS'in- '
+p60
+I2
+sS'ounces '
+p61
+I1
+sS'joint '
+p62
+I11
+sS'clink '
+p63
+I3
+sS'inside '
+p64
+I2
+sS'penitentiary '
+p65
+I3
+sS'imprisoned '
+p66
+I2
+sS'sing '
+p67
+I1
+sS'prison '
+p68
+I70
+sS'jail '
+p69
+I134
+sS'pen '
+p70
+I1
+sS'nick '
+p71
+I1
+sS'allowing '
+p72
+I4
+stp73
+a((lp74
+S'gespr\xc3\xa4chteilhabenzu'
+p75
+aS'Gespr\xc3\xa4chteilhabenzu'
+p76
+a(dp77
+S'allowing '
+p78
+I3
+stp79
+a((lp80
+S'erlaube'
+p81
+aS'Erlaube'
+p82
+a(dp83
+S'let '
+p84
+I4
+sS'permission '
+p85
+I1
+sS'won '
+p86
+I1
+sS'permit '
+p87
+I4
+sS'allowing '
+p88
+I3
+sS'allow '
+p89
+I19
+stp90
+a((lp91
+S'erlaubte'
+p92
+aS'Erlaubte'
+p93
+a(dp94
+S'allowed '
+p95
+I11
+sS'allowing '
+p96
+I3
+sS'allow '
+p97
+I1
+stp98
+a((lp99
+S'erlauben'
+p100
+aS'Erlauben'
+p101
+a(dp102
+S'consent '
+p103
+I1
+sS'may '
+p104
+I2
+sS'permission '
+p105
+I4
+sS'ok '
+p106
+I1
+sS'have '
+p107
+I2
+sS'approve '
+p108
+I2
+sS'allowed '
+p109
+I4
+sS'break '
+p110
+I1
+sS'pardon '
+p111
+I1
+sS'do '
+p112
+I9
+sS'dare '
+p113
+I2
+sS'hump '
+p114
+I1
+sS'permit '
+p115
+I11
+sS'watch '
+p116
+I1
+sS'allow '
+p117
+I104
+sS'slipping '
+p118
+I1
+sS'afford '
+p119
+I15
+sS'i '
+p120
+I1
+sS'let '
+p121
+I14
+sS'excuse '
+p122
+I2
+sS'mind '
+p123
+I6
+sS'authorize '
+p124
+I1
+sS'allows '
+p125
+I2
+sS'allowing '
+p126
+I2
+stp127
+a((lp128
+S'bremskolben'
+p129
+aS'Bremskolben'
+p130
+a(dp131
+S'allowing '
+p132
+I1
+stp133
+a((lp134
+S'zuzulassen'
+p135
+aS'Zuzulassen'
+p136
+a(dp137
+S'let '
+p138
+I3
+sS'happen '
+p139
+I1
+sS'allowing '
+p140
+I1
+sS'deny '
+p141
+I1
+stp142
+a((lp143
+S'wodurch'
+p144
+aS'Wodurch'
+p145
+a(dp146
+S'fling '
+p147
+I2
+sS'from '
+p148
+I2
+sS'makes '
+p149
+I2
+sS'causes '
+p150
+I1
+sS'how '
+p151
+I2
+sS'want '
+p152
+I2
+sS'causing '
+p153
+I1
+sS'what '
+p154
+I3
+sS'over '
+p155
+I1
+sS'fix '
+p156
+I1
+sS'allowing '
+p157
+I1
+sS'which '
+p158
+I5
+stp159
+a((lp160
+S'schlussendlich'
+p161
+aS'Schlussendlich'
+p162
+a(dp163
+S'work '
+p164
+I1
+sS'suddenly '
+p165
+I1
+sS'eventually '
+p166
+I7
+sS'end '
+p167
+I1
+sS'ultimately '
+p168
+I2
+sS'finally '
+p169
+I15
+sS'snlckerlng '
+p170
+I1
+sS'allowing '
+p171
+I1
+sS'closing '
+p172
+I2
+stp173
+a((lp174
+S'auszuwischen'
+p175
+aS'Auszuwischen'
+p176
+a(dp177
+S'boxing '
+p178
+I1
+sS'mess '
+p179
+I1
+sS'milking '
+p180
+I1
+sS'allowing '
+p181
+I1
+stp182
+a((lp183
+S'systemfehler'
+p184
+aS'Systemfehler'
+p185
+a(dp186
+S'error '
+p187
+I6
+sS'malfunction '
+p188
+I1
+sS'allowing '
+p189
+I1
+stp190
+a((lp191
+S'will'
+p192
+aS'Will'
+p193
+a(dp194
+S'dare '
+p195
+I1
+sS'going '
+p196
+I11
+sS'am '
+p197
+I31
+sS'smash '
+p198
+I1
+sS'no '
+p199
+I2
+sS'd '
+p200
+I1
+sS'would '
+p201
+I40
+sS"'ii "
+p202
+I1
+sS'mean '
+p203
+I14
+sS'wishes '
+p204
+I3
+sS'stay '
+p205
+I1
+sS'hateful '
+p206
+I1
+sS'course '
+p207
+I1
+sS'll '
+p208
+I1
+sS'did '
+p209
+I9
+sS'gotta '
+p210
+I9
+sS'buying '
+p211
+I1
+sS'ready '
+p212
+I1
+sS'won '
+p213
+I153
+sS'wont '
+p214
+I2
+sS'try '
+p215
+I13
+sS'hope '
+p216
+I2
+sS'cut '
+p217
+I1
+sS'penises '
+p218
+I1
+sS'came '
+p219
+I13
+sS'welcome '
+p220
+I1
+sS'pairs '
+p221
+I1
+sS'wants, '
+p222
+I1
+sS'grind '
+p223
+I1
+sS'please '
+p224
+I7
+sS'the '
+p225
+I1
+sS"'ve "
+p226
+I7
+sS'let '
+p227
+I8
+sS'tried '
+p228
+I1
+sS'hermaphrodite '
+p229
+I1
+sS'hate '
+p230
+I4
+sS'have '
+p231
+I10
+sS'refuses '
+p232
+I2
+sS'will, '
+p233
+I2
+sS'demand '
+p234
+I1
+sS'by '
+p235
+I1
+sS'determined '
+p236
+I1
+sS'me '
+p237
+I29
+sS'know '
+p238
+I3
+sS'getting '
+p239
+I3
+sS"'want "
+p240
+I1
+sS'got '
+p241
+I12
+sS'has '
+p242
+I5
+sS"'ll "
+p243
+I111
+sS'wanting '
+p244
+I22
+sS'needs '
+p245
+I14
+sS'decided '
+p246
+I2
+sS'desire '
+p247
+I2
+sS'should '
+p248
+I3
+sS'just '
+p249
+I8
+sS'could '
+p250
+I6
+sS'come '
+p251
+I1
+sS'find '
+p252
+I1
+sS'make '
+p253
+I1
+sS'wouldn '
+p254
+I5
+sS'goes '
+p255
+I1
+sS'thinks '
+p256
+I2
+sS'is '
+p257
+I72
+sS'she '
+p258
+I2
+sS'recommending '
+p259
+I1
+sS'after '
+p260
+I2
+sS'asked '
+p261
+I4
+sS'rolled '
+p262
+I1
+sS'told '
+p263
+I2
+sS'obsession '
+p264
+I1
+sS'detentions '
+p265
+I1
+sS'say '
+p266
+I2
+sS'suits '
+p267
+I1
+sS'went '
+p268
+I2
+sS'maybe '
+p269
+I1
+sS'out '
+p270
+I1
+sS"'s "
+p271
+I211
+sS'must '
+p272
+I1
+sS'cannot '
+p273
+I1
+sS'seeker '
+p274
+I1
+sS'wi '
+p275
+I1
+sS'allowing '
+p276
+I1
+sS'suggests '
+p277
+I2
+sS'decides '
+p278
+I1
+sS'for '
+p279
+I3
+sS'wanna '
+p280
+I797
+sS'want '
+p281
+I5931
+sS'likes '
+p282
+I7
+sS'i '
+p283
+I1
+sS'bring '
+p284
+I1
+sS'girlfriend '
+p285
+I1
+sS'chuck '
+p286
+I1
+sS'own '
+p287
+I1
+sS'wants '
+p288
+I1810
+sS'sure '
+p289
+I1
+sS'baby '
+p290
+I1
+sS'right '
+p291
+I1
+sS'if '
+p292
+I2
+sS'epidural '
+p293
+I1
+sS'choice '
+p294
+I1
+sS'makin '
+p295
+I1
+sS'interested '
+p296
+I3
+sS'bitch '
+p297
+I1
+sS'like '
+p298
+I28
+sS'doesn '
+p299
+I51
+sS'allison '
+p300
+I1
+sS'couldn '
+p301
+I1
+sS'pleases '
+p302
+I5
+sS'don '
+p303
+I353
+sS'eyebrow '
+p304
+I1
+sS'what '
+p305
+I1
+sS'means '
+p306
+I5
+sS'said '
+p307
+I6
+sS'tries '
+p308
+I3
+sS'plans '
+p309
+I4
+sS'wills '
+p310
+I5
+sS'give '
+p311
+I4
+sS'william '
+p312
+I6
+sS'wa '
+p313
+I1
+sS'trying '
+p314
+I153
+sS'wollt '
+p315
+I1
+sS'ask '
+p316
+I10
+sS'take '
+p317
+I2
+sS'asking '
+p318
+I7
+sS'will '
+p319
+I652
+sS'to '
+p320
+I136
+sS'dreamed '
+p321
+I1
+sS'gonna '
+p322
+I9
+sS"'d "
+p323
+I88
+sS'mouth '
+p324
+I2
+sS'plan '
+p325
+I1
+sS'comes '
+p326
+I1
+sS'minuun '
+p327
+I2
+sS'well '
+p328
+I3
+sS'wish '
+p329
+I18
+sS'keep '
+p330
+I1
+sS'says '
+p331
+I6
+sS', '
+p332
+I2
+sS'wantto '
+p333
+I1
+sS'do '
+p334
+I113
+sS"'m "
+p335
+I339
+sS'willing '
+p336
+I14
+sS'call '
+p337
+I1
+sS'sealed '
+p338
+I1
+sS'eager '
+p339
+I1
+sS'does '
+p340
+I68
+sS'a '
+p341
+I1
+sS'asks '
+p342
+I3
+sS'sesame '
+p343
+I1
+sS'can '
+p344
+I37
+sS'arena '
+p345
+I1
+sS'both '
+p346
+I1
+sS'looking '
+p347
+I4
+sS'tell '
+p348
+I1
+sS'chooses '
+p349
+I2
+sS'my '
+p350
+I1
+sS'shall '
+p351
+I1
+sS'intend '
+p352
+I2
+sS'get '
+p353
+I6
+sS'wanted '
+p354
+I136
+sS'need '
+p355
+I143
+sS'about '
+p356
+I1
+sS'dread '
+p357
+I2
+stp358
+a((lp359
+S'erm\xc3\xb6glichte'
+p360
+aS'Erm\xc3\xb6glichte'
+p361
+a(dp362
+S'allowing '
+p363
+I1
+stp364
+a.

@@ -1,0 +1,1141 @@
+(lp0
+((lp1
+S'erfolgreich'
+p2
+aS'Erfolgreich'
+p3
+a(dp4
+S'one '
+p5
+I1
+sS'correctly '
+p6
+I1
+sS'sucessfully '
+p7
+I1
+sS'job '
+p8
+I1
+sS'fruitful '
+p9
+I1
+sS'well '
+p10
+I3
+sS'succeeded '
+p11
+I13
+sS'succeeding '
+p12
+I1
+sS'success '
+p13
+I8
+sS'succeeds '
+p14
+I1
+sS'talk '
+p15
+I1
+sS'successfully '
+p16
+I20
+sS'successfull '
+p17
+I1
+sS'gangbusters '
+p18
+I2
+sS'succeed '
+p19
+I22
+sS'accomplished '
+p20
+I4
+sS'works '
+p21
+I1
+sS'wassuccessful '
+p22
+I1
+sS'effectively '
+p23
+I2
+sS'taking '
+p24
+I2
+sS'successful '
+p25
+I57
+sS'cool '
+p26
+I1
+sS'glowing '
+p27
+I1
+sS'splash '
+p28
+I1
+sS'thriving '
+p29
+I1
+stp30
+a((lp31
+S'erfolg'
+p32
+aS'Erfolg'
+p33
+a(dp34
+S'triumph '
+p35
+I3
+sS'anyone '
+p36
+I1
+sS'working '
+p37
+I1
+sS'go '
+p38
+I1
+sS'accomplish '
+p39
+I2
+sS'achievement '
+p40
+I2
+sS'luck '
+p41
+I20
+sS'succeeding '
+p42
+I3
+sS'making '
+p43
+I2
+sS'well '
+p44
+I1
+sS'halliburton '
+p45
+I1
+sS'succeeded '
+p46
+I9
+sS'work '
+p47
+I3
+sS'hit '
+p48
+I5
+sS'unsuccessful '
+p49
+I1
+sS'annie '
+p50
+I1
+sS'accomplishment '
+p51
+I2
+sS'succeeds '
+p52
+I3
+sS'unsuccessfully '
+p53
+I2
+sS'look '
+p54
+I2
+sS'successes '
+p55
+I1
+sS'success '
+p56
+I118
+sS'made '
+p57
+I4
+sS'moving '
+p58
+I1
+sS'great '
+p59
+I1
+sS'succeed '
+p60
+I19
+sS'outcome '
+p61
+I1
+sS'days '
+p62
+I1
+sS'famous '
+p63
+I1
+sS'prosperity '
+p64
+I1
+sS'successful '
+p65
+I10
+sS'godspeed '
+p66
+I3
+sS'successfully '
+p67
+I1
+sS'pack '
+p68
+I1
+sS'here '
+p69
+I1
+sS'victory '
+p70
+I5
+stp71
+a((lp72
+S'gelungen'
+p73
+aS'Gelungen'
+p74
+a(dp75
+S'ones '
+p76
+I1
+sS'managed '
+p77
+I4
+sS'did '
+p78
+I3
+sS'succeeded '
+p79
+I6
+sS'manage '
+p80
+I1
+sS'got '
+p81
+I1
+sS'could '
+p82
+I1
+sS'couldn '
+p83
+I3
+sS'teed '
+p84
+I1
+sS'good '
+p85
+I1
+sS'worked '
+p86
+I1
+sS'succeed '
+p87
+I1
+sS'screwed '
+p88
+I1
+sS'job '
+p89
+I1
+sS'able '
+p90
+I3
+sS'last '
+p91
+I2
+stp92
+a((lp93
+S'gegl\xc3\xbcckt'
+p94
+aS'Gegl\xc3\xbcckt'
+p95
+a(dp96
+S'trade '
+p97
+I1
+sS'expedition '
+p98
+I1
+sS'succeeded '
+p99
+I3
+sS'mean '
+p100
+I1
+sS'accomplished '
+p101
+I2
+stp102
+a((lp103
+S'geschafft'
+p104
+aS'Geschafft'
+p105
+a(dp106
+S'messed '
+p107
+I1
+sS'down '
+p108
+I2
+sS'making '
+p109
+I2
+sS'$20 '
+p110
+I1
+sS'ugh '
+p111
+I1
+sS'did '
+p112
+I27
+sS'gotten '
+p113
+I2
+sS'solve '
+p114
+I1
+sS'manage '
+p115
+I12
+sS'pulled '
+p116
+I3
+sS'it '
+p117
+I5
+sS'accomplished '
+p118
+I7
+sS'god '
+p119
+I1
+sS'fine '
+p120
+I1
+sS'ha '
+p121
+I1
+sS'cherry '
+p122
+I1
+sS'successful '
+p123
+I1
+sS'ouch '
+p124
+I1
+sS'house '
+p125
+I1
+sS'got '
+p126
+I8
+sS'afro '
+p127
+I1
+sS'impressions '
+p128
+I1
+sS'exam '
+p129
+I1
+sS'finished '
+p130
+I6
+sS'could '
+p131
+I1
+sS'make '
+p132
+I71
+sS'good '
+p133
+I3
+sS'time '
+p134
+I1
+sS'doing '
+p135
+I1
+sS'taken '
+p136
+I1
+sS'volcano '
+p137
+I1
+sS'way '
+p138
+I3
+sS'able '
+p139
+I3
+sS'managed '
+p140
+I49
+sS'through '
+p141
+I11
+sS'tip '
+p142
+I1
+sS'crewman '
+p143
+I1
+sS'out '
+p144
+I3
+sS'here '
+p145
+I1
+sS'fred '
+p146
+I1
+sS'sprung '
+p147
+I1
+sS'carried '
+p148
+I1
+sS'survive '
+p149
+I1
+sS'done '
+p150
+I56
+sS'oughta '
+p151
+I1
+sS'goob '
+p152
+I1
+sS'there '
+p153
+I1
+sS'home '
+p154
+I1
+sS'worked '
+p155
+I1
+sS'juggling '
+p156
+I1
+sS'needed '
+p157
+I1
+sS'achieved '
+p158
+I1
+sS'visuals '
+p159
+I1
+sS'couldn '
+p160
+I2
+sS'off '
+p161
+I3
+sS'forward '
+p162
+I1
+sS'smart '
+p163
+I1
+sS'held '
+p164
+I1
+sS'bandage '
+p165
+I1
+sS'charlie '
+p166
+I1
+sS'okay '
+p167
+I3
+sS'cardiac '
+p168
+I1
+sS'chimp '
+p169
+I1
+sS'tapped '
+p170
+I1
+sS'snap '
+p171
+I1
+sS'well '
+p172
+I1
+sS'knackered '
+p173
+I1
+sS'endured '
+p174
+I1
+sS'colin '
+p175
+I1
+sS'succeeded '
+p176
+I2
+sS'invest '
+p177
+I1
+sS'clear '
+p178
+I1
+sS'away '
+p179
+I3
+sS'worry '
+p180
+I1
+sS'brad '
+p181
+I1
+sS'does, '
+p182
+I1
+sS'beat '
+p183
+I3
+sS'made '
+p184
+I162
+sS'longer '
+p185
+I1
+sS'long '
+p186
+I1
+sS'verge '
+p187
+I1
+sS'free '
+p188
+I1
+sS'get '
+p189
+I5
+sS'nailed '
+p190
+I1
+sS'weight '
+p191
+I1
+sS'finally '
+p192
+I3
+sS'hold '
+p193
+I1
+sS'do '
+p194
+I6
+sS'yeah '
+p195
+I1
+stp196
+a((lp197
+S'klappt'
+p198
+aS'Klappt'
+p199
+a(dp200
+S'working '
+p201
+I19
+sS'would '
+p202
+I2
+sS"'ll "
+p203
+I2
+sS'fails '
+p204
+I2
+sS'looks '
+p205
+I1
+sS'easy '
+p206
+I1
+sS'well '
+p207
+I1
+sS'happens, '
+p208
+I1
+sS'succeeded '
+p209
+I1
+sS'work '
+p210
+I31
+sS'fail '
+p211
+I1
+sS'saved '
+p212
+I1
+sS'thump '
+p213
+I1
+sS'worked '
+p214
+I4
+sS'naked '
+p215
+I1
+sS'truth '
+p216
+I1
+sS'does '
+p217
+I2
+sS'can '
+p218
+I3
+sS'doesn '
+p219
+I1
+sS'goes '
+p220
+I4
+sS'sick- '
+p221
+I1
+sS'works '
+p222
+I38
+sS'wrong '
+p223
+I3
+sS'get '
+p224
+I2
+sS'won\\u2019 '
+p225
+I1
+sS"'s "
+p226
+I2
+sS'secure '
+p227
+I1
+sS'redoing '
+p228
+I1
+sS'happen '
+p229
+I2
+sS'cool '
+p230
+I1
+sS'will '
+p231
+I2
+sS'along '
+p232
+I1
+stp233
+a((lp234
+S'gab'
+p235
+aS'Gab'
+p236
+a(dp237
+S'ided '
+p238
+I1
+sS'weren '
+p239
+I12
+sS'ahold '
+p240
+I2
+sS'fed '
+p241
+I1
+sS'created '
+p242
+I1
+sS'there '
+p243
+I7
+sS'got '
+p244
+I14
+sS'sent '
+p245
+I2
+sS'has '
+p246
+I5
+sS'at '
+p247
+I1
+sS"'d "
+p248
+I2
+sS'given '
+p249
+I17
+sS'left '
+p250
+I4
+sS'shouldn '
+p251
+I1
+sS'admitted '
+p252
+I1
+sS'lost '
+p253
+I1
+sS'caved '
+p254
+I2
+sS'dropped '
+p255
+I1
+sS'did '
+p256
+I30
+sS', '
+p257
+I5
+sS'began '
+p258
+I1
+sS'didn '
+p259
+I12
+sS'could '
+p260
+I4
+sS'since '
+p261
+I1
+sS'brought '
+p262
+I1
+sS'gives '
+p263
+I1
+sS'seen '
+p264
+I1
+sS'occurred '
+p265
+I3
+sS'spent '
+p266
+I5
+sS'passed '
+p267
+I4
+sS'saw '
+p268
+I2
+sS'handed '
+p269
+I8
+sS'were '
+p270
+I165
+sS'posed '
+p271
+I1
+sS'gab '
+p272
+I1
+sS'pretended '
+p273
+I4
+sS'issued '
+p274
+I1
+sS'happened '
+p275
+I3
+sS'couldn '
+p276
+I1
+sS'announced '
+p277
+I1
+sS'made '
+p278
+I12
+sS'delivered '
+p279
+I1
+sS'black '
+p280
+I1
+sS'gave '
+p281
+I409
+sS'succeeded '
+p282
+I1
+sS'was '
+p283
+I566
+sS'existed '
+p284
+I2
+sS'been '
+p285
+I74
+sS'wasn '
+p286
+I40
+sS'went '
+p287
+I3
+sS'hands '
+p288
+I3
+sS'... '
+p289
+I1
+sS'surrendered '
+p290
+I5
+sS'helped '
+p291
+I1
+sS'had '
+p292
+I55
+sS'yeah '
+p293
+I1
+sS'slipped '
+p294
+I1
+sS'give '
+p295
+I7
+sS'known '
+p296
+I1
+sS'offered '
+p297
+I1
+sS"'s "
+p298
+I29
+sS'have '
+p299
+I3
+sS'put '
+p300
+I1
+sS'blamed '
+p301
+I3
+sS'hasn '
+p302
+I1
+sS'told '
+p303
+I1
+sS'took '
+p304
+I1
+sS'any '
+p305
+I1
+stp306
+a((lp307
+S'gl\xc3\xbcck'
+p308
+aS'Gl\xc3\xbcck'
+p309
+a(dp310
+S'better '
+p311
+I1
+sS'sue '
+p312
+I1
+sS'happy '
+p313
+I8
+sS'thankfully '
+p314
+I1
+sS'luck '
+p315
+I790
+sS'shot '
+p316
+I1
+sS'articulate '
+p317
+I1
+sS'godspeed '
+p318
+I3
+sS'happiness '
+p319
+I93
+sS'it '
+p320
+I1
+sS'journey '
+p321
+I1
+sS'tomorrow '
+p322
+I1
+sS'fortunate '
+p323
+I21
+sS'god '
+p324
+I6
+sS'chance '
+p325
+I1
+sS'lumps '
+p326
+I1
+sS'least '
+p327
+I1
+sS'poor '
+p328
+I1
+sS'best '
+p329
+I2
+sS'fi '
+p330
+I1
+sS'goodness '
+p331
+I4
+sS'luckyi '
+p332
+I1
+sS'iuck '
+p333
+I2
+sS'probably '
+p334
+I1
+sS'bye '
+p335
+I1
+sS"'ll "
+p336
+I1
+sS'second '
+p337
+I1
+sS'iucky '
+p338
+I1
+sS'or '
+p339
+I1
+sS'blessing '
+p340
+I4
+sS'game '
+p341
+I2
+sS'glad '
+p342
+I9
+sS'come '
+p343
+I1
+sS'yes '
+p344
+I1
+sS'good '
+p345
+I6
+sS"'em "
+p346
+I1
+sS'dollar '
+p347
+I1
+sS'champagne '
+p348
+I1
+sS'mommy '
+p349
+I1
+sS'unlucky '
+p350
+I4
+sS'tricks '
+p351
+I1
+sS'lucked '
+p352
+I4
+sS'close '
+p353
+I2
+sS'bliss '
+p354
+I4
+sS'lucky '
+p355
+I478
+sS'riddance '
+p356
+I1
+sS'alguma '
+p357
+I1
+sS'mercy '
+p358
+I1
+sS'jack '
+p359
+I1
+sS'luckily '
+p360
+I21
+sS'happily '
+p361
+I1
+sS'kiitos '
+p362
+I1
+sS'sure '
+p363
+I1
+sS'right '
+p364
+I1
+sS'luckier '
+p365
+I3
+sS'rallo '
+p366
+I1
+sS'cell '
+p367
+I1
+sS'serendipitousactually '
+p368
+I1
+sS'blessings '
+p369
+I2
+sS'brace '
+p370
+I1
+sS'olivia '
+p371
+I1
+sS'alackaday '
+p372
+I2
+sS'warrant '
+p373
+I1
+sS'darling '
+p374
+I1
+sS'possibly '
+p375
+I1
+sS'enough '
+p376
+I2
+sS'fortunes '
+p377
+I1
+sS'odds '
+p378
+I2
+sS'bitching '
+p379
+I1
+sS'care '
+p380
+I1
+sS'big '
+p381
+I1
+sS'ahh '
+p382
+I1
+sS'fortunately '
+p383
+I21
+sS'seren '
+p384
+I1
+sS'meet '
+p385
+I1
+sS'well '
+p386
+I2
+sS', '
+p387
+I1
+sS'succeeded '
+p388
+I1
+sS'enjoyment '
+p389
+I1
+sS'yyo '
+p390
+I1
+sS'luck, '
+p391
+I4
+sS'fortune '
+p392
+I32
+sS'chances '
+p393
+I1
+sS'hello '
+p394
+I1
+sS'luckily, '
+p395
+I2
+sS'luckiest '
+p396
+I1
+sS'i '
+p397
+I1
+sS'suerte '
+p398
+I2
+sS'thing '
+p399
+I10
+sS'back '
+p400
+I1
+stp401
+a.

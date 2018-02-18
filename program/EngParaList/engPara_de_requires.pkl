@@ -1,0 +1,831 @@
+(lp0
+((lp1
+S'erfordert'
+p2
+aS'Erfordert'
+p3
+a(dp4
+S'takes '
+p5
+I6
+sS'gonna '
+p6
+I2
+sS'demands '
+p7
+I5
+sS'require '
+p8
+I7
+sS'needs '
+p9
+I5
+sS'requires '
+p10
+I38
+stp11
+a((lp12
+S'verlangt'
+p13
+aS'Verlangt'
+p14
+a(dp15
+S'required '
+p16
+I2
+sS'lighten '
+p17
+I1
+sS'want '
+p18
+I5
+sS'worries '
+p19
+I1
+sS'called '
+p20
+I1
+sS'comes '
+p21
+I2
+sS'demanded '
+p22
+I4
+sS'dig '
+p23
+I1
+sS'dictates '
+p24
+I1
+sS'skinning '
+p25
+I1
+sS'requires '
+p26
+I24
+sS'says '
+p27
+I2
+sS'wants '
+p28
+I10
+sS'require '
+p29
+I1
+sS'command '
+p30
+I1
+sS'favor '
+p31
+I1
+sS'is '
+p32
+I2
+sS'him '
+p33
+I1
+sS'demanding '
+p34
+I3
+sS'charged '
+p35
+I1
+sS'asks '
+p36
+I4
+sS'does '
+p37
+I1
+sS'takes '
+p38
+I1
+sS'asked '
+p39
+I12
+sS'hmm '
+p40
+I1
+sS'told '
+p41
+I2
+sS'it '
+p42
+I1
+sS'insisting '
+p43
+I1
+sS'works '
+p44
+I1
+sS'selskap '
+p45
+I1
+sS'ordered '
+p46
+I1
+sS'charge '
+p47
+I2
+sS'stretch '
+p48
+I2
+sS'demands '
+p49
+I22
+sS'consuming '
+p50
+I1
+sS'wanted '
+p51
+I5
+sS'requested '
+p52
+I6
+sS'ask '
+p53
+I41
+sS'dated '
+p54
+I1
+sS'requirement '
+p55
+I1
+sS'asking '
+p56
+I15
+sS'request '
+p57
+I2
+sS'requests '
+p58
+I2
+stp59
+a((lp60
+S'ben\xc3\xb6tigt'
+p61
+aS'Ben\xc3\xb6tigt'
+p62
+a(dp63
+S'required '
+p64
+I10
+sS'cheat '
+p65
+I1
+sS'needed '
+p66
+I7
+sS'roadbeg '
+p67
+I1
+sS'takes '
+p68
+I15
+sS'does '
+p69
+I2
+sS'middle '
+p70
+I1
+sS'class '
+p71
+I1
+sS'require '
+p72
+I1
+sS'responding '
+p73
+I1
+sS'need '
+p74
+I16
+sS'saying '
+p75
+I1
+sS'needs '
+p76
+I32
+sS'requires '
+p77
+I21
+sS'doctor '
+p78
+I1
+sS'errr '
+p79
+I1
+sS'warrant '
+p80
+I1
+stp81
+a((lp82
+S'braucht'
+p83
+aS'Braucht'
+p84
+a(dp85
+S'deserves '
+p86
+I1
+sS'use '
+p87
+I4
+sS'for '
+p88
+I2
+sS'has '
+p89
+I3
+sS'makings '
+p90
+I2
+sS'would '
+p91
+I2
+sS'living '
+p92
+I1
+sS'needs '
+p93
+I1004
+sS'without '
+p94
+I1
+sS'shouldn '
+p95
+I1
+sS'bigger '
+p96
+I1
+sS'should '
+p97
+I3
+sS'depending '
+p98
+I2
+sS'just '
+p99
+I1
+sS'bookie '
+p100
+I1
+sS'need '
+p101
+I417
+sS'want '
+p102
+I5
+sS'wants '
+p103
+I8
+sS'do '
+p104
+I2
+sS'gotta '
+p105
+I4
+sS'really '
+p106
+I1
+sS'find '
+p107
+I1
+sS'require '
+p108
+I1
+sS'tames '
+p109
+I1
+sS'using '
+p110
+I2
+sS'won '
+p111
+I1
+sS'sandy '
+p112
+I1
+sS'youprotect '
+p113
+I1
+sS'is '
+p114
+I3
+sS'took '
+p115
+I2
+sS'not '
+p116
+I1
+sS'does '
+p117
+I34
+sS'needed '
+p118
+I39
+sS'takes '
+p119
+I120
+sS'doesn '
+p120
+I15
+sS'corners '
+p121
+I1
+sS'it '
+p122
+I1
+sS'tuco '
+p123
+I1
+sS'don '
+p124
+I9
+sS'uses '
+p125
+I2
+sS'nook '
+p126
+I1
+sS'take- '
+p127
+I2
+sS'maybe '
+p128
+I1
+sS'taking '
+p129
+I7
+sS'south '
+p130
+I1
+sS'are '
+p131
+I1
+sS'put '
+p132
+I1
+sS'needing '
+p133
+I1
+sS'sentific '
+p134
+I1
+sS"'s "
+p135
+I17
+sS'have '
+p136
+I12
+sS'must '
+p137
+I9
+sS'requires '
+p138
+I9
+sS'take '
+p139
+I37
+sS'will '
+p140
+I1
+sS'pillowcase '
+p141
+I2
+stp142
+a((lp143
+S'ben\\u00c3\\u00b6tigt'
+p144
+aS'Ben\\u00c3\\u00b6tigt'
+p145
+a(dp146
+S'requires '
+p147
+I4
+stp148
+a((lp149
+S'n\xc3\xb6tig'
+p150
+aS'N\xc3\xb6tig'
+p151
+a(dp152
+S'vineyard '
+p153
+I1
+sS'house '
+p154
+I1
+sS'da '
+p155
+I1
+sS'use '
+p156
+I4
+sS'jilt '
+p157
+I1
+sS'no '
+p158
+I2
+sS'ok '
+p159
+I1
+sS'needs '
+p160
+I10
+sS'alright '
+p161
+I1
+sS'shouldn '
+p162
+I1
+sS'unnecessary '
+p163
+I8
+sS'problem '
+p164
+I1
+sS'dave '
+p165
+I1
+sS'be '
+p166
+I2
+sS'really '
+p167
+I3
+sS'necessary '
+p168
+I161
+sS'due '
+p169
+I2
+sS'smart- '
+p170
+I1
+sS'program '
+p171
+I1
+sS'call '
+p172
+I1
+sS'bad '
+p173
+I1
+sS"'ll "
+p174
+I1
+sS'flowers '
+p175
+I1
+sS'required '
+p176
+I4
+sS'needed '
+p177
+I27
+sS'takes '
+p178
+I59
+sS'arse '
+p179
+I1
+sS'see '
+p180
+I1
+sS'gunnar '
+p181
+I1
+sS'nessessary '
+p182
+I1
+sS'needy '
+p183
+I1
+sS'bother '
+p184
+I7
+sS'done '
+p185
+I1
+sS'okay '
+p186
+I7
+sS'all '
+p187
+I1
+sS'necessary, '
+p188
+I1
+sS'give '
+p189
+I1
+sS'fine '
+p190
+I6
+sS'night '
+p191
+I1
+sS'need '
+p192
+I95
+sS'have '
+p193
+I29
+sS'woman '
+p194
+I1
+sS'requires '
+p195
+I2
+sS'take '
+p196
+I3
+sS'kabul '
+p197
+I1
+sS'to '
+p198
+I2
+sS'private '
+p199
+I1
+sS'yourself '
+p200
+I1
+sS'storm '
+p201
+I1
+stp202
+a((lp203
+S'bedarf'
+p204
+aS'Bedarf'
+p205
+a(dp206
+S'deserves '
+p207
+I1
+sS'repopulate '
+p208
+I2
+sS'require '
+p209
+I2
+sS'takes '
+p210
+I5
+sS'demands '
+p211
+I2
+sS'dick '
+p212
+I1
+sS'jeff '
+p213
+I1
+sS'necessary '
+p214
+I1
+sS'would '
+p215
+I2
+sS'pasteur '
+p216
+I2
+sS'need '
+p217
+I20
+sS'needs '
+p218
+I3
+sS'demand '
+p219
+I3
+sS'requires '
+p220
+I2
+sS'requirea '
+p221
+I1
+sS'particular '
+p222
+I1
+sS'um '
+p223
+I1
+stp224
+a((lp225
+S'pr\xc3\xa4zises'
+p226
+aS'Pr\xc3\xa4zises'
+p227
+a(dp228
+S'requires '
+p229
+I1
+sS'precision '
+p230
+I1
+stp231
+a((lp232
+S'm\xc3\xbchewaltung'
+p233
+aS'M\xc3\xbchewaltung'
+p234
+a(dp235
+S'requires '
+p236
+I1
+stp237
+a((lp238
+S'besagt'
+p239
+aS'Besagt'
+p240
+a(dp241
+S'does '
+p242
+I1
+sS'says '
+p243
+I21
+sS'shows '
+p244
+I1
+sS'said '
+p245
+I3
+sS'requires '
+p246
+I1
+sS'this- '
+p247
+I1
+sS'states '
+p248
+I4
+stp249
+a((lp250
+S'behutsam'
+p251
+aS'Behutsam'
+p252
+a(dp253
+S'ones '
+p254
+I1
+sS'gentle '
+p255
+I8
+sS'professor '
+p256
+I1
+sS'tread '
+p257
+I1
+sS'gently '
+p258
+I9
+sS'cautiously '
+p259
+I2
+sS'don '
+p260
+I1
+sS'exactly '
+p261
+I1
+sS'rose '
+p262
+I1
+sS'handled '
+p263
+I1
+sS'gurgitating '
+p264
+I1
+sS'requires '
+p265
+I1
+sS'carefully '
+p266
+I2
+sS'nurturing '
+p267
+I1
+sS'cam '
+p268
+I1
+sS'delicate '
+p269
+I2
+stp270
+a((lp271
+S'gebraucht'
+p272
+aS'Gebraucht'
+p273
+a(dp274
+S'while '
+p275
+I1
+sS'ahold '
+p276
+I1
+sS'secondhand '
+p277
+I2
+sS'use '
+p278
+I3
+sS'preowned '
+p279
+I2
+sS'needs '
+p280
+I1
+sS'job '
+p281
+I1
+sS'making '
+p282
+I2
+sS'recycled '
+p283
+I1
+sS'invest '
+p284
+I1
+sS'hey '
+p285
+I1
+sS'used '
+p286
+I12
+sS'mother '
+p287
+I1
+sS'steps '
+p288
+I1
+sS'took '
+p289
+I46
+sS'unneeded '
+p290
+I1
+sS'needed '
+p291
+I104
+sS'both '
+p292
+I1
+sS'taken '
+p293
+I4
+sS'second- '
+p294
+I1
+sS'needy '
+p295
+I1
+sS'honorary '
+p296
+I1
+sS'wanted '
+p297
+I1
+sS'need '
+p298
+I21
+sS'requires '
+p299
+I1
+sS'take '
+p300
+I4
+sS'mr, '
+p301
+I1
+stp302
+a((lp303
+S'abverlangt'
+p304
+aS'Abverlangt'
+p305
+a(dp306
+S'threw '
+p307
+I1
+sS'effort '
+p308
+I1
+sS'requires '
+p309
+I1
+sS'takes '
+p310
+I2
+stp311
+a.

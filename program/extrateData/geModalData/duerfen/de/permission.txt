@@ -1,0 +1,42 @@
+- Darf ich sprechen ?	1	de
+- Have I permission to speak ?	3
+
+Sie dürfen nicht an Bord .	1	de
+You don 't have permission to be aboard !	4
+
+Euer Ehren , ich bitte darum , die Aussage unterbrechen zu dürfen ...	11	de
+Your Honour , I request permission to interrupt this testimony ...	5
+
+- Darf ich feuern ?	1	de
+- Do I have permission to fire ?	4
+
+Dürfte ich Beweise zur Reaktion der Bürger meines Staates bringen ?	0	de
+Mr. President . Have I permission to bring in ... ... evidence of the response of my state ?	5
+
+Dürfte ich sie mir selbst aussuchen ?	0	de
+With its permission , can choose them I ?	2
+
+Sie dürfen Fragen zu diesem Einsatz stellen .	1	de
+You have permission to ask questions about that operation .	2
+
+Darfst du ?	0	de
+You get permission ?	2
+
+Ich bitte , gehen zu dürfen .	5	de
+I ask permission to take my leave .	2
+
+Sie dürfen dieses Zimmer nicht verlassen !	1	de
+I can not give you permission to go outside of this room .	5
+
+- Ich darf mit dem Offizier sprechen .	2	de
+- I have permission to speak to the officer .	3
+
+Dürfte ich mit lhrer Dame tanzen ?	0	de
+I would like permission to dance with your lady .	3
+
+Dürfte ich Beweise zur Reaktion der Bürger meines Staates bringen ?	0	de
+Have I permission to bring evidence of the response from my state ?	2
+
+Commander , darf ich eintreten ?	2	de
+Commander , permission to enter ?	2
+

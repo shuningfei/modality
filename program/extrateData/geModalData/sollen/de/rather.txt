@@ -1,0 +1,12 @@
+Sollen sie eher aus der einen als aus der anderen kommen ?	0	de
+Is it to be from one rather than the other ?	6
+
+Ihre Demokratie soll zur Ausnahmesituation werden , wie das bereits bei uns der Fall ist .	2	de
+Democracy , for them , is to become the exception rather than the rule , as has also happened in our own case .	10
+
+Obwohl wir es vorziehen sollten , dass diese Gesetze die Gesetze jedes einzelnen Mitgliedstaates statt eines EU-Superstaates sein sollen , muss es Gesetze geben , die solche Belange abdecken .	18	de
+Whilst we should prefer such laws to be the laws of each member country rather than of an EU superstate , there must be laws covering such matters .	14
+
+- Soll ich gehen ?	1	de
+- You 'd rather I leave ?	3
+

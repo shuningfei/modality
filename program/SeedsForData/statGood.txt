@@ -1,0 +1,26 @@
+Instances extracted without manual annotation:
+
+dürfen de 731
+       ep 45(might)
+
+können de 79
+       dy 2188
+       ep 74+3084(might)=3158
+
+müssen de 13835
+
+sollen de 537
+       ep 34(might)
+
+mögen ep 184(might)
+
+Instances with Mengfei's annotation:
+
+dürfen ep 14
+
+mögen ep 32
+
+müssen ep 41
+
+
+	  

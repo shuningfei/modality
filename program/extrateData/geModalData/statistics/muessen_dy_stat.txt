@@ -1,0 +1,17 @@
+  636 total
+  261 muessen/dy/make.txt
+  240 muessen/dy/made.txt
+   36 muessen/dy/able.txt
+   18 muessen/dy/achieve.txt
+   15 muessen/dy/create.txt
+   12 muessen/dy/reach.txt
+    9 muessen/dy/renewable.txt
+    9 muessen/dy/manage.txt
+    6 muessen/dy/successful.txt
+    6 muessen/dy/successfully.txt
+    6 muessen/dy/succeed.txt
+    6 muessen/dy/reached.txt
+    3 muessen/dy/feasible.txt
+    3 muessen/dy/failed.txt
+    3 muessen/dy/created.txt
+    3 muessen/dy/achieved.txt

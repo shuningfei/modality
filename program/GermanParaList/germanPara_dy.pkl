@@ -1,0 +1,3167 @@
+(lp0
+((lp1
+S'able'
+p2
+aS'Able'
+p3
+a(dp4
+S'f\xc3\xa4hig '
+p5
+I44
+sS'wei\xc3\x9f '
+p6
+I1
+sS'schafft '
+p7
+I1
+sS'gestorben '
+p8
+I1
+sS'verf\xc3\xbcgbaren '
+p9
+I1
+sS'entfliehen '
+p10
+I1
+sS'depression '
+p11
+I1
+sS'paco '
+p12
+I1
+sS'm\xc3\xb6glich '
+p13
+I33
+sS'k\xc3\xb6nnte '
+p14
+I6
+sS'k\xc3\xb6nntet '
+p15
+I1
+sS'schaltet '
+p16
+I1
+sS'erkennen '
+p17
+I1
+sS'aller '
+p18
+I1
+sS'kann '
+p19
+I61
+sS'weitergeben '
+p20
+I1
+sS'zeit\\u00b4 '
+p21
+I1
+sS'gewachsen '
+p22
+I1
+sS'papstkrone '
+p23
+I1
+sS'schnipseln '
+p24
+I1
+sS'konntest '
+p25
+I1
+sS'kr\xc3\xa4ftigen '
+p26
+I1
+sS'schaffe '
+p27
+I2
+sS'schaffst '
+p28
+I1
+sS'kannst '
+p29
+I18
+sS'k\xc3\xb6nnt '
+p30
+I1
+sS'dazu '
+p31
+I1
+sS'mith\xc3\xa4ltst '
+p32
+I1
+sS'irgendwo '
+p33
+I1
+sS'k\xc3\xb6nnen '
+p34
+I211
+sS'baucht\xc3\xa4nzerin '
+p35
+I1
+sS'bekommen '
+p36
+I1
+sS'hundeelend '
+p37
+I1
+sS'zur\xc3\xbcckhalten '
+p38
+I1
+sS'konnten '
+p39
+I19
+sS'schnarcher '
+p40
+I1
+sS'vetraugsw\xc3\xbcrdig '
+p41
+I1
+sS'lage '
+p42
+I294
+sS'geschafft '
+p43
+I3
+sS'd\xc3\xbcrfen '
+p44
+I2
+sS'ahead '
+p45
+I1
+sS'able '
+p46
+I1
+sS'bewerkstelligen '
+p47
+I1
+sS'f\xc3\xa4higsten '
+p48
+I2
+sS'imstande '
+p49
+I7
+sS'k\xc3\xb6nnten '
+p50
+I3
+sS'm\xc3\xb6glichkeit '
+p51
+I3
+sS'schalt '
+p52
+I1
+sS'ausgehalten '
+p53
+I1
+sS'gelungen '
+p54
+I3
+sS'mehr '
+p55
+I11
+sS'kaserne '
+p56
+I2
+sS'prusten '
+p57
+I1
+sS'gestattet '
+p58
+I1
+sS'stande '
+p59
+I10
+sS'gelang '
+p60
+I2
+sS'cluster '
+p61
+I1
+sS'konnte '
+p62
+I48
+sS'schaffen '
+p63
+I8
+stp64
+a((lp65
+S'achieve'
+p66
+aS'Achieve'
+p67
+a(dp68
+S'vollenden '
+p69
+I1
+sS'erlangt '
+p70
+I1
+sS'erlangen '
+p71
+I5
+sS'erreiche '
+p72
+I1
+sS'erreichen '
+p73
+I34
+sS'hersteiien '
+p74
+I1
+sS'bewirken '
+p75
+I2
+sS'zustande '
+p76
+I1
+sS'erzielen '
+p77
+I2
+sS'bezwecken '
+p78
+I1
+stp79
+a((lp80
+S'achieved'
+p81
+aS'Achieved'
+p82
+a(dp83
+S'erlangt '
+p84
+I1
+sS'starkem '
+p85
+I1
+sS'jobs '
+p86
+I1
+sS'erreichen '
+p87
+I1
+sS'erreichte '
+p88
+I4
+sS'erzielt '
+p89
+I1
+sS'verwirklicht '
+p90
+I1
+sS'erf\xc3\xbcllt '
+p91
+I1
+sS'nutzen '
+p92
+I1
+sS'errichtet '
+p93
+I1
+sS'geschafft '
+p94
+I1
+sS'erreicht '
+p95
+I11
+sS'vollendet '
+p96
+I3
+stp97
+a((lp98
+S'create'
+p99
+aS'Create'
+p100
+a(dp101
+S'bau '
+p102
+I1
+sS'schafft '
+p103
+I1
+sS'anrichten '
+p104
+I2
+sS'geschaffen '
+p105
+I1
+sS'erzeugen '
+p106
+I11
+sS'erzeuge '
+p107
+I1
+sS'generieren '
+p108
+I1
+sS'wiso '
+p109
+I1
+sS'erschaffe '
+p110
+I1
+sS'benutzen '
+p111
+I1
+sS'dient '
+p112
+I1
+sS'erstellt '
+p113
+I3
+sS'herzustellen '
+p114
+I1
+sS'schaffe '
+p115
+I6
+sS'erfinden '
+p116
+I1
+sS'aufzubauen '
+p117
+I2
+sS'bauen '
+p118
+I3
+sS'finden '
+p119
+I1
+sS'unglaublich '
+p120
+I1
+sS'kreierst '
+p121
+I1
+sS'er\xc3\xb6ffnen '
+p122
+I1
+sS'errichten '
+p123
+I1
+sS'erschafft '
+p124
+I3
+sS'erschaffen '
+p125
+I75
+sS'probleme '
+p126
+I1
+sS'verursachen '
+p127
+I2
+sS'daliegt '
+p128
+I1
+sS'week '
+p129
+I1
+sS'gr\xc3\xbcnden '
+p130
+I2
+sS'machen '
+p131
+I3
+sS'erstellen '
+p132
+I5
+sS'gestalten '
+p133
+I1
+sS'kreieren '
+p134
+I9
+sS'baue '
+p135
+I1
+sS'schaffen '
+p136
+I35
+stp137
+a((lp138
+S'created'
+p139
+aS'Created'
+p140
+a(dp141
+S'gegr\xc3\xbcndet '
+p142
+I1
+sS'schufen '
+p143
+I2
+sS'verursachte '
+p144
+I1
+sS'geschaffen '
+p145
+I50
+sS'kreierten '
+p146
+I1
+sS'entworfen '
+p147
+I1
+sS'erstellt '
+p148
+I3
+sS'fechtete '
+p149
+I1
+sS'verursacht '
+p150
+I1
+sS'wurde '
+p151
+I1
+sS'erschuf '
+p152
+I12
+sS'erstellte '
+p153
+I1
+sS'entstehung '
+p154
+I1
+sS'gab '
+p155
+I1
+sS'gebildet '
+p156
+I1
+sS'angerichtet '
+p157
+I1
+sS'gebaut '
+p158
+I2
+sS'erzeugt '
+p159
+I7
+sS'erfindest '
+p160
+I1
+sS'hergestellt '
+p161
+I1
+sS'gerufen '
+p162
+I1
+sS'erschafft '
+p163
+I2
+sS'erschaffen '
+p164
+I81
+sS'schuf '
+p165
+I9
+sS'kreiert '
+p166
+I5
+sS'entstehen '
+p167
+I1
+sS'gr\xc3\xbcndeten '
+p168
+I1
+sS'verbringen '
+p169
+I1
+sS'erfanden '
+p170
+I2
+sS'entwickelte '
+p171
+I7
+sS'computerlabor '
+p172
+I1
+sS'erfunden '
+p173
+I3
+sS'gef\xc3\xa4lltmir '
+p174
+I1
+stp175
+a((lp176
+S'failed'
+p177
+aS'Failed'
+p178
+a(dp179
+S'fehischiag '
+p180
+I1
+sS'verhauen '
+p181
+I1
+sS'verpa\xc3\x9ft '
+p182
+I1
+sS'habt '
+p183
+I1
+sS'gescheitertes '
+p184
+I2
+sS'scheiterten '
+p185
+I1
+sS'gescheiterten '
+p186
+I3
+sS'l\xc3\xa4stigen '
+p187
+I1
+sS'fehlgeschlagenen '
+p188
+I2
+sS'notfallsituation '
+p189
+I1
+sS'h\xc3\xa4ngengeblieben '
+p190
+I2
+sS'stich '
+p191
+I10
+sS'vers\xc3\xa4umt '
+p192
+I2
+sS'verpatzten '
+p193
+I2
+sS'gescheiterte '
+p194
+I6
+sS'raus '
+p195
+I1
+sS'cenred '
+p196
+I1
+sS'scheitern '
+p197
+I1
+sS'missgl\xc3\xbcckt '
+p198
+I1
+sS'fehlschl\xc3\xa4gt '
+p199
+I1
+sS'scheiterte '
+p200
+I5
+sS'durchgefallen '
+p201
+I8
+sS'versagt '
+p202
+I79
+sS'versagte '
+p203
+I12
+sS'erfolglosen '
+p204
+I3
+sS'gescheiterter '
+p205
+I1
+sS'fehlgeschlagen '
+p206
+I6
+sS'entt\xc3\xa4uscht '
+p207
+I22
+sS'vers\xc3\xa4umten '
+p208
+I1
+sS'versagten '
+p209
+I1
+sS'nicht '
+p210
+I1
+sS'freilichttheater '
+p211
+I1
+sS'misslungen '
+p212
+I1
+sS'gescheiterteten '
+p213
+I1
+sS'fehl '
+p214
+I1
+sS'gescheitert '
+p215
+I17
+sS'sterben '
+p216
+I2
+sS'schief '
+p217
+I1
+sS'bestanden '
+p218
+I1
+sS'geblieben '
+p219
+I1
+sS'versagen '
+p220
+I1
+sS'vergessen '
+p221
+I4
+sS'verbockt '
+p222
+I2
+stp223
+a((lp224
+S'feasible'
+p225
+aS'Feasible'
+p226
+a(dp227
+S'< '
+p228
+I1
+sS'durchf\xc3\xbchrbar '
+p229
+I1
+stp230
+a((lp231
+S'made'
+p232
+aS'Made'
+p233
+a(dp234
+S'gekommen '
+p235
+I7
+sS'fand '
+p236
+I1
+sS'jetzt '
+p237
+I2
+sS'habt '
+p238
+I4
+sS'zubereitet '
+p239
+I1
+sS'aufgeflogen '
+p240
+I10
+sS'verdient '
+p241
+I4
+sS'machst '
+p242
+I13
+sS'vollbracht '
+p243
+I2
+sS'abstand '
+p244
+I1
+sS'lenkt '
+p245
+I1
+sS'steckt '
+p246
+I2
+sS'hatte '
+p247
+I7
+sS'hergefunden '
+p248
+I2
+sS'wirklich '
+p249
+I1
+sS'sollte '
+p250
+I2
+sS'did '
+p251
+I1
+sS'holz '
+p252
+I1
+sS'musste '
+p253
+I15
+sS'oper '
+p254
+I1
+sS'gemachten '
+p255
+I1
+sS'verbraucht '
+p256
+I1
+sS'baute '
+p257
+I2
+sS'perfekt '
+p258
+I2
+sS'lie\xc3\x9f '
+p259
+I26
+sS'gefallen '
+p260
+I2
+sS'vollidiot '
+p261
+I1
+sS'schafften '
+p262
+I3
+sS'hab\\u00b4 '
+p263
+I4
+sS'\xc3\x9cberlebende '
+p264
+I1
+sS'habe '
+p265
+I162
+sS'verdiente '
+p266
+I8
+sS'erkannt '
+p267
+I5
+sS'zwangen '
+p268
+I4
+sS'erfand '
+p269
+I1
+sS'gemachte '
+p270
+I1
+sS'dass '
+p271
+I1
+sS'gabst '
+p272
+I5
+sS'verleitet '
+p273
+I1
+sS'woche '
+p274
+I1
+sS'woraus '
+p275
+I1
+sS'wurden '
+p276
+I2
+sS'vorgenommen '
+p277
+I1
+sS'hat '
+p278
+I223
+sS'lies '
+p279
+I1
+sS'stellten '
+p280
+I5
+sS'geworden '
+p281
+I6
+sS'h\xc3\xa4ttest '
+p282
+I1
+sS'brachtest '
+p283
+I2
+sS'amerika '
+p284
+I1
+sS'bist '
+p285
+I9
+sS'machen '
+p286
+I18
+sS'mach '
+p287
+I2
+sS'gab '
+p288
+I12
+sS'h\xc3\xa4tte '
+p289
+I1
+sS'begangen '
+p290
+I2
+sS'erfunden '
+p291
+I17
+sS'ver\xc3\xb6ffentlicht '
+p292
+I1
+sS'geschnitzt '
+p293
+I3
+sS'gewonnen '
+p294
+I6
+sS'gebracht '
+p295
+I34
+sS'kam '
+p296
+I5
+sS'gegossen '
+p297
+I2
+sS'schafft '
+p298
+I1
+sS'tr\xc3\xa4gt '
+p299
+I1
+sS'vers\xc3\xbc\xc3\x9ft '
+p300
+I1
+sS'gestellt '
+p301
+I2
+sS'geschaffen '
+p302
+I28
+sS'get\xc3\xa4tigt '
+p303
+I1
+sS'aufgetakelt '
+p304
+I1
+sS'beging '
+p305
+I1
+sS'mich '
+p306
+I2
+sS'getan '
+p307
+I1
+sS'mit '
+p308
+I1
+sS'hab '
+p309
+I58
+sS'stellte '
+p310
+I4
+sS'geben '
+p311
+I1
+sS'sah '
+p312
+I1
+sS'rumgemacht '
+p313
+I3
+sS'gesorgt '
+p314
+I15
+sS'wurde '
+p315
+I19
+sS'hinbekommen '
+p316
+I1
+sS'halten '
+p317
+I1
+sS'jimmy '
+p318
+I1
+sS'gaben '
+p319
+I3
+sS'lassen '
+p320
+I18
+sS'jahre '
+p321
+I1
+sS'vers\xc3\xb6hnt '
+p322
+I1
+sS'traf '
+p323
+I22
+sS'hergestellt '
+p324
+I23
+sS'abgeschossen '
+p325
+I1
+sS'zwingen '
+p326
+I3
+sS'kommen '
+p327
+I1
+sS'haben '
+p328
+I111
+sS'selbst '
+p329
+I1
+sS'komplett '
+p330
+I1
+sS'zum '
+p331
+I1
+sS'wollten '
+p332
+I3
+sS'gezwungen '
+p333
+I24
+sS'angenommen '
+p334
+I1
+sS'gegeben '
+p335
+I2
+sS'kommst '
+p336
+I4
+sS'\xc3\xbcberlebt '
+p337
+I2
+sS'um '
+p338
+I4
+sS'durch '
+p339
+I3
+sS'aus '
+p340
+I25
+sS't\xc3\xbcrklingel- '
+p341
+I1
+sS'basieren '
+p342
+I1
+sS'angezogen '
+p343
+I1
+sS'sammeln '
+p344
+I1
+sS'besteht '
+p345
+I4
+sS'kennt '
+p346
+I1
+sS'tolle '
+p347
+I1
+sS'gebildet '
+p348
+I2
+sS'war '
+p349
+I35
+sS'gew\xc3\xa4hlt '
+p350
+I1
+sS'anfertigen '
+p351
+I2
+sS'gebastelt '
+p352
+I3
+sS'zwang '
+p353
+I12
+sS'erfindet '
+p354
+I1
+sS'meinetwegen '
+p355
+I1
+sS'warst '
+p356
+I2
+sS'erschuf '
+p357
+I3
+sS'erstellt '
+p358
+I1
+sS'verlangte '
+p359
+I1
+sS'sorgte '
+p360
+I1
+sS'versuchten '
+p361
+I1
+sS'machten '
+p362
+I50
+sS'lie\xc3\x9fen '
+p363
+I8
+sS'trafen '
+p364
+I3
+sS'ging '
+p365
+I1
+sS'h\xc3\xa4tten '
+p366
+I4
+sS'angerichtet '
+p367
+I2
+sS'gebaut '
+p368
+I28
+sS'f\xc3\xbchrte '
+p369
+I1
+sS'bereitete '
+p370
+I1
+sS'schickte '
+p371
+I1
+sS'damn '
+p372
+I1
+sS'nichtmal '
+p373
+I1
+sS'geschafft '
+p374
+I162
+sS't\xc3\xa4tigte '
+p375
+I1
+sS'eingebracht '
+p376
+I1
+sS'ausgemacht '
+p377
+I1
+sS'getrieben '
+p378
+I2
+sS'erschaffen '
+p379
+I11
+sS'beschlossen '
+p380
+I1
+sS'ausgedacht '
+p381
+I4
+sS'wurdest '
+p382
+I1
+sS'unseres '
+p383
+I1
+sS'sichergestellt '
+p384
+I7
+sS'tat '
+p385
+I1
+sS'angekommen '
+p386
+I2
+sS'machtest '
+p387
+I7
+sS'bestehen '
+p388
+I1
+sS'sich '
+p389
+I1
+sS'bewirkte '
+p390
+I1
+sS'f\xc3\xa4llte '
+p391
+I1
+sS'sind '
+p392
+I8
+sS'verantwortlich '
+p393
+I1
+sS'gemachter '
+p394
+I1
+sS'brachte '
+p395
+I30
+sS'l\xc3\xa4sst '
+p396
+I4
+sS'entschieden '
+p397
+I8
+sS'gebacken '
+p398
+I1
+sS'entschlossen '
+p399
+I1
+sS'macht '
+p400
+I16
+sS'liebst '
+p401
+I1
+sS'dadurch '
+p402
+I1
+sS'gingen '
+p403
+I2
+sS'entdeckt '
+p404
+I2
+sS'extra '
+p405
+I2
+sS'herstellen '
+p406
+I2
+sS'nahm '
+p407
+I4
+sS'moody '
+p408
+I1
+sS'schuld '
+p409
+I1
+sS'himmlischen '
+p410
+I1
+sS'verursacht '
+p411
+I1
+sS'bin '
+p412
+I4
+sS'made- '
+p413
+I2
+sS'hast '
+p414
+I94
+sS'getroffen '
+p415
+I29
+sS'reich '
+p416
+I3
+sS'damit '
+p417
+I2
+sS'gemacht '
+p418
+I814
+sS'schenkte '
+p419
+I2
+sS'w\xc3\xa4re '
+p420
+I1
+sS'mache '
+p421
+I2
+sS'steinreich '
+p422
+I1
+sS'schlief '
+p423
+I1
+sS'brachten '
+p424
+I3
+sS'mussten '
+p425
+I1
+sS'begeht '
+p426
+I1
+sS'kronkorken '
+p427
+I1
+sS'schaffte '
+p428
+I5
+sS'gebraut '
+p429
+I1
+sS'made '
+p430
+I16
+sS'entschied '
+p431
+I1
+sS'eingehalten '
+p432
+I2
+sS'\xc3\xb6ffentlich '
+p433
+I1
+sS'gekocht '
+p434
+I1
+sS'hingeguckt '
+p435
+I1
+sS'hatten '
+p436
+I9
+sS'kamen '
+p437
+I1
+sS'schuf '
+p438
+I1
+sS'ist '
+p439
+I8
+sS'wollte '
+p440
+I4
+sS'aniass '
+p441
+I1
+sS'auffliegen '
+p442
+I1
+sS'erfolg '
+p443
+I4
+sS'gibt '
+p444
+I1
+sS'schafte '
+p445
+I2
+sS'erfanden '
+p446
+I1
+sS'durchgezogen '
+p447
+I1
+sS'hierbei '
+p448
+I1
+sS'machte '
+p449
+I196
+sS'bringt '
+p450
+I2
+sS'waren '
+p451
+I6
+stp452
+a((lp453
+S'make'
+p454
+aS'Make'
+p455
+a(dp456
+S'aufgeben '
+p457
+I1
+sS'wenn '
+p458
+I4
+sS'bemerken '
+p459
+I1
+sS'beginnen '
+p460
+I1
+sS'fahr '
+p461
+I4
+sS'zwingst '
+p462
+I1
+sS'habe '
+p463
+I1
+sS'sieh '
+p464
+I8
+sS'ihnen '
+p465
+I2
+sS'vorbereiten '
+p466
+I1
+sS'daraus '
+p467
+I19
+sS'schlie\xc3\x9fen '
+p468
+I6
+sS'versichere '
+p469
+I3
+sS'mach '
+p470
+I290
+sS'sex '
+p471
+I2
+sS'nimm '
+p472
+I4
+sS'h\xc3\xa4ngen '
+p473
+I1
+sS'hersteller '
+p474
+I2
+sS'f\xc3\xbchlt '
+p475
+I2
+sS'treffe '
+p476
+I12
+sS'mich '
+p477
+I2
+sS'leider '
+p478
+I3
+sS'ergeben '
+p479
+I2
+sS'geben '
+p480
+I21
+sS'kann '
+p481
+I5
+sS'make '
+p482
+I39
+sS'stell '
+p483
+I38
+sS'bedeutet '
+p484
+I1
+sS'einrichten '
+p485
+I9
+sS'triff '
+p486
+I17
+sS'davon '
+p487
+I1
+sS'wimmle '
+p488
+I1
+sS'flachlegen '
+p489
+I1
+sS'hergestellt '
+p490
+I2
+sS'vorteil '
+p491
+I1
+sS'kriegen '
+p492
+I2
+sS'lernst '
+p493
+I1
+sS'pers\xc3\xb6nlich '
+p494
+I1
+sS'st\xc3\xbctzen '
+p495
+I1
+sS'denk '
+p496
+I2
+sS'opferst '
+p497
+I2
+sS'auch '
+p498
+I5
+sS'drehen '
+p499
+I1
+sS'versuch '
+p500
+I1
+sS'aufholen '
+p501
+I1
+sS'bring '
+p502
+I14
+sS'hol '
+p503
+I3
+sS'wieder '
+p504
+I2
+sS'besorgen '
+p505
+I1
+sS'sichergehen '
+p506
+I60
+sS'weckt '
+p507
+I1
+sS'\xc3\xbcberleben '
+p508
+I6
+sS'vertrauen '
+p509
+I2
+sS'hei\xc3\x9f '
+p510
+I1
+sS'therapeuten '
+p511
+I1
+sS'seid '
+p512
+I1
+sS'mal '
+p513
+I8
+sS'passt '
+p514
+I5
+sS'fokussieren '
+p515
+I1
+sS'lie\xc3\x9f '
+p516
+I2
+sS'auf '
+p517
+I2
+sS'klarstellen '
+p518
+I3
+sS'marke '
+p519
+I7
+sS'sicherzustellen '
+p520
+I31
+sS'geschafft '
+p521
+I71
+sS'sicherstellen '
+p522
+I94
+sS'erschaffen '
+p523
+I7
+sS'vergewissert '
+p524
+I2
+sS'denken '
+p525
+I2
+sS'bildet '
+p526
+I1
+sS'geld '
+p527
+I1
+sS'lieber '
+p528
+I2
+sS'kriegst '
+p529
+I1
+sS'produzieren '
+p530
+I7
+sS'make- '
+p531
+I1
+sS'herstellen '
+p532
+I2
+sS'malen '
+p533
+I1
+sS', '
+p534
+I2
+sS'nehmen '
+p535
+I5
+sS'w\xc3\xa4re '
+p536
+I1
+sS'dann '
+p537
+I11
+sS'herumknutschen '
+p538
+I1
+sS'leise '
+p539
+I1
+sS'aus '
+p540
+I8
+sS'treff '
+p541
+I5
+sS'bem\xc3\xbchen '
+p542
+I2
+sS'schau '
+p543
+I1
+sS'bringst '
+p544
+I7
+sS'gutzumachen '
+p545
+I3
+sS'zweit '
+p546
+I1
+sS'gestalten '
+p547
+I6
+sS'platz '
+p548
+I1
+sS'bestimmen '
+p549
+I2
+sS'verdient '
+p550
+I2
+sS'eher '
+p551
+I1
+sS'bei '
+p552
+I2
+sS'musst '
+p553
+I5
+sS'jetzt '
+p554
+I6
+sS'seien '
+p555
+I2
+sS'weg '
+p556
+I1
+sS'erledige '
+p557
+I1
+sS'rumknutschen '
+p558
+I2
+sS'f\xc3\xbchl '
+p559
+I6
+sS'entsch\xc3\xa4digen '
+p560
+I1
+sS'tue '
+p561
+I1
+sS'denk\\u00b4 '
+p562
+I1
+sS'bekommen '
+p563
+I2
+sS'denke '
+p564
+I1
+sS'meinen '
+p565
+I1
+sS'erf\xc3\xbcllen '
+p566
+I1
+sS'entscheide '
+p567
+I8
+sS'machen '
+p568
+I1737
+sS'also '
+p569
+I1
+sS'kriege '
+p570
+I3
+sS'gehirnw\xc3\xa4sche '
+p571
+I1
+sS'dir '
+p572
+I6
+sS'zeigen '
+p573
+I1
+sS'versau '
+p574
+I1
+sS'platziere '
+p575
+I1
+sS'gibst '
+p576
+I7
+sS'f\xc3\xbchren '
+p577
+I1
+sS'm\xc3\xbcsst '
+p578
+I1
+sS'entscheiden '
+p579
+I3
+sS'mitkommen '
+p580
+I2
+sS'beginne '
+p581
+I2
+sS'kommen '
+p582
+I14
+sS'selbst '
+p583
+I1
+sS'achten '
+p584
+I12
+sS'f\xc3\xa4llen '
+p585
+I1
+sS'ergibt '
+p586
+I3
+sS'haltet '
+p587
+I1
+sS'werde '
+p588
+I2
+sS'telefoniere '
+p589
+I1
+sS'sorgen '
+p590
+I125
+sS'schauen '
+p591
+I2
+sS'notier '
+p592
+I1
+sS'f\xc3\xbchl\\u00b4 '
+p593
+I1
+sS'formt '
+p594
+I1
+sS'geh '
+p595
+I13
+sS'muss '
+p596
+I11
+sS'wage '
+p597
+I2
+sS'finden '
+p598
+I13
+sS'denkst '
+p599
+I1
+sS'eine '
+p600
+I1
+sS'wird '
+p601
+I3
+sS'nach '
+p602
+I1
+sS'nachsehen '
+p603
+I2
+sS'abgeben '
+p604
+I5
+sS'rate '
+p605
+I1
+sS'leg '
+p606
+I1
+sS'onkel '
+p607
+I1
+sS'\xc3\x9cberpr\xc3\xbcfen '
+p608
+I2
+sS'triffst '
+p609
+I1
+sS'schaff '
+p610
+I5
+sS'zwingt '
+p611
+I8
+sS'l\xc3\xa4sst '
+p612
+I31
+sS'mu\xc3\x9f '
+p613
+I1
+sS'erreichen '
+p614
+I2
+sS'macht '
+p615
+I242
+sS'verdiene '
+p616
+I26
+sS'dadurch '
+p617
+I13
+sS'k\xc3\xb6pfchen '
+p618
+I1
+sS'tust '
+p619
+I3
+sS'p\xc3\xbcnktlich '
+p620
+I1
+sS'do '
+p621
+I1
+sS'prostituierte '
+p622
+I1
+sS'solch '
+p623
+I1
+sS'werden '
+p624
+I6
+sS'an '
+p625
+I1
+sS'mccutchin '
+p626
+I1
+sS'k\xc3\xb6nnen '
+p627
+I1
+sS'zum '
+p628
+I4
+sS'alle '
+p629
+I1
+sS'das '
+p630
+I3
+sS'gehen '
+p631
+I13
+sS'durchkommen '
+p632
+I2
+sS'lern '
+p633
+I2
+sS'renners '
+p634
+I1
+sS'bewirken '
+p635
+I2
+sS'soll '
+p636
+I8
+sS'erz\xc3\xa4hl '
+p637
+I1
+sS'damit '
+p638
+I117
+sS'schlie\xc3\x9ft '
+p639
+I3
+sS'gleich '
+p640
+I1
+sS'passen '
+p641
+I7
+sS'willste '
+p642
+I1
+sS'wirst '
+p643
+I4
+sS'w\xc3\xbcrde '
+p644
+I2
+sS'koch '
+p645
+I2
+sS'bekommst '
+p646
+I1
+sS'nicht '
+p647
+I1
+sS'sorgst '
+p648
+I7
+sS'koche '
+p649
+I2
+sS'erfinde '
+p650
+I5
+sS'w\xc3\xa4ren '
+p651
+I1
+sS'sicherzugehen '
+p652
+I26
+sS'wiedergutmachen '
+p653
+I13
+sS'erkl\xc3\xa4re '
+p654
+I1
+sS'bilden '
+p655
+I6
+sS'bauen '
+p656
+I17
+sS'sollen '
+p657
+I2
+sS'dass '
+p658
+I91
+sS'sag '
+p659
+I3
+sS'setz '
+p660
+I1
+sS'pass '
+p661
+I16
+sS'zeit '
+p662
+I1
+sS'lasst '
+p663
+I11
+sS'bringe '
+p664
+I7
+sS'la\xc3\x9f '
+p665
+I1
+sS'basteln '
+p666
+I2
+sS'verhindern '
+p667
+I2
+sS'ja '
+p668
+I1
+sS'gebracht '
+p669
+I1
+sS'schafft '
+p670
+I45
+sS'bye '
+p671
+I1
+sS'f\xc3\xbchrt '
+p672
+I2
+sS'tu '
+p673
+I1
+sS'schaf '
+p674
+I1
+sS'dr\xc3\xa4ngen '
+p675
+I1
+sS'komme '
+p676
+I1
+sS'kompensieren '
+p677
+I1
+sS'\xc3\xbcberstehen '
+p678
+I2
+sS'man '
+p679
+I6
+sS'freikaufen '
+p680
+I1
+sS'verschaffen '
+p681
+I1
+sS'erfinden '
+p682
+I3
+sS'vers\xc3\xb6hnen '
+p683
+I7
+sS'machs '
+p684
+I3
+sS'dazu '
+p685
+I24
+sS'sagen '
+p686
+I9
+sS'besser '
+p687
+I1
+sS's\xc3\xa4beln '
+p688
+I1
+sS'f\xc3\xbchlen '
+p689
+I13
+sS'schreib '
+p690
+I1
+sS'zwingen '
+p691
+I48
+sS'm\xc3\xbcssen '
+p692
+I3
+sS'k\xc3\xb6nnten '
+p693
+I1
+sS'halten '
+p694
+I5
+sS'wir '
+p695
+I1
+sS'euch '
+p696
+I4
+sS'rettungswagen '
+p697
+I1
+sS"'s "
+p698
+I2
+sS'ziehen '
+p699
+I2
+sS'entziffern '
+p700
+I1
+sS'ge\xc3\xb6ffnet '
+p701
+I1
+sS'zielen '
+p702
+I1
+sS'bereite '
+p703
+I2
+sS'aber '
+p704
+I1
+sS'verdienen '
+p705
+I39
+sS'erh\xc3\xb6he '
+p706
+I1
+sS'richte '
+p707
+I1
+sS'klarmachen '
+p708
+I1
+sS'helfen '
+p709
+I2
+sS'vertragen '
+p710
+I2
+sS'gebastelt '
+p711
+I2
+sS'zwing '
+p712
+I14
+sS'wie '
+p713
+I4
+sS'du '
+p714
+I2
+sS'zwinge '
+p715
+I1
+sS'sorgt '
+p716
+I6
+sS'sich '
+p717
+I17
+sS'will '
+p718
+I1
+sS'schaffen '
+p719
+I272
+sS'gebucht '
+p720
+I1
+sS'stellen '
+p721
+I61
+sS'fangen '
+p722
+I1
+sS'tun '
+p723
+I15
+sS'erschaffe '
+p724
+I1
+sS'verdien '
+p725
+I2
+sS'gemacht '
+p726
+I51
+sS'stellst '
+p727
+I4
+sS'mache '
+p728
+I175
+sS'stelle '
+p729
+I7
+sS'veranlassen '
+p730
+I1
+sS'sehen '
+p731
+I9
+sS'gebt '
+p732
+I4
+sS't\xc3\xa4tigen '
+p733
+I1
+sS'regeln '
+p734
+I3
+sS'l\xc3\xb6sen '
+p735
+I1
+sS'aussehen '
+p736
+I1
+sS'etwas '
+p737
+I1
+sS'bringt '
+p738
+I10
+sS'mach\\u00b4 '
+p739
+I1
+sS'ruf '
+p740
+I1
+sS'machst '
+p741
+I145
+sS'erledigen '
+p742
+I2
+sS'lasse '
+p743
+I10
+sS'ihm '
+p744
+I1
+sS'geschaft '
+p745
+I1
+sS'erkennen '
+p746
+I5
+sS'f\xc3\xa4lle '
+p747
+I1
+sS'erst '
+p748
+I2
+sS'versteht '
+p749
+I1
+sS'treffen '
+p750
+I55
+sS'sind '
+p751
+I7
+sS'lass '
+p752
+I39
+sS'f\xc3\xbcr '
+p753
+I14
+sS'draus '
+p754
+I3
+sS'belong '
+p755
+I1
+sS'finde '
+p756
+I1
+sS'gut '
+p757
+I1
+sS'da\xc3\x9f '
+p758
+I1
+sS'verdienst '
+p759
+I5
+sS'jemanden '
+p760
+I1
+sS'uns '
+p761
+I14
+sS'paar '
+p762
+I1
+sS'versuchst '
+p763
+I1
+sS'gutmachen '
+p764
+I17
+sS'f\xc3\xbchre '
+p765
+I2
+sS'zu '
+p766
+I5
+sS'schaffe '
+p767
+I20
+sS'pr\xc3\xa4sentiere '
+p768
+I1
+sS'vermittel '
+p769
+I1
+sS'schaffst '
+p770
+I28
+sS'lassen '
+p771
+I142
+sS'schlag '
+p772
+I4
+sS'sorge '
+p773
+I18
+sS'lage '
+p774
+I2
+sS'eddi '
+p775
+I1
+sS'such '
+p776
+I1
+sS'um '
+p777
+I20
+sS'durch '
+p778
+I6
+sS'es '
+p779
+I5
+sS'stellt '
+p780
+I12
+sS'gib '
+p781
+I6
+sS'spielen '
+p782
+I1
+sS'bieg '
+p783
+I1
+sS'machenwir '
+p784
+I2
+sS'\xc3\xbcberzeugen '
+p785
+I8
+sS'zeig '
+p786
+I1
+sS'wiedergutmache '
+p787
+I1
+sS'schick '
+p788
+I2
+sS'\xc3\x9cberleg '
+p789
+I1
+sS'sei '
+p790
+I1
+sS'daf\xc3\xbcr '
+p791
+I47
+sS'liefert '
+p792
+I2
+sS'nur '
+p793
+I3
+sS'setzen '
+p794
+I3
+sS'ein '
+p795
+I1
+sS'ausdr\xc3\xbccklich '
+p796
+I2
+sS'biegen '
+p797
+I4
+sS'unternehmen '
+p798
+I1
+sS'achte '
+p799
+I1
+sS'vergewissere '
+p800
+I5
+sS'noch '
+p801
+I2
+sS'bringen '
+p802
+I106
+sS'rummachen '
+p803
+I15
+sS'die '
+p804
+I2
+sS'dich '
+p805
+I2
+sS'gibt '
+p806
+I8
+sS'vergewissern '
+p807
+I11
+sS'kochen '
+p808
+I2
+sS'tritt '
+p809
+I1
+sS'stell\\u00b4 '
+p810
+I1
+sS'versuchen '
+p811
+I2
+sS'vers\xc3\xbc\xc3\x9fe '
+p812
+I1
+sS'sorg '
+p813
+I41
+sS'na '
+p814
+I2
+sS'morgen '
+p815
+I1
+stp816
+a((lp817
+S'manage'
+p818
+aS'Manage'
+p819
+a(dp820
+S'kommezurecht '
+p821
+I3
+sS'auswertungsrunden '
+p822
+I1
+sS'regele '
+p823
+I1
+sS'schafft '
+p824
+I3
+sS'manager '
+p825
+I1
+sS'kennen '
+p826
+I1
+sS'zurande '
+p827
+I1
+sS'sch\xc3\xbctzen '
+p828
+I1
+sS'schauen '
+p829
+I1
+sS'klarkommen '
+p830
+I1
+sS'bew\xc3\xa4ltigen '
+p831
+I1
+sS'regelst '
+p832
+I2
+sS'erledigen '
+p833
+I1
+sS'leiten '
+p834
+I1
+sS'fertig '
+p835
+I1
+sS'schaffst '
+p836
+I8
+sS'arrangieren '
+p837
+I1
+sS'komme '
+p838
+I1
+sS'hinbekommt '
+p839
+I1
+sS'fortschritte '
+p840
+I1
+sS'geholfen '
+p841
+I1
+sS'handhaben '
+p842
+I5
+sS'empfangsraum '
+p843
+I1
+sS'bekomme '
+p844
+I1
+sS'hinbekommen '
+p845
+I4
+sS'hin '
+p846
+I15
+sS'schaffe '
+p847
+I4
+sS'hoffentlich '
+p848
+I1
+sS'manage '
+p849
+I1
+sS'f\xc3\xbchren '
+p850
+I3
+sS'trainieren '
+p851
+I1
+sS'einrichten '
+p852
+I4
+sS'schwierig '
+p853
+I1
+sS'schaff '
+p854
+I4
+sS'klargekommen '
+p855
+I1
+sS'zurecht '
+p856
+I8
+sS'klappt" '
+p857
+I1
+sS'ihnen '
+p858
+I1
+sS'zurechtkommen '
+p859
+I3
+sS'gestalten '
+p860
+I1
+sS'kontrollieren '
+p861
+I1
+sS'geht '
+p862
+I1
+sS'regle '
+p863
+I1
+sS'geschafft '
+p864
+I12
+sS'sicher '
+p865
+I1
+sS'verwalten '
+p866
+I1
+sS'funktionieren '
+p867
+I1
+sS'hinbekomme '
+p868
+I1
+sS'backen '
+p869
+I1
+sS'gelungen '
+p870
+I1
+sS'klar '
+p871
+I3
+sS'l\xc3\xb6sen '
+p872
+I2
+sS'schon '
+p873
+I4
+sS'stehen '
+p874
+I1
+sS'asi '
+p875
+I1
+sS'machen '
+p876
+I3
+sS'managen '
+p877
+I6
+sS'kriegs '
+p878
+I1
+sS'gelingt '
+p879
+I1
+sS'halte '
+p880
+I1
+sS'werde '
+p881
+I1
+sS'fertigbringen '
+p882
+I1
+sS'hinkriegen '
+p883
+I1
+sS'schaffen '
+p884
+I22
+stp885
+a((lp886
+S'managed'
+p887
+aS'Managed'
+p888
+a(dp889
+S'brachte '
+p890
+I1
+sS'gelenkt '
+p891
+I3
+sS'jede '
+p892
+I1
+sS'fertiggebracht '
+p893
+I1
+sS'\xc3\x9cberflutung '
+p894
+I1
+sS'verwaltete '
+p895
+I1
+sS'klatschnass '
+p896
+I1
+sS'\xc3\xbcberlebte '
+p897
+I1
+sS'hingekriegt '
+p898
+I1
+sS'sah '
+p899
+I1
+sS'erreichten '
+p900
+I1
+sS'erreicht '
+p901
+I1
+sS'hinbekommen '
+p902
+I3
+sS'zustande '
+p903
+I1
+sS'schafften '
+p904
+I3
+sS'habe '
+p905
+I3
+sS'bewerkstelligt '
+p906
+I1
+sS'konnten '
+p907
+I8
+sS'dummerweise '
+p908
+I1
+sS'geschafft '
+p909
+I49
+sS'reingekriegt '
+p910
+I1
+sS'bew\xc3\xa4ltigt '
+p911
+I1
+sS'wegbrachten '
+p912
+I1
+sS'gelungen '
+p913
+I4
+sS'k\xc3\xbcmmerte '
+p914
+I1
+sS'konnte '
+p915
+I4
+sS'schaffte '
+p916
+I4
+sS'gelohnt '
+p917
+I1
+sS'gelang '
+p918
+I5
+sS'verwaltenden '
+p919
+I1
+sS'besorgte '
+p920
+I1
+sS'darum '
+p921
+I1
+stp922
+a((lp923
+S'reach'
+p924
+aS'Reach'
+p925
+a(dp926
+S'greif '
+p927
+I5
+sS'erreichst '
+p928
+I1
+sS'erreichen '
+p929
+I166
+sS'erreiche '
+p930
+I2
+sS'melden '
+p931
+I3
+sS'versuchen '
+p932
+I1
+sS'reichen '
+p933
+I8
+sS'wenden '
+p934
+I2
+sS'kommunizieren '
+p935
+I1
+sS'streck '
+p936
+I3
+sS'runterfassen '
+p937
+I1
+sS'griff '
+p938
+I1
+sS'ans '
+p939
+I1
+sS'ausl\xc3\xb6ser '
+p940
+I1
+sS'anzurufen '
+p941
+I1
+sS'kontakt '
+p942
+I5
+sS'ranzukommen '
+p943
+I1
+sS'budget '
+p944
+I1
+sS'erreicht '
+p945
+I19
+sS'\xc3\x9cberzeugt '
+p946
+I1
+sS'ertasten '
+p947
+I1
+sS'erreichte '
+p948
+I3
+sS'strecken '
+p949
+I2
+sS'greifst '
+p950
+I1
+sS'rechst '
+p951
+I1
+sS'erstreckt '
+p952
+I1
+sS'einflussbereich '
+p953
+I1
+sS'ausstrecken '
+p954
+I2
+sS'kommen '
+p955
+I1
+sS'kontaktieren '
+p956
+I3
+sS'bis '
+p957
+I2
+sS'fassen '
+p958
+I1
+sS'rankommen '
+p959
+I3
+sS'oberfl\xc3\xa4che '
+p960
+I2
+sS'an '
+p961
+I3
+sS'ran '
+p962
+I7
+sS'w\xc3\xa4schst '
+p963
+I1
+sS'bl\xc3\xb6des '
+p964
+I1
+sS'dr\xc3\xbcck '
+p965
+I1
+sS'fass '
+p966
+I1
+sS'greifen '
+p967
+I10
+sS'vorher '
+p968
+I1
+sS'm\xc3\xb6glichkeit '
+p969
+I1
+sS'recht '
+p970
+I1
+sS'ankommen '
+p971
+I1
+sS'mobilisieren '
+p972
+I1
+sS'streckt '
+p973
+I1
+sS'erreichbar '
+p974
+I1
+sS'angekommen '
+p975
+I1
+sS'greife '
+p976
+I2
+sS'reichweite '
+p977
+I14
+sS'auszustrecken '
+p978
+I4
+sS'unendlich '
+p979
+I1
+sS'dran '
+p980
+I1
+sS'reach '
+p981
+I1
+sS'unerreichbar '
+p982
+I3
+sS'anrufen '
+p983
+I2
+sS'einfluss '
+p984
+I4
+sS'b\xc3\xbccken '
+p985
+I1
+sS'beizutreten '
+p986
+I1
+sS'schieb '
+p987
+I1
+stp988
+a((lp989
+S'reached'
+p990
+aS'Reached'
+p991
+a(dp992
+S'schlimmste '
+p993
+I1
+sS'gekommen '
+p994
+I3
+sS'kam '
+p995
+I2
+sS'hand '
+p996
+I2
+sS'verbindung '
+p997
+I3
+sS'erreichen '
+p998
+I2
+sS'gegriffen '
+p999
+I3
+sS'nummer '
+p1000
+I1
+sS'austrecken '
+p1001
+I2
+sS'entgegengekommen '
+p1002
+I1
+sS'sprang '
+p1003
+I1
+sS'griff '
+p1004
+I3
+sS'reichte '
+p1005
+I1
+sS'herabgestiegen '
+p1006
+I1
+sS'ausgestreckst '
+p1007
+I2
+sS'gemeldet '
+p1008
+I1
+sS'erreicht '
+p1009
+I41
+sS'anschluss '
+p1010
+I3
+sS'erreichte '
+p1011
+I3
+sS'st\xc3\xbcck '
+p1012
+I1
+sS'ansprachen '
+p1013
+I1
+sS'widerkehr '
+p1014
+I1
+sS'sagen '
+p1015
+I1
+sS'gelangt '
+p1016
+I1
+sS'verbunden '
+p1017
+I3
+sS'streckte '
+p1018
+I1
+sS'wird '
+p1019
+I1
+sS'erreichbar '
+p1020
+I6
+sS'angekommen '
+p1021
+I1
+sS'erzielt '
+p1022
+I1
+sS'fasst '
+p1023
+I1
+stp1024
+a((lp1025
+S'renewable'
+p1026
+aS'Renewable'
+p1027
+a(dp1028
+S'erneuerbarer '
+p1029
+I2
+sS'erneuerbare '
+p1030
+I7
+sS'erneuerbar '
+p1031
+I1
+sS'erneuerbaren '
+p1032
+I4
+stp1033
+a((lp1034
+S'succeed'
+p1035
+aS'Succeed'
+p1036
+a(dp1037
+S'erreichen '
+p1038
+I2
+sS'funktioniert '
+p1039
+I1
+sS'erfolg '
+p1040
+I19
+sS'motiviert '
+p1041
+I2
+sS'gelingen '
+p1042
+I3
+sS'zur\xc3\x9cckzukehren '
+p1043
+I1
+sS'realisieren '
+p1044
+I1
+sS'erfolgreich '
+p1045
+I22
+sS'zustande '
+p1046
+I1
+sS'gelingt '
+p1047
+I3
+sS'nachfolger '
+p1048
+I1
+sS'gelungen '
+p1049
+I1
+sS'schaffen '
+p1050
+I1
+stp1051
+a((lp1052
+S'succeeded'
+p1053
+aS'Succeeded'
+p1054
+a(dp1055
+S'klappt '
+p1056
+I1
+sS'gegl\xc3\xbcckt '
+p1057
+I3
+sS'erfolg '
+p1058
+I9
+sS'erfolgreich '
+p1059
+I13
+sS'geschafft '
+p1060
+I2
+sS'gelungen '
+p1061
+I6
+sS'gab '
+p1062
+I1
+sS'gl\xc3\xbcck '
+p1063
+I1
+stp1064
+a((lp1065
+S'successful'
+p1066
+aS'Successful'
+p1067
+a(dp1068
+S'erfolgreichste '
+p1069
+I7
+sS'erfolgreiches '
+p1070
+I4
+sS'elvis '
+p1071
+I1
+sS'erfolgreichen '
+p1072
+I11
+sS'erfolgreicher '
+p1073
+I18
+sS'erfolg '
+p1074
+I10
+sS'bekommen '
+p1075
+I1
+sS'dr\xc3\xa4ngten '
+p1076
+I2
+sS'ertolgreich '
+p1077
+I1
+sS'successful '
+p1078
+I1
+sS'erfolgreichsten '
+p1079
+I5
+sS'zahnarztpraxis '
+p1080
+I1
+sS'erntedank- '
+p1081
+I1
+sS'erfolgreich '
+p1082
+I57
+sS'geschafft '
+p1083
+I1
+sS'zurecht '
+p1084
+I1
+sS'job '
+p1085
+I1
+sS'physics '
+p1086
+I1
+sS'erfolgreiche '
+p1087
+I22
+sS'fall '
+p1088
+I1
+stp1089
+a((lp1090
+S'successfully'
+p1091
+aS'Successfully'
+p1092
+a(dp1093
+S'gegenden '
+p1094
+I1
+sS'erfolgreiches '
+p1095
+I1
+sS'erfolgreichen '
+p1096
+I1
+sS'erfolg '
+p1097
+I1
+sS'erf\xc3\xbcllt '
+p1098
+I1
+sS'duchgezogen '
+p1099
+I1
+sS'erfolgreich '
+p1100
+I20
+sS'richtig '
+p1101
+I1
+sS'transferierte '
+p1102
+I1
+stp1103
+a.

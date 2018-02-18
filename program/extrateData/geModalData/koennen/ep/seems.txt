@@ -1,0 +1,15 @@
+Kann er reden ?	0	ep
+He seems hungry , too .	1
+
+Was kann ich für Sie tun ?	1	ep
+- Yep . What seems to be the problem ?	4
+
+- Es kann auch noch anders kommen .	2	ep
+- Well ... it seems different as I said .	4
+
+Es kann einfach nicht sein , dass alle von ihnen verrückt geworden sind .	1	ep
+It seems incredible , but they 've all gone crazy .	1
+
+Ach kann ich denn keiner von allen	1	ep
+But nobody seems to select me	2
+

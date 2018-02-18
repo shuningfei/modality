@@ -1,0 +1,731 @@
+(lp0
+((lp1
+S'zwingend'
+p2
+aS'Zwingend'
+p3
+a(dp4
+S'stringent '
+p5
+I1
+sS'obligatory '
+p6
+I1
+sS'warner '
+p7
+I1
+sS'escaping '
+p8
+I1
+sS'imperative '
+p9
+I5
+sS'peru '
+p10
+I1
+sS'inexorably '
+p11
+I1
+sS'necessarily '
+p12
+I2
+stp13
+a((lp14
+S'unumg\xc3\xa4nglich'
+p15
+aS'Unumg\xc3\xa4nglich'
+p16
+a(dp17
+S'kira '
+p18
+I1
+sS'imperative '
+p19
+I5
+sS'absolute '
+p20
+I1
+sS'unavoidable '
+p21
+I2
+stp22
+a((lp23
+S'unbedingt'
+p24
+aS'Unbedingt'
+p25
+a(dp26
+S'definitely '
+p27
+I5
+sS'determined '
+p28
+I3
+sS'too '
+p29
+I1
+sS'wanna '
+p30
+I1
+sS'dying '
+p31
+I4
+sS'insisted '
+p32
+I1
+sS'imperative '
+p33
+I2
+sS'desperately '
+p34
+I1
+sS'beers '
+p35
+I1
+sS'meet '
+p36
+I1
+sS'actually '
+p37
+I1
+sS'begged '
+p38
+I2
+sS'because '
+p39
+I3
+sS'must '
+p40
+I1
+sS'at '
+p41
+I1
+sS'insists '
+p42
+I1
+sS'really '
+p43
+I30
+sS'absolutely '
+p44
+I18
+sS'strongly '
+p45
+I1
+sS'come '
+p46
+I2
+sS'forcing '
+p47
+I1
+sS'particularly '
+p48
+I2
+sS'technically '
+p49
+I1
+sS'desperate '
+p50
+I6
+sS'gasping '
+p51
+I1
+sS'keen '
+p52
+I1
+sS'baffles '
+p53
+I1
+sS'smited '
+p54
+I1
+sS'much '
+p55
+I7
+sS'so '
+p56
+I1
+sS'she '
+p57
+I1
+sS'uh '
+p58
+I1
+sS'bad '
+p59
+I10
+sS'exactly '
+p60
+I17
+sS'cool '
+p61
+I5
+sS'minus '
+p62
+I1
+sS'anxious '
+p63
+I1
+sS'necessary '
+p64
+I1
+sS'should '
+p65
+I2
+sS'necessarily '
+p66
+I51
+sS'please '
+p67
+I1
+sS'in '
+p68
+I1
+sS'eager '
+p69
+I2
+sS'important '
+p70
+I1
+sS'means '
+p71
+I5
+sS'let '
+p72
+I1
+sS'reaily '
+p73
+I1
+sS'badly '
+p74
+I5
+sS'fine '
+p75
+I1
+sS'need '
+p76
+I2
+sS'wait '
+p77
+I1
+sS'basement '
+p78
+I1
+sS'amazing '
+p79
+I1
+sS'quite '
+p80
+I1
+sS'andy '
+p81
+I1
+sS'to '
+p82
+I23
+sS'insist '
+p83
+I2
+sS'fuck '
+p84
+I1
+sS'entirely '
+p85
+I1
+stp86
+a((lp87
+S'notwendig'
+p88
+aS'Notwendig'
+p89
+a(dp90
+S'required '
+p91
+I3
+sS'needed '
+p92
+I2
+sS'vital '
+p93
+I1
+sS'need '
+p94
+I22
+sS'remodeling '
+p95
+I1
+sS'indicated '
+p96
+I1
+sS'fit '
+p97
+I1
+sS'necessary '
+p98
+I112
+sS'fine '
+p99
+I1
+sS'imperative '
+p100
+I2
+sS'have '
+p101
+I10
+sS'necessarily '
+p102
+I2
+sS'essential '
+p103
+I1
+sS'necessity '
+p104
+I2
+sS'critical '
+p105
+I1
+sS'nicked '
+p106
+I1
+sS'god '
+p107
+I1
+sS'spooge '
+p108
+I1
+stp109
+a((lp110
+S'notwendigkeit'
+p111
+aS'Notwendigkeit'
+p112
+a(dp113
+S'need '
+p114
+I10
+sS'needing '
+p115
+I1
+sS'necessities '
+p116
+I1
+sS'imperative '
+p117
+I2
+sS'necessarily '
+p118
+I1
+sS'necessity '
+p119
+I17
+sS'right '
+p120
+I1
+stp121
+a((lp122
+S'interesse'
+p123
+aS'Interesse'
+p124
+a(dp125
+S'cares '
+p126
+I1
+sS'intention '
+p127
+I1
+sS'uninterested '
+p128
+I2
+sS'sheldon '
+p129
+I1
+sS'imperative '
+p130
+I1
+sS'want '
+p131
+I3
+sS'desire '
+p132
+I2
+sS'interest- '
+p133
+I1
+sS'sake '
+p134
+I2
+sS'own '
+p135
+I1
+sS', '
+p136
+I1
+sS'behalf '
+p137
+I2
+sS'good '
+p138
+I1
+sS'interests '
+p139
+I15
+sS'interested '
+p140
+I69
+sS'lead '
+p141
+I2
+sS'interesting '
+p142
+I3
+sS'takers '
+p143
+I1
+sS'surethe '
+p144
+I1
+sS'concern '
+p145
+I2
+sS'attention '
+p146
+I1
+sS'need '
+p147
+I3
+sS'interest '
+p148
+I185
+sS'care '
+p149
+I1
+sS'not '
+p150
+I1
+sS'curiosity '
+p151
+I1
+sS'cousin '
+p152
+I1
+stp153
+a((lp154
+S'befohlen'
+p155
+aS'Befohlen'
+p156
+a(dp157
+S'ordered '
+p158
+I32
+sS'instructed '
+p159
+I1
+sS'assigned '
+p160
+I1
+sS'urged '
+p161
+I1
+sS'order '
+p162
+I9
+sS'imperative '
+p163
+I1
+sS'summoned '
+p164
+I1
+sS'told '
+p165
+I13
+sS'orders '
+p166
+I2
+sS'comewith '
+p167
+I1
+sS'commanded '
+p168
+I10
+sS'authority '
+p169
+I1
+stp170
+a((lp171
+S'imperativ'
+p172
+aS'Imperativ'
+p173
+a(dp174
+S'imperative '
+p175
+I1
+sS'financial '
+p176
+I1
+stp177
+a((lp178
+S'wichtig'
+p179
+aS'Wichtig'
+p180
+a(dp181
+S'much '
+p182
+I9
+sS'matter '
+p183
+I81
+sS'vital '
+p184
+I8
+sS'wieners '
+p185
+I1
+sS'sue '
+p186
+I1
+sS'imperative '
+p187
+I1
+sS'that '
+p188
+I2
+sS'huge '
+p189
+I1
+sS'rita '
+p190
+I1
+sS'essential '
+p191
+I5
+sS'ok '
+p192
+I2
+sS'needs '
+p193
+I1
+sS'high '
+p194
+I1
+sS'difference '
+p195
+I2
+sS'singular '
+p196
+I1
+sS'key '
+p197
+I1
+sS'bed '
+p198
+I1
+sS'well '
+p199
+I2
+sS'wow '
+p200
+I1
+sS'point '
+p201
+I1
+sS'urgent '
+p202
+I6
+sS'deal '
+p203
+I9
+sS'important '
+p204
+I852
+sS'shot '
+p205
+I1
+sS'value '
+p206
+I4
+sS'irrelevant '
+p207
+I2
+sS'matters '
+p208
+I52
+sS'gay '
+p209
+I1
+sS'wether '
+p210
+I1
+sS'necessary '
+p211
+I1
+sS'really '
+p212
+I1
+sS'good '
+p213
+I6
+sS'valued '
+p214
+I1
+sS'everyonei '
+p215
+I1
+sS'caramel- '
+p216
+I2
+sS'bottom '
+p217
+I1
+sS'worry '
+p218
+I1
+sS'brakes '
+p219
+I1
+sS'valuable '
+p220
+I2
+sS'immportant '
+p221
+I1
+sS'mind '
+p222
+I9
+sS'overimportant '
+p223
+I1
+sS'nothing '
+p224
+I1
+sS'cares '
+p225
+I3
+sS'concern '
+p226
+I1
+sS'apology '
+p227
+I1
+sS'does '
+p228
+I2
+sS'mattered '
+p229
+I9
+sS'primed '
+p230
+I1
+sS'account '
+p231
+I1
+sS'relevant '
+p232
+I9
+sS'even '
+p233
+I4
+sS'compromises '
+p234
+I1
+sS'serious '
+p235
+I3
+sS'special '
+p236
+I1
+sS'critical '
+p237
+I3
+sS'pregnant '
+p238
+I1
+sS'riding '
+p239
+I1
+sS'seriously '
+p240
+I2
+sS'street '
+p241
+I1
+sS'thing '
+p242
+I1
+sS'precious '
+p243
+I3
+sS'means '
+p244
+I2
+sS'dear '
+p245
+I1
+sS'whatever '
+p246
+I2
+sS'hangs '
+p247
+I1
+sS'sensing '
+p248
+I1
+sS'crucial '
+p249
+I2
+sS'sam '
+p250
+I1
+sS'behind '
+p251
+I1
+sS'importance '
+p252
+I5
+sS'forget '
+p253
+I1
+sS'importantto '
+p254
+I1
+sS'night '
+p255
+I1
+sS'need '
+p256
+I10
+sS'counts '
+p257
+I2
+sS'care '
+p258
+I30
+sS'rest '
+p259
+I1
+sS'take '
+p260
+I1
+sS'importantthat '
+p261
+I1
+sS'cared '
+p262
+I5
+sS'big '
+p263
+I3
+sS'significant '
+p264
+I3
+sS'mission '
+p265
+I1
+sS'back '
+p266
+I1
+stp267
+a.

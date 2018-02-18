@@ -1,0 +1,5 @@
+  39 total
+  24 duerfen/dy/able.txt
+   6 duerfen/dy/succeed.txt
+   6 duerfen/dy/make.txt
+   3 duerfen/dy/successful.txt

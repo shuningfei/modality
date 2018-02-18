@@ -1,0 +1,15 @@
+  228 total
+  102 sollen/dy/make.txt
+   36 sollen/dy/made.txt
+   15 sollen/dy/succeed.txt
+   15 sollen/dy/able.txt
+   12 sollen/dy/achieved.txt
+    9 sollen/dy/successful.txt
+    9 sollen/dy/renewable.txt
+    6 sollen/dy/feasible.txt
+    6 sollen/dy/create.txt
+    6 sollen/dy/created.txt
+    3 sollen/dy/succeeded.txt
+    3 sollen/dy/reach.txt
+    3 sollen/dy/manage.txt
+    3 sollen/dy/managed.txt

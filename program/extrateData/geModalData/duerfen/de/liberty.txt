@@ -1,0 +1,15 @@
+- Das darf ich nicht sagen .	2	de
+- I 'm not at liberty to say .	5
+
+Ich fürchte , dass ist Alles was ich dazu sagen darf .	10	de
+I 'm afraid that 's all I 'm at liberty to say .	9
+
+Ich darf nichts sagen .	1	de
+I 'm not at liberty to say .	4
+
+Weißt du , das tut mir leid , aber das darf ich dir nicht sagen .	10	de
+Well , I 'm not at liberty to say exactly .	6
+
+Ich darf keine Details meiner Ermittlung mit ihnen besprechen .	1	de
+I 'm not at liberty to discuss the details of my investigation with you .	4
+

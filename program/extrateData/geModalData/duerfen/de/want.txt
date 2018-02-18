@@ -1,0 +1,198 @@
+Ich darf wirklich mit deiner Familie essen ?	1	de
+You really want me to sit down with your family ?	2
+
+Darf man nicht wissen , worum es geht ?	0	de
+You don 't want to say what this is about , maybe ?	3
+
+Ich darf sie nicht verlieren . Ich vermisse ihre Finger .	1	de
+Oh , well , he 'll want to see me .	6
+
+Warum darf ich nicht mit ?	1	de
+- I want to come ...	2
+
+lch weiß . Deshalb darf ihnen nichts passieren .	4	de
+That 's why I don 't want them touched .	6
+
+Über diesen Vorfall darf kein Wort nach außen dringen .	3	de
+Men , I don 't want a word to leak out about this incredible incident .	5
+
+Man darf dich nicht erwischen .	1	de
+I don 't want you to get caught .	3
+
+Chloe darf nicht abgelenkt werden .	1	de
+I do not want Chloe distracted .	3
+
+Spielst du mit ? - Ich darf nicht .	6	de
+- Do you want to play with us ?	3
+
+Darf ich vorstellen ...	0	de
+I want you to meet ...	1
+
+( Sam ) Phil , darf ich dir Miss ... ( Phil ) Harding , ja .	5	de
+SAM : I want you to meet Miss ... PHlL :	3
+
+- Was für ein Gemälde darf es sein ?	5	de
+This portrait you want , Monsieur ...	3
+
+Du dröhnst dich halt gerne zu und schmeißt Pilze in Vegas ein . - lch schmiss keine Pilze ein . - lch darf nichts sagen .	22	de
+And you can be there when the baby is born , and in the baby 's life as much as you want .	21
+
+Darf ich vorstellen : Hauptmann Nolan , Hauptmann Williams .	0	de
+I want you to meet my friends , Captain Nolan and Captain Williams .	1
+
+Mich darf keiner berühren , außer beim Sex .	1	de
+I don 't want anyone touching me unless we have sex .	3
+
+Ich darf mich also nur als grosszügig erweisen , wenn Sie einverstanden sind ?	1	de
+You only want me to be generous to those you approve of .	2
+
+Mechanisches Versagen darf es nicht geben . "	2	de
+If it 's mechanical failure , I want to stop it . "	7
+
+Darf ich Sie mit meiner Tochter bekannt machen .	0	de
+I want you to meet my daughter .	1
+
+Man darf hier keine Spuren finden .	1	de
+I want this place spotless .	1
+
+Mein Baby darf nicht tot sein !	2	de
+I don 't want my baby to be dead !	3
+
+Er darf hier nicht lebend raus .	1	de
+I don 't want him leaving here alive .	3
+
+Ich darf alle bitten , sich zu benehmen .	1	de
+Now , I want everyone to behave himself .	3
+
+Ich muss oder darf ?	3	de
+Need or want ?	2
+
+Aber Osiris darf nicht auf uns aufmerksam werden .	2	de
+But we don 't want to do anything to alert Osiris .	4
+
+FehIer , von denen keiner wissen darf .	6	de
+Mistakes we don 't want the world to know about .	4
+
+Ich darf nicht vergessen , warum ich hier bin .	1	de
+I don 't want to get confused about what I 'm doing here .	3
+
+Sehr geehrte Damen und Herren , hochverehrtes Publikum , ich darf Sie herzlich zu unserem Faschingsremmidemmi 1945 begrüßen .	10	de
+Ladies , Gentlemen and everyone else , I want to welcome you to our 1945 Carnivale Celebration .	8
+
+Warum darf ich den anderen nicht die Wahrheit sagen ?	1	de
+Why don 't you want me to tell anyone the truth ?	4
+
+Liebe Freunde und Nachbarn , darf ich euch meine Frau vorstellen ?	5	de
+Friends and neighbors ... I want you all to meet my wife .	5
+
+Louis , darf ich dir Jeff Marle vorstellen ?	2	de
+Louis , I want you to meet Jeff Marlo .	3
+
+Deine Mutter darf nichts davon erfahren .	2	de
+I don 't want your mother to know about it .	3
+
+( Klinger : ) Sehr geehrte Damen und Herren , hochverehrtes Publikum , ich darf Sie herzlich zu unserem Faschingsremmidemmi 1945 begr\ufffd\ufffden .	14	de
+Ladies and Gentelmen and everybody else who don 't fall in that Category , I want to welcome you to our 1945 Carnival Celebration .	15
+
+Darf ich Ihnen helfen ?	0	de
+You want some help ?	1
+
+Niemand darf das Hauptquartier ohne meine Genehmigung betreten oder verlassen .	1	de
+I don 't want anyone to enter or leave these headquarters without a pass issued by me .	3
+
+lch darf nie sterben !	1	de
+I don\u2019 t want to die at all !	3
+
+Frank , darf ich dir Mike Sobota vorstellen ?	2	de
+Frank , I want you to meet Mike Sobota .	3
+
+Es darf ihnen nichts passieren .	1	de
+- I want to know he 's safe .	2
+
+- Phil , darf ich dir Miss ...	3	de
+- Phil , I want you to meet Miss ...	4
+
+Darf ich dir Eddie Turnbill vorstellen ?	0	de
+I want you to meet Eddie Turnbill .	1
+
+Darf ich jemanden vorstellen ?	0	de
+I want to introduce somebody .	1
+
+Sie darf nicht umgebracht werden .	1	de
+I don 't want her to die .	3
+
+John Anderton darf keinen Schaden nehmen .	2	de
+I don 't want John Anderton hurt .	3
+
+Brand , wenn er Asthma hat , darf er nicht in den Regen .	7	de
+Brand , if he has asthma , I don 't want him in the rain .	10
+
+Darf er das auch nicht mehr ?	0	de
+D 'you want to take that away from him too ?	2
+
+( Klinger : ) Sehr geehrte Damen und Herren , hochverehrtes Publikum , ich darf Sie herzlich zu unserem Faschingsremmidemmi 1945 begrüßen .	14	de
+Ladies and Gentelmen and everybody else who don 't fall in that Category , I want to welcome you to our 1945 Carnival Celebration .	15
+
+Erstens darf ich nicht nach Pa Verbeek fragen , und zweitens darf ich nicht lachen , weil du den anderen Kahlkopf vögelst ?	1	de
+First , you want me to stop asking questions about Pa Verbeek . Second , you don 't want me to joke about you fucking that other baldy .	3
+
+Das darf nur auf Anordnung der Königsmutter selbst gesehen .	1	de
+I want the Queen Mother 's seal . The order must come from the Queen Mother .	1
+
+Deshalb darf ich nicht sterben und will Gitarre lernen wie du .	1	de
+That 's why I don 't want to die and want to learn to play the guitar like you .	6
+
+Es darf euch nichts passieren .	1	de
+I wouldn 't want anything in the world to happen to you .	3
+
+Mein Vater darf davon nichts wissen .	2	de
+But it 's a secret . I don 't want my father to hear .	9
+
+Darf ich Sie um etwas bitten ?	0	de
+I want to ask you a favour .	1
+
+Darf ich vorstellen ? Dennis Phillips .	0	de
+I want you to meet Dennis Phillips .	1
+
+Er darf früh aufstehen .	1	de
+I just didn 't want the guys to think ...	4
+
+Darf ich vorstellen --	0	de
+I want you to meet --	1
+
+Aber zusehen darfst du .	2	de
+Unless ... you want to spot me .	3
+
+Darf ich vorstellen --	0	de
+I want you to meet ...	1
+
+Darf ich Ihnen schon gratulieren ? Das war eine fabelhafte Serie .	0	de
+I want to be the first to congratulate you on what I think will be the winning score .	1
+
+Darf ich meine Hand wiederhaben ?	0	de
+You want to let my hand go ?	1
+
+Darf ich vorstellen : Captain Torrey .	0	de
+I want you to meet Captain Torrey .	1
+
+Nichts darf dich von deinem neuen Auftrag ablenken .	1	de
+I n 't want you distracted from this new job .	3
+
+Man sieht nur , was man sehen darf .	7	de
+Left only what they want others to see .	4
+
+Wir müssen reden , darf ich vorbeikommen ?	4	de
+I 'm sorry ! I want to see you .	5
+
+Baumbart hat gesagt , du darfst nicht davon trinken !	5	de
+- I want some !	2
+
+- Keiner darf verletzt werden .	2	de
+- I don 't want you hurting them .	4
+
+Darf ich Ihnen etwas zeigen ?	0	de
+I want to show you something .	1
+
+Darf ich Sie an einen Kollegen verweisen ? Tja ...	0	de
+Why want in order to I ...	1
+
